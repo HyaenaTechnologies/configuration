@@ -1,0 +1,26 @@
+# Repositories
+
+- https://github.com/AbdhilahiRWabwire/bitwarden
+- https://github.com/AbdhilahiRWabwire/duckduckgo
+- https://github.com/AbdhilahiRWabwire/element_x
+- https://github.com/AbdhilahiRWabwire/firefox
+- https://github.com/AbdhilahiRWabwire/flipper
+- https://github.com/AbdhilahiRWabwire/home_assistant
+- https://github.com/AbdhilahiRWabwire/kickstarter
+- https://github.com/AbdhilahiRWabwire/mastodon
+- https://github.com/AbdhilahiRWabwire/mega
+- https://github.com/AbdhilahiRWabwire/nextcloud
+- https://github.com/AbdhilahiRWabwire/nextcloud_news
+- https://github.com/AbdhilahiRWabwire/nextcloud_notes
+- https://github.com/AbdhilahiRWabwire/nextcloud_talk
+- https://github.com/AbdhilahiRWabwire/openhab
+- https://github.com/AbdhilahiRWabwire/owncloud
+- https://github.com/AbdhilahiRWabwire/pocket_casts
+- https://github.com/AbdhilahiRWabwire/reference_browser
+- https://github.com/AbdhilahiRWabwire/signal
+- https://github.com/AbdhilahiRWabwire/telegram_x
+- https://github.com/AbdhilahiRWabwire/thunderbird
+- https://github.com/AbdhilahiRWabwire/wikimedia_commons
+- https://github.com/AbdhilahiRWabwire/wikipedia
+- https://github.com/AbdhilahiRWabwire/wire
+- https://github.com/AbdhilahiRWabwire/wordpress

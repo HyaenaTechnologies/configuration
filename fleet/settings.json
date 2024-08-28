@@ -1,0 +1,90 @@
+{
+    "editor.alwaysShowHorizontalScrollbar": true,
+    "editor.formatOnSave": true,
+    "editor.showFloatingDebugPanel": true,
+    "editor.softWrapEnabled": true,
+    "fus.sendAllowed": false,
+    "plugins": [
+        {
+            "type": "remove",
+            "pluginName": "fleet.ai"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.aiCompletion"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.aiCompletion.java"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.aiCompletion.python"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.emmet"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.go.ai"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.grazie"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.grazie.json"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.grazie.kotlin"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.grazie.markdown"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.grazie.yaml"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.java.ai"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.javascript.ai"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.kotlin.ai"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.python.ai"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.rust.ai"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.spring.boot"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.svelte"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.tailwindcss"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.vue"
+        }
+    ],
+    "showShortcuts": true
+}

@@ -1,0 +1,33 @@
+name: Maven
+
+on:
+  push:
+    branches: [ "main" ]
+    
+  pull_request:
+    branches: [ "main" ]
+    
+  schedule:
+  - cron: "30 03 * * 1-5"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+    - name: Checkout Repository
+      uses: actions/checkout@v4.1.7
+      
+    - name: set up JDK
+      uses: actions/setup-java@v4.2.2
+      with:
+        java-version: '17'
+        distribution: 'microsoft'
+        cache: maven
+        cache-dependency-path: 'sub-project/**/pom.xml' # optional
+    
+    - name: Set up Dependency Submission
+      uses: advanced-security/maven-dependency-submission-action@v4.1.1
+
+    - name: Build Package
+      run: mvn -B package --file pom.xml
