@@ -1,5 +1,6 @@
 {
     "editor.alwaysShowHorizontalScrollbar": true,
+    "editor.caretSmoothAnimation": true,
     "editor.formatOnSave": true,
     "editor.showFloatingDebugPanel": true,
     "editor.softWrapEnabled": true,
@@ -80,6 +81,10 @@
         {
             "type": "remove",
             "pluginName": "fleet.tailwindcss"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.testspark"
         },
         {
             "type": "remove",
