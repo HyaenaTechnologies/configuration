@@ -66,6 +66,7 @@
 - https://github.com/harness
 - https://github.com/kubernetes-sigs
 - https://github.com/GoogleContainerTools
+- https://github.com/lapce
 - https://github.com/actions
 - https://github.com/open-telemetry
 - https://github.com/blender
@@ -79,4 +80,3 @@
 - https://github.com/advanced-security
 - https://github.com/authzed
 - https://github.com/distribution
-- https://github.com/devcontainers
