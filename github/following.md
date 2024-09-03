@@ -7,6 +7,7 @@
 - https://github.com/cplusplus
 - https://github.com/yaml
 - https://github.com/gradle
+- https://github.com/mozilla
 - https://github.com/duckduckgo
 - https://github.com/arduino
 - https://github.com/w3c
@@ -55,7 +56,6 @@
 - https://github.com/github-linguist
 - https://github.com/git-lfs
 - https://github.com/Dart-Code
-- https://github.com/mozilla-mobile
 - https://github.com/ory
 - https://github.com/moby
 - https://github.com/dependabot
