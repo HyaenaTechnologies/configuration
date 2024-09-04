@@ -17,9 +17,7 @@
 - https://github.com/KhronosGroup/Vulkan-Loader
 - https://github.com/google/json_serializable.dart
 - https://github.com/google/vector_math.dart
-- https://github.com/google/dart-neats
 - https://github.com/google/file.dart
-- https://github.com/google/sync_http.dart
 - https://github.com/google/quiver-dart
 - https://github.com/google/protobuf.dart
 - https://github.com/google/ansicolor-dart
