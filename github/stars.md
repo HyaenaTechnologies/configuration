@@ -5,6 +5,11 @@
 - https://github.com/ziglang/zig
 - https://github.com/dart-lang/sdk
 - https://github.com/JetBrains/kotlin
+- https://github.com/dart-lang/boolean_selector
+- https://github.com/dart-lang/matcher
+- https://github.com/dart-lang/native_synchronization
+- https://github.com/dart-lang/platform
+- https://github.com/dart-lang/build
 - https://github.com/microsoft/WindowsAppSDK
 - https://github.com/KhronosGroup/Vulkan-Tools
 - https://github.com/KhronosGroup/Vulkan-Hpp
@@ -36,7 +41,6 @@
 - https://github.com/dart-lang/convert
 - https://github.com/dart-lang/http2
 - https://github.com/dart-lang/io
-- https://github.com/dart-lang/oauth2
 - https://github.com/dart-lang/markdown
 - https://github.com/dart-lang/os_detect
 - https://github.com/dart-lang/json_rpc_2
