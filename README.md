@@ -1,6 +1,6 @@
 [Android]: https://developer.android.com/studio
 [Arduino]: https://arduino.cc/en/software
-[C Language]: https://isocpp.org/
+[C Language]: https://learn.microsoft.com/en-us/cpp/c-language
 [Dart Language]: https://dart.dev/
 [Fleet]: https://jetbrains.com/fleet/
 [Git Repositories]: https://git-scm.com/doc
