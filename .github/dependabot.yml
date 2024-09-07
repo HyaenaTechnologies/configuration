@@ -2,7 +2,7 @@ updates:
   - package-ecosystem: "github-actions"
     commit-message:
       prefix: "Actions"
-    directory: "/github/workflows" 
+    directory: "/" 
     schedule:
       day: "saturday"
       interval: "weekly"
