@@ -5,7 +5,7 @@
 - https://github.com/ziglang/zig
 - https://github.com/dart-lang/sdk
 - https://github.com/JetBrains/kotlin
-- https://github.com/dart-lang/boolean_selector
+- https://github.com/dart-lang/tools
 - https://github.com/dart-lang/matcher
 - https://github.com/dart-lang/native_synchronization
 - https://github.com/dart-lang/platform
