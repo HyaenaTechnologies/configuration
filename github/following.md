@@ -12,7 +12,6 @@
 - https://github.com/arduino
 - https://github.com/w3c
 - https://github.com/minio
-- https://github.com/hashicorp
 - https://github.com/JetBrains
 - https://github.com/torvalds
 - https://github.com/arduino-libraries
@@ -24,7 +23,6 @@
 - https://github.com/GNOME
 - https://github.com/Debian
 - https://github.com/whatwg
-- https://github.com/coreos
 - https://github.com/openstax
 - https://github.com/ubuntu
 - https://github.com/docker
@@ -45,11 +43,11 @@
 - https://github.com/brave
 - https://github.com/opencontainers
 - https://github.com/desktop
-- https://github.com/kubernetes
 - https://github.com/unicode-org
 - https://github.com/containerd
 - https://github.com/KDE
 - https://github.com/itchio
+- https://github.com/thunderbird
 - https://github.com/llvm
 - https://github.com/material-components
 - https://github.com/material-foundation
@@ -64,7 +62,6 @@
 - https://github.com/notaryproject
 - https://github.com/android
 - https://github.com/harness
-- https://github.com/kubernetes-sigs
 - https://github.com/GoogleContainerTools
 - https://github.com/lapce
 - https://github.com/actions
@@ -80,3 +77,4 @@
 - https://github.com/advanced-security
 - https://github.com/authzed
 - https://github.com/distribution
+- https://github.com/devcontainers

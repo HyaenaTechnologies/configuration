@@ -21,6 +21,8 @@
 - https://m3.material.io/components
 - https://jetbrains.com/help/
 - https://code.visualstudio.com/docs
+- https://docs.helix-editor.com/
+- https://docs.lapce.dev/
 - https://arduino.cc/reference/en/
 - https://raspberrypi.com/documentation/
 - https://landscape.cncf.io/
