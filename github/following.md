@@ -42,6 +42,7 @@
 - https://github.com/WebAssembly
 - https://github.com/brave
 - https://github.com/opencontainers
+- https://github.com/go-gitea
 - https://github.com/desktop
 - https://github.com/unicode-org
 - https://github.com/containerd
@@ -62,7 +63,6 @@
 - https://github.com/notaryproject
 - https://github.com/android
 - https://github.com/harness
-- https://github.com/GoogleContainerTools
 - https://github.com/lapce
 - https://github.com/actions
 - https://github.com/open-telemetry
