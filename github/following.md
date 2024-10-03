@@ -22,7 +22,6 @@
 - https://github.com/GNOME
 - https://github.com/Debian
 - https://github.com/whatwg
-- https://github.com/prometheus
 - https://github.com/openstax
 - https://github.com/ubuntu
 - https://github.com/docker
@@ -64,7 +63,9 @@
 - https://github.com/notaryproject
 - https://github.com/android
 - https://github.com/harness
+- https://github.com/etcd-io
 - https://github.com/lapce
+- https://github.com/VictoriaMetrics
 - https://github.com/actions
 - https://github.com/open-telemetry
 - https://github.com/blender
@@ -79,4 +80,3 @@
 - https://github.com/authzed
 - https://github.com/distribution
 - https://github.com/GreptimeTeam
-- https://github.com/valkey-io
