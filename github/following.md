@@ -54,7 +54,6 @@
 - https://github.com/github-linguist
 - https://github.com/git-lfs
 - https://github.com/Dart-Code
-- https://github.com/ory
 - https://github.com/juicedata
 - https://github.com/moby
 - https://github.com/dependabot
@@ -75,7 +74,6 @@
 - https://github.com/carbon-language
 - https://github.com/zigtools
 - https://github.com/helix-editor
-- https://github.com/zitadel
 - https://github.com/advanced-security
 - https://github.com/authzed
 - https://github.com/distribution
