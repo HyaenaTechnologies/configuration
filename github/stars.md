@@ -5,9 +5,12 @@
 - https://github.com/ziglang/zig
 - https://github.com/dart-lang/sdk
 - https://github.com/JetBrains/kotlin
+- https://github.com/dart-lang/html
+- https://github.com/dart-lang/macros
+- https://github.com/dart-lang/dart_style
+- https://github.com/google/webdriver.dart
 - https://github.com/dart-lang/tools
 - https://github.com/dart-lang/matcher
-- https://github.com/dart-lang/native_synchronization
 - https://github.com/dart-lang/platform
 - https://github.com/dart-lang/build
 - https://github.com/microsoft/WindowsAppSDK
@@ -17,12 +20,8 @@
 - https://github.com/KhronosGroup/Vulkan-Loader
 - https://github.com/google/json_serializable.dart
 - https://github.com/google/vector_math.dart
-- https://github.com/google/file.dart
-- https://github.com/google/quiver-dart
 - https://github.com/google/protobuf.dart
-- https://github.com/google/ansicolor-dart
 - https://github.com/google/webcrypto.dart
-- https://github.com/dart-lang/mime
 - https://github.com/dart-lang/logging
 - https://github.com/dart-lang/args
 - https://github.com/dart-lang/csslib
@@ -50,7 +49,6 @@
 - https://github.com/dart-lang/test_descriptor
 - https://github.com/dart-lang/stream_channel
 - https://github.com/dart-lang/watcher
-- https://github.com/dart-lang/typed_data
 - https://github.com/dart-lang/term_glyph
 - https://github.com/dart-lang/yaml
 - https://github.com/dart-lang/string_scanner
@@ -74,9 +72,7 @@
 - https://github.com/JetBrains/kotlin-wrappers
 - https://github.com/JetBrains/JetBrainsRuntime
 - https://github.com/android/android-test
-- https://github.com/androidx/constraintlayout
 - https://github.com/androidx/media
-- https://github.com/JetBrains/markdown
 - https://github.com/Kotlin/kotlinx-atomicfu
 - https://github.com/Kotlin/kotlinx.collections.immutable
 - https://github.com/Kotlin/dokka
