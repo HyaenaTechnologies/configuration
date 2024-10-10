@@ -16,3 +16,5 @@ export PATH=$PATH:~/Android/Sdk/cmdline-tools/16.0/bin
 export PATH=$PATH:~/Android/Sdk/ndk/27.1.12297006
 export PATH=$PATH:~/Android/Sdk/platform-tools
 export PATH=$PATH:~/android-studio/jbr/bin
+export PATH=$PATH:~/VSCode
+export PATH=$PATH:~/VSCode/bin
