@@ -10,7 +10,7 @@
 
 # Configuration
 
-Open Source Development Environment Configuration
+Development Environment Configuration
 
 ## Development Environment
 
