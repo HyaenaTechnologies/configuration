@@ -8,9 +8,9 @@
 [VSCode]: https://code.visualstudio.com/docs
 [Zig Language]: https://ziglang.org/
 
-# Development Engine
+# Configuration
 
-Development Engine is Open Source Development Environment Configuration
+Open Source Development Environment Configuration
 
 ## Development Environment
 
