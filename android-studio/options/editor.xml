@@ -14,13 +14,19 @@
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
+        <entry key="HTML" value="true" />
         <entry key="JAVA" value="true" />
+        <entry key="JSON" value="true" />
         <entry key="Markdown" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
         <entry key="kotlin" value="true" />
+        <entry key="yaml" value="true" />
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
+    <option name="IS_DND_ENABLED" value="false" />
   </component>
 </application>
