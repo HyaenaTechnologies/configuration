@@ -1,8 +1,8 @@
 # Stars
 
-- https://github.com/carbon-language/carbon-lang
 - https://github.com/c3lang/c3c
 - https://github.com/ziglang/zig
+- https://github.com/carbon-language/carbon-lang
 - https://github.com/dart-lang/sdk
 - https://github.com/JetBrains/kotlin
 - https://github.com/dart-lang/html
@@ -13,11 +13,6 @@
 - https://github.com/dart-lang/matcher
 - https://github.com/dart-lang/platform
 - https://github.com/dart-lang/build
-- https://github.com/microsoft/WindowsAppSDK
-- https://github.com/KhronosGroup/Vulkan-Tools
-- https://github.com/KhronosGroup/Vulkan-Hpp
-- https://github.com/KhronosGroup/Vulkan-Headers
-- https://github.com/KhronosGroup/Vulkan-Loader
 - https://github.com/google/json_serializable.dart
 - https://github.com/google/vector_math.dart
 - https://github.com/google/protobuf.dart
@@ -67,6 +62,11 @@
 - https://github.com/dart-lang/test
 - https://github.com/dart-lang/lints
 - https://github.com/dart-lang/http
+- https://github.com/microsoft/WindowsAppSDK
+- https://github.com/KhronosGroup/Vulkan-Tools
+- https://github.com/KhronosGroup/Vulkan-Hpp
+- https://github.com/KhronosGroup/Vulkan-Headers
+- https://github.com/KhronosGroup/Vulkan-Loader
 - https://github.com/zigtools/zls
 - https://github.com/ziglang/zig-bootstrap
 - https://github.com/JetBrains/kotlin-wrappers
