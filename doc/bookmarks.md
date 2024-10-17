@@ -3,11 +3,11 @@
 - https://learn.microsoft.com/en-us/cpp/c-language
 - https://learn.microsoft.com/en-us/cpp/cpp
 - https://clang.llvm.org/docs/index.html
+- https://api.dart.dev/
+- https://pub.dev/
 - https://kotlinlang.org/docs/home.html
 - https://docs.gradle.org/current/userguide/userguide.html
 - https://maven.apache.org/index.html
-- https://www.rust-lang.org/learn
-- https://crates.io/
 - https://ziglang.org/learn/
 - https://developer.mozilla.org/en-US/docs/Web/HTTP
 - https://git-scm.com/doc

@@ -1,9 +1,11 @@
 SerialPortMonitor
 com.jetbrains.webstorm.web-assembly-plugin
 com.intellij.commander
+Dart
 idea.plugin.protoeditor
 name.kropp.intellij.makefile
 Docker
 com.jetbrains.packagesearch.intellij-plugin
 com.jetbrains.kmm
 org.jetbrains.compose.desktop.ide
+io.flutter

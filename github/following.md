@@ -7,7 +7,6 @@
 - https://github.com/cplusplus
 - https://github.com/yaml
 - https://github.com/gradle
-- https://github.com/mozilla
 - https://github.com/duckduckgo
 - https://github.com/arduino
 - https://github.com/w3c
@@ -19,13 +18,13 @@
 - https://github.com/google
 - https://github.com/Kotlin
 - https://github.com/KhronosGroup
+- https://github.com/dart-lang
 - https://github.com/GNOME
 - https://github.com/Debian
 - https://github.com/whatwg
 - https://github.com/openstax
 - https://github.com/ubuntu
 - https://github.com/docker
-- https://github.com/rust-lang
 - https://github.com/containers
 - https://github.com/microsoft
 - https://github.com/androidx
@@ -54,7 +53,7 @@
 - https://github.com/material-foundation
 - https://github.com/github-linguist
 - https://github.com/git-lfs
-- https://github.com/mozilla-mobile
+- https://github.com/Dart-Code
 - https://github.com/juicedata
 - https://github.com/moby
 - https://github.com/dependabot
@@ -63,7 +62,6 @@
 - https://github.com/notaryproject
 - https://github.com/android
 - https://github.com/harness
-- https://github.com/rustwasm
 - https://github.com/etcd-io
 - https://github.com/lapce
 - https://github.com/VictoriaMetrics
