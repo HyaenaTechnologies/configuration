@@ -1,15 +1,5 @@
 {
 	"cmake.cmakePath": "/usr/bin/cmake",
-	"[dart]": {
-		"editor.formatOnSave": true,
-		"editor.formatOnType": true,
-		"editor.rulers": [80],
-		"editor.selectionHighlight": false,
-		"editor.suggestSelection": "first",
-		"editor.tabCompletion": "onlySnippets",
-		"editor.wordBasedSuggestions": "off"
-	},
-	"dart.sdkPath": "/usr/bin/dart-sdk",
 	"debug.internalConsoleOptions": "openOnSessionStart",
 	"debug.openDebug": "openOnDebugBreak",
 	"diffEditor.experimental.showMoves": true,
@@ -29,6 +19,7 @@
 	"githubPullRequests.notifications": "pullRequests",
 	"githubPullRequests.showPullRequestNumberInTree": true,
 	"makefile.makePath": "/usr/bin",
+	"rust-analyzer.server.path": "/usr/bin/rust/rust-analyzer-preview/bin",
 	"security.workspace.trust.startupPrompt": "always",
 	"telemetry.telemetryLevel": "off",
 	"zig.formattingProvider": "off",

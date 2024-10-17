@@ -7,10 +7,10 @@
         },
         {
             "args": [
-                "compile"
+                "build"
             ],
-            "name": "Dart Compile",
-            "program": "/usr/bin/dart-sdk/bin/dart",
+            "name": "Cargo Build",
+            "program": "/usr/bin/rust/cargo/bin/cargo",
             "type": "command"
         },
         {

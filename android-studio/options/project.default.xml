@@ -1,16 +1,16 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "preferences.updates"
   }
-}</component>
+}]]></component>
       <component name="WindowStateProjectService">
-        <state x="555" y="244" width="800" height="637" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1726838776143">
+        <state x="555" y="244" width="800" height="637" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1729041481396">
           <screen x="0" y="32" width="1920" height="1048" />
         </state>
-        <state x="555" y="244" width="800" height="637" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.32.1920.1048" timestamp="1726838776143" />
+        <state x="555" y="244" width="800" height="637" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.32.1920.1048" timestamp="1729041481396" />
         <state x="464" y="191" width="992" height="737" key="SettingsEditor" timestamp="1728714327496">
           <screen x="0" y="32" width="1920" height="1048" />
         </state>
