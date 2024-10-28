@@ -19,31 +19,19 @@ jobs:
       uses: actions/checkout@v4.2.2
 
     - name: Update
-      run: sudo apt update
+      run: sudo apt update && sudo apt -y full-upgrade
 
     - name: Install HTTPS
       run: sudo apt -y install apt-transport-https
 
     - name: WGET
-      run: wget -qO- https://dl-ssl.google.com/linux/linux_signing_key.pub
-
-    - name: GPG
-      run: sudo gpg --dearmor -o /usr/share/keyrings/dart.gpg
+      run: wget -qO- https://dl-ssl.google.com/linux/linux_signing_key.pub \ | sudo gpg  --dearmor -o /usr/share/keyrings/dart.gpg
 
     - name: Echo
-      run: echo 'deb [signed-by=/usr/share/keyrings/dart.gpg arch=amd64] https://storage.googleapis.com/download.dartlang.org/linux/debian stable main'
-
-    - name: TEE
-      run: sudo tee /etc/apt/sources.list.d/dart_stable.list
-
-    - name: Update
-      run: sudo apt update
+      run: echo 'deb [signed-by=/usr/share/keyrings/dart.gpg arch=amd64] https://storage.googleapis.com/download.dartlang.org/linux/debian stable main' \ | sudo tee /etc/apt/sources.list.d/dart_stable.list
 
     - name: Install Dart
-      run: sudo apt -y install dart
-
-    - name: Export PATH
-      run: echo 'export PATH="$PATH:/usr/lib/dart/bin"' >> ~/.profile
+      run: sudo apt update && sudo apt -y install dart
       
     - name: Analyze Package
       run: dart analyze lib

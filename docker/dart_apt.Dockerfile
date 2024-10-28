@@ -1,18 +1,14 @@
-FROM amd64/ubuntu:latest
+FROM amd64/debian:latest
 
 WORKDIR /dart_application
 
 COPY ./ ./
 
-RUN apt update
+RUN apt update && apt -y full-upgrade 
 RUN apt -y install apt-transport-https
-RUN wget -qO- https://dl-ssl.google.com/linux/linux_signing_key.pub
-RUN gpg --dearmor -o /usr/share/keyrings/dart.gpg
-RUN echo 'deb [signed-by=/usr/share/keyrings/dart.gpg arch=amd64] https://storage.googleapis.com/download.dartlang.org/linux/debian stable main'
-RUN tee /etc/apt/sources.list.d/dart_stable.list
-RUN apt update
-RUN apt -y install dart
-RUN echo 'export PATH="$PATH:/usr/lib/dart/bin"' >> ~/.profile
+RUN wget -qO- https://dl-ssl.google.com/linux/linux_signing_key.pub \ | gpg  --dearmor -o /usr/share/keyrings/dart.gpg
+RUN echo 'deb [signed-by=/usr/share/keyrings/dart.gpg arch=amd64] https://storage.googleapis.com/download.dartlang.org/linux/debian stable main' \ | tee /etc/apt/sources.list.d/dart_stable.list
+RUN apt update && apt -y install dart
 RUN dart analyze lib
 RUN dart doc .
 RUN dart info
