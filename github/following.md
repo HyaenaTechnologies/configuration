@@ -1,12 +1,10 @@
 # Following
- 
+
 - https://github.com/github
 - https://github.com/git
 - https://github.com/chromium
-- https://github.com/apache
 - https://github.com/cplusplus
 - https://github.com/yaml
-- https://github.com/gradle
 - https://github.com/duckduckgo
 - https://github.com/arduino
 - https://github.com/w3c
@@ -16,7 +14,6 @@
 - https://github.com/arduino-libraries
 - https://github.com/raspberrypi
 - https://github.com/google
-- https://github.com/Kotlin
 - https://github.com/KhronosGroup
 - https://github.com/dart-lang
 - https://github.com/GNOME
@@ -35,6 +32,7 @@
 - https://github.com/semver
 - https://github.com/rpm-software-management
 - https://github.com/commonmark
+- https://github.com/apple
 - https://github.com/riscv
 - https://github.com/surrealdb
 - https://github.com/redhat-developer
@@ -44,6 +42,7 @@
 - https://github.com/go-gitea
 - https://github.com/desktop
 - https://github.com/unicode-org
+- https://github.com/dgraph-io
 - https://github.com/containerd
 - https://github.com/KDE
 - https://github.com/itchio
@@ -58,11 +57,11 @@
 - https://github.com/moby
 - https://github.com/dependabot
 - https://github.com/ziglang
-- https://github.com/ktorio
 - https://github.com/notaryproject
 - https://github.com/android
 - https://github.com/harness
 - https://github.com/etcd-io
+- https://github.com/swiftlang
 - https://github.com/lapce
 - https://github.com/VictoriaMetrics
 - https://github.com/actions
@@ -71,6 +70,7 @@
 - https://github.com/canonical
 - https://github.com/c3lang
 - https://github.com/cli
+- https://github.com/SwiftPackageIndex
 - https://github.com/carbon-language
 - https://github.com/zigtools
 - https://github.com/helix-editor

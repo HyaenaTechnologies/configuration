@@ -5,9 +5,8 @@
 - https://clang.llvm.org/docs/index.html
 - https://api.dart.dev/
 - https://pub.dev/
-- https://kotlinlang.org/docs/home.html
-- https://docs.gradle.org/current/userguide/userguide.html
-- https://maven.apache.org/index.html
+- https://www.swift.org/documentation/
+- https://swiftpackageindex.com/
 - https://ziglang.org/learn/
 - https://developer.mozilla.org/en-US/docs/Web/HTTP
 - https://git-scm.com/doc
@@ -16,7 +15,8 @@
 - https://docs.kernel.org/
 - https://learn.microsoft.com/en-us/windows/apps/desktop/
 - https://developer.android.com/reference
-- https://maven.google.com/
+- https://maven.google.com/web/index.html
+- https://developer.apple.com/develop/
 - https://www.vulkan.org/learn
 - https://m3.material.io/components
 - https://jetbrains.com/help/
@@ -26,5 +26,5 @@
 - https://arduino.cc/reference/en/
 - https://raspberrypi.com/documentation/
 - https://landscape.cncf.io/
-- https://openstax.org/subjects/view-all
+- https://openstax.org/subjects
 - https://mathsolver.microsoft.com/en

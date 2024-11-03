@@ -51,7 +51,7 @@ jobs:
     - name: Run Package
       run: dart run lib/main.dart
       
-    - name: Run Test
+    - name: Run Tests
       run: dart test
       
     - name: Compile Package

@@ -30,6 +30,7 @@
 	"githubPullRequests.showPullRequestNumberInTree": true,
 	"makefile.makePath": "/usr/bin",
 	"security.workspace.trust.startupPrompt": "always",
+	"swift.path": "/usr/bin/swift/usr/bin",
 	"telemetry.telemetryLevel": "off",
 	"zig.formattingProvider": "off",
 	"zig.initialSetupDone": true,

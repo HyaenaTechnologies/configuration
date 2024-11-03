@@ -16,19 +16,19 @@ updates:
       day: "saturday"
       interval: "weekly"
       time: "03:00"
-  
-  - package-ecosystem: "maven"
+
+  - package-ecosystem: "pub"
     commit-message:
-      prefix: "Maven"
+      prefix: "Pub"
     directory: "/" 
     schedule:
       day: "saturday"
       interval: "weekly"
       time: "03:00"
 
-  - package-ecosystem: "pub"
+  - package-ecosystem: "swift"
     commit-message:
-      prefix: "Pub"
+      prefix: "Swift"
     directory: "/" 
     schedule:
       day: "saturday"

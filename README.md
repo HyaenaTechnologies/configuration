@@ -5,6 +5,7 @@
 [Fleet]: https://jetbrains.com/fleet/
 [Git Repositories]: https://git-scm.com/doc
 [Kotlin Language]: https://kotlinlang.org/
+[Swift Language]: https://www.swift.org/
 [VSCode]: https://code.visualstudio.com/docs
 [Zig Language]: https://ziglang.org/
 
@@ -16,7 +17,7 @@ Development Environment Configuration
 
 - **_Integrated Development Environments:_** [Android Studio][Android], [Arduino IDE][Arduino], [JetBrains Fleet][Fleet], [Visual Studio Code][VSCode]
 
-- **_Languages:_** [C][C Language], [Dart][Dart Language], [Kotlin][Kotlin Language], [Zig][Zig Language]
+- **_Languages:_** [C][C Language], [Dart][Dart Language], [Kotlin][Kotlin Language], [Swift][Swift Language], [Zig][Zig Language]
 
 - **_Version Control:_** [Git][Git Repositories]
 
