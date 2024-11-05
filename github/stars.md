@@ -2,9 +2,19 @@
 
 - https://github.com/ziglang/zig
 - https://github.com/swiftlang/swift
-- https://github.com/c3lang/c3c
 - https://github.com/carbon-language/carbon-lang
+- https://github.com/c3lang/c3c
 - https://github.com/dart-lang/sdk
+- https://github.com/google/shaderc
+- https://github.com/KhronosGroup/Vulkan-Profiles
+- https://github.com/KhronosGroup/SPIRV-Reflect
+- https://github.com/KhronosGroup/SPIRV-Cross
+- https://github.com/KhronosGroup/Vulkan-ExtensionLayer
+- https://github.com/KhronosGroup/Vulkan-ValidationLayers
+- https://github.com/KhronosGroup/Vulkan-Utility-Libraries
+- https://github.com/KhronosGroup/glslang
+- https://github.com/KhronosGroup/SPIRV-Tools
+- https://github.com/KhronosGroup/SPIRV-Headers
 - https://github.com/apple/swift-nio-ssl
 - https://github.com/apple/swift-crypto
 - https://github.com/apple/swift-distributed-tracing-extras
