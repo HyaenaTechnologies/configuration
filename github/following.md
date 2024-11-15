@@ -25,6 +25,7 @@
 - https://github.com/docker
 - https://github.com/containers
 - https://github.com/microsoft
+- https://github.com/neovim
 - https://github.com/androidx
 - https://github.com/grafana
 - https://github.com/mdn
@@ -38,6 +39,7 @@
 - https://github.com/surrealdb
 - https://github.com/redhat-developer
 - https://github.com/WebAssembly
+- https://github.com/vim
 - https://github.com/brave
 - https://github.com/opencontainers
 - https://github.com/go-gitea
