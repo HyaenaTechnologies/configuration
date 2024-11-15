@@ -5,6 +5,8 @@
 - https://github.com/carbon-language/carbon-lang
 - https://github.com/c3lang/c3c
 - https://github.com/dart-lang/sdk
+- https://github.com/dart-lang/labs
+- https://github.com/dart-lang/core
 - https://github.com/google/shaderc
 - https://github.com/KhronosGroup/Vulkan-Profiles
 - https://github.com/KhronosGroup/SPIRV-Reflect
