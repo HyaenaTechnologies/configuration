@@ -18,9 +18,9 @@ Development Environment Configuration
 
 ## Development Environment
 
-- **_Integrated Development Environments:_** [Android Studio][Android], [Arduino IDE][Arduino]
-
 - **_Editors:_** [Helix][Helix Editor], [NeoVim][NeoVim Editor], [Vim][Vim Editor], [Lapce][Lapce Editor], [Visual Studio Code][VSCode]
+
+- **_Integrated Development Environments:_** [Android Studio][Android], [Arduino IDE][Arduino]
 
 - **_Languages:_** [C][C Language], [Dart][Dart Language], [Kotlin][Kotlin Language], [Swift][Swift Language], [Zig][Zig Language]
 
