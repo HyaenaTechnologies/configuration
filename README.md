@@ -2,10 +2,10 @@
 [Arduino]: https://arduino.cc/en/software
 [C Language]: https://learn.microsoft.com/en-us/cpp/c-language
 [Dart Language]: https://dart.dev/
-[Git Repositories]: https://git-scm.com/doc
+[Git Repositories]: https://git-scm.com
 [Helix Editor]: https://helix-editor.com/
 [Kotlin Language]: https://kotlinlang.org/
-[Lapce Editor]: https://docs.lapce.dev/
+[Lapce Editor]: https://lapce.dev/
 [Swift Language]: https://www.swift.org/
 [NeoVim Editor]: https://neovim.io/
 [Vim Editor]: https://www.vim.org/
