@@ -10,6 +10,7 @@ export PATH=$PATH:/usr/bin/nvim/bin
 export PATH=$PATH:/usr/bin/swift/usr/bin
 export PATH=$PATH:/usr/bin/zig
 export PATH=$PATH:/usr/include
+export PATH=$PATH:/usr/local/bin
 export PATH=$PATH:/usr/local/include
 export PATH=$PATH:~/Android/Sdk/build-tools/35.0.0
 export PATH=$PATH:~/Android/Sdk/cmdline-tools/16.0/bin
