@@ -2,11 +2,14 @@
 [Arduino]: https://arduino.cc/en/software
 [C Language]: https://learn.microsoft.com/en-us/cpp/c-language
 [Dart Language]: https://dart.dev/
-[Fleet]: https://jetbrains.com/fleet/
 [Git Repositories]: https://git-scm.com/doc
+[Helix Editor]: https://helix-editor.com/
 [Kotlin Language]: https://kotlinlang.org/
+[Lapce Editor]: https://docs.lapce.dev/
 [Swift Language]: https://www.swift.org/
-[VSCode]: https://code.visualstudio.com/docs
+[NeoVim Editor]: https://neovim.io/
+[Vim Editor]: https://www.vim.org/
+[VSCode]: https://code.visualstudio.com/
 [Zig Language]: https://ziglang.org/
 
 # Configuration
@@ -15,7 +18,9 @@ Development Environment Configuration
 
 ## Development Environment
 
-- **_Integrated Development Environments:_** [Android Studio][Android], [Arduino IDE][Arduino], [JetBrains Fleet][Fleet], [Visual Studio Code][VSCode]
+- **_Integrated Development Environments:_** [Android Studio][Android], [Arduino IDE][Arduino]
+
+- **_Editors:_** [Helix][Helix Editor], [NeoVim][NeoVim Editor], [Vim][Vim Editor], [Lapce][Lapce Editor], [Visual Studio Code][VSCode]
 
 - **_Languages:_** [C][C Language], [Dart][Dart Language], [Kotlin][Kotlin Language], [Swift][Swift Language], [Zig][Zig Language]
 
