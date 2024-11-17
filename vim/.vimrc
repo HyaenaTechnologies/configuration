@@ -29,7 +29,7 @@ set mouse=nvi
 set number
 
 " Runtime Path
-set runtimepath=/usr/bin/nvim/share/nvim/runtime
+set runtimepath=/usr/bin/nvim/share/nvim/runtime/*.vim
 
 " Shell Path
 set shell=/usr/bin/bash
@@ -54,9 +54,6 @@ set spellsuggest=best
 
 " Terminal Color
 set termguicolors
-
-" Terminal Synchronization
-set termsync
 
 " Show Window Title
 set title
