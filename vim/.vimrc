@@ -1,7 +1,19 @@
 " Background Theme
 set background=dark
 
-" Encoding
+" Enable File Backups
+set backup
+
+" Enable File Backup Copies
+set backupcopy=auto
+
+" Turn Off Bell
+set belloff=all
+
+" Show confirm-prompt
+set confirm
+
+" Enable Encoding
 set encoding=utf-8
 
 " Show Emojis
@@ -32,7 +44,10 @@ set number
 set runtimepath=/usr/bin/nvim/share/nvim/runtime/*.vim
 
 " Shell Path
-set shell=/usr/bin/bash
+set shell=/usr/bin/sh
+
+" Shell Path
+set shellcmdflag="-c"
 
 " Show Command Output
 set showcmd
@@ -52,14 +67,14 @@ set spell
 " Spelling Suggestion
 set spellsuggest=best
 
+" Spelling Check Suggestion Language
+set spelllang=en
+
 " Terminal Color
 set termguicolors
 
 " Show Window Title
 set title
-
-" Show Visual Bell
-set visualbell
 
 " Show Warnings
 set warn
