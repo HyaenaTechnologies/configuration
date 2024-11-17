@@ -1,7 +1,7 @@
 [editor]
+atomic-soft-tabs = true
+bracket-pair-colorization = true
+enable-completion-lens = true
+error-lens-multiline = true
 format-on-save = true
 highlight-scope-lines = true
-error-lens-multiline = true
-enable-completion-lens = true
-bracket-pair-colorization = true
-atomic-soft-tabs = true
