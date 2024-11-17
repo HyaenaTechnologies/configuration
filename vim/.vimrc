@@ -25,9 +25,6 @@ set more
 " Mouse Support
 set mouse=nvi
 
-" Diasble Vi Compatability Mode
-set nocompatible
-
 " Show Line Numbers
 set number
 
