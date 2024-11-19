@@ -3,6 +3,7 @@
 - https://github.com/github
 - https://github.com/git
 - https://github.com/chromium
+- https://github.com/mawww
 - https://github.com/cplusplus
 - https://github.com/yaml
 - https://github.com/CentOS
@@ -23,6 +24,7 @@
 - https://github.com/openstax
 - https://github.com/ubuntu
 - https://github.com/docker
+- https://github.com/zyedidia
 - https://github.com/containers
 - https://github.com/microsoft
 - https://github.com/neovim
@@ -65,7 +67,6 @@
 - https://github.com/harness
 - https://github.com/etcd-io
 - https://github.com/swiftlang
-- https://github.com/lapce
 - https://github.com/VictoriaMetrics
 - https://github.com/actions
 - https://github.com/open-telemetry
@@ -80,5 +81,4 @@
 - https://github.com/advanced-security
 - https://github.com/authzed
 - https://github.com/distribution
-- https://github.com/devcontainers
 - https://github.com/GreptimeTeam
