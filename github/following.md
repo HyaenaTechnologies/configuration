@@ -27,7 +27,6 @@
 - https://github.com/zyedidia
 - https://github.com/containers
 - https://github.com/microsoft
-- https://github.com/balena-io
 - https://github.com/neovim
 - https://github.com/androidx
 - https://github.com/grafana
@@ -82,6 +81,5 @@
 - https://github.com/advanced-security
 - https://github.com/authzed
 - https://github.com/distribution
-- https://github.com/devcontainers
 - https://github.com/GreptimeTeam
 
