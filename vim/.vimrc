@@ -1,12 +1,6 @@
 " Background Theme
 set background=dark
 
-" Enable File Backups
-set backup
-
-" Enable File Backup Copies
-set backupcopy=auto
-
 " Turn Off Bell
 set belloff=all
 
@@ -94,5 +88,3 @@ set wrapscan
 " Enable File Writing
 set write
 
-" Enable File Writing Backups
-set writebackup
