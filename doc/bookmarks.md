@@ -18,13 +18,14 @@
 - https://maven.google.com/web/index.html
 - https://www.vulkan.org/learn
 - https://m3.material.io/components
-- https://jetbrains.com/help/
 - https://docs.helix-editor.com/
 - https://micro-editor.github.io/
 - https://kakoune.org/
 - https://neovim.io/doc/
 - https://www.vim.org/docs.php
+- https://jetbrains.com/help/
 - https://arduino.cc/reference/en/
 - https://raspberrypi.com/documentation/
 - https://openstax.org/subjects
 - https://mathsolver.microsoft.com/en
+
