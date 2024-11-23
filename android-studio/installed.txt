@@ -5,7 +5,6 @@ Dart
 idea.plugin.protoeditor
 name.kropp.intellij.makefile
 Docker
-com.jetbrains.packagesearch.intellij-plugin
 com.jetbrains.kmm
 org.jetbrains.compose.desktop.ide
 io.flutter
