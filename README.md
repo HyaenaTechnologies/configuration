@@ -10,6 +10,7 @@
 [NeoVim Editor]: https://neovim.io/
 [Swift Language]: https://www.swift.org/
 [Vim Editor]: https://www.vim.org/
+[VSCode]: https://code.visualstudio.com/
 [Zig Language]: https://ziglang.org/
 
 # Configuration
@@ -18,7 +19,7 @@ Development Environment Configuration
 
 ## Development Environment
 
-- **_Editors:_** [Helix][Helix Editor],[Kakoune][Kakoune Editor], [Micro][Micro Editor], [NeoVim][NeoVim Editor], [Vim][Vim Editor]
+- **_Editors:_** [Helix][Helix Editor],[Kakoune][Kakoune Editor], [Micro][Micro Editor], [NeoVim][NeoVim Editor], [Vim][Vim Editor], [Visual Studio Code][VSCode]
 
 - **_Integrated Development Environments:_** [Android Studio][Android], [Arduino IDE][Arduino]
 
