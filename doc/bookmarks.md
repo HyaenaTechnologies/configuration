@@ -1,7 +1,7 @@
 # Boomarks
 
-- https://learn.microsoft.com/en-us/cpp/c-language
-- https://learn.microsoft.com/en-us/cpp/cpp
+- https://learn.microsoft.com/en-us/cpp/c-language/
+- https://learn.microsoft.com/en-us/cpp/cpp/
 - https://clang.llvm.org/docs/index.html
 - https://api.dart.dev/
 - https://pub.dev/
@@ -16,6 +16,7 @@
 - https://learn.microsoft.com/en-us/windows/apps/desktop/
 - https://developer.android.com/reference
 - https://maven.google.com/web/index.html
+- https://developer.apple.com/develop/
 - https://www.vulkan.org/learn
 - https://m3.material.io/components
 - https://docs.helix-editor.com/
@@ -23,9 +24,10 @@
 - https://kakoune.org/
 - https://neovim.io/doc/
 - https://www.vim.org/docs.php
-- https://jetbrains.com/help/
-- https://arduino.cc/reference/en/
-- https://raspberrypi.com/documentation/
+- https://code.visualstudio.com/docs
+- https://www.jetbrains.com/help/
+- https://docs.arduino.cc/language-reference/
+- https://www.raspberrypi.com/documentation/
 - https://openstax.org/subjects
 - https://mathsolver.microsoft.com/en
 
