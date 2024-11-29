@@ -29,6 +29,7 @@
 	"githubPullRequests.notifications": "pullRequests",
 	"githubPullRequests.showPullRequestNumberInTree": true,
 	"makefile.makePath": "/usr/bin",
+	"rust-analyzer.server.path": "/usr/bin/rust/rust-analyzer-preview/bin",
 	"security.workspace.trust.startupPrompt": "always",
 	"swift.path": "/usr/bin/swift/usr/bin",
 	"telemetry.telemetryLevel": "off",

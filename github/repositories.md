@@ -1,22 +1,6 @@
 # Repositories
 
-- https://github.com/AbdhilahiRWabwire/bitwarden
-- https://github.com/AbdhilahiRWabwire/duckduckgo
-- https://github.com/AbdhilahiRWabwire/element-x
-- https://github.com/AbdhilahiRWabwire/flipper
-- https://github.com/AbdhilahiRWabwire/home-assistant
-- https://github.com/AbdhilahiRWabwire/kickstarter
-- https://github.com/AbdhilahiRWabwire/mastodon
-- https://github.com/AbdhilahiRWabwire/mega
-- https://github.com/AbdhilahiRWabwire/nextcloud
-- https://github.com/AbdhilahiRWabwire/nextcloud-news
-- https://github.com/AbdhilahiRWabwire/nextcloud-notes
-- https://github.com/AbdhilahiRWabwire/nextcloud-talk
-- https://github.com/AbdhilahiRWabwire/openhab
-- https://github.com/AbdhilahiRWabwire/owncloud
-- https://github.com/AbdhilahiRWabwire/signal
-- https://github.com/AbdhilahiRWabwire/telegram-x
-- https://github.com/AbdhilahiRWabwire/thunderbird
-- https://github.com/AbdhilahiRWabwire/wikimedia-commons
-- https://github.com/AbdhilahiRWabwire/wikipedia
-- https://github.com/AbdhilahiRWabwire/wire
+- https://github.com/AbdhilahiRWabwire/data-interchange
+- https://github.com/AbdhilahiRWabwire/data-interchange-desktop
+- https://github.com/AbdhilahiRWabwire/data-interchange-web
+- https://github.com/AbdhilahiRWabwire/networking

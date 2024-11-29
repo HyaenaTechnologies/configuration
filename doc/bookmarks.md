@@ -5,6 +5,8 @@
 - https://clang.llvm.org/docs/index.html
 - https://api.dart.dev/
 - https://pub.dev/
+- https://www.rust-lang.org/learn
+- https://crates.io/
 - https://www.swift.org/documentation/
 - https://swiftpackageindex.com/
 - https://ziglang.org/learn/
@@ -14,14 +16,8 @@
 - https://publications.opengroup.org/
 - https://docs.kernel.org/
 - https://learn.microsoft.com/en-us/windows/apps/desktop/
-- https://developer.android.com/reference
-- https://maven.google.com/web/index.html
-- https://developer.apple.com/develop/
 - https://www.vulkan.org/learn
-- https://m3.material.io/components
 - https://docs.helix-editor.com/
-- https://micro-editor.github.io/
-- https://kakoune.org/
 - https://neovim.io/doc/
 - https://www.vim.org/docs.php
 - https://code.visualstudio.com/docs
@@ -30,4 +26,3 @@
 - https://www.raspberrypi.com/documentation/
 - https://openstax.org/subjects
 - https://mathsolver.microsoft.com/en
-

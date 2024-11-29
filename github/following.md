@@ -3,7 +3,6 @@
 - https://github.com/github
 - https://github.com/git
 - https://github.com/chromium
-- https://github.com/mawww
 - https://github.com/cplusplus
 - https://github.com/yaml
 - https://github.com/CentOS
@@ -24,11 +23,10 @@
 - https://github.com/openstax
 - https://github.com/ubuntu
 - https://github.com/docker
-- https://github.com/zyedidia
+- https://github.com/rust-lang
 - https://github.com/containers
 - https://github.com/microsoft
 - https://github.com/neovim
-- https://github.com/androidx
 - https://github.com/grafana
 - https://github.com/mdn
 - https://github.com/docker-library
@@ -53,8 +51,6 @@
 - https://github.com/itchio
 - https://github.com/thunderbird
 - https://github.com/llvm
-- https://github.com/material-components
-- https://github.com/material-foundation
 - https://github.com/github-linguist
 - https://github.com/git-lfs
 - https://github.com/Dart-Code
@@ -63,8 +59,8 @@
 - https://github.com/dependabot
 - https://github.com/ziglang
 - https://github.com/notaryproject
-- https://github.com/android
 - https://github.com/harness
+- https://github.com/rustwasm
 - https://github.com/etcd-io
 - https://github.com/swiftlang
 - https://github.com/VictoriaMetrics
@@ -72,7 +68,6 @@
 - https://github.com/open-telemetry
 - https://github.com/blender
 - https://github.com/canonical
-- https://github.com/c3lang
 - https://github.com/cli
 - https://github.com/SwiftPackageIndex
 - https://github.com/carbon-language
@@ -81,5 +76,5 @@
 - https://github.com/advanced-security
 - https://github.com/authzed
 - https://github.com/distribution
+- https://github.com/devcontainers
 - https://github.com/GreptimeTeam
-

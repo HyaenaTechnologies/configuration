@@ -8,9 +8,9 @@ updates:
       interval: "weekly"
       time: "03:00"
   
-  - package-ecosystem: "gradle"
+  - package-ecosystem: "cargo"
     commit-message:
-      prefix: "Gradle"
+      prefix: "Cargo"
     directory: "/" 
     schedule:
       day: "saturday"

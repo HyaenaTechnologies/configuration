@@ -1,7 +1,0 @@
-<application>
-  <component name="GradleExperimentalSettings">
-    <option name="ENABLE_PARALLEL_SYNC" value="false" />
-    <option name="ENABLE_GRADLE_API_OPTIMIZATION" value="false" />
-    <option name="DERIVE_RUNTIME_CLASSPATHS_FOR_LIBRARIES" value="false" />
-  </component>
-</application>
