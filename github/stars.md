@@ -5,6 +5,8 @@
 - https://github.com/swiftlang/swift
 - https://github.com/dart-lang/sdk
 - https://github.com/carbon-language/carbon-lang
+- https://github.com/aws/s2n-quic
+- https://github.com/cloudflare/quiche
 - https://github.com/microsoft/windows-rs
 - https://github.com/rustwasm/walrus
 - https://github.com/rustwasm/wasm-bindgen

@@ -6,6 +6,7 @@
 - https://github.com/cplusplus
 - https://github.com/yaml
 - https://github.com/CentOS
+- https://github.com/cloudflare
 - https://github.com/duckduckgo
 - https://github.com/arduino
 - https://github.com/w3c
@@ -20,6 +21,8 @@
 - https://github.com/GNOME
 - https://github.com/Debian
 - https://github.com/whatwg
+- https://github.com/aws
+- https://github.com/GoogleCloudPlatform
 - https://github.com/openstax
 - https://github.com/ubuntu
 - https://github.com/docker
@@ -27,6 +30,7 @@
 - https://github.com/containers
 - https://github.com/microsoft
 - https://github.com/neovim
+- https://github.com/Azure
 - https://github.com/grafana
 - https://github.com/mdn
 - https://github.com/docker-library
@@ -50,6 +54,7 @@
 - https://github.com/KDE
 - https://github.com/itchio
 - https://github.com/thunderbird
+- https://github.com/googleapis
 - https://github.com/llvm
 - https://github.com/github-linguist
 - https://github.com/git-lfs
@@ -76,5 +81,4 @@
 - https://github.com/advanced-security
 - https://github.com/authzed
 - https://github.com/distribution
-- https://github.com/devcontainers
 - https://github.com/GreptimeTeam
