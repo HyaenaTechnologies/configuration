@@ -59,6 +59,8 @@
 - https://github.com/github-linguist
 - https://github.com/git-lfs
 - https://github.com/Dart-Code
+- https://github.com/hetznercloud
+- https://github.com/superfly
 - https://github.com/juicedata
 - https://github.com/moby
 - https://github.com/dependabot
