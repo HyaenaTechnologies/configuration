@@ -22,9 +22,11 @@
 - https://github.com/Debian
 - https://github.com/whatwg
 - https://github.com/aws
+- https://github.com/hostinger
 - https://github.com/GoogleCloudPlatform
 - https://github.com/openstax
 - https://github.com/ubuntu
+- https://github.com/digitalocean
 - https://github.com/docker
 - https://github.com/rust-lang
 - https://github.com/containers
