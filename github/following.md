@@ -6,7 +6,6 @@
 - https://github.com/cplusplus
 - https://github.com/yaml
 - https://github.com/CentOS
-- https://github.com/cloudflare
 - https://github.com/duckduckgo
 - https://github.com/arduino
 - https://github.com/w3c
@@ -34,6 +33,7 @@
 - https://github.com/neovim
 - https://github.com/Azure
 - https://github.com/grafana
+- https://github.com/IBM-Cloud
 - https://github.com/mdn
 - https://github.com/docker-library
 - https://github.com/toml-lang
