@@ -58,6 +58,7 @@
 - https://github.com/thunderbird
 - https://github.com/googleapis
 - https://github.com/llvm
+- https://github.com/rust-embedded
 - https://github.com/github-linguist
 - https://github.com/git-lfs
 - https://github.com/Dart-Code
@@ -69,6 +70,7 @@
 - https://github.com/ziglang
 - https://github.com/notaryproject
 - https://github.com/harness
+- https://github.com/rust-cli
 - https://github.com/rustwasm
 - https://github.com/etcd-io
 - https://github.com/swiftlang
