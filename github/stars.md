@@ -1,10 +1,12 @@
 # Stars
 
 - https://github.com/ziglang/zig
-- https://github.com/rust-lang/rust
 - https://github.com/swiftlang/swift
+- https://github.com/rust-lang/rust
 - https://github.com/carbon-language/carbon-lang
 - https://github.com/dart-lang/sdk
+- https://github.com/swift-server/async-http-client
+- https://github.com/swift-server/swift-service-lifecycle
 - https://github.com/rust-embedded/heapless
 - https://github.com/rust-embedded/cortex-m
 - https://github.com/rust-embedded/aarch64-cpu

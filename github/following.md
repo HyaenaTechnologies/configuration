@@ -21,7 +21,6 @@
 - https://github.com/Debian
 - https://github.com/whatwg
 - https://github.com/aws
-- https://github.com/hostinger
 - https://github.com/GoogleCloudPlatform
 - https://github.com/openstax
 - https://github.com/ubuntu
@@ -62,6 +61,7 @@
 - https://github.com/github-linguist
 - https://github.com/git-lfs
 - https://github.com/Dart-Code
+- https://github.com/swift-server
 - https://github.com/hetznercloud
 - https://github.com/superfly
 - https://github.com/juicedata
