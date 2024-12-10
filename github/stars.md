@@ -112,7 +112,6 @@
 - https://github.com/google/vector_math.dart
 - https://github.com/google/protobuf.dart
 - https://github.com/google/webcrypto.dart
-- https://github.com/dart-lang/linter
 - https://github.com/dart-lang/http_multi_server
 - https://github.com/dart-lang/glob
 - https://github.com/dart-lang/io
@@ -121,7 +120,6 @@
 - https://github.com/dart-lang/pub_semver
 - https://github.com/dart-lang/setup-dart
 - https://github.com/dart-lang/shelf
-- https://github.com/dart-lang/test_descriptor
 - https://github.com/dart-lang/stream_channel
 - https://github.com/dart-lang/watcher
 - https://github.com/dart-lang/term_glyph
