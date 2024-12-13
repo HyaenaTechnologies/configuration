@@ -27,10 +27,10 @@
 - https://github.com/digitalocean
 - https://github.com/docker
 - https://github.com/rust-lang
+- https://github.com/akamai
 - https://github.com/containers
 - https://github.com/microsoft
 - https://github.com/neovim
-- https://github.com/Azure
 - https://github.com/grafana
 - https://github.com/IBM-Cloud
 - https://github.com/mdn
@@ -38,6 +38,7 @@
 - https://github.com/toml-lang
 - https://github.com/semver
 - https://github.com/rpm-software-management
+- https://github.com/vultr
 - https://github.com/commonmark
 - https://github.com/apple
 - https://github.com/riscv
@@ -55,7 +56,6 @@
 - https://github.com/KDE
 - https://github.com/itchio
 - https://github.com/thunderbird
-- https://github.com/googleapis
 - https://github.com/llvm
 - https://github.com/rust-embedded
 - https://github.com/github-linguist
