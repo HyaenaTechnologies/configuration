@@ -17,6 +17,7 @@
 - https://github.com/google
 - https://github.com/KhronosGroup
 - https://github.com/dart-lang
+- https://github.com/ovh
 - https://github.com/GNOME
 - https://github.com/Debian
 - https://github.com/whatwg
@@ -56,6 +57,7 @@
 - https://github.com/KDE
 - https://github.com/itchio
 - https://github.com/thunderbird
+- https://github.com/googleapis
 - https://github.com/llvm
 - https://github.com/rust-embedded
 - https://github.com/github-linguist
