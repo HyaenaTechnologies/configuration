@@ -15,3 +15,4 @@ export PATH=$PATH:/usr/local/include
 export PATH=$PATH:~/arduino-ide
 export PATH=$PATH:~/VSCode
 export PATH=$PATH:~/VSCode/bin
+. "$HOME/.cargo/env"
