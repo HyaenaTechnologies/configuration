@@ -4,7 +4,7 @@ WORKDIR /rust_application
 
 COPY ./ ./
 
-RUN cargo build
 RUN cargo test
+RUN cargo build
 
 ENTRYPOINT ["/bin/linux/rust_application"]

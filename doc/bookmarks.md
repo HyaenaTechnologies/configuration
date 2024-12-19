@@ -5,10 +5,10 @@
 - https://clang.llvm.org/docs/index.html
 - https://api.dart.dev/
 - https://pub.dev/
+- https://go.dev/doc/
+- https://pkg.go.dev/std
 - https://www.rust-lang.org/learn
 - https://crates.io/
-- https://www.swift.org/documentation/
-- https://swiftpackageindex.com/
 - https://ziglang.org/learn/
 - https://developer.mozilla.org/en-US/docs/Web/HTTP
 - https://git-scm.com/doc

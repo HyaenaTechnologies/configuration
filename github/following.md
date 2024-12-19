@@ -24,6 +24,7 @@
 - https://github.com/aws
 - https://github.com/GoogleCloudPlatform
 - https://github.com/openstax
+- https://github.com/golang
 - https://github.com/ubuntu
 - https://github.com/digitalocean
 - https://github.com/docker
@@ -32,6 +33,7 @@
 - https://github.com/containers
 - https://github.com/microsoft
 - https://github.com/neovim
+- https://github.com/Azure
 - https://github.com/grafana
 - https://github.com/IBM-Cloud
 - https://github.com/mdn
@@ -63,9 +65,7 @@
 - https://github.com/github-linguist
 - https://github.com/git-lfs
 - https://github.com/Dart-Code
-- https://github.com/swift-server
 - https://github.com/hetznercloud
-- https://github.com/superfly
 - https://github.com/juicedata
 - https://github.com/moby
 - https://github.com/dependabot
@@ -75,14 +75,12 @@
 - https://github.com/rust-cli
 - https://github.com/rustwasm
 - https://github.com/etcd-io
-- https://github.com/swiftlang
 - https://github.com/VictoriaMetrics
 - https://github.com/actions
 - https://github.com/open-telemetry
 - https://github.com/blender
 - https://github.com/canonical
 - https://github.com/cli
-- https://github.com/SwiftPackageIndex
 - https://github.com/carbon-language
 - https://github.com/zigtools
 - https://github.com/helix-editor

@@ -28,12 +28,11 @@
 	"githubPullRequests.fileListLayout": "tree",
 	"githubPullRequests.notifications": "pullRequests",
 	"githubPullRequests.showPullRequestNumberInTree": true,
+	"go.gopath": "/usr/bin/go",
 	"makefile.makePath": "/usr/bin",
 	"security.workspace.trust.startupPrompt": "always",
-	"swift.path": "/usr/bin/swift/usr/bin",
 	"telemetry.telemetryLevel": "off",
 	"zig.formattingProvider": "off",
-	"zig.initialSetupDone": true,
 	"zig.path": "zig",
 	"zig.zls.path": "zls"
 }

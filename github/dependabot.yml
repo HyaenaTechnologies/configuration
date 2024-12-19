@@ -17,18 +17,18 @@ updates:
       interval: "weekly"
       time: "03:00"
 
-  - package-ecosystem: "pub"
+  - package-ecosystem: "go"
     commit-message:
-      prefix: "Pub"
+      prefix: "Go"
     directory: "/" 
     schedule:
       day: "saturday"
       interval: "weekly"
       time: "03:00"
 
-  - package-ecosystem: "swift"
+  - package-ecosystem: "pub"
     commit-message:
-      prefix: "Swift"
+      prefix: "Pub"
     directory: "/" 
     schedule:
       day: "saturday"
