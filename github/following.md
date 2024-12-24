@@ -43,10 +43,10 @@
 - https://github.com/rpm-software-management
 - https://github.com/vultr
 - https://github.com/commonmark
-- https://github.com/apple
 - https://github.com/riscv
 - https://github.com/surrealdb
 - https://github.com/redhat-developer
+- https://github.com/ChromeDevTools
 - https://github.com/WebAssembly
 - https://github.com/vim
 - https://github.com/brave
