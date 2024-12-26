@@ -1,6 +1,6 @@
 FROM amd64/debian:latest
 
-WORKDIR /dart_application
+WORKDIR /dart-application
 
 COPY ./ ./
 
@@ -20,6 +20,4 @@ RUN dart pub deps
 RUN dart pub upgrade
 RUN dart run lib/main.dart
 RUN dart test
-RUN dart compile exe lib/main.dart --output /bin/linux/dart_application
-
-ENTRYPOINT ["/bin/linux/dart_application"]
+RUN dart compile exe lib/main.dart --output /bin/linux/dart-application

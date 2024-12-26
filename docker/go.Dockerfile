@@ -1,10 +1,8 @@
 FROM amd64/go:latest
 
-WORKDIR /go_application
+WORKDIR /go-application
 
 COPY ./ ./
 
 RUN go test
 RUN go build
-
-ENTRYPOINT ["/bin/linux/go_application"]
