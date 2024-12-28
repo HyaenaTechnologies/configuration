@@ -55,4 +55,4 @@ jobs:
       run: dart test
       
     - name: Compile Package
-      run: dart compile exe lib/main.dart --output /bin/linux/dart_application
+      run: dart compile exe lib/main.dart --output /binary/linux/dart-application

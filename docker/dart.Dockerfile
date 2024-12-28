@@ -15,4 +15,4 @@ RUN dart pub deps
 RUN dart pub upgrade
 RUN dart run lib/main.dart
 RUN dart test
-RUN dart compile exe lib/main.dart --output /bin/linux/dart-application
+RUN dart compile exe lib/main.dart --output /binary/linux/dart-application
