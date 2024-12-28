@@ -21,8 +21,7 @@
 - https://github.com/GNOME
 - https://github.com/Debian
 - https://github.com/whatwg
-- https://github.com/aws
-- https://github.com/GoogleCloudPlatform
+- https://github.com/prometheus
 - https://github.com/openstax
 - https://github.com/golang
 - https://github.com/ubuntu
@@ -33,9 +32,7 @@
 - https://github.com/containers
 - https://github.com/microsoft
 - https://github.com/neovim
-- https://github.com/Azure
 - https://github.com/grafana
-- https://github.com/IBM-Cloud
 - https://github.com/mdn
 - https://github.com/docker-library
 - https://github.com/toml-lang
@@ -59,7 +56,6 @@
 - https://github.com/KDE
 - https://github.com/itchio
 - https://github.com/thunderbird
-- https://github.com/googleapis
 - https://github.com/llvm
 - https://github.com/rust-embedded
 - https://github.com/github-linguist
@@ -74,7 +70,6 @@
 - https://github.com/harness
 - https://github.com/rust-cli
 - https://github.com/rustwasm
-- https://github.com/etcd-io
 - https://github.com/VictoriaMetrics
 - https://github.com/actions
 - https://github.com/open-telemetry
@@ -87,4 +82,5 @@
 - https://github.com/advanced-security
 - https://github.com/authzed
 - https://github.com/distribution
+- https://github.com/devcontainers
 - https://github.com/GreptimeTeam
