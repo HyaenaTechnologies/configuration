@@ -3,8 +3,6 @@
 - https://learn.microsoft.com/en-us/cpp/c-language/
 - https://learn.microsoft.com/en-us/cpp/cpp/
 - https://clang.llvm.org/docs/index.html
-- https://api.dart.dev/
-- https://pub.dev/
 - https://go.dev/doc/
 - https://pkg.go.dev/std
 - https://www.rust-lang.org/learn

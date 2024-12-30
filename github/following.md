@@ -16,7 +16,6 @@
 - https://github.com/raspberrypi
 - https://github.com/google
 - https://github.com/KhronosGroup
-- https://github.com/dart-lang
 - https://github.com/ovh
 - https://github.com/GNOME
 - https://github.com/Debian
@@ -60,7 +59,6 @@
 - https://github.com/rust-embedded
 - https://github.com/github-linguist
 - https://github.com/git-lfs
-- https://github.com/Dart-Code
 - https://github.com/hetznercloud
 - https://github.com/juicedata
 - https://github.com/moby

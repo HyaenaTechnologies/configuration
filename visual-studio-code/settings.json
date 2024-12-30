@@ -1,15 +1,5 @@
 {
 	"cmake.cmakePath": "/usr/bin/cmake",
-	"[dart]": {
-		"editor.formatOnSave": true,
-		"editor.formatOnType": true,
-		"editor.rulers": [80],
-		"editor.selectionHighlight": false,
-		"editor.suggestSelection": "first",
-		"editor.tabCompletion": "onlySnippets",
-		"editor.wordBasedSuggestions": "off"
-	},
-	"dart.sdkPath": "/usr/bin/dart-sdk",
 	"debug.internalConsoleOptions": "openOnSessionStart",
 	"debug.openDebug": "openOnDebugBreak",
 	"diffEditor.experimental.showMoves": true,
