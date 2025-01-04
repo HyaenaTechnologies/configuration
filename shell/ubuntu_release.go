@@ -24,7 +24,7 @@ func main() {
 		log.Fatalln("Ubuntu Release Upgrade Failed: \n", ubuntuReleaseError)
 	} else {
 		fmt.Println("Executed Command: \n", ubuntuRelease)
-		fmt.Println("Running Ubuntu Release Upgrade: \n", ubuntuReleaseOutput.String())
+		fmt.Println("Ubuntu Release Upgrade Output: \n", ubuntuReleaseOutput.String())
 
 		os.Exit(0)
 	}

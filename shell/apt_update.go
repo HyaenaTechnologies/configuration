@@ -30,7 +30,7 @@ func main() {
 		log.Fatalln("APT Update Failed: \n", aptUpdateError)
 	} else {
 		fmt.Println("Executed Command: \n", aptUpdate)
-		fmt.Println("Running APT Update: \n", aptUpdateOutput.String())
+		fmt.Println("APT Update Output: \n", aptUpdateOutput.String())
 
 		os.Exit(0)
 	}

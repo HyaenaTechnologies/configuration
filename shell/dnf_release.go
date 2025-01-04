@@ -27,7 +27,7 @@ func main() {
 		log.Fatalln("DNF Release Download Failed: \n", dnfReleaseError)
 	} else {
 		fmt.Println("Executed Command: \n", dnfRelease)
-		fmt.Println("Running DNF Release Download: \n", dnfReleaseOutput.String())
+		fmt.Println("DNF Release Download Output: \n", dnfReleaseOutput.String())
 
 		os.Exit(0)
 	}

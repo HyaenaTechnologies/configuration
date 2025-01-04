@@ -26,7 +26,7 @@ func main() {
 		log.Fatalln("DNF Update Failed: \n", dnfUpdateError)
 	} else {
 		fmt.Println("Executed Command: \n", dnfUpdate)
-		fmt.Println("Running DNF Update: \n", dnfUpdateOutput.String())
+		fmt.Println("DNF Update Output: \n", dnfUpdateOutput.String())
 
 		os.Exit(0)
 	}

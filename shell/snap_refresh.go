@@ -25,7 +25,7 @@ func main() {
 		log.Fatalln("Snap Refresh Failed: \n", snapRefreshError)
 	} else {
 		fmt.Println("Executed Command: \n", snapRefresh)
-		fmt.Println("Running Snap Refresh: \n", snapRefreshOutput.String())
+		fmt.Println("Snap Refresh Output: \n", snapRefreshOutput.String())
 
 		os.Exit(0)
 	}
