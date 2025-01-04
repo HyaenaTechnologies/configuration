@@ -5,6 +5,7 @@ import (
 	"log"
 	"os"
 	"os/exec"
+	"strings"
 )
 
 func main() {
@@ -14,13 +15,18 @@ func main() {
 		"refresh",
 	)
 
+	var snapRefreshOutput strings.Builder
+
+	snapRefresh.Stdout = &snapRefreshOutput
+
 	var snapRefreshError error = snapRefresh.Run()
 
 	if snapRefreshError != nil {
 		log.Fatalln("Snap Refresh Failed: \n", snapRefreshError)
+	} else {
+		fmt.Println("Executed Command: \n", snapRefresh)
+		fmt.Println("Running Snap Refresh: \n", snapRefreshOutput.String())
+
+		os.Exit(0)
 	}
-
-	fmt.Println("Running Snap Refresh: \n", snapRefresh)
-
-	os.Exit(0)
 }

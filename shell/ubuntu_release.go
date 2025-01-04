@@ -5,6 +5,7 @@ import (
 	"log"
 	"os"
 	"os/exec"
+	"strings"
 )
 
 func main() {
@@ -13,13 +14,18 @@ func main() {
 		"do-release-upgrade",
 	)
 
+	var ubuntuReleaseOutput strings.Builder
+
+	ubuntuRelease.Stdout = &ubuntuReleaseOutput
+
 	var ubuntuReleaseError error = ubuntuRelease.Run()
 
 	if ubuntuReleaseError != nil {
 		log.Fatalln("Ubuntu Release Upgrade Failed: \n", ubuntuReleaseError)
+	} else {
+		fmt.Println("Executed Command: \n", ubuntuRelease)
+		fmt.Println("Running Ubuntu Release Upgrade: \n", ubuntuReleaseOutput.String())
+
+		os.Exit(0)
 	}
-
-	fmt.Println("Running Ubuntu Release Upgrade: \n", ubuntuRelease)
-
-	os.Exit(0)
 }
