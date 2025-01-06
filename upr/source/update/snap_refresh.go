@@ -1,4 +1,4 @@
-package main
+package update
 
 import (
 	"fmt"
@@ -8,7 +8,8 @@ import (
 	"strings"
 )
 
-func main() {
+// Snap Refresh
+func SnapRefresh() {
 	var snapRefresh *exec.Cmd = exec.Command(
 		"sudo",
 		"snap",

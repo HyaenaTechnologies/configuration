@@ -1,4 +1,4 @@
-package main
+package update
 
 import (
 	"fmt"
@@ -8,7 +8,8 @@ import (
 	"strings"
 )
 
-func main() {
+// DNF Release
+func DNFRelease() {
 	var dnfRelease *exec.Cmd = exec.Command(
 		"sudo",
 		"dnf",

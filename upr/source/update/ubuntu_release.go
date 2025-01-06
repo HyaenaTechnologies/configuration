@@ -1,4 +1,4 @@
-package main
+package update
 
 import (
 	"fmt"
@@ -8,7 +8,8 @@ import (
 	"strings"
 )
 
-func main() {
+// Ubuntu Release
+func UbuntuRelease() {
 	var ubuntuRelease *exec.Cmd = exec.Command(
 		"sudo",
 		"do-release-upgrade",

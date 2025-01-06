@@ -20,7 +20,6 @@
 - https://github.com/GNOME
 - https://github.com/Debian
 - https://github.com/whatwg
-- https://github.com/prometheus
 - https://github.com/openstax
 - https://github.com/golang
 - https://github.com/ubuntu
@@ -28,6 +27,7 @@
 - https://github.com/docker
 - https://github.com/rust-lang
 - https://github.com/akamai
+- https://github.com/influxdata
 - https://github.com/containers
 - https://github.com/microsoft
 - https://github.com/neovim

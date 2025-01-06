@@ -10,6 +10,8 @@
 [VSCode]: https://code.visualstudio.com/
 [Zig Language]: https://ziglang.org/
 
+[![Go Workflow](https://github.com/HyaenaTechnologies/configuration/actions/workflows/go.yml/badge.svg)](https://github.com/HyaenaTechnologies/configuration/actions/workflows/go.yml)
+
 # Configuration
 
 Development Environment Configuration
@@ -24,8 +26,16 @@ Development Environment Configuration
 
 - **_Version Control:_** [Git][Git Repositories]
 
-## Build
+## Build Update Releaser
 
 ```shell
 git clone
+
+GOOS=linux GOARCH=amd64 go build -o ./binary/upr ./upr/source/main.go
+```
+
+## Install Update Releaser
+
+```shell
+echo 'export PATH="$PATH:/usr/local/bin/upr"' >> ~/.bashrc && sudo echo 'export PATH="$PATH:/usr/local/bin/upr"' >> /etc/skel/.bashrc
 ```
