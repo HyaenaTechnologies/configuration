@@ -49,6 +49,7 @@
 - https://github.com/opencontainers
 - https://github.com/go-gitea
 - https://github.com/desktop
+- https://github.com/kubernetes
 - https://github.com/unicode-org
 - https://github.com/dgraph-io
 - https://github.com/containerd
@@ -68,6 +69,7 @@
 - https://github.com/harness
 - https://github.com/rust-cli
 - https://github.com/rustwasm
+- https://github.com/GoogleContainerTools
 - https://github.com/VictoriaMetrics
 - https://github.com/actions
 - https://github.com/open-telemetry
