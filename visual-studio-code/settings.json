@@ -22,8 +22,8 @@
 	"makefile.makePath": "/usr/bin",
 	"security.workspace.trust.startupPrompt": "always",
 	"telemetry.telemetryLevel": "off",
-	"vscode-kubernetes.kubectl-path": "/usr/bin/hyaena-technologies",
-	"vscode-kubernetes.minikube-path": "/usr/bin/hyaena-technologies",
+	"vscode-kubernetes.kubectl-path": "/usr/bin/hyaena-technologies/kubectl",
+	"vscode-kubernetes.minikube-path": "/usr/bin/hyaena-technologies/minikube",
 	"zig.formattingProvider": "off",
 	"zig.path": "zig",
 	"zig.zls.path": "zls"
