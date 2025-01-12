@@ -12,17 +12,11 @@ sudo echo 'export PATH="$PATH:/usr/local/include"' >> ~/.bashrc && sudo echo 'ex
 
 sudo echo '. "$HOME/.cargo/env"' >> ~/.bashrc && sudo echo '. "$HOME/.cargo/env"' >> /etc/skel/.bashrc
 
-sudo echo 'export PATH="$PATH:/usr/bin/go/bin"' >> ~/.bashrc && sudo echo 'export PATH="$PATH:/usr/bin/go/bin"' >> /etc/skel/.bashrc
-
 sudo echo 'export PATH="$PATH:/usr/bin/vulkan/x86_64/bin"' >> ~/.bashrc && sudo 'export PATH="$PATH:/usr/bin/vulkan/x86_64/bin"' >> /etc/skel/.bashrc
 
 sudo dnf -y install zig gcc gdb llvm clang lldb make cmake ninja
 
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-
-wget https://go.dev/dl/go1.23.4.linux-amd64.tar.gz && tar --extract --file ./*.gz --verbose
-
-sudo mv ./go1.23.4.linux-amd64/go /usr/bin
 
 wget https://sdk.lunarg.com/sdk/download/1.3.296.0/linux/vulkansdk-linux-x86_64-1.3.296.0.tar.xz && tar --extract --file ./*.xz --verbose
 

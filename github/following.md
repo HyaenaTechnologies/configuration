@@ -21,7 +21,6 @@
 - https://github.com/Debian
 - https://github.com/whatwg
 - https://github.com/openstax
-- https://github.com/golang
 - https://github.com/ubuntu
 - https://github.com/digitalocean
 - https://github.com/docker
@@ -75,6 +74,7 @@
 - https://github.com/open-telemetry
 - https://github.com/blender
 - https://github.com/canonical
+- https://github.com/c3lang
 - https://github.com/cli
 - https://github.com/carbon-language
 - https://github.com/zigtools
