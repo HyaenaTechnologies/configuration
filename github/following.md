@@ -65,7 +65,9 @@
 - https://github.com/dependabot
 - https://github.com/ziglang
 - https://github.com/notaryproject
+- https://github.com/odin-lang
 - https://github.com/harness
+- https://github.com/kubernetes-sigs
 - https://github.com/rust-cli
 - https://github.com/rustwasm
 - https://github.com/GoogleContainerTools
