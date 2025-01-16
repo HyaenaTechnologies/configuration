@@ -52,7 +52,6 @@
 - https://github.com/desktop
 - https://github.com/kubernetes
 - https://github.com/unicode-org
-- https://github.com/dgraph-io
 - https://github.com/containerd
 - https://github.com/KDE
 - https://github.com/itchio
@@ -68,7 +67,6 @@
 - https://github.com/ziglang
 - https://github.com/notaryproject
 - https://github.com/odin-lang
-- https://github.com/harness
 - https://github.com/kubernetes-sigs
 - https://github.com/rust-cli
 - https://github.com/rustwasm
