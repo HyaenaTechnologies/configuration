@@ -6,6 +6,7 @@
 - https://github.com/cplusplus
 - https://github.com/yaml
 - https://github.com/CentOS
+- https://github.com/sparkfun
 - https://github.com/duckduckgo
 - https://github.com/arduino
 - https://github.com/w3c
@@ -38,6 +39,7 @@
 - https://github.com/rpm-software-management
 - https://github.com/vultr
 - https://github.com/commonmark
+- https://github.com/espressif
 - https://github.com/riscv
 - https://github.com/surrealdb
 - https://github.com/redhat-developer
