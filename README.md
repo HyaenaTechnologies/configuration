@@ -1,5 +1,6 @@
 [Arduino]: https://arduino.cc/en/software
 [C Language]: https://learn.microsoft.com/en-us/cpp/c-language
+[C++ Language]: https://learn.microsoft.com/en-us/cpp/cpp/
 [Git Repositories]: https://git-scm.com
 [Go Language]: https://go.dev/
 [Helix Editor]: https://helix-editor.com/
@@ -19,7 +20,7 @@ Development Environment Configuration
 
 - **_Integrated Development Environments:_** [Arduino IDE][Arduino]
 
-- **_Languages:_** [C][C Language], [Go][Go Language], [Rust][Rust Language], [Zig][Zig Language]
+- **_Languages:_** [C][C Language], [C++][C++ Language], [Go][Go Language], [Rust][Rust Language], [Zig][Zig Language]
 
 - **_Version Control:_** [Git][Git Repositories]
 

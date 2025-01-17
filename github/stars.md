@@ -1,9 +1,10 @@
 # Stars
 
 - https://github.com/ziglang/zig
-- https://github.com/carbon-language/carbon-lang
 - https://github.com/rust-lang/rust
+- https://github.com/carbon-language/carbon-lang
 - https://github.com/c3lang/c3c
+- https://github.com/odin-lang/Odin
 - https://github.com/rust-embedded/embedded-alloc
 - https://github.com/rust-embedded/heapless
 - https://github.com/rust-embedded/cortex-m
@@ -47,7 +48,6 @@
 - https://github.com/KhronosGroup/glslang
 - https://github.com/KhronosGroup/SPIRV-Tools
 - https://github.com/KhronosGroup/SPIRV-Headers
-- https://github.com/microsoft/WindowsAppSDK
 - https://github.com/KhronosGroup/Vulkan-Tools
 - https://github.com/KhronosGroup/Vulkan-Hpp
 - https://github.com/KhronosGroup/Vulkan-Headers

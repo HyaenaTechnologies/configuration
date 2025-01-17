@@ -13,7 +13,7 @@
 - https://docs.github.com/en
 - https://publications.opengroup.org/
 - https://docs.kernel.org/
-- https://learn.microsoft.com/en-us/windows/apps/desktop/
+- https://learn.microsoft.com/en-us/windows/win32/api/
 - https://www.vulkan.org/learn
 - https://docs.helix-editor.com/
 - https://neovim.io/doc/

@@ -17,16 +17,14 @@
 - https://github.com/raspberrypi
 - https://github.com/google
 - https://github.com/KhronosGroup
-- https://github.com/ovh
 - https://github.com/GNOME
 - https://github.com/Debian
 - https://github.com/whatwg
+- https://github.com/prometheus
 - https://github.com/openstax
 - https://github.com/ubuntu
-- https://github.com/digitalocean
 - https://github.com/docker
 - https://github.com/rust-lang
-- https://github.com/akamai
 - https://github.com/influxdata
 - https://github.com/containers
 - https://github.com/microsoft
@@ -37,7 +35,6 @@
 - https://github.com/toml-lang
 - https://github.com/semver
 - https://github.com/rpm-software-management
-- https://github.com/vultr
 - https://github.com/commonmark
 - https://github.com/espressif
 - https://github.com/riscv
@@ -60,7 +57,6 @@
 - https://github.com/rust-embedded
 - https://github.com/github-linguist
 - https://github.com/git-lfs
-- https://github.com/hetznercloud
 - https://github.com/juicedata
 - https://github.com/moby
 - https://github.com/dependabot
