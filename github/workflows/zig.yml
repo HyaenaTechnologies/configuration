@@ -1,0 +1,32 @@
+name: Zig
+
+on:
+  push:
+    branches: [ "main" ]
+    
+  pull_request:
+    branches: [ "main" ]
+    
+  schedule:
+  - cron: "30 03 * * 1-5"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+    - name: Checkout Repository
+      uses: actions/checkout@v4.2.2
+     
+    - name: Install Snapcraft
+      run: sudo snap install snapcraft --classic
+
+    - name: Install Zig
+      run: sudo snap install zig --classic --beta
+
+    - name: Run Tests
+      run: zig test
+
+    - name: Build Package
+      run: zig build
+      

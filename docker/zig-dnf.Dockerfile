@@ -6,5 +6,5 @@ COPY ./ ./
 
 RUN dnf -y upgrade
 RUN dnf -y install zig
-RUN zig build
 RUN zig test
+RUN zig build
