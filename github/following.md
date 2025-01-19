@@ -3,9 +3,9 @@
 - https://github.com/github
 - https://github.com/git
 - https://github.com/chromium
-- https://github.com/cplusplus
 - https://github.com/yaml
 - https://github.com/CentOS
+- https://github.com/mozilla
 - https://github.com/sparkfun
 - https://github.com/duckduckgo
 - https://github.com/arduino
