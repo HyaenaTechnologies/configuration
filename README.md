@@ -21,10 +21,10 @@
 [Moby Swarm]: https://docs.docker.com/reference/cli/docker/swarm/
 [NeoVim Editor]: https://neovim.io/
 [Prometheus Database]: https://prometheus.io/
-[Rust Language]: https://rust-lang.org/
 [RPM CentOS]: http://centos.org/
 [RPM Fedora]: https://fedoraproject.org/
 [RPM RHEL]: http://developers.redhat.com/
+[Rust Language]: https://rust-lang.org/
 [Spice Database]: https://authzed.com/
 [Surreal Database]: https://surrealdb.com/
 [Tempo Database]: https://grafana.com/oss/tempo/
@@ -41,7 +41,7 @@ Development Environment Configuration
 
 - **_Container Engines:_** [Docker][Moby], [Podman][Containerman]
 
-- **_Container Orchestration Engines:_** [Docker Compose][Moby Compose], [Docker Swarm][Moby Swarm], [Minikube][K8S Kube], [KOps][K8S Ops]
+- **_Container Orchestration Engines:_** [Docker Compose][Moby Compose], [Docker Swarm][Moby Swarm], [KOps][K8S Ops], [Minikube][K8S Kube]
 
 - **_Container Tools:_** [Kompose][K8S Kompose], [Kubectl][K8S Control], [Skaffold][K8S Skaffold]
 
@@ -57,13 +57,13 @@ Development Environment Configuration
 
 ## Databases
 
-- **_Authorization_**: [SpiceDB][Spice Database]
+- **_Authorization_**: [Spice][Spice Database]
 
 - **_Graph_**: [Surreal][Surreal Database]
 
-- **_Object Storage_**: [Minio][Minio Database], [JuiceFS][JuiceFS Database]
+- **_Object Storage_**: [JuiceFS][JuiceFS Database], [Minio][Minio Database]
 
-- **_Time Series_**: [InfluxDB][Influx Database], [Greptime][Greptime Database], [Loki][Loki Database], [Prometheus][Prometheus Database], [Mimir][Mimir Database], [Tempo][Tempo Database], [Victoria Metrics][Victoria Metrics Database]
+- **_Time Series_**: [Greptime][Greptime Database], [Influx][Influx Database], [Loki][Loki Database], [Mimir][Mimir Database], [Prometheus][Prometheus Database], [Tempo][Tempo Database], [Victoria Metrics][Victoria Metrics Database]
 
 
 ## Build Update Releaser
