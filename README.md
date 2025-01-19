@@ -20,7 +20,7 @@ Development Environment Configuration
 
 - **_Container Management:_** Docker Desktop, Kompose, Podman Desktop, Skaffold
 
-- **_Container Orchestration Engines:_** Docker Swarm - Swarm Kit, Kubernetes = Minikube, KOps
+- **_Container Orchestration Engines:_** Docker Swarm - Swarm Kit, Kubernetes - Minikube, KOps
 
 - **_Editors:_** [Helix][Helix Editor], [NeoVim][NeoVim Editor], [Vim][Vim Editor], [Visual Studio Code][VSCode]
 
