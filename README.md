@@ -1,3 +1,5 @@
+[APT Debian]: https://www.debian.org/
+[APT Ubuntu]: https://ubuntu.com/
 [Arduino]: https://arduino.cc/en/software
 [Containerman]: https://podman.io/
 [Git Repositories]: https://git-scm.com
@@ -20,6 +22,9 @@
 [NeoVim Editor]: https://neovim.io/
 [Prometheus Database]: https://prometheus.io/
 [Rust Language]: https://rust-lang.org/
+[RPM CentOS]: http://centos.org/
+[RPM Fedora]: https://fedoraproject.org/
+[RPM RHEL]: http://developers.redhat.com/
 [Spice Database]: https://authzed.com/
 [Surreal Database]: https://surrealdb.com/
 [Tempo Database]: https://grafana.com/oss/tempo/
@@ -38,7 +43,7 @@ Development Environment Configuration
 
 - **_Container Orchestration Engines:_** [Docker Compose][Moby Compose], [Docker Swarm][Moby Swarm], [Minikube][K8S Kube], [KOps][K8S Ops]
 
-- **_Container Tools:_** [Kompose][K8S Kompose], [Kubect]l[K8S Control], [Skaffold] [K8S Skaffold]
+- **_Container Tools:_** [Kompose][K8S Kompose], [Kubectl][K8S Control], [Skaffold][K8S Skaffold]
 
 - **_Editors:_** [Helix][Helix Editor], [NeoVim][NeoVim Editor], [Vim][Vim Editor], [Visual Studio Code][VSCode]
 
@@ -46,7 +51,7 @@ Development Environment Configuration
 
 - **_Programming Languages:_** [Go][Go Language], [Rust][Rust Language], [Zig][Zig Language]
 
-- **_Operating Systems:_** Fedora -> CentOS -> Red Hat Enterprise Linux || Ubuntu <- Debian
+- **_Operating Systems:_** [Fedora][RPM Fedora] -> [CentOS][RPM CentOS] -> [Red Hat Enterprise Linux][RPM RHEL] || [Ubuntu][APT Ubuntu] <- [Debian][APT Debian]
 
 - **_Version Control Systems:_** [Git][Git Repositories]
 
