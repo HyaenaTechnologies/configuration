@@ -57,13 +57,13 @@ Development Environment Configuration
 
 ## Databases
 
-- **_Authorization_**: [Spice][Spice Database]
+- **_Authorization:_** [Spice][Spice Database]
 
-- **_Graph_**: [Surreal][Surreal Database]
+- **_Graph:_** [Surreal][Surreal Database]
 
-- **_Object Storage_**: [JuiceFS][JuiceFS Database], [Minio][Minio Database]
+- **_Object Storage:_** [JuiceFS][JuiceFS Database], [Minio][Minio Database]
 
-- **_Time Series_**: [Greptime][Greptime Database], [Influx][Influx Database], [Loki][Loki Database], [Mimir][Mimir Database], [Prometheus][Prometheus Database], [Tempo][Tempo Database], [Victoria Metrics][Victoria Metrics Database]
+- **_Time Series:_** [Greptime][Greptime Database], [Influx][Influx Database], [Loki][Loki Database], [Mimir][Mimir Database], [Prometheus][Prometheus Database], [Tempo][Tempo Database], [Victoria Metrics][Victoria Metrics Database]
 
 
 ## Build Update Releaser
