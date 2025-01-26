@@ -1,6 +1,6 @@
 [APT Debian]: https://www.debian.org/
 [APT Ubuntu]: https://ubuntu.com/
-[Arduino]: https://arduino.cc/en/software
+[Arduino IDE]: https://arduino.cc/en/software
 [Containerman]: https://podman.io/
 [Git Repositories]: https://git-scm.com
 [Go Language]: https://go.dev/
@@ -47,7 +47,7 @@ Development Environment Configuration
 
 - **_Editors:_** [Helix][Helix Editor], [NeoVim][NeoVim Editor], [Vim][Vim Editor], [Visual Studio Code][VSCode]
 
-- **_Integrated Development Environments:_** [Arduino IDE][Arduino]
+- **_Integrated Development Environments:_** [Arduino][Arduino IDE]
 
 - **_Programming Languages:_** [Go][Go Language], [Rust][Rust Language], [Zig][Zig Language]
 
