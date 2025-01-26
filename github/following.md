@@ -5,7 +5,6 @@
 - https://github.com/chromium
 - https://github.com/yaml
 - https://github.com/CentOS
-- https://github.com/mozilla
 - https://github.com/sparkfun
 - https://github.com/duckduckgo
 - https://github.com/arduino
@@ -82,3 +81,4 @@
 - https://github.com/distribution
 - https://github.com/devcontainers
 - https://github.com/GreptimeTeam
+- https://github.com/zen-browser
