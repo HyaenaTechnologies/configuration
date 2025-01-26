@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo apt update && sudo apt -y full-upgrade && sudo apt -y install apt-transport-https ca-certificates curl git zsh iptables firewalld nftables
+sudo apt update && sudo apt -y full-upgrade && sudo apt -y install apt-transport-https ca-certificates curl git zsh ufw iptables firewalld nftables
 
 sudo echo 'export PATH="$PATH:/usr/bin"' >> ~/.bashrc && sudo echo 'export PATH="$PATH:/usr/bin"' >> /etc/skel/.bashrc
 

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo dnf -y upgrade && sudo dnf -y install dnf-plugins-core curl git zsh iptables firewalld nftables
+sudo dnf -y upgrade && sudo dnf -y install dnf-plugins-core curl git zsh ufw iptables firewalld nftables
 
 sudo echo 'export PATH="$PATH:/usr/bin"' >> ~/.bashrc && sudo echo 'export PATH="$PATH:/usr/bin"' >> /etc/skel/.bashrc
 
