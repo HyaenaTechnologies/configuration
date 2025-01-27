@@ -15,6 +15,8 @@ export PATH=$PATH:/usr/lib
 export PATH=$PATH:/usr/local/bin
 export PATH=$PATH:/usr/local/include
 export PATH=$PATH:/usr/local/lib
+export PATH=$PATH:~/.cargo
+export PATH=$PATH:~/.cargo/bin
 export PATH=$PATH:~/arduino-ide
 export PATH=$PATH:~/blender
 export PATH=$PATH:~/grafana/bin
@@ -22,4 +24,3 @@ export PATH=$PATH:~/podman-desktop
 export PATH=$PATH:~/VSCode
 export PATH=$PATH:~/VSCode/bin
 export PATH=$PATH:~/zen
-. "$HOME/.cargo/env"
