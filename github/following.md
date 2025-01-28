@@ -5,6 +5,7 @@
 - https://github.com/chromium
 - https://github.com/yaml
 - https://github.com/CentOS
+- https://github.com/mozilla
 - https://github.com/sparkfun
 - https://github.com/duckduckgo
 - https://github.com/arduino
@@ -62,6 +63,7 @@
 - https://github.com/ziglang
 - https://github.com/notaryproject
 - https://github.com/odin-lang
+- https://github.com/harness
 - https://github.com/kubernetes-sigs
 - https://github.com/rust-cli
 - https://github.com/rustwasm

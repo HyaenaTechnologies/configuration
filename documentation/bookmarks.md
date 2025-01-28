@@ -9,6 +9,7 @@
 - https://crates.io/
 - https://ziglang.org/learn/
 - https://developer.mozilla.org/en-US/docs/Web/HTTP
+- https://opentelemetry.io/docs/
 - https://git-scm.com/doc
 - https://publications.opengroup.org/
 - https://docs.kernel.org/
@@ -20,6 +21,7 @@
 - https://minikube.sigs.k8s.io/docs/
 - https://kops.sigs.k8s.io/
 - https://kompose.io/user-guide/
+- https://skaffold.dev/docs/
 - https://docs.helix-editor.com/
 - https://neovim.io/doc/
 - https://www.vim.org/docs.php
