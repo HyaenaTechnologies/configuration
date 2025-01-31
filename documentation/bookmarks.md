@@ -32,3 +32,5 @@
 - https://docs.github.com/en
 - https://openstax.org/subjects
 - https://mathsolver.microsoft.com/en
+- https://craftinginterpreters.com/
+- https://monkeylang.org/
