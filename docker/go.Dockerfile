@@ -14,4 +14,4 @@ RUN go mod tidy
 RUN go mod graph
 RUN go test
 RUN go doc
-RUN GOOS=linux GOARCH=amd64 go build -o ./binary/go-application ./source/main.go
+RUN GOARCH=amd64 GOOS=linux go build -o ./binary/go-application ./source/main.go

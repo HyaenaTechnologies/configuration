@@ -72,7 +72,7 @@ Development Environment Configuration
 ```shell
 git clone
 
-GOOS=linux GOARCH=amd64 go build -o ./binary/upr ./source/main.go
+GOARCH=amd64 GOOS=linux go build -o ./binary/upr ./source/main.go
 ```
 
 ## Install Update Releaser

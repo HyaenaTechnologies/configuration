@@ -54,5 +54,5 @@ jobs:
       run: go doc
 
     - name: Compile Package and Dependencies
-      run: GOOS=linux GOARCH=amd64 go build -o ./binary/go-application ./source/main.go
+      run: GOARCH=amd64 GOOS=linux go build -o ./binary/go-application ./source/main.go
       
