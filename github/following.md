@@ -58,9 +58,11 @@
 - https://github.com/github-linguist
 - https://github.com/git-lfs
 - https://github.com/juicedata
+- https://github.com/linuxkit
 - https://github.com/moby
 - https://github.com/dependabot
 - https://github.com/ziglang
+- https://github.com/cri-o
 - https://github.com/notaryproject
 - https://github.com/odin-lang
 - https://github.com/harness
