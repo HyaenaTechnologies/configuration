@@ -3,6 +3,7 @@
 [Arduino IDE]: https://arduino.cc/en/software
 [Containerman]: https://podman.io/
 [Containerman Pod]: https://docs.podman.io/en/latest/markdown/podman-pod.1.html
+[Etcd-IO]: https://etcd.io/
 [Git Repositories]: https://git-scm.com
 [Go Language]: https://go.dev/
 [Greptime Database]: https://greptime.com/
@@ -12,6 +13,7 @@
 [K8S Control]: https://kubernetes.io/
 [K8S Kompose]: https://kompose.io/
 [K8S Kube]: https://minikube.sigs.k8s.io/docs/
+[K8S Native]: https://knative.dev/docs/
 [K8S Ops]: https://kops.sigs.k8s.io/
 [K8S Skaffold]: https://skaffold.dev/
 [Loki Database]: https://grafana.com/oss/loki/
@@ -44,7 +46,7 @@ Development Environment Configuration
 
 - **_Container Orchestration Engines:_** [Docker Compose][Moby Compose], [Docker Swarm][Moby Swarm], [KOps][K8S Ops], [Minikube][K8S Kube], [Podman Pods][Containerman Pod]
 
-- **_Container Tools:_** [Kompose][K8S Kompose], [Kubectl][K8S Control], [Skaffold][K8S Skaffold]
+- **_Container Tools:_** [Knative][K8S Native][Kompose][K8S Kompose], [Kubectl][K8S Control], [Skaffold][K8S Skaffold]
 
 - **_Editors:_** [Helix][Helix Editor], [NeoVim][NeoVim Editor], [Vim][Vim Editor], [Visual Studio Code][VSCode]
 
@@ -61,6 +63,8 @@ Development Environment Configuration
 - **_Authorization:_** [Spice][Spice Database]
 
 - **_Graph:_** [Surreal][Surreal Database]
+
+- **_Key Value:_** [Etcd][Etcd-IO]
 
 - **_Object Storage:_** [JuiceFS][JuiceFS Database], [Minio][Minio Database]
 

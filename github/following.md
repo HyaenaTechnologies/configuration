@@ -66,10 +66,12 @@
 - https://github.com/notaryproject
 - https://github.com/odin-lang
 - https://github.com/harness
+- https://github.com/knative
 - https://github.com/kubernetes-sigs
 - https://github.com/rust-cli
 - https://github.com/rustwasm
 - https://github.com/GoogleContainerTools
+- https://github.com/etcd-io
 - https://github.com/VictoriaMetrics
 - https://github.com/actions
 - https://github.com/open-telemetry
