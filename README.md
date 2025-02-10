@@ -46,7 +46,7 @@ Development Environment Configuration
 
 - **_Container Orchestration Engines:_** [Docker Compose][Moby Compose], [Docker Swarm][Moby Swarm], [KOps][K8S Ops], [Minikube][K8S Kube], [Podman Pods][Containerman Pod]
 
-- **_Container Tools:_** [Knative][K8S Native][Kompose][K8S Kompose], [Kubectl][K8S Control], [Skaffold][K8S Skaffold]
+- **_Container Tools:_** [Knative][K8S Native], [Kompose][K8S Kompose], [Kubectl][K8S Control], [Skaffold][K8S Skaffold]
 
 - **_Editors:_** [Helix][Helix Editor], [NeoVim][NeoVim Editor], [Vim][Vim Editor], [Visual Studio Code][VSCode]
 
