@@ -22,7 +22,7 @@ sudo dnf -y install zig gcc gdb llvm clang lldb make cmake ninja
 
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
-wget https://go.dev/dl/go1.23.4.linux-amd64.tar.gz && tar --extract --file ./*.gz --verbose
+wget https://go.dev/dl/go1.24.0.linux-amd64.tar.gz && tar --extract --file ./*.gz --verbose
 
 sudo mv ./go1.23.4.linux-amd64/go /usr/bin
 
