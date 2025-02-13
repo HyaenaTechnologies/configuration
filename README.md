@@ -79,6 +79,22 @@ git clone
 GOARCH=amd64 GOOS=linux go build -o ./binary/upr ./source/main.go
 ```
 
+OR
+
+```shell
+git clone
+
+make build
+```
+
+OR
+
+```shell
+git clone
+
+./shell/build.sh
+```
+
 ## Install Update Releaser
 
 ```shell
