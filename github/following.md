@@ -5,7 +5,7 @@
 - https://github.com/chromium
 - https://github.com/yaml
 - https://github.com/CentOS
-- https://github.com/mozilla
+- https://github.com/Kitware
 - https://github.com/sparkfun
 - https://github.com/duckduckgo
 - https://github.com/arduino
