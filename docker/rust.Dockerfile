@@ -4,5 +4,5 @@ WORKDIR /rust-application
 
 COPY ./ ./
 
-RUN cargo test
-RUN cargo build
+RUN cargo test \ 
+cargo build

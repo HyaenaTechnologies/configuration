@@ -4,7 +4,7 @@ WORKDIR /zig-application
 
 COPY ./ ./
 
-RUN dnf -y upgrade
-RUN dnf -y install zig
-RUN zig test
-RUN zig build
+RUN dnf -y upgrade \ 
+dnf -y install zig \ 
+zig test \ 
+zig build \ 
