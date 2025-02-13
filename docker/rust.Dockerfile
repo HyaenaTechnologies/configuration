@@ -1,4 +1,4 @@
-FROM amd64/rust:latest
+FROM amd64/rust:alpine
 
 WORKDIR /rust-application
 
