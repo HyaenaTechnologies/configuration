@@ -7,4 +7,12 @@ COPY ./ ./
 RUN dnf -y upgrade \ 
 dnf -y install zig \ 
 zig test \ 
-zig build \ 
+zig build 
+
+FROM amd64/alpine:latest
+
+WORKDIR /zig-application
+
+COPY --from=builder ./ ./
+
+RUN ./binary/zig-application
