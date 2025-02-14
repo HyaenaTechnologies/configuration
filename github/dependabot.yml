@@ -17,7 +17,7 @@ updates:
       interval: "weekly"
       time: "03:00"
 
-  - package-ecosystem: "go"
+  - package-ecosystem: "gomod"
     commit-message:
       prefix: "Go"
     directory: "/" 
