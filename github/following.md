@@ -20,12 +20,10 @@
 - https://github.com/GNOME
 - https://github.com/Debian
 - https://github.com/whatwg
-- https://github.com/prometheus
 - https://github.com/openstax
 - https://github.com/ubuntu
 - https://github.com/docker
 - https://github.com/rust-lang
-- https://github.com/influxdata
 - https://github.com/containers
 - https://github.com/microsoft
 - https://github.com/neovim
@@ -57,7 +55,6 @@
 - https://github.com/rust-embedded
 - https://github.com/github-linguist
 - https://github.com/git-lfs
-- https://github.com/juicedata
 - https://github.com/linuxkit
 - https://github.com/moby
 - https://github.com/dependabot
@@ -72,7 +69,6 @@
 - https://github.com/rustwasm
 - https://github.com/GoogleContainerTools
 - https://github.com/etcd-io
-- https://github.com/VictoriaMetrics
 - https://github.com/actions
 - https://github.com/open-telemetry
 - https://github.com/blender
