@@ -5,7 +5,6 @@
 [Containerman Pod]: https://docs.podman.io/en/latest/markdown/podman-pod.1.html
 [Etcd-IO]: https://etcd.io/
 [Git Repositories]: https://git-scm.com
-[Go Language]: https://go.dev/
 [Greptime Database]: https://greptime.com/
 [Helix Editor]: https://helix-editor.com/
 [K8S Control]: https://kubernetes.io/
@@ -45,7 +44,7 @@ Development Environment Configuration
 
 - **_Integrated Development Environments:_** [Arduino][Arduino IDE]
 
-- **_Programming Languages:_** [Go][Go Language], [Rust][Rust Language], [Zig][Zig Language]
+- **_Programming Languages:_** [Rust][Rust Language], [Zig][Zig Language]
 
 - **_Operating Systems:_** [Fedora][RPM Fedora] -> [CentOS][RPM CentOS] -> [Red Hat Enterprise Linux][RPM RHEL] || [Ubuntu][APT Ubuntu] <- [Debian][APT Debian]
 
