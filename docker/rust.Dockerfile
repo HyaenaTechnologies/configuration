@@ -4,9 +4,12 @@ WORKDIR /rust-application
 
 COPY ./ ./
 
-RUN cargo test \ 
-cargo build
-
+RUN cargo update \ 
+cargo check \ 
+cargo doc \ 
+cargo test \ 
+cargo build --release \ 
+mv ./target/release/rust-application ./binary
 
 FROM amd64/alpine:latest
 
@@ -14,4 +17,4 @@ WORKDIR /rust-application
 
 COPY --from=builder ./ ./
 
-RUN ./target/debug//rust-application
+RUN ./binary/rust-application

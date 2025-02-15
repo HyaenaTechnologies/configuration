@@ -1,46 +1,33 @@
 #!/bin/bash
 
-sudo dnf -y upgrade && sudo dnf -y install dnf-plugins-core curl git zsh ufw iptables firewalld nftables
-
-sudo echo 'export PATH="$PATH:/usr/bin"' >> ~/.bashrc && sudo echo 'export PATH="$PATH:/usr/bin"' >> /etc/skel/.bashrc
-
-sudo echo 'export PATH="$PATH:/usr/local/bin"' >> ~/.bashrc && sudo echo 'export PATH="$PATH:/usr/local/bin"' >> /etc/skel/.bashrc
-
-sudo echo 'export PATH="$PATH:/usr/include"' >> ~/.bashrc && sudo echo 'export PATH="$PATH:/usr/include"' >> /etc/skel/.bashrc
-
-sudo echo 'export PATH="$PATH:/usr/local/include"' >> ~/.bashrc && sudo echo 'export PATH="$PATH:/usr/local/include"' >> /etc/skel/.bashrc
-
-sudo echo 'export PATH="$PATH:/usr/lib"' >> ~/.bashrc && sudo echo 'export PATH="$PATH:/usr/lib"' >> /etc/skel/.bashrc
-
-sudo echo 'export PATH="$PATH:/usr/local/lib"' >> ~/.bashrc && sudo echo 'export PATH="$PATH:/usr/local/lib"' >> /etc/skel/.bashrc
-
-sudo echo '. "$HOME/.cargo/env"' >> ~/.bashrc && sudo echo '. "$HOME/.cargo/env"' >> /etc/skel/.bashrc
-
-sudo echo 'export PATH="$PATH:/usr/bin/go/bin"' >> ~/.bashrc && sudo echo 'export PATH="$PATH:/usr/bin/go/bin"' >> /etc/skel/.bashrc
-
-sudo dnf -y install zig gcc gdb llvm clang lldb make cmake ninja
-
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-
-wget https://go.dev/dl/go1.24.0.linux-amd64.tar.gz && tar --extract --file ./*.gz --verbose
-
-sudo mv ./go1.23.4.linux-amd64/go /usr/bin
-
-sudo dnf -y install ed sed nano vim neovim helix podman
-
-sudo dnf-3 config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo
-
-sudo dnf -y install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
-
-curl -LO https://github.com/kubernetes/minikube/releases/latest/download/minikube-latest.x86_64.rpm
-
-sudo dnf -y install minikube-latest.x86_64.rpm
-
-curl -L https://github.com/kubernetes/kompose/releases/download/v1.35.0/kompose-linux-amd64 -o kompose
-
-curl -Lo kops https://github.com/kubernetes/kops/releases/download/$(curl -s https://api.github.com/repos/kubernetes/kops/releases/latest | grep tag_name | cut -d '"' -f 4)/kops-linux-amd64
-
-chmod +x ./kompose ./kops && sudo mv ./kompose ./kops /usr/local/bin
-
+# DNF Virtual Machine/Virtual Private Server Setup
+sudo dnf -y upgrade \ 
+sudo dnf -y install dnf-plugins-core curl git zsh ufw iptables firewalld nftables \ 
+sudo echo 'export PATH="$PATH:/usr/bin"' >> ~/.bashrc \ 
+sudo echo 'export PATH="$PATH:/usr/bin"' >> /etc/skel/.bashrc \ 
+sudo echo 'export PATH="$PATH:/usr/local/bin"' >> ~/.bashrc \ 
+sudo echo 'export PATH="$PATH:/usr/local/bin"' >> /etc/skel/.bashrc \ 
+sudo echo 'export PATH="$PATH:/usr/include"' >> ~/.bashrc \ 
+sudo echo 'export PATH="$PATH:/usr/include"' >> /etc/skel/.bashrc \ 
+sudo echo 'export PATH="$PATH:/usr/local/include"' >> ~/.bashrc \ 
+sudo echo 'export PATH="$PATH:/usr/local/include"' >> /etc/skel/.bashrc \ 
+sudo echo 'export PATH="$PATH:/usr/lib"' >> ~/.bashrc \ 
+sudo echo 'export PATH="$PATH:/usr/lib"' >> /etc/skel/.bashrc \ 
+sudo echo 'export PATH="$PATH:/usr/local/lib"' >> ~/.bashrc \ 
+sudo echo 'export PATH="$PATH:/usr/local/lib"' >> /etc/skel/.bashrc \ 
+sudo echo '. "$HOME/.cargo/env"' >> ~/.bashrc \ 
+sudo echo '. "$HOME/.cargo/env"' >> /etc/skel/.bashrc \ 
+sudo echo 'export PATH="$PATH:/usr/bin/zig"' >> ~/.bashrc \ 
+sudo echo 'export PATH="$PATH:/usr/bin/zig"' >> /etc/skel/.bashrc \ 
+sudo dnf -y install zig gcc gdb llvm clang lldb make cmake ninja \ 
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh \ 
+sudo dnf -y install ed sed nano vim neovim helix podman \ 
+sudo dnf-3 config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo \ 
+sudo dnf -y install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin \ 
+curl -LO https://github.com/kubernetes/minikube/releases/latest/download/minikube-latest.x86_64.rpm \ 
+sudo dnf -y install minikube-latest.x86_64.rpm \ 
+curl -L https://github.com/kubernetes/kompose/releases/download/v1.35.0/kompose-linux-amd64 -o kompose \ 
+curl -Lo kops https://github.com/kubernetes/kops/releases/download/$(curl -s https://api.github.com/repos/kubernetes/kops/releases/latest | grep tag_name | cut -d '"' -f 4)/kops-linux-amd64 \ 
+chmod +x ./kompose ./kops \ sudo mv ./kompose ./kops /usr/local/bin \ 
 curl -Lo skaffold https://storage.googleapis.com/skaffold/releases/latest/skaffold-linux-amd64 && \
 sudo install skaffold /usr/local/bin/

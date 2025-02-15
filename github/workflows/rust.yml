@@ -18,6 +18,15 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v4.2.2
 
+    - name: Update Dependencies
+      run: cargo update
+
+    - name: Check Package
+      run: cargo check
+
+    - name: Document Package
+      run: cargo doc
+
     - name: Run Tests
       run: cargo test
 
