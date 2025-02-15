@@ -14,4 +14,4 @@ WORKDIR /rust-application
 
 COPY --from=builder ./ ./
 
-RUN ./binary/rust-application
+RUN ./target/debug//rust-application
