@@ -6,6 +6,7 @@
 - https://github.com/yaml
 - https://github.com/CentOS
 - https://github.com/Kitware
+- https://github.com/mozilla
 - https://github.com/sparkfun
 - https://github.com/duckduckgo
 - https://github.com/arduino
@@ -74,6 +75,7 @@
 - https://github.com/blender
 - https://github.com/canonical
 - https://github.com/c3lang
+- https://github.com/compose-spec
 - https://github.com/cli
 - https://github.com/carbon-language
 - https://github.com/zigtools
