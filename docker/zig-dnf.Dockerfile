@@ -15,4 +15,6 @@ WORKDIR /zig-application
 
 COPY --from=builder ./ ./
 
+EXPOSE 80:8080/tcp
+
 RUN ./binary/zig-application
