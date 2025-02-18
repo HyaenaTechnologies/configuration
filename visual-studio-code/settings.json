@@ -18,6 +18,7 @@
 	"githubPullRequests.fileListLayout": "tree",
 	"githubPullRequests.notifications": "pullRequests",
 	"githubPullRequests.showPullRequestNumberInTree": true,
+	"go.toolsGopath": "/usr/bin/go/pkg/tool",
 	"makefile.makePath": "/usr/bin",
 	"security.workspace.trust.startupPrompt": "always",
 	"telemetry.telemetryLevel": "off",
