@@ -25,7 +25,6 @@
 - https://github.com/ubuntu
 - https://github.com/docker
 - https://github.com/rust-lang
-- https://github.com/influxdata
 - https://github.com/containers
 - https://github.com/microsoft
 - https://github.com/neovim
@@ -41,7 +40,6 @@
 - https://github.com/surrealdb
 - https://github.com/redhat-developer
 - https://github.com/ChromeDevTools
-- https://github.com/PowerShell
 - https://github.com/WebAssembly
 - https://github.com/vim
 - https://github.com/brave
