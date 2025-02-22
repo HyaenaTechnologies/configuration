@@ -1,10 +1,19 @@
 # Stars
 
 - https://github.com/ziglang/zig
-- https://github.com/rust-lang/rust
 - https://github.com/carbon-language/carbon-lang
+- https://github.com/rust-lang/rust
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
+- https://github.com/rust-embedded/rust-i2cdev
+- https://github.com/rust-embedded/linux-embedded-hal
+- https://github.com/rust-embedded/svd2rust
+- https://github.com/rust-embedded/svd
+- https://github.com/rust-embedded/cortex-r
+- https://github.com/rust-cli/confy
+- https://github.com/rust-cli/env_logger
+- https://github.com/cloudflare/quiche
+- https://github.com/rust-cli/rexpect
 - https://github.com/rust-embedded/embedded-alloc
 - https://github.com/rust-embedded/heapless
 - https://github.com/rust-embedded/cortex-m
@@ -19,7 +28,6 @@
 - https://github.com/rust-cli/config-rs
 - https://github.com/rust-cli/anstyle
 - https://github.com/aws/s2n-quic
-- https://github.com/cloudflare/quiche
 - https://github.com/microsoft/windows-rs
 - https://github.com/rustwasm/walrus
 - https://github.com/rustwasm/wasm-bindgen
