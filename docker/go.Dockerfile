@@ -22,4 +22,6 @@ WORKDIR /go-application
 
 COPY --from=builder ./ ./
 
+EXPOSE 80:8080/tcp
+
 CMD ["./binary/go-application", "serve"]
