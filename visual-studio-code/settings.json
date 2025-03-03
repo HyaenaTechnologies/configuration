@@ -20,6 +20,13 @@
 	"githubPullRequests.showPullRequestNumberInTree": true,
 	"go.toolsGopath": "/usr/bin/go/pkg/tool",
 	"makefile.makePath": "/usr/bin",
+	"rust-analyzer.cargo.buildScripts.rebuildOnSave": false,
+	"rust-analyzer.checkOnSave": false,
+	"rust-analyzer.debug.openDebugPane": true,
+	"rust-analyzer.diagnostics.styleLints.enable": true,
+	"rust-analyzer.restartServerOnConfigChange": true,
+	"rust-analyzer.showSyntaxTree": true,
+	"rust-analyzer.testExplorer": true,
 	"security.workspace.trust.startupPrompt": "always",
 	"telemetry.telemetryLevel": "off",
 	"vscode-kubernetes.kubectl-path": "/usr/bin/hyaena-technologies/kubectl",
@@ -28,3 +35,4 @@
 	"zig.path": "zig",
 	"zig.zls.path": "zls"
 }
+
