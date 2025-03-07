@@ -7,23 +7,16 @@ sudo apt -y full-upgrade
 sudo apt -y install apt-transport-https ca-certificates curl git zsh ufw iptables firewalld nftables
 # Export PATH Environment Variables to .bashrc
 sudo echo 'export PATH="$PATH:/usr/bin"' >> ~/.bashrc
-sudo echo 'export PATH="$PATH:/usr/bin"' >> /etc/skel/.bashrc
 sudo echo 'export PATH="$PATH:/usr/local/bin"' >> ~/.bashrc
-sudo echo 'export PATH="$PATH:/usr/local/bin"' >> /etc/skel/.bashrc
 sudo echo 'export PATH="$PATH:/usr/include"' >> ~/.bashrc
-sudo echo 'export PATH="$PATH:/usr/include"' >> /etc/skel/.bashrc
 sudo echo 'export PATH="$PATH:/usr/local/include"' >> ~/.bashrc
-sudo echo 'export PATH="$PATH:/usr/local/include"' >> /etc/skel/.bashrc
 sudo echo 'export PATH="$PATH:/usr/lib"' >> ~/.bashrc
-sudo echo 'export PATH="$PATH:/usr/lib"' >> /etc/skel/.bashrc
 sudo echo 'export PATH="$PATH:/usr/local/lib"' >> ~/.bashrc
-sudo echo 'export PATH="$PATH:/usr/local/lib"' >> /etc/skel/.bashrc
 # Install Tools
 sudo echo '. "$HOME/.cargo/env"' >> ~/.bashrc
-sudo echo '. "$HOME/.cargo/env"' >> /etc/skel/.bashrc
 sudo echo 'export PATH="$PATH:/usr/bin/zig"' >> ~/.bashrc
-sudo echo 'export PATH="$PATH:/usr/bin/zig"' >> /etc/skel/.bashrc
-sudo apt -y install gcc gdb llvm clang lldb make cmake ninja
+curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
+sudo apt -y install git-lfs gcc gdb llvm clang lldb make cmake ninja
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 wget https://ziglang.org/download/0.13.0/zig-linux-x86_64-0.13.0.tar.xz  tar --extract --file ./*.xz --verbose
 mv ./zig-linux-x86_64-0.13.0 ./zig  sudo mv ./zig /usr/bin

@@ -3,26 +3,19 @@
 # DNF Virtual Machine/Virtual Private Server Setup
 sudo dnf -y upgrade
 # Install Utilities
-sudo dnf -y install dnf-plugins-core curl git zsh ufw iptables firewalld nftables
+sudo dnf -y install dnf-utils dnf-plugins-core curl git zsh ufw iptables firewalld nftables
 # Export PATH Environment Variables to .bashrc
 sudo echo 'export PATH="$PATH:/usr/bin"' >> ~/.bashrc
-sudo echo 'export PATH="$PATH:/usr/bin"' >> /etc/skel/.bashrc
 sudo echo 'export PATH="$PATH:/usr/local/bin"' >> ~/.bashrc
-sudo echo 'export PATH="$PATH:/usr/local/bin"' >> /etc/skel/.bashrc
 sudo echo 'export PATH="$PATH:/usr/include"' >> ~/.bashrc
-sudo echo 'export PATH="$PATH:/usr/include"' >> /etc/skel/.bashrc
 sudo echo 'export PATH="$PATH:/usr/local/include"' >> ~/.bashrc
-sudo echo 'export PATH="$PATH:/usr/local/include"' >> /etc/skel/.bashrc
 sudo echo 'export PATH="$PATH:/usr/lib"' >> ~/.bashrc
-sudo echo 'export PATH="$PATH:/usr/lib"' >> /etc/skel/.bashrc
 sudo echo 'export PATH="$PATH:/usr/local/lib"' >> ~/.bashrc
-sudo echo 'export PATH="$PATH:/usr/local/lib"' >> /etc/skel/.bashrc
 # Install Tools
 sudo echo '. "$HOME/.cargo/env"' >> ~/.bashrc
-sudo echo '. "$HOME/.cargo/env"' >> /etc/skel/.bashrc
 sudo echo 'export PATH="$PATH:/usr/bin/zig"' >> ~/.bashrc
-sudo echo 'export PATH="$PATH:/usr/bin/zig"' >> /etc/skel/.bashrc
-sudo dnf -y install zig gcc gdb llvm clang lldb make cmake ninja
+curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.rpm.sh | sudo bash
+sudo dnf -y install zig git-lfs gcc gdb llvm clang lldb make cmake ninja
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 sudo dnf -y install ed sed nano vim neovim helix podman
 sudo dnf-3 config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo
