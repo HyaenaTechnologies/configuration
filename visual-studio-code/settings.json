@@ -25,7 +25,6 @@
 	"rust-analyzer.debug.openDebugPane": true,
 	"rust-analyzer.diagnostics.styleLints.enable": true,
 	"rust-analyzer.restartServerOnConfigChange": true,
-	"rust-analyzer.showSyntaxTree": true,
 	"rust-analyzer.testExplorer": true,
 	"security.workspace.trust.startupPrompt": "always",
 	"telemetry.telemetryLevel": "off",
