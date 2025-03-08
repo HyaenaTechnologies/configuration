@@ -22,4 +22,4 @@ export PATH=$PATH:~/blender
 export PATH=$PATH:~/grafana/bin
 export PATH=$PATH:~/podman-desktop
 export PATH=$PATH:~/VSCode
-export PATH=$PATH:~/zen
+

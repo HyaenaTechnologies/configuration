@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Ubuntu Driver Installer
+sudo ubuntu-drivers install
+
 # APT Virtual Machine/Virtual Private Server Setup
 sudo apt update
 sudo apt -y full-upgrade

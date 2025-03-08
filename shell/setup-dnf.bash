@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Nvidia RPM Fusion
+sudo dnf -y install akmod-nvidia xorg-x11-drv-nvidia xorg-x11-drv-nvidia-cuda
+
 # DNF Virtual Machine/Virtual Private Server Setup
 sudo dnf -y upgrade
 # Install Utilities
