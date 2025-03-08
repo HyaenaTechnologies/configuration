@@ -25,6 +25,7 @@
 - https://github.com/ubuntu
 - https://github.com/docker
 - https://github.com/rust-lang
+- https://github.com/influxdata
 - https://github.com/containers
 - https://github.com/microsoft
 - https://github.com/neovim
@@ -85,4 +86,3 @@
 - https://github.com/distribution
 - https://github.com/devcontainers
 - https://github.com/GreptimeTeam
-- https://github.com/zen-browser
