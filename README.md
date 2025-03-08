@@ -8,6 +8,7 @@
 [Go Language]: https://go.dev/
 [Greptime Database]: https://greptime.com/
 [Helix Editor]: https://helix-editor.com/
+[Influx Database]: https://www.influxdata.com/ 
 [K8S Control]: https://kubernetes.io/
 [K8S Kompose]: https://kompose.io/
 [K8S Kube]: https://minikube.sigs.k8s.io/docs/
@@ -61,4 +62,5 @@ Development Environment Configuration
 
 - **_Object Storage:_** [Minio][Minio Database]
 
-- **_Time Series:_** [Greptime][Greptime Database]
+- **_Time Series:_** [Greptime][Greptime Database], [Influx][Influx Database]
+
