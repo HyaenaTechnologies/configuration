@@ -1,15 +1,21 @@
 # Stars
 
 - https://github.com/ziglang/zig
-- https://github.com/carbon-language/carbon-lang
 - https://github.com/rust-lang/rust
+- https://github.com/carbon-language/carbon-lang
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
+- https://github.com/boostorg/asio
+- https://github.com/boostorg/beast
+- https://github.com/boostorg/json
+- https://github.com/curl/curl
+- https://github.com/FFmpeg/FFmpeg
+- https://github.com/libusb/libusb
 - https://github.com/rust-embedded/rust-i2cdev
 - https://github.com/rust-embedded/linux-embedded-hal
 - https://github.com/rust-embedded/svd2rust
 - https://github.com/rust-embedded/svd
-- https://github.com/rust-embedded/cortex-r
+- https://github.com/rust-embedded/cortex-ar
 - https://github.com/rust-cli/confy
 - https://github.com/rust-cli/env_logger
 - https://github.com/cloudflare/quiche

@@ -11,6 +11,7 @@
 - https://github.com/arduino
 - https://github.com/w3c
 - https://github.com/minio
+- https://github.com/FFmpeg
 - https://github.com/JetBrains
 - https://github.com/torvalds
 - https://github.com/arduino-libraries
@@ -21,7 +22,9 @@
 - https://github.com/Debian
 - https://github.com/whatwg
 - https://github.com/servo
+- https://github.com/boostorg
 - https://github.com/openstax
+- https://github.com/libusb
 - https://github.com/ubuntu
 - https://github.com/docker
 - https://github.com/rust-lang
@@ -53,6 +56,7 @@
 - https://github.com/KDE
 - https://github.com/itchio
 - https://github.com/thunderbird
+- https://github.com/curl
 - https://github.com/llvm
 - https://github.com/rust-embedded
 - https://github.com/github-linguist
