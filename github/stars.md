@@ -5,6 +5,8 @@
 - https://github.com/carbon-language/carbon-lang
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
+- https://github.com/libusb/hidapi
+- https://github.com/ImageMagick/ImageMagick
 - https://github.com/boostorg/asio
 - https://github.com/boostorg/beast
 - https://github.com/boostorg/json

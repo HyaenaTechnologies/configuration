@@ -47,6 +47,7 @@
 - https://github.com/WebAssembly
 - https://github.com/vim
 - https://github.com/brave
+- https://github.com/ImageMagick
 - https://github.com/opencontainers
 - https://github.com/go-gitea
 - https://github.com/desktop
@@ -54,7 +55,6 @@
 - https://github.com/unicode-org
 - https://github.com/containerd
 - https://github.com/KDE
-- https://github.com/itchio
 - https://github.com/thunderbird
 - https://github.com/curl
 - https://github.com/llvm
