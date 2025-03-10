@@ -22,6 +22,7 @@
 - https://github.com/Debian
 - https://github.com/whatwg
 - https://github.com/servo
+- https://github.com/openssl
 - https://github.com/openstax
 - https://github.com/libusb
 - https://github.com/ubuntu
@@ -39,6 +40,7 @@
 - https://github.com/semver
 - https://github.com/rpm-software-management
 - https://github.com/commonmark
+- https://github.com/hyperium
 - https://github.com/espressif
 - https://github.com/riscv
 - https://github.com/surrealdb

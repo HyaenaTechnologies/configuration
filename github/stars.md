@@ -5,12 +5,16 @@
 - https://github.com/carbon-language/carbon-lang
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
+- https://github.com/curl/curl
+- https://github.com/rustwasm/wasm-pack
+- https://github.com/hyperium/hyper
+- https://github.com/rust-lang/mdBook
+- https://github.com/openssl/openssl
 - https://github.com/webmproject/libwebm
 - https://github.com/webmproject/libwebp
 - https://github.com/google/autocxx
 - https://github.com/libusb/hidapi
 - https://github.com/ImageMagick/ImageMagick
-- https://github.com/curl/curl
 - https://github.com/FFmpeg/FFmpeg
 - https://github.com/libusb/libusb
 - https://github.com/rust-embedded/rust-i2cdev
