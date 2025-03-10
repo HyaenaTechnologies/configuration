@@ -22,7 +22,6 @@
 - https://github.com/Debian
 - https://github.com/whatwg
 - https://github.com/servo
-- https://github.com/boostorg
 - https://github.com/openstax
 - https://github.com/libusb
 - https://github.com/ubuntu
@@ -31,6 +30,7 @@
 - https://github.com/influxdata
 - https://github.com/containers
 - https://github.com/microsoft
+- https://github.com/webmproject
 - https://github.com/neovim
 - https://github.com/grafana
 - https://github.com/mdn

@@ -5,11 +5,11 @@
 - https://github.com/carbon-language/carbon-lang
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
+- https://github.com/webmproject/libwebm
+- https://github.com/webmproject/libwebp
+- https://github.com/google/autocxx
 - https://github.com/libusb/hidapi
 - https://github.com/ImageMagick/ImageMagick
-- https://github.com/boostorg/asio
-- https://github.com/boostorg/beast
-- https://github.com/boostorg/json
 - https://github.com/curl/curl
 - https://github.com/FFmpeg/FFmpeg
 - https://github.com/libusb/libusb
