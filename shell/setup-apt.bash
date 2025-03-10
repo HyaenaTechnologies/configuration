@@ -7,7 +7,7 @@ sudo ubuntu-drivers install
 sudo apt update
 sudo apt -y full-upgrade
 # Install Utilities
-sudo apt -y install apt-transport-https ca-certificates curl git zsh ufw iptables firewalld nftables
+sudo apt -y install apt-transport-https ca-certificates curl git zsh libssl libssl-dev ufw iptables firewalld nftables
 # Export PATH Environment Variables to .bashrc
 sudo echo 'export PATH="$PATH:/usr/bin"' >> ~/.bashrc
 sudo echo 'export PATH="$PATH:/usr/local/bin"' >> ~/.bashrc

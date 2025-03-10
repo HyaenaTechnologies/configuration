@@ -6,7 +6,7 @@ sudo dnf -y install akmod-nvidia xorg-x11-drv-nvidia xorg-x11-drv-nvidia-cuda
 # DNF Virtual Machine/Virtual Private Server Setup
 sudo dnf -y upgrade
 # Install Utilities
-sudo dnf -y install dnf-utils dnf-plugins-core curl git zsh ufw iptables firewalld nftables
+sudo dnf -y install dnf-utils dnf-plugins-core curl git zsh openssl openssl-devel ufw iptables firewalld nftables
 # Export PATH Environment Variables to .bashrc
 sudo echo 'export PATH="$PATH:/usr/bin"' >> ~/.bashrc
 sudo echo 'export PATH="$PATH:/usr/local/bin"' >> ~/.bashrc
