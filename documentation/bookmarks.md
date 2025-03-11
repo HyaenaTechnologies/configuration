@@ -3,8 +3,8 @@
 - https://learn.microsoft.com/en-us/cpp/c-language/
 - https://learn.microsoft.com/en-us/cpp/cpp/
 - https://clang.llvm.org/docs/index.html
-- https://go.dev/doc/
-- https://pkg.go.dev/std
+- https://c3-lang.org/standard-library/
+- https://c3-lang.org/implementation-details/specification/
 - https://rust-lang.org/learn
 - https://crates.io/
 - https://ziglang.org/learn/
@@ -36,3 +36,4 @@
 - https://mathsolver.microsoft.com/en
 - https://craftinginterpreters.com/
 - https://monkeylang.org/
+
