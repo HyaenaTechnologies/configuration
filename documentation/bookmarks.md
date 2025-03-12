@@ -1,10 +1,8 @@
 # Boomarks
 
-- https://learn.microsoft.com/en-us/cpp/c-language/
-- https://learn.microsoft.com/en-us/cpp/cpp/
+- https://learn.microsoft.com/en-us/cpp/
 - https://clang.llvm.org/docs/index.html
 - https://c3-lang.org/standard-library/
-- https://c3-lang.org/implementation-details/specification/
 - https://rust-lang.org/learn
 - https://crates.io/
 - https://ziglang.org/learn/
