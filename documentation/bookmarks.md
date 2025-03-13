@@ -7,6 +7,7 @@
 - https://crates.io/
 - https://ziglang.org/learn/
 - https://developer.mozilla.org/en-US/docs/Web/HTTP
+- https://w3.org/WAI/ARIA/apg/patterns/
 - https://git-scm.com/doc
 - https://git-lfs.com/
 - https://publications.opengroup.org/
@@ -26,7 +27,6 @@
 - https://neovim.io/doc/
 - https://www.vim.org/docs.php
 - https://code.visualstudio.com/docs
-- https://jetbrains.com/help/
 - https://docs.arduino.cc/language-reference/
 - https://raspberrypi.com/documentation/
 - https://docs.github.com/en
