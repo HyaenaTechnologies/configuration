@@ -20,6 +20,7 @@
 [Moby Compose]: https://docs.docker.com/reference/cli/docker/compose/
 [Moby Swarm]: https://docs.docker.com/reference/cli/docker/swarm/
 [NeoVim Editor]: https://neovim.io/
+[Odin Language]: https://odin-lang.org/
 [RPM CentOS]: http://centos.org/
 [RPM Fedora]: https://fedoraproject.org/
 [RPM RHEL]: http://developers.redhat.com/
@@ -46,7 +47,7 @@ Development Environment Configuration
 
 - **_Integrated Development Environments:_** [Arduino][Arduino IDE]
 
-- **_Programming Languages:_** [C3][C3 Language], [Rust][Rust Language], [Zig][Zig Language]
+- **_Programming Languages:_** [C3][C3 Language], [Odin][Odin Language], [Rust][Rust Language], [Zig][Zig Language]
 
 - **_Operating Systems:_** [Fedora][RPM Fedora] -> [CentOS][RPM CentOS] -> [Red Hat Enterprise Linux][RPM RHEL] || [Ubuntu][APT Ubuntu] <- [Debian][APT Debian]
 
