@@ -29,9 +29,12 @@
 - https://code.visualstudio.com/docs
 - https://docs.arduino.cc/language-reference/
 - https://raspberrypi.com/documentation/
+- https://toml.io/en/
+- https://yaml.org/
+- https://www.json.org/json-en.html
+- https://commonmark.org/
 - https://docs.github.com/en
 - https://openstax.org/subjects
 - https://mathsolver.microsoft.com/en
-- https://craftinginterpreters.com/
-- https://monkeylang.org/
+
 
