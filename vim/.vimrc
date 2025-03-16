@@ -1,9 +1,6 @@
 " Background Theme
 set background=dark
 
-" Turn Off Bell
-set belloff=all
-
 " Show confirm-prompt
 set confirm
 
