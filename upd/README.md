@@ -34,14 +34,6 @@ mv ./target/release/upd ./binary
 ./binary/upd
 ```
 
-## Containerize Web Server
-
-```shell
-git clone
-
-docker build ./ --file ./hyaena-technologies.Dockerfile --tag hyaena-technologies-web:latest
-```
-
 ## Install System Update Daemon
 
 ```shell
