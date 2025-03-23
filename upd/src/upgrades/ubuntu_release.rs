@@ -2,7 +2,7 @@ use std::process::Command;
 
 // Ubuntu System Release Upgrade
 pub fn release_ubuntu() -> () {
-    let dnf_upgrade = Command::new("do-release-upgrade")
+    let dnf_upgrade: Output = Command::new("do-release-upgrade")
     .output()
     .expect("Ubuntu Release System Upgrade Failed");
 

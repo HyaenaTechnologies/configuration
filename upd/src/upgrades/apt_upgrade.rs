@@ -2,7 +2,7 @@ use std::process::Command;
 
 // APT Upgrade
 pub fn upgrade_apt() -> () {
-    let apt_update = Command::new("apt")
+    let apt_update: Output = Command::new("apt")
     .arg("update")
     .output()
     .expect("APT Update Failed");
@@ -11,7 +11,7 @@ pub fn upgrade_apt() -> () {
     println!("Status: {:#?}", apt_update.status);
     println!("Error (If Error): {:#?}", String::from_utf8(apt_update.stderr));
 
-    let apt_upgrade = Command::new("apt")
+    let apt_upgrade: Output = Command::new("apt")
     .arg("-y")
     .arg("full-upgrade")
     .output()

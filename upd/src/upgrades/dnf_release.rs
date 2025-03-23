@@ -2,7 +2,7 @@ use std::process::Command;
 
 // DNF System Release Upgrade
 pub fn release_dnf() -> () {
-    let dnf_release = Command::new("dnf")
+    let dnf_release: Output = Command::new("dnf")
     .arg("-y")
     .arg("system-upgrade")
     .arg("download")

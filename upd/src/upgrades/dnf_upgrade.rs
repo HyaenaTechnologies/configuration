@@ -2,7 +2,7 @@ use std::process::Command;
 
 // DNF Upgrade
 pub fn upgrade_dnf() -> () {
-    let dnf_upgrade = Command::new("dnf")
+    let dnf_upgrade: Output = Command::new("dnf")
     .arg("-y")
     .arg("upgrade")
     .output()
