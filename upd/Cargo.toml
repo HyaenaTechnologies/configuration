@@ -1,0 +1,19 @@
+[workspace]
+resolver = "2"
+
+[package]
+description = "System Update Daemon"
+edition = "2024"
+include = [
+  "Cargo.toml",
+  "src/**/*"
+]
+name = "system_update_daemon"
+publish = false
+rust-version = "1.85.1"
+version = "1.0.0"
+
+[[bin]]
+name = "upd"
+path = "src/main.rs"
+

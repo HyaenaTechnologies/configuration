@@ -12,7 +12,6 @@
 - https://github.com/w3c
 - https://github.com/minio
 - https://github.com/FFmpeg
-- https://github.com/JetBrains
 - https://github.com/torvalds
 - https://github.com/arduino-libraries
 - https://github.com/raspberrypi
@@ -92,3 +91,4 @@
 - https://github.com/distribution
 - https://github.com/devcontainers
 - https://github.com/GreptimeTeam
+- https://github.com/podman-desktop

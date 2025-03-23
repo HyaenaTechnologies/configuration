@@ -1,5 +1,5 @@
-# APT Update
-.PHONY: apt-update
+# APT Upgrade
+.PHONY: apt-upgrade
 apt-update:
 	sudo apt update && sudo apt -y full-upgrade
 	
