@@ -5,8 +5,8 @@
 | Command        | Description                      |
 | -------------- | -------------------------------- |
 | apt-upgrade    | APT Upgrade                      |
-| dnf-upgrade    | DNF Upgrade                      |
 | dnf-release    | DNF System Release Upgrade       |
+| dnf-upgrade    | DNF Upgrade                      |
 | help           | Print List of Commands and Flags |
 | snap-refresh   | Snap Refresh                     |
 | ubuntu-release | Ubuntu System Releade Upgrade    |
@@ -17,8 +17,8 @@
 | Flag | Description                      |
 | ---- | -------------------------------- |
 | --au | APT Upgrade                      |
-| --du | DNF Upgrade                      |
 | --dr | DNF System Release Upgrade       |
+| --du | DNF Upgrade                      |
 | --h  | Print List of Commands and Flags |
 | --sr | Snap Refresh                     |
 | --ur | Ubuntu System Releade Upgrade    |

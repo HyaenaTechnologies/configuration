@@ -52,15 +52,6 @@ set showmode
 " Show Tab Line
 set showtabline=1
 
-" Spelling Check
-set spell
-
-" Spelling Suggestion
-set spellsuggest=best
-
-" Spelling Check Suggestion Language
-set spelllang=en
-
 " Terminal Color
 set termguicolors
 

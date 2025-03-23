@@ -6,8 +6,8 @@ pub fn print_help_message() -> () {
     println!("Commands:					Description:");
     println!("");
     println!("apt-upgrade               APT Upgrade");
-    println!("dnf-upgrade               DNF Upgrade");
     println!("dnf-release               DNF System Release Upgrade");
+    println!("dnf-upgrade               DNF Upgrade");
     println!("help                      Print List of Commands and Flags");
     println!("snap-refresh              Snap Refresh");
     println!("ubuntu-release            Ubuntu System Releade Upgrade");
@@ -15,8 +15,8 @@ pub fn print_help_message() -> () {
     println!("");
     println!("Flags:				    Description:");
     println!("--au                      APT Upgrade");
-    println!("--du                      DNF Upgrade");
     println!("--dr                      DNF System Release Upgrade");
+    println!("--du                      DNF Upgrade");
     println!("--h                       Print List of Commands and Flags");
     println!("--sr                      Snap Refresh");
     println!("--ur                      Ubuntu System Releade Upgrade");
