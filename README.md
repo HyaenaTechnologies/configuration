@@ -27,6 +27,7 @@
 [Rust Language]: https://rust-lang.org/
 [Spice Database]: https://authzed.com/
 [Surreal Database]: https://surrealdb.com/
+[UpD]: https://github.com/HyaenaTechnologies/configuration/tree/main/upd
 [Vim Editor]: https://www.vim.org/
 [VSCode]: https://code.visualstudio.com/
 [Zig Language]: https://ziglang.org/
@@ -65,3 +66,7 @@ Development Environment Configuration
 
 - **_Time Series:_** [Greptime][Greptime Database], [Influx][Influx Database]
 
+
+## System Update Daemon
+
+The System Update Daemon is located [Here][UpD]
