@@ -1,4 +1,5 @@
 use std::process::Command;
+use std::process::Output;
 
 // DNF Upgrade
 pub fn upgrade_dnf() -> () {

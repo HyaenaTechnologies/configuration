@@ -1,4 +1,5 @@
 use std::process::Command;
+use std::process::Output;
 
 // DNF System Release Upgrade
 pub fn release_dnf() -> () {

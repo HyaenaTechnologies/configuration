@@ -5,7 +5,7 @@ sudo ubuntu-drivers install
 # APT Virtual Machine/Virtual Private Server Setup
 sudo apt update && sudo apt -y full-upgrade
 # Install Utilities
-sudo apt -y install curl apt-transport-https ca-certificates git zsh libssl-dev ufw iptables firewalld nftables
+sudo apt -y install curl apt-transport-https ca-certificates pkg-config linux-tools-generic fdutils git zsh libssl-dev ufw iptables firewalld nftables
 # Install Tools
 curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
 sudo apt -y install git-lfs gcc gdb llvm clang lldb make cmake ninja

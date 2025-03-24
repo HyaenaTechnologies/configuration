@@ -1,4 +1,5 @@
 use std::process::Command;
+use std::process::Output;
 
 // Snap Refresh
 pub fn refresh_snap() -> () {
