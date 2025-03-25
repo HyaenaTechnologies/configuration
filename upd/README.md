@@ -30,7 +30,7 @@ System Update Daemon for the Advanced Package Tool, the Dandified Yellowdog Upda
 git clone
 
 cargo build --release --target x86_64-unknown-linux-gnu
-mv ./target/release/upd ./binary
+mv ./target/x86_64-unknown-linux-gnu/release/upd ./binary
 ./binary/upd
 ```
 
