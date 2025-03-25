@@ -8,8 +8,8 @@ RUN cargo update \
 cargo check \ 
 cargo doc \ 
 cargo test \ 
-cargo build --release \ 
-mv ./target/release/rust-application ./binary
+cargo build --release --target x86_64-unknown-linux-gnu \ 
+mv ./target/x86_64-unknown-linux-gnu/release/rust-application ./binary
 
 FROM amd64/alpine:latest
 
