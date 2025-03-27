@@ -1,5 +1,4 @@
-use std::env::args;
-use std::process::exit;
+use std::{env::args, process::ExitCode};
 
 use crate::utility::{print_help::print_help_message, print_version::print_version_number};
 
@@ -9,7 +8,7 @@ use crate::upgrades::{
 };
 
 // Command Line Argument Tokenizer
-pub fn tokenize_arguments() -> () {
+pub fn tokenize_arguments() -> ExitCode {
     let command_line_arguments: Vec<String> = args().collect();
 
     if command_line_arguments.len() != 2 {
@@ -19,7 +18,7 @@ pub fn tokenize_arguments() -> () {
         );
         print_help_message();
         println!("Error(1) - Exiting System Update Daemon");
-        exit(1);
+        return ExitCode::FAILURE;
     } else {
         match command_line_arguments[1].trim() {
             "apt-upgrade" | "--au" => {
@@ -50,10 +49,10 @@ pub fn tokenize_arguments() -> () {
                 );
                 print_help_message();
                 println!("Error(1) - Exiting System Update Daemon");
-                exit(1);
+                return ExitCode::FAILURE;
             }
         };
     };
 
-    return ();
+    return ExitCode::SUCCESS;
 }
