@@ -1,14 +1,21 @@
-use std::process::Command;
-use std::process::Output;
+use std::process::{Command, ExitCode, Output};
 
 // Snap Refresh
-pub fn refresh_snap() -> () {
+pub fn refresh_snap() -> ExitCode {
     let dnf_release: Output = Command::new("snap")
-    .arg("refresh")
-    .output()
-    .expect("Snap Refresh Failed");
+        .arg("refresh")
+        .output()
+        .expect("Snap Refresh Failed");
 
-    println!("Command Output: {:#?}", String::from_utf8(dnf_release.stdout));
+    println!(
+        "Command Output: {:#?}",
+        String::from_utf8(dnf_release.stdout)
+    );
     println!("Status: {:#?}", dnf_release.status);
-    println!("Error (If Error): {:#?}", String::from_utf8(dnf_release.stderr));
+    println!(
+        "Error (If Error): {:#?}",
+        String::from_utf8(dnf_release.stderr)
+    );
+
+    return ExitCode::SUCCESS;
 }

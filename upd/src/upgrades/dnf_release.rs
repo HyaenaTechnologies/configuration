@@ -1,17 +1,24 @@
-use std::process::Command;
-use std::process::Output;
+use std::process::{Command, ExitCode, Output};
 
 // DNF System Release Upgrade
-pub fn release_dnf() -> () {
+pub fn release_dnf() -> ExitCode {
     let dnf_release: Output = Command::new("dnf")
-    .arg("-y")
-    .arg("system-upgrade")
-    .arg("download")
-    .arg("--releasever=41")
-    .output()
-    .expect("DNF System Release Upgrade Failed");
+        .arg("-y")
+        .arg("system-upgrade")
+        .arg("download")
+        .arg("--releasever=41")
+        .output()
+        .expect("DNF System Release Upgrade Failed");
 
-    println!("Command Output: {:#?}", String::from_utf8(dnf_release.stdout));
+    println!(
+        "Command Output: {:#?}",
+        String::from_utf8(dnf_release.stdout)
+    );
     println!("Status: {:#?}", dnf_release.status);
-    println!("Error (If Error): {:#?}", String::from_utf8(dnf_release.stderr));
+    println!(
+        "Error (If Error): {:#?}",
+        String::from_utf8(dnf_release.stderr)
+    );
+
+    return ExitCode::SUCCESS;
 }

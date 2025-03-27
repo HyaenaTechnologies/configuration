@@ -1,5 +1,7 @@
+use std::process::ExitCode;
+
 // Print Help Command Output
-pub fn print_help_message() -> () {
+pub fn print_help_message() -> ExitCode {
     println!("Systsem Update Daemon");
     println!("");
     println!("");
@@ -23,5 +25,5 @@ pub fn print_help_message() -> () {
     println!("--v                       Print Version Number");
     println!("");
 
-    return ();
+    return ExitCode::SUCCESS;
 }
