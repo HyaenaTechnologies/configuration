@@ -20,6 +20,7 @@
 - https://github.com/GNOME
 - https://github.com/Debian
 - https://github.com/whatwg
+- https://github.com/lua
 - https://github.com/servo
 - https://github.com/openssl
 - https://github.com/openstax
@@ -91,4 +92,6 @@
 - https://github.com/distribution
 - https://github.com/devcontainers
 - https://github.com/GreptimeTeam
+- https://github.com/luau-lang
 - https://github.com/podman-desktop
+
