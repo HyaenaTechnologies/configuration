@@ -1,4 +1,7 @@
-use std::process::{Command, ExitCode, Output};
+use std::{
+    process::{Command, ExitCode, Output},
+    string::String,
+};
 
 // Ubuntu System Release Upgrade
 pub fn release_ubuntu() -> ExitCode {

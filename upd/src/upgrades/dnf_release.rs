@@ -1,4 +1,7 @@
-use std::process::{Command, ExitCode, Output};
+use std::{
+    process::{Command, ExitCode, Output},
+    string::String,
+};
 
 // DNF System Release Upgrade
 pub fn release_dnf() -> ExitCode {

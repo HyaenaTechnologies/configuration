@@ -1,4 +1,7 @@
-use std::process::{Command, ExitCode, Output};
+use std::{
+    process::{Command, ExitCode, Output},
+    string::String,
+};
 
 // APT Upgrade
 pub fn upgrade_apt() -> ExitCode {

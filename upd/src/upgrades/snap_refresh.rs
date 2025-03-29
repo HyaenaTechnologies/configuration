@@ -1,4 +1,7 @@
-use std::process::{Command, ExitCode, Output};
+use std::{
+    process::{Command, ExitCode, Output},
+    string::String,
+};
 
 // Snap Refresh
 pub fn refresh_snap() -> ExitCode {
