@@ -5,7 +5,6 @@
 - https://github.com/chromium
 - https://github.com/yaml
 - https://github.com/CentOS
-- https://github.com/Kitware
 - https://github.com/sparkfun
 - https://github.com/duckduckgo
 - https://github.com/arduino
@@ -20,11 +19,13 @@
 - https://github.com/GNOME
 - https://github.com/Debian
 - https://github.com/whatwg
+- https://github.com/lua
 - https://github.com/servo
 - https://github.com/openssl
 - https://github.com/openstax
 - https://github.com/libusb
 - https://github.com/ubuntu
+- https://github.com/uutils
 - https://github.com/docker
 - https://github.com/rust-lang
 - https://github.com/influxdata
@@ -91,5 +92,8 @@
 - https://github.com/distribution
 - https://github.com/devcontainers
 - https://github.com/GreptimeTeam
+- https://github.com/luau-lang
 - https://github.com/podman-desktop
+- https://github.com/jj-vcs
+- https://github.com/gitui-org
 

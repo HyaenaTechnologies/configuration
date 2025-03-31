@@ -1,3 +1,5 @@
+theme = "dark_plus"
+
 [editor]
 auto-completion = true
 auto-format = true
