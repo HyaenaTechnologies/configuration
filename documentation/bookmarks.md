@@ -30,6 +30,8 @@
 - https://skaffold.dev/docs/
 - https://opentelemetry.io/docs/
 - https://docs.helix-editor.com/
+- https://neovim.io/doc/
+- https://www.vim.org/docs.php
 - https://code.visualstudio.com/docs
 - https://docs.arduino.cc/language-reference/
 - https://raspberrypi.com/documentation/
