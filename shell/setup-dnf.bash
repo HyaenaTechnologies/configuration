@@ -15,7 +15,7 @@ rustup target add aarch64-pc-windows-msvc
 rustup target add x86_64-pc-windows-msvc
 sudo dnf -y install git-lfs gcc gdb llvm clang lldb make cmake ninja
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-sudo dnf -y install ed sed nano vim podman
+sudo dnf -y install ed sed nano podman
 sudo dnf-3 config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo
 sudo dnf -y install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 sudo dnf-3 config-manager --add-repo https://brave-browser-rpm-release.s3.brave.com/brave-browser.repo

@@ -32,7 +32,6 @@
 - https://github.com/containers
 - https://github.com/microsoft
 - https://github.com/webmproject
-- https://github.com/neovim
 - https://github.com/grafana
 - https://github.com/mdn
 - https://github.com/docker-library
@@ -47,7 +46,6 @@
 - https://github.com/redhat-developer
 - https://github.com/ChromeDevTools
 - https://github.com/WebAssembly
-- https://github.com/vim
 - https://github.com/brave
 - https://github.com/ImageMagick
 - https://github.com/opencontainers
@@ -63,6 +61,7 @@
 - https://github.com/rust-embedded
 - https://github.com/github-linguist
 - https://github.com/git-lfs
+- https://github.com/micro-editor
 - https://github.com/linuxkit
 - https://github.com/moby
 - https://github.com/dependabot
@@ -94,6 +93,5 @@
 - https://github.com/GreptimeTeam
 - https://github.com/luau-lang
 - https://github.com/podman-desktop
-- https://github.com/jj-vcs
 - https://github.com/gitui-org
 

@@ -15,11 +15,11 @@
 [K8S Native]: https://knative.dev/docs/
 [K8S Ops]: https://kops.sigs.k8s.io/
 [K8S Skaffold]: https://skaffold.dev/
+[Micro Editor]: https://micro-editor.github.io/
 [Minio Database]: https://min.io/
 [Moby]: http://docker.com
 [Moby Compose]: https://docs.docker.com/reference/cli/docker/compose/
 [Moby Swarm]: https://docs.docker.com/reference/cli/docker/swarm/
-[NeoVim Editor]: https://neovim.io/
 [Odin Language]: https://odin-lang.org/
 [RPM CentOS]: http://centos.org/
 [RPM Fedora]: https://fedoraproject.org/
@@ -28,7 +28,6 @@
 [Spice Database]: https://authzed.com/
 [Surreal Database]: https://surrealdb.com/
 [UpD]: https://github.com/HyaenaTechnologies/configuration/tree/main/upd
-[Vim Editor]: https://www.vim.org/
 [VSCode]: https://code.visualstudio.com/
 [Zig Language]: https://ziglang.org/
 
@@ -44,7 +43,7 @@ Development Environment Configuration
 
 - **_Container Tools:_** [Knative][K8S Native], [Kompose][K8S Kompose], [Kubectl][K8S Control], [Skaffold][K8S Skaffold]
 
-- **_Editors:_** [Helix][Helix Editor], [NeoVim][NeoVim Editor], [Vim][Vim Editor], [Visual Studio Code][VSCode]
+- **_Editors:_** [Helix][Helix Editor], [Micro][Micro Editor], [Visual Studio Code][VSCode]
 
 - **_Integrated Development Environments:_** [Arduino][Arduino IDE]
 

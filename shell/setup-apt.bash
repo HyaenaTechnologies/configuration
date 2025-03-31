@@ -15,7 +15,7 @@ rustup target add x86_64-apple-darwin
 rustup target add aarch64-unknown-linux-gnu
 rustup target add aarch64-pc-windows-msvc
 rustup target add x86_64-pc-windows-msvc
-sudo apt -y install ed sed nano vim podman
+sudo apt -y install ed sed nano podman
 # Add Docker's official GPG key:
 sudo apt -y update
 sudo install -m 0755 -d /etc/apt/keyrings
