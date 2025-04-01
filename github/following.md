@@ -5,6 +5,7 @@
 - https://github.com/chromium
 - https://github.com/yaml
 - https://github.com/CentOS
+- https://github.com/Kitware
 - https://github.com/sparkfun
 - https://github.com/duckduckgo
 - https://github.com/arduino
@@ -57,7 +58,6 @@
 - https://github.com/unicode-org
 - https://github.com/containerd
 - https://github.com/KDE
-- https://github.com/thunderbird
 - https://github.com/curl
 - https://github.com/llvm
 - https://github.com/rust-embedded
