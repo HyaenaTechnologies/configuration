@@ -3,6 +3,7 @@
 - https://github.com/github
 - https://github.com/git
 - https://github.com/chromium
+- https://github.com/mawww
 - https://github.com/yaml
 - https://github.com/CentOS
 - https://github.com/Kitware
@@ -29,6 +30,7 @@
 - https://github.com/uutils
 - https://github.com/docker
 - https://github.com/rust-lang
+- https://github.com/zyedidia
 - https://github.com/influxdata
 - https://github.com/containers
 - https://github.com/microsoft

@@ -9,6 +9,7 @@
 [Greptime Database]: https://greptime.com/
 [Helix Editor]: https://helix-editor.com/
 [Influx Database]: https://www.influxdata.com/ 
+[Kakoune Editor]: https://kakoune.org/
 [K8S Control]: https://kubernetes.io/
 [K8S Kompose]: https://kompose.io/
 [K8S Kube]: https://minikube.sigs.k8s.io/docs/
@@ -44,7 +45,7 @@ Development Environment Configuration
 
 - **_Container Tools:_** [Knative][K8S Native], [Kompose][K8S Kompose], [Kubectl][K8S Control], [Skaffold][K8S Skaffold]
 
-- **_Editors:_** [Helix][Helix Editor], [Micro][Micro Editor], [Visual Studio Code][VSCode]
+- **_Editors:_** [Helix][Helix Editor], [Kakoune][Kakoune Editor], [Micro][Micro Editor], [Visual Studio Code][VSCode]
 
 - **_Integrated Development Environments:_** [Arduino][Arduino IDE]
 

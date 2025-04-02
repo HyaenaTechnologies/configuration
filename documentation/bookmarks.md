@@ -4,6 +4,7 @@
 - https://clang.llvm.org/docs/index.html
 - https://c3-lang.org/standard-library/
 - https://odin-lang.org/docs/overview/
+- https://pkg.odin-lang.org/
 - https://rust-lang.org/learn
 - https://crates.io/
 - https://ziglang.org/learn/
@@ -30,6 +31,7 @@
 - https://opentelemetry.io/docs/
 - https://docs.helix-editor.com/
 - https://micro-editor.github.io/
+- https://kakoune.org/
 - https://code.visualstudio.com/docs
 - https://docs.arduino.cc/language-reference/
 - https://raspberrypi.com/documentation/
