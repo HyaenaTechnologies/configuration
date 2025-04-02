@@ -60,6 +60,7 @@
 - https://github.com/KDE
 - https://github.com/curl
 - https://github.com/llvm
+- https://github.com/tree-sitter
 - https://github.com/rust-embedded
 - https://github.com/github-linguist
 - https://github.com/git-lfs
@@ -85,10 +86,13 @@
 - https://github.com/compose-spec
 - https://github.com/cli
 - https://github.com/carbon-language
+- https://github.com/nvim-treesitter
 - https://github.com/zigtools
 - https://github.com/helix-editor
+- https://github.com/nvim-lua
 - https://github.com/advanced-security
 - https://github.com/authzed
+- https://github.com/nvim-telescope
 - https://github.com/distribution
 - https://github.com/devcontainers
 - https://github.com/GreptimeTeam
