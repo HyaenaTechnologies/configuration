@@ -4,7 +4,6 @@
 - https://clang.llvm.org/docs/index.html
 - https://c3-lang.org/standard-library/
 - https://odin-lang.org/docs/overview/
-- https://pkg.odin-lang.org/
 - https://rust-lang.org/learn
 - https://crates.io/
 - https://ziglang.org/learn/
@@ -30,13 +29,11 @@
 - https://skaffold.dev/docs/
 - https://opentelemetry.io/docs/
 - https://docs.helix-editor.com/
-- https://neovim.io/doc/
-- https://www.vim.org/docs.php
+- https://micro-editor.github.io/
 - https://code.visualstudio.com/docs
 - https://docs.arduino.cc/language-reference/
 - https://raspberrypi.com/documentation/
 - https://docs.github.com/en
 - https://openstax.org/subjects
 - https://mathsolver.microsoft.com/en
-
 

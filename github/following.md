@@ -33,7 +33,6 @@
 - https://github.com/containers
 - https://github.com/microsoft
 - https://github.com/webmproject
-- https://github.com/neovim
 - https://github.com/grafana
 - https://github.com/mdn
 - https://github.com/docker-library
@@ -48,7 +47,6 @@
 - https://github.com/redhat-developer
 - https://github.com/ChromeDevTools
 - https://github.com/WebAssembly
-- https://github.com/vim
 - https://github.com/brave
 - https://github.com/ImageMagick
 - https://github.com/opencontainers
@@ -64,6 +62,7 @@
 - https://github.com/rust-embedded
 - https://github.com/github-linguist
 - https://github.com/git-lfs
+- https://github.com/micro-editor
 - https://github.com/linuxkit
 - https://github.com/moby
 - https://github.com/dependabot
@@ -86,13 +85,10 @@
 - https://github.com/compose-spec
 - https://github.com/cli
 - https://github.com/carbon-language
-- https://github.com/nvim-treesitter
 - https://github.com/zigtools
 - https://github.com/helix-editor
-- https://github.com/nvim-lua
 - https://github.com/advanced-security
 - https://github.com/authzed
-- https://github.com/nvim-telescope
 - https://github.com/distribution
 - https://github.com/devcontainers
 - https://github.com/GreptimeTeam

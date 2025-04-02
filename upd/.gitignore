@@ -4,6 +4,9 @@
 build/
 **/build/
 
+# Cargo Configuraton
+.cargo
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
