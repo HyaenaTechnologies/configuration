@@ -18,13 +18,14 @@
 - https://github.com/raspberrypi
 - https://github.com/google
 - https://github.com/KhronosGroup
+- https://github.com/dart-lang
 - https://github.com/GNOME
 - https://github.com/Debian
 - https://github.com/whatwg
-- https://github.com/lua
 - https://github.com/servo
 - https://github.com/openssl
 - https://github.com/openstax
+- https://github.com/golang
 - https://github.com/libusb
 - https://github.com/ubuntu
 - https://github.com/uutils
@@ -94,7 +95,6 @@
 - https://github.com/distribution
 - https://github.com/devcontainers
 - https://github.com/GreptimeTeam
-- https://github.com/luau-lang
 - https://github.com/podman-desktop
 - https://github.com/jj-vcs
 - https://github.com/gitui-org
