@@ -10,7 +10,7 @@ include = [
 ]
 name = "system_update_daemon"
 publish = false
-rust-version = "1.85.1"
+rust-version = "1.86.0"
 version = "1.0.0"
 
 [[bin]]
