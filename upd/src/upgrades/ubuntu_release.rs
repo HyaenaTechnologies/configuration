@@ -1,23 +1,27 @@
 use std::{
+    io::Error,
     process::{Command, ExitCode, Output},
+    result::{
+        Result,
+        Result::{Err, Ok},
+    },
     string::String,
 };
 
 // Ubuntu System Release Upgrade
 pub fn release_ubuntu() -> ExitCode {
-    let dnf_upgrade: Output = Command::new("do-release-upgrade")
-        .output()
-        .expect("Ubuntu Release System Upgrade Failed");
+    let ubuntu_release: Result<Output, Error> = Command::new("do-release-upgrade").output();
 
-    println!(
-        "Command Output: {:#?}",
-        String::from_utf8(dnf_upgrade.stdout)
-    );
-    println!("Status: {:#?}", dnf_upgrade.status);
-    println!(
-        "Error (If Error): {:#?}",
-        String::from_utf8(dnf_upgrade.stderr)
-    );
+    match ubuntu_release {
+        Ok(release) => {
+            println!("Command Output: {:#?}", String::from_utf8(release.stdout));
+            println!("Status: {}", release.status);
+        }
+        Err(error) => {
+            eprintln!("System Release Upgrade Error for Ubuntu {}", error);
+            return ExitCode::FAILURE;
+        }
+    };
 
     return ExitCode::SUCCESS;
 }

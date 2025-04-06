@@ -1,20 +1,21 @@
 use std::{
     io::Error,
     process::{Command, ExitCode, Output},
-    result::Result,
-    result::Result::Err,
-    result::Result::Ok,
+    result::{
+        Result,
+        Result::{Err, Ok},
+    },
     string::String,
 };
 
 // APT Upgrade
 pub fn upgrade_apt() -> ExitCode {
     let apt_update: Result<Output, Error> = Command::new("apt").arg("update").output();
+
     match apt_update {
         Ok(update) => {
             println!("Command Output: {:#?}", String::from_utf8(update.stdout));
-            println!("Status: {:#?}", update.status);
-            println!("Error (If Error): {:#?}", String::from_utf8(update.stderr));
+            println!("Status: {}", update.status);
         }
         Err(error) => {
             eprintln!("Error Updating APT {}", error);
@@ -28,8 +29,7 @@ pub fn upgrade_apt() -> ExitCode {
     match apt_upgrade {
         Ok(upgrade) => {
             println!("Command Output: {:#?}", String::from_utf8(upgrade.stdout));
-            println!("Status: {:#?}", upgrade.status);
-            println!("Error (If Error): {:#?}", String::from_utf8(upgrade.stderr));
+            println!("Status: {}", upgrade.status);
         }
         Err(error) => {
             eprintln!("Error Upgrading APT {}", error);
