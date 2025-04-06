@@ -1,24 +1,24 @@
 use std::{
-    io::Error,
+    io::{Error, Stdout, Write, stdout},
     process::{Command, ExitCode, Output},
     result::{
         Result,
         Result::{Err, Ok},
     },
-    string::String,
 };
 
 // DNF Upgrade
 pub fn upgrade_dnf() -> ExitCode {
     let dnf_upgrade: Result<Output, Error> = Command::new("dnf").arg("-y").arg("upgrade").output();
+    let mut standard_output: Stdout = stdout();
 
     match dnf_upgrade {
         Ok(upgrade) => {
-            println!("Command Output: {:#?}", String::from_utf8(upgrade.stdout));
+            standard_output.write_all(&upgrade.stdout).unwrap();
             println!("Status: {}", upgrade.status);
         }
         Err(error) => {
-            eprintln!("Error Upgrading DNF {}", error);
+            eprintln!("Error Executing DNF Upgrade: {}", error);
             return ExitCode::FAILURE;
         }
     };

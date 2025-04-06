@@ -1,11 +1,10 @@
 use std::{
-    io::Error,
+    io::{Error, Stdout, Write, stdout},
     process::{Command, ExitCode, Output},
     result::{
         Result,
         Result::{Err, Ok},
     },
-    string::String,
 };
 
 // DNF System Release Upgrade
@@ -15,14 +14,15 @@ pub fn release_dnf() -> ExitCode {
         .arg("download")
         .arg("--releasever=41")
         .output();
+    let mut standard_output: Stdout = stdout();
 
     match dnf_release {
         Ok(release) => {
-            println!("Command Output: {:#?}", String::from_utf8(release.stdout));
+            standard_output.write_all(&release.stdout).unwrap();
             println!("Status: {}", release.status);
         }
         Err(error) => {
-            eprintln!("System Release Upgrade Error for DNF {}", error);
+            eprintln!("Error Executing DNF System Release Upgrade: {}", error);
             return ExitCode::FAILURE;
         }
     };

@@ -1,24 +1,24 @@
 use std::{
-    io::Error,
+    io::{Error, Stdout, Write, stdout},
     process::{Command, ExitCode, Output},
     result::{
         Result,
         Result::{Err, Ok},
     },
-    string::String,
 };
 
 // Snap Refresh
 pub fn refresh_snap() -> ExitCode {
     let snap_refresh: Result<Output, Error> = Command::new("snap").arg("refresh").output();
+    let mut standard_output: Stdout = stdout();
 
     match snap_refresh {
         Ok(refresh) => {
-            println!("Command Output: {:#?}", String::from_utf8(refresh.stdout));
+            standard_output.write_all(&refresh.stdout).unwrap();
             println!("Status: {}", refresh.status);
         }
         Err(error) => {
-            eprintln!("Error Refreshing Snaps {}", error);
+            eprintln!("Error Refreshing Snaps: {}", error);
             return ExitCode::FAILURE;
         }
     };
