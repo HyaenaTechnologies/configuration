@@ -18,7 +18,7 @@ pub fn release_ubuntu() -> ExitCode {
             println!("Status: {}", release.status);
         }
         Err(error) => {
-            eprintln!("System Release Upgrade Error for Ubuntu {}", error);
+            eprintln!("Error Executing Ubuntu System Release Upgrade: {}", error);
             return ExitCode::FAILURE;
         }
     };
