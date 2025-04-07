@@ -1,5 +1,5 @@
 use std::{
-    io::{Error, Stdout, Write, stdout},
+    io::{Error, StdoutLock, Write, stdout},
     process::{Command, ExitCode, Output},
     result::{
         Result,
@@ -14,7 +14,7 @@ pub fn release_dnf() -> ExitCode {
         .arg("download")
         .arg("--releasever=41")
         .output();
-    let mut standard_output: Stdout = stdout();
+    let mut standard_output: StdoutLock = stdout().lock();
 
     match dnf_release {
         Ok(release) => {

@@ -1,5 +1,5 @@
 use std::{
-    io::{Error, Stdout, Write, stdout},
+    io::{Error, StdoutLock, Write, stdout},
     process::{Command, ExitCode, Output},
     result::{
         Result,
@@ -10,7 +10,7 @@ use std::{
 // Ubuntu System Release Upgrade
 pub fn release_ubuntu() -> ExitCode {
     let ubuntu_release: Result<Output, Error> = Command::new("do-release-upgrade").output();
-    let mut standard_output: Stdout = stdout();
+    let mut standard_output: StdoutLock = stdout().lock();
 
     match ubuntu_release {
         Ok(release) => {

@@ -1,5 +1,5 @@
 use std::{
-    io::{Error, Stdout, Write, stdout},
+    io::{Error, StdoutLock, Write, stdout},
     process::{Command, ExitCode, Output},
     result::{
         Result,
@@ -10,7 +10,7 @@ use std::{
 // DNF Upgrade
 pub fn upgrade_dnf() -> ExitCode {
     let dnf_upgrade: Result<Output, Error> = Command::new("dnf").arg("-y").arg("upgrade").output();
-    let mut standard_output: Stdout = stdout();
+    let mut standard_output: StdoutLock = stdout().lock();
 
     match dnf_upgrade {
         Ok(upgrade) => {

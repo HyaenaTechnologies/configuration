@@ -1,5 +1,5 @@
 use std::{
-    io::{Error, Stdout, Write, stdout},
+    io::{Error, StdoutLock, Write, stdout},
     process::{Command, ExitCode, Output},
     result::{
         Result,
@@ -10,7 +10,7 @@ use std::{
 // APT Upgrade
 pub fn upgrade_apt() -> ExitCode {
     let apt_update: Result<Output, Error> = Command::new("apt").arg("update").output();
-    let mut standard_output: Stdout = stdout();
+    let mut standard_output: StdoutLock = stdout().lock();
 
     match apt_update {
         Ok(update) => {
