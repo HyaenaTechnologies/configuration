@@ -37,6 +37,7 @@ pub fn print_help_message() -> ExitCode {
     .unwrap();
     writeln!(standard_output, "").unwrap();
     writeln!(standard_output, "Flags:				    Description:").unwrap();
+    writeln!(standard_output, "").unwrap();
     writeln!(standard_output, "--au                      APT Upgrade").unwrap();
     writeln!(
         standard_output,
