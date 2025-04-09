@@ -15,7 +15,7 @@ pub fn release_ubuntu() -> ExitCode {
     match ubuntu_release {
         Ok(release) => {
             standard_output.write_all(&release.stdout).unwrap();
-            println!("Status: {}", release.status);
+            writeln!(standard_output, "Status: {}", release.status).unwrap();
         }
         Err(error) => {
             eprintln!("Error Executing Ubuntu System Release Upgrade: {}", error);

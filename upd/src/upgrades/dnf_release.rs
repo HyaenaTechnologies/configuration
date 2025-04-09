@@ -19,7 +19,7 @@ pub fn release_dnf() -> ExitCode {
     match dnf_release {
         Ok(release) => {
             standard_output.write_all(&release.stdout).unwrap();
-            println!("Status: {}", release.status);
+            writeln!(standard_output, "Status: {}", release.status).unwrap();
         }
         Err(error) => {
             eprintln!("Error Executing DNF System Release Upgrade: {}", error);

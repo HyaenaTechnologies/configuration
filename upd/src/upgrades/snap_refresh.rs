@@ -15,7 +15,7 @@ pub fn refresh_snap() -> ExitCode {
     match snap_refresh {
         Ok(refresh) => {
             standard_output.write_all(&refresh.stdout).unwrap();
-            println!("Status: {}", refresh.status);
+            writeln!(standard_output, "Status: {}", refresh.status).unwrap();
         }
         Err(error) => {
             eprintln!("Error Executing Snap Refresh: {}", error);

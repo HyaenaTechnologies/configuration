@@ -1,4 +1,10 @@
-use std::{env::args, process::ExitCode, string::String, vec::Vec};
+use std::{
+    env::args,
+    io::{StdoutLock, Write, stdout},
+    process::ExitCode,
+    string::String,
+    vec::Vec,
+};
 
 use crate::utility::{print_help::print_help_message, print_version::print_version_number};
 
@@ -10,14 +16,17 @@ use crate::upgrades::{
 // Command Line Argument Tokenizer
 pub fn tokenize_arguments() -> ExitCode {
     let command_line_arguments: Vec<String> = args().collect();
+    let mut standard_output: StdoutLock = stdout().lock();
 
     if command_line_arguments.len() != 2 {
-        println!(
+        writeln!(
+            standard_output,
             "Command or Flag Required but not Both: {:#?}",
             command_line_arguments
-        );
+        )
+        .unwrap();
         print_help_message();
-        println!("Error(1) - Exiting System Update Daemon");
+        writeln!(standard_output, "Error(1) - Exiting System Update Daemon").unwrap();
         return ExitCode::FAILURE;
     } else {
         match command_line_arguments[1].trim() {
@@ -43,12 +52,14 @@ pub fn tokenize_arguments() -> ExitCode {
                 print_version_number();
             }
             &_ => {
-                println!(
+                writeln!(
+                    standard_output,
                     "Uknown Command or Flag: {:#?}",
                     command_line_arguments[1].trim()
-                );
+                )
+                .unwrap();
                 print_help_message();
-                println!("Error(1) - Exiting System Update Daemon");
+                writeln!(standard_output, "Error(1) - Exiting System Update Daemon").unwrap();
                 return ExitCode::FAILURE;
             }
         };

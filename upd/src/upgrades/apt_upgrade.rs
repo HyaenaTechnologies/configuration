@@ -15,10 +15,10 @@ pub fn upgrade_apt() -> ExitCode {
     match apt_update {
         Ok(update) => {
             standard_output.write_all(&update.stdout).unwrap();
-            println!("Status: {}", update.status);
+            writeln!(standard_output, "Status: {}", update.status).unwrap();
         }
         Err(error) => {
-            eprintln!("Error Executing APT Update: {}", error);
+            eprintln!("Error Executing APT Update: {}", error,);
             return ExitCode::FAILURE;
         }
     };
@@ -29,10 +29,10 @@ pub fn upgrade_apt() -> ExitCode {
     match apt_upgrade {
         Ok(upgrade) => {
             standard_output.write_all(&upgrade.stdout).unwrap();
-            println!("Status: {}", upgrade.status);
+            writeln!(standard_output, "Status: {}", upgrade.status).unwrap();
         }
         Err(error) => {
-            eprint!("Error Executing APT Upgrade: {}", error);
+            eprint!("Error Executing APT Upgrade: {}", error,);
             return ExitCode::FAILURE;
         }
     };
