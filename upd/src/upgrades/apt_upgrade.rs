@@ -10,6 +10,8 @@ use std::{
 // APT Upgrade
 pub fn upgrade_apt() -> ExitCode {
     let apt_update: Result<Output, Error> = Command::new("apt").arg("update").output();
+    let apt_upgrade: Result<Output, Error> =
+        Command::new("apt").arg("-y").arg("full-upgrade").output();
     let mut standard_output: StdoutLock = stdout().lock();
 
     match apt_update {
@@ -22,9 +24,6 @@ pub fn upgrade_apt() -> ExitCode {
             return ExitCode::FAILURE;
         }
     };
-
-    let apt_upgrade: Result<Output, Error> =
-        Command::new("apt").arg("-y").arg("full-upgrade").output();
 
     match apt_upgrade {
         Ok(upgrade) => {
