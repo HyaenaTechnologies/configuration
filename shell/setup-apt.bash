@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/env bash
 
 # Ubuntu Driver Installer
 sudo ubuntu-drivers install

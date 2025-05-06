@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/env bash
 
 # Nvidia RPM Fusion
 sudo dnf -y install akmod-nvidia xorg-x11-drv-nvidia xorg-x11-drv-nvidia-cuda
