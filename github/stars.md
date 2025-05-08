@@ -5,6 +5,12 @@
 - https://github.com/carbon-language/carbon-lang
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
+- https://github.com/google/draco
+- https://github.com/google/dawn
+- https://github.com/google/shaderc-rs
+- https://github.com/google/swiftshader
+- https://github.com/google/filament
+- https://github.com/google/skia
 - https://github.com/curl/curl
 - https://github.com/rustwasm/wasm-pack
 - https://github.com/hyperium/hyper
@@ -76,3 +82,4 @@
 - https://github.com/ziglang/zig-bootstrap
 - https://github.com/git/git
 - https://github.com/torvalds/linux
+
