@@ -18,8 +18,12 @@
 - https://git-lfs.com/
 - https://publications.opengroup.org/
 - https://docs.kernel.org/
+- https://systemd.io/
+- https://openssh.com/
 - https://learn.microsoft.com/en-us/windows/win32/api/
 - https://vulkan.org/learn
+- https://skia.org/
+- https://google.github.io/filament/documentation/
 - https://docs.podman.io/en/latest/
 - https://docs.docker.com/
 - https://kubernetes.io/docs/home/
