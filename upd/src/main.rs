@@ -1,6 +1,9 @@
 mod arguments;
 use arguments::argument_tokenizer::tokenize_arguments;
 
+mod hypertext_markup;
+mod hypertext_transfer;
+mod service;
 mod upgrades;
 mod utility;
 
