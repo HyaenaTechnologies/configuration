@@ -46,6 +46,7 @@
 - https://github.com/rpm-software-management
 - https://github.com/commonmark
 - https://github.com/hyperium
+- https://github.com/letsencrypt
 - https://github.com/espressif
 - https://github.com/riscv
 - https://github.com/surrealdb
@@ -82,6 +83,7 @@
 - https://github.com/rust-cli
 - https://github.com/rustwasm
 - https://github.com/GoogleContainerTools
+- https://github.com/cert-manager
 - https://github.com/etcd-io
 - https://github.com/actions
 - https://github.com/firecracker-microvm
