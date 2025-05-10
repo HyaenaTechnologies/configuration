@@ -51,3 +51,4 @@ curl -Lo skaffold https://storage.googleapis.com/skaffold/releases/latest/skaffo
 sudo install skaffold /usr/local/bin/
 # Install Snaps
 sudo snap install vivaldi krita kolourpaint gnome-system-monitor gnome-logs 0ad warzone2100
+

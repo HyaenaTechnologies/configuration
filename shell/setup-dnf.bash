@@ -25,8 +25,9 @@ curl -Lo kops https://github.com/kubernetes/kops/releases/download/$(curl -s htt
 chmod +x kops
 sudo mv kops /usr/local/bin/kops
 # Install Minikube
-curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube_latest_amd64.deb
-sudo dpkg -i minikube_latest_amd64.deb
+curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-latest.x86_64.rpm
+sudo rpm -Uvh minikube-latest.x86_64.rpm
 # Install Skaffold
 curl -Lo skaffold https://storage.googleapis.com/skaffold/releases/latest/skaffold-linux-amd64 && \
 sudo install skaffold /usr/local/bin/
+
