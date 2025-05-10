@@ -50,5 +50,6 @@ sudo dpkg -i minikube_latest_amd64.deb
 curl -Lo skaffold https://storage.googleapis.com/skaffold/releases/latest/skaffold-linux-amd64 && \
 sudo install skaffold /usr/local/bin/
 # Install Snaps
+sudo snap install snapcraft --classic
 sudo snap install vivaldi krita kolourpaint gnome-system-monitor gnome-logs 0ad warzone2100
 

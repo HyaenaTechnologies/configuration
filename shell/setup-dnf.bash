@@ -30,4 +30,6 @@ sudo rpm -Uvh minikube-latest.x86_64.rpm
 # Install Skaffold
 curl -Lo skaffold https://storage.googleapis.com/skaffold/releases/latest/skaffold-linux-amd64 && \
 sudo install skaffold /usr/local/bin/
-
+# Install Snapd
+sudo dnf install snapd
+sudo ln -s /var/lib/snapd/snap /snap
