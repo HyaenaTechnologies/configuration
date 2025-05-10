@@ -4,7 +4,6 @@
 - https://clang.llvm.org/docs/index.html
 - https://c3-lang.org/standard-library/
 - https://odin-lang.org/docs/overview/
-- https://pkg.odin-lang.org/
 - https://rust-lang.org/learn
 - https://crates.io/
 - https://ziglang.org/learn/
@@ -20,6 +19,7 @@
 - https://docs.kernel.org/
 - https://systemd.io/
 - https://openssh.com/
+- https://p9f.org/
 - https://learn.microsoft.com/en-us/windows/win32/api/
 - https://vulkan.org/learn
 - https://skia.org/

@@ -48,6 +48,7 @@
 - https://github.com/hyperium
 - https://github.com/letsencrypt
 - https://github.com/espressif
+- https://github.com/9fans
 - https://github.com/riscv
 - https://github.com/surrealdb
 - https://github.com/redhat-developer
@@ -100,6 +101,7 @@
 - https://github.com/advanced-security
 - https://github.com/authzed
 - https://github.com/distribution
+- https://github.com/plan9foundation
 - https://github.com/lima-vm
 - https://github.com/devcontainers
 - https://github.com/GreptimeTeam
