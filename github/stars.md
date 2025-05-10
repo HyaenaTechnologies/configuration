@@ -5,6 +5,10 @@
 - https://github.com/carbon-language/carbon-lang
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
+- https://github.com/9fans/plan9port
+- https://github.com/openssh/openssh-portable
+- https://github.com/systemd/systemd
+- https://github.com/sudo-project/sudo
 - https://github.com/google/draco
 - https://github.com/google/dawn
 - https://github.com/google/shaderc-rs

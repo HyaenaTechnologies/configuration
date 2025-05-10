@@ -92,6 +92,7 @@
 - https://github.com/blender
 - https://github.com/canonical
 - https://github.com/c3lang
+- https://github.com/sudo-project
 - https://github.com/charmbracelet
 - https://github.com/compose-spec
 - https://github.com/cli
@@ -107,5 +108,6 @@
 - https://github.com/GreptimeTeam
 - https://github.com/podman-desktop
 - https://github.com/jj-vcs
+- https://github.com/trifectatechfoundation
 - https://github.com/gitui-org
 
