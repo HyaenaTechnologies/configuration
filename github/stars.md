@@ -5,6 +5,12 @@
 - https://github.com/carbon-language/carbon-lang
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
+- https://github.com/uutils/procps
+- https://github.com/uutils/coreutils
+- https://github.com/uutils/diffutils
+- https://github.com/uutils/findutils
+- https://github.com/uutils/util-linux
+- https://github.com/trifectatechfoundation/sudo-rs
 - https://github.com/9fans/plan9port
 - https://github.com/openssh/openssh-portable
 - https://github.com/systemd/systemd
