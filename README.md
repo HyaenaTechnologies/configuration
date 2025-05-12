@@ -21,7 +21,7 @@
 [Moby]: http://docker.com
 [Moby Compose]: https://docs.docker.com/reference/cli/docker/compose/
 [Moby Swarm]: https://docs.docker.com/reference/cli/docker/swarm/
-[NeoVim Editor]: https://neovim.io/
+[NVIM]: https://neovim.io/
 [Odin Language]: https://odin-lang.org/
 [RPM CentOS]: http://centos.org/
 [RPM Fedora]: https://fedoraproject.org/
