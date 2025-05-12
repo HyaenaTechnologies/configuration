@@ -34,6 +34,8 @@
 - https://skaffold.dev/docs/
 - https://opentelemetry.io/docs/
 - https://docs.helix-editor.com/
+- https://neovim.io/doc/
+- https://ww.vim.org/docs.php
 - https://micro-editor.github.io/
 - https://kakoune.org/
 - https://code.visualstudio.com/docs

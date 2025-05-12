@@ -30,6 +30,7 @@
 [Spice Database]: https://authzed.com/
 [Surreal Database]: https://surrealdb.com/
 [UpD]: https://github.com/HyaenaTechnologies/configuration/tree/main/upd
+[Vim Editor]: https://www.vim.org/docs.php
 [VSCode]: https://code.visualstudio.com/
 [Zig Language]: https://ziglang.org/
 
@@ -45,7 +46,7 @@ Development Environment Configuration
 
 - **_Container Tools:_** [Knative][K8S Native], [Kompose][K8S Kompose], [Kubectl][K8S Control], [Skaffold][K8S Skaffold]
 
-- **_Editors:_** [Helix][Helix Editor], [Kakoune][Kakoune Editor], [Micro][Micro Editor], [Visual Studio Code][VSCode]
+- **_Editors:_** [Helix][Helix Editor], [Kakoune][Kakoune Editor], [Micro][Micro Editor], [Vim][Vim Editor], [NeoVim][NVIM], [Visual Studio Code][VSCode]
 
 - **_Integrated Development Environments:_** [Arduino][Arduino IDE]
 
