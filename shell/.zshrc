@@ -10,10 +10,12 @@
 export PATH=$PATH:/usr/bin
 export PATH=$PATH:/usr/bin/arduino
 export PATH=$PATH:/usr/bin/c3
+export PATH=$PATH:/usr/bin/container-initiative
 export PATH=$PATH:/usr/bin/go/bin
 export PATH=$PATH:/usr/bin/go/pkg/tool/bin
 export PATH=$PATH:/usr/bin/helix
 export PATH=$PATH:/usr/bin/hyaena-technologies
+export PATH=$PATH:/usr/bin/hyaena-database
 export PATH=$PATH:/usr/bin/nvim/bin
 export PATH=$PATH:/usr/bin/odin
 export PATH=$PATH:/usr/bin/vulkan/x86_64/bin
