@@ -77,6 +77,7 @@
 - https://github.com/ziglang
 - https://github.com/cri-o
 - https://github.com/notaryproject
+- https://github.com/kata-containers
 - https://github.com/odin-lang
 - https://github.com/harness
 - https://github.com/knative
@@ -88,6 +89,7 @@
 - https://github.com/etcd-io
 - https://github.com/actions
 - https://github.com/firecracker-microvm
+- https://github.com/starship
 - https://github.com/open-telemetry
 - https://github.com/blender
 - https://github.com/canonical
