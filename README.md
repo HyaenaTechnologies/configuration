@@ -4,12 +4,11 @@
 [C3 Language]: https://c3-lang.org
 [Containerman]: https://podman.io/
 [Containerman Pod]: https://docs.podman.io/en/latest/markdown/podman-pod.1.html
-[Etcd-IO]: https://etcd.io/
+[Dragonfly Database]: https://www.dragonflydb.io/
 [Git Repositories]: https://git-scm.com
 [Greptime Database]: https://greptime.com/
 [Helix Editor]: https://helix-editor.com/
 [Influx Database]: https://www.influxdata.com/ 
-[Kakoune Editor]: https://kakoune.org/
 [K8S Control]: https://kubernetes.io/
 [K8S Kompose]: https://kompose.io/
 [K8S Kube]: https://minikube.sigs.k8s.io/docs/
@@ -30,7 +29,6 @@
 [Spice Database]: https://authzed.com/
 [Surreal Database]: https://surrealdb.com/
 [UpD]: https://github.com/HyaenaTechnologies/configuration/tree/main/upd
-[Vim Editor]: https://www.vim.org/docs.php
 [VSCode]: https://code.visualstudio.com/
 [Zig Language]: https://ziglang.org/
 
@@ -46,7 +44,7 @@ Development Environment Configuration
 
 - **_Container Tools:_** [Knative][K8S Native], [Kompose][K8S Kompose], [Kubectl][K8S Control], [Skaffold][K8S Skaffold]
 
-- **_Editors:_** [Helix][Helix Editor], [Kakoune][Kakoune Editor], [Micro][Micro Editor], [Vim][Vim Editor], [NeoVim][NVIM], [Visual Studio Code][VSCode]
+- **_Editors:_** [Helix][Helix Editor], [Micro][Micro Editor], [NeoVim][NVIM], [Visual Studio Code][VSCode]
 
 - **_Integrated Development Environments:_** [Arduino][Arduino IDE]
 
@@ -62,7 +60,7 @@ Development Environment Configuration
 
 - **_Graph:_** [Surreal][Surreal Database]
 
-- **_Key Value:_** [Etcd][Etcd-IO]
+- **_Key Value:_** [Dragonfly][Dragonfly Database]
 
 - **_Object Storage:_** [Minio][Minio Database]
 

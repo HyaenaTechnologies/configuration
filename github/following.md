@@ -3,7 +3,6 @@
 - https://github.com/github
 - https://github.com/git
 - https://github.com/chromium
-- https://github.com/mawww
 - https://github.com/yaml
 - https://github.com/CentOS
 - https://github.com/sparkfun
@@ -54,7 +53,6 @@
 - https://github.com/redhat-developer
 - https://github.com/ChromeDevTools
 - https://github.com/WebAssembly
-- https://github.com/vim
 - https://github.com/brave
 - https://github.com/ImageMagick
 - https://github.com/opencontainers
@@ -86,7 +84,6 @@
 - https://github.com/rustwasm
 - https://github.com/GoogleContainerTools
 - https://github.com/cert-manager
-- https://github.com/etcd-io
 - https://github.com/actions
 - https://github.com/firecracker-microvm
 - https://github.com/starship
@@ -108,6 +105,7 @@
 - https://github.com/lima-vm
 - https://github.com/devcontainers
 - https://github.com/GreptimeTeam
+- https://github.com/dragonflydb
 - https://github.com/podman-desktop
 - https://github.com/jj-vcs
 - https://github.com/trifectatechfoundation
