@@ -4,13 +4,13 @@
 - https://github.com/git
 - https://github.com/chromium
 - https://github.com/yaml
-- https://github.com/CentOS
 - https://github.com/sparkfun
 - https://github.com/duckduckgo
 - https://github.com/arduino
 - https://github.com/w3c
 - https://github.com/minio
 - https://github.com/FFmpeg
+- https://github.com/hashicorp
 - https://github.com/torvalds
 - https://github.com/arduino-libraries
 - https://github.com/raspberrypi
