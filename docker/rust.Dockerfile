@@ -15,7 +15,7 @@ FROM amd64/alpine:latest
 
 WORKDIR /rust-application
 
-COPY --from=builder ./ ./
+COPY --from=builder ./binary ./binary
 
 EXPOSE 8080:8080/tcp
 
