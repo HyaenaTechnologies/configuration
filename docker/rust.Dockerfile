@@ -17,6 +17,6 @@ WORKDIR /rust-application
 
 COPY --from=builder ./ ./
 
-EXPOSE 80:8080/tcp
+EXPOSE 8080:8080/tcp
 
 CMD ["./binary/rust-application", "serve"]
