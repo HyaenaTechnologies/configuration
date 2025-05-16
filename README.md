@@ -2,6 +2,7 @@
 [APT Ubuntu]: https://ubuntu.com/
 [Arduino IDE]: https://arduino.cc/en/software
 [C3 Language]: https://c3-lang.org
+[Certificate Manager]: https://cert-manager.io/
 [Containerman]: https://podman.io/
 [Containerman Pod]: https://docs.podman.io/en/latest/markdown/podman-pod.1.html
 [Dragonfly Database]: https://www.dragonflydb.io/
@@ -41,7 +42,7 @@ Development Environment Configuration
 
 - **_Container Orchestration Engines:_** [Docker Compose][Moby Compose], [Docker Swarm][Moby Swarm], [KOps][K8S Ops], [Minikube][K8S Kube], [Podman Pods][Containerman Pod]
 
-- **_Container Tools:_** [Knative][K8S Native], [Kompose][K8S Kompose], [Kubectl][K8S Control], [Skaffold][K8S Skaffold]
+- **_Container Tools:_** [cert-manager][Certificate Manager], [Knative][K8S Native], [Kompose][K8S Kompose], [Kubectl][K8S Control], [Skaffold][K8S Skaffold]
 
 - **_Editors:_** [Helix][Helix Editor], [Micro][Micro Editor], [NeoVim][NVIM], [Visual Studio Code][VSCode]
 
