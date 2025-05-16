@@ -26,7 +26,7 @@
 [RPM Fedora]: https://fedoraproject.org/
 [RPM RHEL]: http://developers.redhat.com/
 [Rust Language]: https://rust-lang.org/
-[SeaweedFS Databasey]: https://seaweedfs.com/
+[SeaweedFS Database]: https://seaweedfs.com/
 [Spice Database]: https://authzed.com/
 [Surreal Database]: https://surrealdb.com/
 [UpD]: https://github.com/HyaenaTechnologies/configuration/tree/main/upd
