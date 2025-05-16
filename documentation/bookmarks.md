@@ -5,7 +5,7 @@
 - https://c3-lang.org/standard-library/
 - https://odin-lang.org/docs/overview/
 - https://rust-lang.org/learn
-- https://crates.io/
+- https://crates.io/crates
 - https://ziglang.org/learn/
 - https://developer.mozilla.org/en-US/docs/Web/HTTP
 - https://w3.org/WAI/ARIA/apg/patterns/
