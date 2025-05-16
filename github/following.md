@@ -32,7 +32,6 @@
 - https://github.com/docker
 - https://github.com/rust-lang
 - https://github.com/zyedidia
-- https://github.com/influxdata
 - https://github.com/containers
 - https://github.com/microsoft
 - https://github.com/webmproject
@@ -53,6 +52,7 @@
 - https://github.com/redhat-developer
 - https://github.com/ChromeDevTools
 - https://github.com/WebAssembly
+- https://github.com/seaweedfs
 - https://github.com/brave
 - https://github.com/ImageMagick
 - https://github.com/opencontainers
@@ -61,6 +61,7 @@
 - https://github.com/kubernetes
 - https://github.com/unicode-org
 - https://github.com/containerd
+- https://github.com/traefik
 - https://github.com/KDE
 - https://github.com/curl
 - https://github.com/llvm
@@ -74,6 +75,7 @@
 - https://github.com/dependabot
 - https://github.com/ziglang
 - https://github.com/cri-o
+- https://github.com/envoyproxy
 - https://github.com/notaryproject
 - https://github.com/kata-containers
 - https://github.com/odin-lang
