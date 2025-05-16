@@ -22,12 +22,15 @@
 [Moby Swarm]: https://docs.docker.com/reference/cli/docker/swarm/
 [NVIM]: https://neovim.io/
 [Odin Language]: https://odin-lang.org/
+[Prometheus Database]: https://prometheus.io/
 [RPM Fedora]: https://fedoraproject.org/
 [RPM RHEL]: http://developers.redhat.com/
 [Rust Language]: https://rust-lang.org/
+[SeaweedFS Databasey]: https://seaweedfs.com/
 [Spice Database]: https://authzed.com/
 [Surreal Database]: https://surrealdb.com/
 [UpD]: https://github.com/HyaenaTechnologies/configuration/tree/main/upd
+[Victoria Database]: https://victoriametrics.com/
 [VSCode]: https://code.visualstudio.com/
 [Zig Language]: https://ziglang.org/
 
@@ -61,9 +64,9 @@ Development Environment Configuration
 
 - **_Key Value:_** [Dragonfly][Dragonfly Database]
 
-- **_Object Storage:_** [Minio][Minio Database]
+- **_Object Storage:_** [Minio][Minio Database], [SeaweedFS][SeaweedFS Database]
 
-- **_Time Series:_** [Greptime][Greptime Database]
+- **_Time Series:_** [Greptime][Greptime Database], [Prometheus][Prometheus Database], [Victoria Metrics][Victoria Database]
 
 
 ## System Update Daemon

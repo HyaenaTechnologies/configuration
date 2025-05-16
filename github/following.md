@@ -24,6 +24,7 @@
 - https://github.com/openssh
 - https://github.com/servo
 - https://github.com/openssl
+- https://github.com/prometheus
 - https://github.com/openstax
 - https://github.com/golang
 - https://github.com/libusb
@@ -86,6 +87,7 @@
 - https://github.com/rustwasm
 - https://github.com/GoogleContainerTools
 - https://github.com/cert-manager
+- https://github.com/VictoriaMetrics
 - https://github.com/actions
 - https://github.com/firecracker-microvm
 - https://github.com/starship

@@ -32,17 +32,6 @@ mv ./target/x86_64-unknown-linux-gnu/release/upd ./binary
 ./binary/upd
 ```
 
-## Containerize System Update Daemon
-
-```shell
-git clone
-
-docker build ./ --file ./update-daemon.Dockerfile --tag upd:latest
-||
-nerdctl build ./ --file ./update-daemon.Dockerfile --tag upd:latest
-```
-
-
 ## Install System Update Daemon
 
 ```shell
