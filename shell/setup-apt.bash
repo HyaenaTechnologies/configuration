@@ -8,7 +8,7 @@ sudo apt update && sudo apt -y full-upgrade
 sudo apt -y install curl ssh apt-transport-https ca-certificates pkg-config linux-tools-generic fdutils libssl-dev ufw iptables firewalld nftables
 # Install Tools
 curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
-sudo apt -y install git-lfs gcc gdb llvm clang lldb make cmake ninja tree git zsh
+sudo apt -y install git-lfs gcc gdb llvm clang lldb make cmake ninja-build tree git zsh
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 rustup target add aarch64-apple-darwin
 rustup target add x86_64-apple-darwin
@@ -17,7 +17,7 @@ rustup target add aarch64-pc-windows-msvc
 rustup target add x86_64-pc-windows-msvc
 sudo add-apt-repository ppa:maveonair/helix-editor
 sudo apt update
-sudo apt -y install ed sed nano micro neovim helix podman openssh
+sudo apt -y install ed sed nano micro neovim helix podman openssh ffmpeg imagemagick
 # Add Docker's official GPG key:
 sudo apt -y update
 sudo install -m 0755 -d /etc/apt/keyrings
@@ -51,5 +51,5 @@ curl -Lo skaffold https://storage.googleapis.com/skaffold/releases/latest/skaffo
 sudo install skaffold /usr/local/bin/
 # Install Snaps
 sudo snap install snapcraft --classic
-sudo snap install vivaldi krita kolourpaint gnome-system-monitor gnome-logs 0ad warzone2100
+sudo snap install vivaldi krita 0ad warzone2100
 
