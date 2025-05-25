@@ -7,7 +7,9 @@ sudo apt update && sudo apt -y full-upgrade
 # Install Utilities
 sudo apt -y install curl ssh apt-transport-https ca-certificates pkg-config linux-tools-generic fdutils libssl-dev ufw iptables firewalld nftables
 # Install Mesa
-sudo apy -y install mesa-vulkan-drivers mesa-vdpau-drivers mesa-va-drivers mesa-utils-bin mesa-utils mesa-libgallium mesa-common-dev 
+sudo apy -y install mesa-vulkan-drivers mesa-vdpau-drivers mesa-va-drivers mesa-utils-bin mesa-utils mesa-libgallium mesa-common-dev mesa-drm-shim mesa-opencl-icd
+# Install International Components for Unicode
+sudo apt -y install libicu-dev icu-devtools icu-doc
 # Install Tools
 curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
 sudo apt -y install git-lfs gcc gdb llvm clang lldb make cmake ninja-build tree git zsh
@@ -53,5 +55,5 @@ curl -Lo skaffold https://storage.googleapis.com/skaffold/releases/latest/skaffo
 sudo install skaffold /usr/local/bin/
 # Install Snaps
 sudo snap install snapcraft --classic
-sudo snap install mesa-core22 mesa-2404 nvidia-core22 vivaldi krita 0ad warzone2100
+sudo snap install vivaldi krita 0ad warzone2100
 
