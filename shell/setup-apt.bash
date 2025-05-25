@@ -55,5 +55,5 @@ curl -Lo skaffold https://storage.googleapis.com/skaffold/releases/latest/skaffo
 sudo install skaffold /usr/local/bin/
 # Install Snaps
 sudo snap install snapcraft --classic
-sudo snap install vivaldi krita 0ad warzone2100
+sudo snap install snap-store snapd-desktop-integration desktop-security-center firmware-updater prompting-client krita 0ad warzone2100
 
