@@ -64,6 +64,7 @@
 - https://github.com/containerd
 - https://github.com/traefik
 - https://github.com/KDE
+- https://github.com/redox-os
 - https://github.com/curl
 - https://github.com/llvm
 - https://github.com/tree-sitter
@@ -92,6 +93,7 @@
 - https://github.com/firecracker-microvm
 - https://github.com/starship
 - https://github.com/open-telemetry
+- https://github.com/SerenityOS
 - https://github.com/blender
 - https://github.com/canonical
 - https://github.com/c3lang
