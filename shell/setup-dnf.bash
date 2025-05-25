@@ -1,11 +1,19 @@
 #!/bin/env bash
 
-# Nvidia RPM Fusion
-sudo dnf -y install akmod-nvidia xorg-x11-drv-nvidia xorg-x11-drv-nvidia-cuda
-# DNF Virtual Machine/Virtual Private Server Setup
+# Initial System Update
 sudo dnf -y upgrade
 # Install Utilities
 sudo dnf -y install ssh dnf-utils dnf-plugins-core curl openssl openssl-devel ufw iptables firewalld nftables
+# Install Vulkan
+sudo dnf -y install vulkan-headers vulkan-loader vulkan-tools spirv-tools spirv-headers-devel
+# Install WebM and WebP Image Format Libraries
+sudo dnf -y install libwebplibwebp-tools 
+# Install LibUSB
+sudo dnf -y install libusb-dev libhidapi-dev
+# Install Mesa
+sudo dnf -y install mesa-dri-drivers mesa-filesystem mesa-va-drivers mesa-vdpau-drivers mesa-vulkan-drivers
+# Install International Components for Unicode
+sudo dnf -y install icu
 # Install Tools
 curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.rpm.sh | sudo bash
 rustup target add aarch64-apple-darwin

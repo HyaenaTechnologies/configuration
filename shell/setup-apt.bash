@@ -2,10 +2,18 @@
 
 # Ubuntu Driver Installer
 sudo ubuntu-drivers install
-# APT Virtual Machine/Virtual Private Server Setup
+# Initial System Update
 sudo apt update && sudo apt -y full-upgrade
 # Install Utilities
 sudo apt -y install curl ssh apt-transport-https ca-certificates pkg-config linux-tools-generic fdutils libssl-dev ufw iptables firewalld nftables
+# Install Vulkan
+sudo apt -y install libvulkan-dev libvulkan-memory-allocator-dev libvulkan-volk-dev libvulkan1 spirv-cross vulkan-memory-allocator-doc vulkan-tools vulkan-utility-libraries-dev vulkan-validationlayers libshaderc-dev glslang-dev glslang-tools
+# Install WebM and WebP Image Format Libraries
+sudo apt -y install libwebm-dev libwebm-tools libwebm1 libwebp-dev libwebp7 libwebpdecoder3 libwebpdemux2 libwebpmux3
+# Install LibUSB
+sudo apt -y install libusb-dev libhidapi-dev
+# Install Filament 3D Rendering Library
+sudo apt -y install libfilament-dev libfilament-tools
 # Install Mesa
 sudo apy -y install mesa-vulkan-drivers mesa-vdpau-drivers mesa-va-drivers mesa-utils-bin mesa-utils mesa-libgallium mesa-common-dev mesa-drm-shim mesa-opencl-icd
 # Install International Components for Unicode
