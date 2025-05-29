@@ -4,16 +4,6 @@
 sudo dnf -y upgrade
 # Install Utilities
 sudo dnf -y install ssh dnf-utils dnf-plugins-core curl openssl openssl-devel ufw iptables firewalld nftables
-# Install Vulkan
-sudo dnf -y install vulkan-headers vulkan-loader vulkan-tools spirv-tools spirv-headers-devel
-# Install WebM and WebP Image Format Libraries
-sudo dnf -y install libwebplibwebp-tools 
-# Install LibUSB
-sudo dnf -y install libusb-dev libhidapi-dev
-# Install Mesa
-sudo dnf -y install mesa-dri-drivers mesa-filesystem mesa-va-drivers mesa-vdpau-drivers mesa-vulkan-drivers
-# Install International Components for Unicode
-sudo dnf -y install icu
 # Install Tools
 curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.rpm.sh | sudo bash
 rustup target add aarch64-apple-darwin
@@ -25,7 +15,18 @@ sudo dnf -y install git-lfs gcc gdb llvm clang lldb make cmake ninja zsh tree gi
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 sudo dnf -y install ed sed nano podman micro neovim helix openssh ffmpeg imagemagick
 sudo dnf-3 config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo
-sudo dnf -y install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+sudo dnf -y install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin cri-o cri-tools1.33
+# Install Vulkan
+sudo dnf -y install vulkan-headers vulkan-loader vulkan-tools spirv-tools spirv-headers-devel
+# Install WebM and WebP Image Format Libraries
+sudo dnf -y install libwebplibwebp-tools 
+# Install LibUSB
+sudo dnf -y install libusb-dev libhidapi-dev
+# Install Mesa
+sudo dnf -y install mesa-dri-drivers mesa-filesystem mesa-va-drivers mesa-vdpau-drivers mesa-vulkan-drivers
+# Install International Components for Unicode
+sudo dnf -y install icu
+# Install Brave Browser
 sudo dnf-3 config-manager --add-repo https://brave-browser-rpm-release.s3.brave.com/brave-browser.repo
 sudo dnf -y install brave-browser
 # Install Kops
