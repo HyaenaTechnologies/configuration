@@ -7,7 +7,9 @@
 - https://rust-lang.org/learn
 - https://crates.io/crates
 - https://ziglang.org/learn/
-- https://developer.mozilla.org/en-US/docs/Web/HTTP
+- https://developer.mozilla.org/en-US/docs/Web
+- https://spec.whatwg.org/
+- https://wiki.csswg.org/spec
 - https://w3.org/WAI/ARIA/apg/patterns/
 - https://toml.io/en/
 - https://yaml.org/
@@ -21,6 +23,8 @@
 - https://openssh.com/
 - https://p9f.org/
 - https://learn.microsoft.com/en-us/windows/win32/api/
+- https://datatracker.ietf.org/
+- https://ecma-international.org/publications-and-standards/standards/
 - https://vulkan.org/learn
 - https://skia.org/
 - https://google.github.io/filament/documentation/
