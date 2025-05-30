@@ -8,7 +8,7 @@ sudo apt update && sudo apt -y full-upgrade
 sudo apt -y install curl ssh apt-transport-https ca-certificates pkg-config linux-tools-generic fdutils libssl-dev ufw iptables firewalld nftables
 # Install Tools
 curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
-sudo apt -y install git-lfs gcc gdb llvm clang lldb make cmake ninja-build tree git zsh
+sudo apt -y install git-lfs gcc gdb llvm clang lldb make cmake ninja-build tree git zsh rsync librsync-dev
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 rustup target add aarch64-apple-darwin
 rustup target add x86_64-apple-darwin

@@ -72,6 +72,7 @@
 - https://github.com/github-linguist
 - https://github.com/git-lfs
 - https://github.com/micro-editor
+- https://github.com/rclone
 - https://github.com/linuxkit
 - https://github.com/moby
 - https://github.com/dependabot
@@ -113,6 +114,7 @@
 - https://github.com/GreptimeTeam
 - https://github.com/dragonflydb
 - https://github.com/podman-desktop
+- https://github.com/RsyncProject
 - https://github.com/jj-vcs
 - https://github.com/trifectatechfoundation
 - https://github.com/gitui-org
