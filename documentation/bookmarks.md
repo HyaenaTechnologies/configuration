@@ -23,6 +23,8 @@
 - https://openssh.com/
 - https://p9f.org/
 - https://learn.microsoft.com/en-us/windows/win32/api/
+- https://riscv.org/specifications/ratified/
+- https://www.bluetooth.com/specifications/specs/
 - https://datatracker.ietf.org/
 - https://ecma-international.org/publications-and-standards/standards/
 - https://vulkan.org/learn
