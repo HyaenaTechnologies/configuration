@@ -1,5 +1,3 @@
-# cURL Signature
-
 "GET / HTTP/1.1",
 "Host: localhost:8080",
 "User-Agent: curl/8.12.1",
