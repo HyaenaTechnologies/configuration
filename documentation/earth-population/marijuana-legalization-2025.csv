@@ -39,7 +39,7 @@ TR,Turkey,Illegal,Selective
 TZ,Tanzania,Illegal,Illegal
 FR,France,Illegal,Selective
 KE,Kenya,Illegal,Illegal
-KR,South Korea,Illegal
+KR,South Korea,Illegal,Selective
 SD,Sudan,Illegal,Illegal
 UG,Uganda,Illegal,Illegal
 DZ,Algeria,Illegal,Illegal
@@ -190,7 +190,7 @@ ZA,South Africa,Legal (Obstructed),Legal (Obstructed)
 GE,Georgia,Legal (Obstructed),Legal (Obstructed)
 IN,India,Selective,Selective
 US,United States,Selective,Selective
-AU,Australia,Selective,Selectiv
+AU,Australia,Selective,Selective
 LU,Luxembourg,Selective,Legal
 BB,Barbados,Selective,Legal
 KP,North Korea,Unknown,Unknown
