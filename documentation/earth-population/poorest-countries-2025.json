@@ -1,7 +1,7 @@
 [
   {
     "Flag-Code": "BI",
-    "country": "Burundi",
+    "Country": "Burundi",
     "Domestic-Product-USD": 199.6,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 950.9,
@@ -11,7 +11,7 @@
   },
   {
     "Flag-Code": "AF",
-    "country": "Afghanistan",
+    "Country": "Afghanistan",
     "Domestic-Product-USD": 352.6,
     "Domestic-Product-Year": 2022,
     "Puchasing-Power-IntD": 2092.9,
@@ -21,7 +21,7 @@
   },
   {
     "Flag-Code": "SY",
-    "country": "Syria",
+    "Country": "Syria",
     "Domestic-Product-USD": 421.1,
     "Domestic-Product-Year": 2021,
     "Puchasing-Power-IntD": 2914.5,
@@ -31,7 +31,7 @@
   },
   {
     "Flag-Code": "SL",
-    "country": "Sierra Leone",
+    "Country": "Sierra Leone",
     "Domestic-Product-USD": 433.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 1846.7,
@@ -41,7 +41,7 @@
   },
   {
     "Flag-Code": "CF",
-    "country": "Central African Republic",
+    "Country": "Central African Republic",
     "Domestic-Product-USD": 445,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 1130,
@@ -51,7 +51,7 @@
   },
   {
     "Flag-Code": "MG",
-    "country": "Madagascar",
+    "Country": "Madagascar",
     "Domestic-Product-USD": 528.7,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 1875.1,
@@ -61,7 +61,7 @@
   },
   {
     "Flag-Code": "YE",
-    "country": "Yemen",
+    "Country": "Yemen",
     "Domestic-Product-USD": 533.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": null,
@@ -71,7 +71,7 @@
   },
   {
     "Flag-Code": "MZ",
-    "country": "Mozambique",
+    "Country": "Mozambique",
     "Domestic-Product-USD": 608.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 1657.1,
@@ -81,7 +81,7 @@
   },
   {
     "Flag-Code": "NE",
-    "country": "Niger",
+    "Country": "Niger",
     "Domestic-Product-USD": 618.3,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 1817.3,
@@ -91,7 +91,7 @@
   },
   {
     "Flag-Code": "SO",
-    "country": "Somalia",
+    "Country": "Somalia",
     "Domestic-Product-USD": 643.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 1611.3,
@@ -101,7 +101,7 @@
   },
   {
     "Flag-Code": "CD",
-    "country": "DR Congo",
+    "Country": "DR Congo",
     "Domestic-Product-USD": 649.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 1670.8,
@@ -111,7 +111,7 @@
   },
   {
     "Flag-Code": "MW",
-    "country": "Malawi",
+    "Country": "Malawi",
     "Domestic-Product-USD": 672.9,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 1867.7,
@@ -121,7 +121,7 @@
   },
   {
     "Flag-Code": "TD",
-    "country": "Chad",
+    "Country": "Chad",
     "Domestic-Product-USD": 719.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 1969.3,
@@ -131,7 +131,7 @@
   },
   {
     "Flag-Code": "LR",
-    "country": "Liberia",
+    "Country": "Liberia",
     "Domestic-Product-USD": 799.5,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 1819,
@@ -141,7 +141,7 @@
   },
   {
     "Flag-Code": "GM",
-    "country": "Gambia",
+    "Country": "Gambia",
     "Domestic-Product-USD": 843.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 3162.5,
@@ -151,7 +151,7 @@
   },
   {
     "Flag-Code": "BF",
-    "country": "Burkina Faso",
+    "Country": "Burkina Faso",
     "Domestic-Product-USD": 874.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 2726.9,
@@ -161,7 +161,7 @@
   },
   {
     "Flag-Code": "LS",
-    "country": "Lesotho",
+    "Country": "Lesotho",
     "Domestic-Product-USD": 878,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 2793.9,
@@ -171,7 +171,7 @@
   },
   {
     "Flag-Code": "ML",
-    "country": "Mali",
+    "Country": "Mali",
     "Domestic-Product-USD": 897.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 2726,
@@ -181,7 +181,7 @@
   },
   {
     "Flag-Code": "GW",
-    "country": "Guinea-Bissau",
+    "Country": "Guinea-Bissau",
     "Domestic-Product-USD": 914.3,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 2630.3,
@@ -191,7 +191,7 @@
   },
   {
     "Flag-Code": "RW",
-    "country": "Rwanda",
+    "Country": "Rwanda",
     "Domestic-Product-USD": 1000.2,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 3361.1,
@@ -201,7 +201,7 @@
   },
   {
     "Flag-Code": "TG",
-    "country": "Togo",
+    "Country": "Togo",
     "Domestic-Product-USD": 1013,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 3155.3,
@@ -211,7 +211,7 @@
   },
   {
     "Flag-Code": "UG",
-    "country": "Uganda",
+    "Country": "Uganda",
     "Domestic-Product-USD": 1014.2,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 3098.1,
@@ -221,7 +221,7 @@
   },
   {
     "Flag-Code": "MM",
-    "country": "Myanmar",
+    "Country": "Myanmar",
     "Domestic-Product-USD": 1187.6,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 5905.2,
@@ -231,7 +231,7 @@
   },
   {
     "Flag-Code": "TJ",
-    "country": "Tajikistan",
+    "Country": "Tajikistan",
     "Domestic-Product-USD": 1189,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 5082.2,
@@ -241,7 +241,7 @@
   },
   {
     "Flag-Code": "TZ",
-    "country": "Tanzania",
+    "Country": "Tanzania",
     "Domestic-Product-USD": 1211.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 3972.6,
@@ -251,7 +251,7 @@
   },
   {
     "Flag-Code": "ET",
-    "country": "Ethiopia",
+    "Country": "Ethiopia",
     "Domestic-Product-USD": 1293.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 3109.3,
@@ -261,7 +261,7 @@
   },
   {
     "Flag-Code": "NP",
-    "country": "Nepal",
+    "Country": "Nepal",
     "Domestic-Product-USD": 1324,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 5181.8,
@@ -271,7 +271,7 @@
   },
   {
     "Flag-Code": "ZM",
-    "country": "Zambia",
+    "Country": "Zambia",
     "Domestic-Product-USD": 1369.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 4125.6,
@@ -281,7 +281,7 @@
   },
   {
     "Flag-Code": "PK",
-    "country": "Pakistan",
+    "Country": "Pakistan",
     "Domestic-Product-USD": 1407,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 6212,
@@ -291,7 +291,7 @@
   },
   {
     "Flag-Code": "BJ",
-    "country": "Benin",
+    "Country": "Benin",
     "Domestic-Product-USD": 1434.7,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 4248.3,
@@ -301,7 +301,7 @@
   },
   {
     "Flag-Code": "KM",
-    "country": "Comoros",
+    "Country": "Comoros",
     "Domestic-Product-USD": 1587.2,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 3854.8,
@@ -311,7 +311,7 @@
   },
   {
     "Flag-Code": "ZW",
-    "country": "Zimbabwe",
+    "Country": "Zimbabwe",
     "Domestic-Product-USD": 1592.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 3899.9,
@@ -321,7 +321,7 @@
   },
   {
     "Flag-Code": "NG",
-    "country": "Nigeria",
+    "Country": "Nigeria",
     "Domestic-Product-USD": 1621.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 6318.2,
@@ -331,7 +331,7 @@
   },
   {
     "Flag-Code": "TL",
-    "country": "Timor-Leste",
+    "Country": "Timor-Leste",
     "Domestic-Product-USD": 1648.6,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 5108.7,
@@ -341,7 +341,7 @@
   },
   {
     "Flag-Code": "GN",
-    "country": "Guinea",
+    "Country": "Guinea",
     "Domestic-Product-USD": 1663.9,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 4429.3,
@@ -351,7 +351,7 @@
   },
   {
     "Flag-Code": "CM",
-    "country": "Cameroon",
+    "Country": "Cameroon",
     "Domestic-Product-USD": 1673.6,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 5380.2,
@@ -361,7 +361,7 @@
   },
   {
     "Flag-Code": "HT",
-    "country": "Haiti",
+    "Country": "Haiti",
     "Domestic-Product-USD": 1693.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 3255.5,
@@ -371,7 +371,7 @@
   },
   {
     "Flag-Code": "SN",
-    "country": "Senegal",
+    "Country": "Senegal",
     "Domestic-Product-USD": 1746,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 4833,
@@ -381,7 +381,7 @@
   },
   {
     "Flag-Code": "KH",
-    "country": "Cambodia",
+    "Country": "Cambodia",
     "Domestic-Product-USD": 1875.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 5624.1,
@@ -391,7 +391,7 @@
   },
   {
     "Flag-Code": "KE",
-    "country": "Kenya",
+    "Country": "Kenya",
     "Domestic-Product-USD": 1949.9,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 6323.5,
@@ -401,7 +401,7 @@
   },
   {
     "Flag-Code": "KG",
-    "country": "Kyrgyzstan",
+    "Country": "Kyrgyzstan",
     "Domestic-Product-USD": 1969.9,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 7102.8,
@@ -411,7 +411,7 @@
   },
   {
     "Flag-Code": "LA",
-    "country": "Laos",
+    "Country": "Laos",
     "Domestic-Product-USD": 2075.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 9326.3,
@@ -421,7 +421,7 @@
   },
   {
     "Flag-Code": "KI",
-    "country": "Kiribati",
+    "Country": "Kiribati",
     "Domestic-Product-USD": 2089.9,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 3521.7,
@@ -431,7 +431,7 @@
   },
   {
     "Flag-Code": "MR",
-    "country": "Mauritania",
+    "Country": "Mauritania",
     "Domestic-Product-USD": 2149.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 6934.4,
@@ -441,7 +441,7 @@
   },
   {
     "Flag-Code": "SB",
-    "country": "Solomon Islands",
+    "Country": "Solomon Islands",
     "Domestic-Product-USD": 2203.2,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 3034.9,
@@ -451,7 +451,7 @@
   },
   {
     "Flag-Code": "GH",
-    "country": "Ghana",
+    "Country": "Ghana",
     "Domestic-Product-USD": 2238.2,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 7466.4,
@@ -461,7 +461,7 @@
   },
   {
     "Flag-Code": "SD",
-    "country": "Sudan",
+    "Country": "Sudan",
     "Domestic-Product-USD": 2272.5,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 3137.2,
@@ -471,7 +471,7 @@
   },
   {
     "Flag-Code": "AO",
-    "country": "Angola",
+    "Country": "Angola",
     "Domestic-Product-USD": 2309.5,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 8040.5,
@@ -481,7 +481,7 @@
   },
   {
     "Flag-Code": "IN",
-    "country": "India",
+    "Country": "India",
     "Domestic-Product-USD": 2484.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 10175.8,
@@ -491,7 +491,7 @@
   },
   {
     "Flag-Code": "UZ",
-    "country": "Uzbekistan",
+    "Country": "Uzbekistan",
     "Domestic-Product-USD": 2496.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 9724.7,
@@ -501,7 +501,7 @@
   },
   {
     "Flag-Code": "CG",
-    "country": "Republic of the Congo",
+    "Country": "Republic of the Congo",
     "Domestic-Product-USD": 2508.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 6932.9,
@@ -511,7 +511,7 @@
   },
   {
     "Flag-Code": "BD",
-    "country": "Bangladesh",
+    "Country": "Bangladesh",
     "Domestic-Product-USD": 2529.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 9065.7,
@@ -521,7 +521,7 @@
   },
   {
     "Flag-Code": "NI",
-    "country": "Nicaragua",
+    "Country": "Nicaragua",
     "Domestic-Product-USD": 2530.3,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 8043.7,
@@ -531,7 +531,7 @@
   },
   {
     "Flag-Code": "ST",
-    "country": "Sao Tome and Principe",
+    "Country": "Sao Tome and Principe",
     "Domestic-Product-USD": 2601.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 6063.6,
@@ -541,7 +541,7 @@
   },
   {
     "Flag-Code": "CI",
-    "country": "Ivory Coast",
+    "Country": "Ivory Coast",
     "Domestic-Product-USD": 2728.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 7790.9,
@@ -551,7 +551,7 @@
   },
   {
     "Flag-Code": "PG",
-    "country": "Papua New Guinea",
+    "Country": "Papua New Guinea",
     "Domestic-Product-USD": 2994.5,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 4607.4,
@@ -561,7 +561,7 @@
   },
   {
     "Flag-Code": "HN",
-    "country": "Honduras",
+    "Country": "Honduras",
     "Domestic-Product-USD": 3247.2,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 7210.7,
@@ -571,7 +571,7 @@
   },
   {
     "Flag-Code": "LB",
-    "country": "Lebanon",
+    "Country": "Lebanon",
     "Domestic-Product-USD": 3350.3,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 12852.7,
@@ -581,7 +581,7 @@
   },
   {
     "Flag-Code": "VU",
-    "country": "Vanuatu",
+    "Country": "Vanuatu",
     "Domestic-Product-USD": 3367.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 3315.1,
@@ -591,7 +591,7 @@
   },
   {
     "Flag-Code": "PS",
-    "country": "Palestine",
+    "Country": "Palestine",
     "Domestic-Product-USD": 3367.6,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 5888.4,
@@ -601,7 +601,7 @@
   },
   {
     "Flag-Code": "EG",
-    "country": "Egypt",
+    "Country": "Egypt",
     "Domestic-Product-USD": 3512.6,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 18816.5,
@@ -611,7 +611,7 @@
   },
   {
     "Flag-Code": "DJ",
-    "country": "Djibouti",
+    "Country": "Djibouti",
     "Domestic-Product-USD": 3606.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 7204,
@@ -621,7 +621,7 @@
   },
   {
     "Flag-Code": "MA",
-    "country": "Morocco",
+    "Country": "Morocco",
     "Domestic-Product-USD": 3672.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 9743.3,
@@ -631,7 +631,7 @@
   },
   {
     "Flag-Code": "BO",
-    "country": "Bolivia",
+    "Country": "Bolivia",
     "Domestic-Product-USD": 3701,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 10727,
@@ -641,7 +641,7 @@
   },
   {
     "Flag-Code": "BT",
-    "country": "Bhutan",
+    "Country": "Bhutan",
     "Domestic-Product-USD": 3704,
     "Domestic-Product-Year": 2022,
     "Puchasing-Power-IntD": 15021.7,
@@ -651,7 +651,7 @@
   },
   {
     "Flag-Code": "PH",
-    "country": "Philippines",
+    "Country": "Philippines",
     "Domestic-Product-USD": 3725.6,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 10755.5,
@@ -661,7 +661,7 @@
   },
   {
     "Flag-Code": "SZ",
-    "country": "Eswatini",
+    "Country": "Eswatini",
     "Domestic-Product-USD": 3797.3,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 11740.8,
@@ -671,7 +671,7 @@
   },
   {
     "Flag-Code": "LK",
-    "country": "Sri Lanka",
+    "Country": "Sri Lanka",
     "Domestic-Product-USD": 3828,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 14455.3,
@@ -681,7 +681,7 @@
   },
   {
     "Flag-Code": "TN",
-    "country": "Tunisia",
+    "Country": "Tunisia",
     "Domestic-Product-USD": 3895.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 13681.6,
@@ -691,7 +691,7 @@
   },
   {
     "Flag-Code": "FM",
-    "country": "Micronesia",
+    "Country": "Micronesia",
     "Domestic-Product-USD": 3992.2,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 4216.5,
@@ -701,7 +701,7 @@
   },
   {
     "Flag-Code": "WS",
-    "country": "Samoa",
+    "Country": "Samoa",
     "Domestic-Product-USD": 4139,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 6680.6,
@@ -711,7 +711,7 @@
   },
   {
     "Flag-Code": "CV",
-    "country": "Cape Verde",
+    "Country": "Cape Verde",
     "Domestic-Product-USD": 4321.6,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 9086.2,
@@ -721,7 +721,7 @@
   },
   {
     "Flag-Code": "VN",
-    "country": "Vietnam",
+    "Country": "Vietnam",
     "Domestic-Product-USD": 4346.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 15194.3,
@@ -731,7 +731,7 @@
   },
   {
     "Flag-Code": "JO",
-    "country": "Jordan",
+    "Country": "Jordan",
     "Domestic-Product-USD": 4482.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 10451.9,
@@ -741,7 +741,7 @@
   },
   {
     "Flag-Code": "IR",
-    "country": "Iran",
+    "Country": "Iran",
     "Domestic-Product-USD": 4502.5,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 17921.7,
@@ -751,7 +751,7 @@
   },
   {
     "Flag-Code": "TO",
-    "country": "Tonga",
+    "Country": "Tonga",
     "Domestic-Product-USD": 4681.7,
     "Domestic-Product-Year": 2022,
     "Puchasing-Power-IntD": 7016.4,
@@ -761,7 +761,7 @@
   },
   {
     "Flag-Code": "NA",
-    "country": "Namibia",
+    "Country": "Namibia",
     "Domestic-Product-USD": 4742.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 12756.5,
@@ -771,7 +771,7 @@
   },
   {
     "Flag-Code": "ID",
-    "country": "Indonesia",
+    "Country": "Indonesia",
     "Domestic-Product-USD": 4940.5,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 15612.8,
@@ -781,7 +781,7 @@
   },
   {
     "Flag-Code": "UA",
-    "country": "Ukraine",
+    "Country": "Ukraine",
     "Domestic-Product-USD": 5181.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 18007.5,
@@ -791,7 +791,7 @@
   },
   {
     "Flag-Code": "DZ",
-    "country": "Algeria",
+    "Country": "Algeria",
     "Domestic-Product-USD": 5260.2,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 17027,
@@ -801,7 +801,7 @@
   },
   {
     "Flag-Code": "SV",
-    "country": "El Salvador",
+    "Country": "El Salvador",
     "Domestic-Product-USD": 5344.2,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 12542.3,
@@ -811,7 +811,7 @@
   },
   {
     "Flag-Code": "TV",
-    "country": "Tuvalu",
+    "Country": "Tuvalu",
     "Domestic-Product-USD": 5465.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 5763.5,
@@ -821,7 +821,7 @@
   },
   {
     "Flag-Code": "IQ",
-    "country": "Iraq",
+    "Country": "Iraq",
     "Domestic-Product-USD": 5512.5,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 13968.6,
@@ -831,7 +831,7 @@
   },
   {
     "Flag-Code": "MN",
-    "country": "Mongolia",
+    "Country": "Mongolia",
     "Domestic-Product-USD": 5764.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 18108,
@@ -841,7 +841,7 @@
   },
   {
     "Flag-Code": "GT",
-    "country": "Guatemala",
+    "Country": "Guatemala",
     "Domestic-Product-USD": 5797.5,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 14066.5,
@@ -851,7 +851,7 @@
   },
   {
     "Flag-Code": "FJ",
-    "country": "Fiji",
+    "Country": "Fiji",
     "Domestic-Product-USD": 5868.2,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 15046.5,
@@ -861,7 +861,7 @@
   },
   {
     "Flag-Code": "SR",
-    "country": "Suriname",
+    "Country": "Suriname",
     "Domestic-Product-USD": 6069,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 21047.2,
@@ -871,7 +871,7 @@
   },
   {
     "Flag-Code": "ZA",
-    "country": "South Africa",
+    "Country": "South Africa",
     "Domestic-Product-USD": 6253.2,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 15847.4,
@@ -881,7 +881,7 @@
   },
   {
     "Flag-Code": "PY",
-    "country": "Paraguay",
+    "Country": "Paraguay",
     "Domestic-Product-USD": 6260.5,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 17465.9,
@@ -891,7 +891,7 @@
   },
   {
     "Flag-Code": "EC",
-    "country": "Ecuador",
+    "Country": "Ecuador",
     "Domestic-Product-USD": 6533.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 15870.3,
@@ -901,7 +901,7 @@
   },
   {
     "Flag-Code": "MD",
-    "country": "Moldova",
+    "Country": "Moldova",
     "Domestic-Product-USD": 6650.6,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 17384.4,
@@ -911,7 +911,7 @@
   },
   {
     "Flag-Code": "MH",
-    "country": "Marshall Islands",
+    "Country": "Marshall Islands",
     "Domestic-Product-USD": 6762.5,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 7491.4,
@@ -921,7 +921,7 @@
   },
   {
     "Flag-Code": "JM",
-    "country": "Jamaica",
+    "Country": "Jamaica",
     "Domestic-Product-USD": 6874.2,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 11475,
@@ -930,8 +930,8 @@
     "National-Income-Year": 2023
   },
   {
-    "Flag-Code": "CO",
-    "country": "Colombia",
+    "Flag-Code": "Co",
+    "Country": "Colombia",
     "Domestic-Product-USD": 6979.7,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 21548,
@@ -941,7 +941,7 @@
   },
   {
     "Flag-Code": "GQ",
-    "country": "Equatorial Guinea",
+    "Country": "Equatorial Guinea",
     "Domestic-Product-USD": 7066.6,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 18723.6,
@@ -951,7 +951,7 @@
   },
   {
     "Flag-Code": "AZ",
-    "country": "Azerbaijan",
+    "Country": "Azerbaijan",
     "Domestic-Product-USD": 7155.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 23685.5,
@@ -961,7 +961,7 @@
   },
   {
     "Flag-Code": "TH",
-    "country": "Thailand",
+    "Country": "Thailand",
     "Domestic-Product-USD": 7171.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 23422.9,
@@ -971,7 +971,7 @@
   },
   {
     "Flag-Code": "BW",
-    "country": "Botswana",
+    "Country": "Botswana",
     "Domestic-Product-USD": 7249.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 19383.2,
@@ -981,7 +981,7 @@
   },
   {
     "Flag-Code": "LY",
-    "country": "Libya",
+    "Country": "Libya",
     "Domestic-Product-USD": 7330,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 19641.1,
@@ -991,7 +991,7 @@
   },
   {
     "Flag-Code": "PE",
-    "country": "Peru",
+    "Country": "Peru",
     "Domestic-Product-USD": 7789.9,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 16717.4,
@@ -1001,7 +1001,7 @@
   },
   {
     "Flag-Code": "BY",
-    "country": "Belarus",
+    "Country": "Belarus",
     "Domestic-Product-USD": 7829.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 30751.5,
@@ -1011,7 +1011,7 @@
   },
   {
     "Flag-Code": "BZ",
-    "country": "Belize",
+    "Country": "Belize",
     "Domestic-Product-USD": 7987.6,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 14195.3,
@@ -1021,7 +1021,7 @@
   },
   {
     "Flag-Code": "GE",
-    "country": "Georgia",
+    "Country": "Georgia",
     "Domestic-Product-USD": 8120.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 24681.3,
@@ -1031,7 +1031,7 @@
   },
   {
     "Flag-Code": "AL",
-    "country": "Albania",
+    "Country": "Albania",
     "Domestic-Product-USD": 8367.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 21395.3,
@@ -1041,7 +1041,7 @@
   },
   {
     "Flag-Code": "GA",
-    "country": "Gabon",
+    "Country": "Gabon",
     "Domestic-Product-USD": 8420.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 21947,
@@ -1051,7 +1051,7 @@
   },
   {
     "Flag-Code": "BA",
-    "country": "Bosnia and Herzegovina",
+    "Country": "Bosnia and Herzegovina",
     "Domestic-Product-USD": 8426.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 22845.5,
@@ -1061,7 +1061,7 @@
   },
   {
     "Flag-Code": "AM",
-    "country": "Armenia",
+    "Country": "Armenia",
     "Domestic-Product-USD": 8715.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 23054.6,
@@ -1071,7 +1071,7 @@
   },
   {
     "Flag-Code": "DM",
-    "country": "Dominica",
+    "Country": "Dominica",
     "Domestic-Product-USD": 8953.9,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 17598.6,
@@ -1081,7 +1081,7 @@
   },
   {
     "Flag-Code": "TM",
-    "country": "Turkmenistan",
+    "Country": "Turkmenistan",
     "Domestic-Product-USD": 9190.7,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 17100.1,
@@ -1091,7 +1091,7 @@
   },
   {
     "Flag-Code": "CU",
-    "country": "Cuba",
+    "Country": "Cuba",
     "Domestic-Product-USD": 9499.6,
     "Domestic-Product-Year": 2020,
     "Puchasing-Power-IntD": null,
@@ -1101,7 +1101,7 @@
   },
   {
     "Flag-Code": "BR",
-    "country": "Brazil",
+    "Country": "Brazil",
     "Domestic-Product-USD": 10043.6,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 20584.4,
@@ -1111,7 +1111,7 @@
   },
   {
     "Flag-Code": "VC",
-    "country": "Saint Vincent and the Grenadines",
+    "Country": "Saint Vincent and the Grenadines",
     "Domestic-Product-USD": 10279.5,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 19875.7,
@@ -1121,7 +1121,7 @@
   },
   {
     "Flag-Code": "GD",
-    "country": "Grenada",
+    "Country": "Grenada",
     "Domestic-Product-USD": 10463.3,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 17654.1,
@@ -1131,7 +1131,7 @@
   },
   {
     "Flag-Code": "DO",
-    "country": "Dominican Republic",
+    "Country": "Dominican Republic",
     "Domestic-Product-USD": 10716,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 25610.5,
@@ -1141,7 +1141,7 @@
   },
   {
     "Flag-Code": "RS",
-    "country": "Serbia",
+    "Country": "Serbia",
     "Domestic-Product-USD": 11361,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 27401.8,
@@ -1151,7 +1151,7 @@
   },
   {
     "Flag-Code": "MU",
-    "country": "Mauritius",
+    "Country": "Mauritius",
     "Domestic-Product-USD": 11416.9,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 29498.5,
@@ -1161,7 +1161,7 @@
   },
   {
     "Flag-Code": "MY",
-    "country": "Malaysia",
+    "Country": "Malaysia",
     "Domestic-Product-USD": 11648.7,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 37247.7,
@@ -1171,7 +1171,7 @@
   },
   {
     "Flag-Code": "ME",
-    "country": "Montenegro",
+    "Country": "Montenegro",
     "Domestic-Product-USD": 12016.9,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 31216.4,
@@ -1181,7 +1181,7 @@
   },
   {
     "Flag-Code": "NR",
-    "country": "Nauru",
+    "Country": "Nauru",
     "Domestic-Product-USD": 12060.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 12670.7,
@@ -1191,7 +1191,7 @@
   },
   {
     "Flag-Code": "CN",
-    "country": "China",
+    "Country": "China",
     "Domestic-Product-USD": 12614.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 24557.6,
@@ -1201,7 +1201,7 @@
   },
   {
     "Flag-Code": "MV",
-    "country": "Maldives",
+    "Country": "Maldives",
     "Domestic-Product-USD": 12667.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 24808.7,
@@ -1211,7 +1211,7 @@
   },
   {
     "Flag-Code": "TR",
-    "country": "Turkey",
+    "Country": "Turkey",
     "Domestic-Product-USD": 12985.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 44151,
@@ -1221,7 +1221,7 @@
   },
   {
     "Flag-Code": "KZ",
-    "country": "Kazakhstan",
+    "Country": "Kazakhstan",
     "Domestic-Product-USD": 13136.6,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 39332.5,
@@ -1231,7 +1231,7 @@
   },
   {
     "Flag-Code": "AR",
-    "country": "Argentina",
+    "Country": "Argentina",
     "Domestic-Product-USD": 13730.5,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 29362.7,
@@ -1241,7 +1241,7 @@
   },
   {
     "Flag-Code": "RU",
-    "country": "Russia",
+    "Country": "Russia",
     "Domestic-Product-USD": 13817,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 44103.5,
@@ -1251,7 +1251,7 @@
   },
   {
     "Flag-Code": "MX",
-    "country": "Mexico",
+    "Country": "Mexico",
     "Domestic-Product-USD": 13926.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 25601.6,
@@ -1261,7 +1261,7 @@
   },
   {
     "Flag-Code": "LC",
-    "country": "Saint Lucia",
+    "Country": "Saint Lucia",
     "Domestic-Product-USD": 13980.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 25128.7,
@@ -1271,7 +1271,7 @@
   },
   {
     "Flag-Code": "PW",
-    "country": "Palau",
+    "Country": "Palau",
     "Domestic-Product-USD": 14565.3,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 17490.8,
@@ -1281,7 +1281,7 @@
   },
   {
     "Flag-Code": "BG",
-    "country": "Bulgaria",
+    "Country": "Bulgaria",
     "Domestic-Product-USD": 15797.6,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 38689.5,
@@ -1291,7 +1291,7 @@
   },
   {
     "Flag-Code": "CR",
-    "country": "Costa Rica",
+    "Country": "Costa Rica",
     "Domestic-Product-USD": 16595.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 27952.5,
@@ -1301,7 +1301,7 @@
   },
   {
     "Flag-Code": "CL",
-    "country": "Chile",
+    "Country": "Chile",
     "Domestic-Product-USD": 17093.2,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 33284.5,
@@ -1311,7 +1311,7 @@
   },
   {
     "Flag-Code": "MP",
-    "country": "Northern Mariana Islands",
+    "Country": "Northern Mariana Islands",
     "Domestic-Product-USD": 17302.9,
     "Domestic-Product-Year": 2020,
     "Puchasing-Power-IntD": null,
@@ -1321,7 +1321,7 @@
   },
   {
     "Flag-Code": "SC",
-    "country": "Seychelles",
+    "Country": "Seychelles",
     "Domestic-Product-USD": 17879.2,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 32693.6,
@@ -1331,7 +1331,7 @@
   },
   {
     "Flag-Code": "TT",
-    "country": "Trinidad and Tobago",
+    "Country": "Trinidad and Tobago",
     "Domestic-Product-USD": 18333,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 31572.1,
@@ -1341,7 +1341,7 @@
   },
   {
     "Flag-Code": "RO",
-    "country": "Romania",
+    "Country": "Romania",
     "Domestic-Product-USD": 18419.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 47903.3,
@@ -1351,7 +1351,7 @@
   },
   {
     "Flag-Code": "PA",
-    "country": "Panama",
+    "Country": "Panama",
     "Domestic-Product-USD": 18661.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 39695.1,
@@ -1361,7 +1361,7 @@
   },
   {
     "Flag-Code": "PF",
-    "country": "French Polynesia",
+    "Country": "French Polynesia",
     "Domestic-Product-USD": 18984.9,
     "Domestic-Product-Year": 2022,
     "Puchasing-Power-IntD": null,
@@ -1371,7 +1371,7 @@
   },
   {
     "Flag-Code": "AS",
-    "country": "American Samoa",
+    "Country": "American Samoa",
     "Domestic-Product-USD": 19673.4,
     "Domestic-Product-Year": 2022,
     "Puchasing-Power-IntD": null,
@@ -1381,7 +1381,7 @@
   },
   {
     "Flag-Code": "MF",
-    "country": "Saint Martin",
+    "Country": "Saint Martin",
     "Domestic-Product-USD": 20320.7,
     "Domestic-Product-Year": 2021,
     "Puchasing-Power-IntD": null,
@@ -1391,7 +1391,7 @@
   },
   {
     "Flag-Code": "CW",
-    "country": "Curacao",
+    "Country": "Curacao",
     "Domestic-Product-USD": 20492.8,
     "Domestic-Product-Year": 2022,
     "Puchasing-Power-IntD": 29523.5,
@@ -1401,7 +1401,7 @@
   },
   {
     "Flag-Code": "GY",
-    "country": "Guyana",
+    "Country": "Guyana",
     "Domestic-Product-USD": 20626.2,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 55262.5,
@@ -1411,7 +1411,7 @@
   },
   {
     "Flag-Code": "HR",
-    "country": "Croatia",
+    "Country": "Croatia",
     "Domestic-Product-USD": 21459.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 45909.6,
@@ -1421,7 +1421,7 @@
   },
   {
     "Flag-Code": "AG",
-    "country": "Antigua and Barbuda",
+    "Country": "Antigua and Barbuda",
     "Domestic-Product-USD": 21560.2,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 31802.4,
@@ -1431,7 +1431,7 @@
   },
   {
     "Flag-Code": "PL",
-    "country": "Poland",
+    "Country": "Poland",
     "Domestic-Product-USD": 22112.9,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 49464,
@@ -1441,7 +1441,7 @@
   },
   {
     "Flag-Code": "HU",
-    "country": "Hungary",
+    "Country": "Hungary",
     "Domestic-Product-USD": 22147.2,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 45942.2,
@@ -1451,7 +1451,7 @@
   },
   {
     "Flag-Code": "KN",
-    "country": "Saint Kitts and Nevis",
+    "Country": "Saint Kitts and Nevis",
     "Domestic-Product-USD": 22553.3,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 33402.8,
@@ -1461,7 +1461,7 @@
   },
   {
     "Flag-Code": "UY",
-    "country": "Uruguay",
+    "Country": "Uruguay",
     "Domestic-Product-USD": 22564.5,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 34061.5,
@@ -1471,7 +1471,7 @@
   },
   {
     "Flag-Code": "BB",
-    "country": "Barbados",
+    "Country": "Barbados",
     "Domestic-Product-USD": 22672.6,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 19357.2,
@@ -1481,7 +1481,7 @@
   },
   {
     "Flag-Code": "GR",
-    "country": "Greece",
+    "Country": "Greece",
     "Domestic-Product-USD": 22990,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 41186.8,
@@ -1491,7 +1491,7 @@
   },
   {
     "Flag-Code": "LV",
-    "country": "Latvia",
+    "Country": "Latvia",
     "Domestic-Product-USD": 23184.3,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 42501,
@@ -1501,7 +1501,7 @@
   },
   {
     "Flag-Code": "OM",
-    "country": "Oman",
+    "Country": "Oman",
     "Domestic-Product-USD": 23295.3,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 44421.2,
@@ -1511,7 +1511,7 @@
   },
   {
     "Flag-Code": "SK",
-    "country": "Slovakia",
+    "Country": "Slovakia",
     "Domestic-Product-USD": 24470.2,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 44650.2,
@@ -1521,7 +1521,7 @@
   },
   {
     "Flag-Code": "LT",
-    "country": "Lithuania",
+    "Country": "Lithuania",
     "Domestic-Product-USD": 27102.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 51877,
@@ -1531,7 +1531,7 @@
   },
   {
     "Flag-Code": "PT",
-    "country": "Portugal",
+    "Country": "Portugal",
     "Domestic-Product-USD": 27275.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 48758.9,
@@ -1541,7 +1541,7 @@
   },
   {
     "Flag-Code": "SA",
-    "country": "Saudi Arabia",
+    "Country": "Saudi Arabia",
     "Domestic-Product-USD": 28895,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 54991.7,
@@ -1551,7 +1551,7 @@
   },
   {
     "Flag-Code": "BH",
-    "country": "Bahrain",
+    "Country": "Bahrain",
     "Domestic-Product-USD": 29084.3,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 63847.8,
@@ -1561,7 +1561,7 @@
   },
   {
     "Flag-Code": "EE",
-    "country": "Estonia",
+    "Country": "Estonia",
     "Domestic-Product-USD": 29823.7,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 48992.1,
@@ -1571,7 +1571,7 @@
   },
   {
     "Flag-Code": "CZ",
-    "country": "Czech Republic",
+    "Country": "Czech Republic",
     "Domestic-Product-USD": 30427.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 53816.8,
@@ -1581,7 +1581,7 @@
   },
   {
     "Flag-Code": "TC",
-    "country": "Turks and Caicos Islands",
+    "Country": "Turks and Caicos Islands",
     "Domestic-Product-USD": 30438.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 24819.6,
@@ -1591,7 +1591,7 @@
   },
   {
     "Flag-Code": "SI",
-    "country": "Slovenia",
+    "Country": "Slovenia",
     "Domestic-Product-USD": 32163.5,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 54947.5,
@@ -1601,7 +1601,7 @@
   },
   {
     "Flag-Code": "ES",
-    "country": "Spain",
+    "Country": "Spain",
     "Domestic-Product-USD": 32677,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 25779.2,
@@ -1611,7 +1611,7 @@
   },
   {
     "Flag-Code": "KR",
-    "country": "South Korea",
+    "Country": "South Korea",
     "Domestic-Product-USD": 33121.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 54033.2,
@@ -1621,7 +1621,7 @@
   },
   {
     "Flag-Code": "AW",
-    "country": "Aruba",
+    "Country": "Aruba",
     "Domestic-Product-USD": 33300.8,
     "Domestic-Product-Year": 2022,
     "Puchasing-Power-IntD": 45236,
@@ -1631,7 +1631,7 @@
   },
   {
     "Flag-Code": "BN",
-    "country": "Brunei",
+    "Country": "Brunei",
     "Domestic-Product-USD": 33430.9,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 86445.7,
@@ -1641,7 +1641,7 @@
   },
   {
     "Flag-Code": "JP",
-    "country": "Japan",
+    "Country": "Japan",
     "Domestic-Product-USD": 33834.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 50206.6,
@@ -1651,7 +1651,7 @@
   },
   {
     "Flag-Code": "CY",
-    "country": "Cyprus",
+    "Country": "Cyprus",
     "Domestic-Product-USD": 34701.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 57100.5,
@@ -1661,7 +1661,7 @@
   },
   {
     "Flag-Code": "BS",
-    "country": "Bahamas",
+    "Country": "Bahamas",
     "Domestic-Product-USD": 34749.6,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 35554.8,
@@ -1671,7 +1671,7 @@
   },
   {
     "Flag-Code": "NC",
-    "country": "New Caledonia",
+    "Country": "New Caledonia",
     "Domestic-Product-USD": 35745.8,
     "Domestic-Product-Year": 2022,
     "Puchasing-Power-IntD": null,
@@ -1681,7 +1681,7 @@
   },
   {
     "Flag-Code": "PR",
-    "country": "Puerto Rico",
+    "Country": "Puerto Rico",
     "Domestic-Product-USD": 36779.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 47699.6,
@@ -1691,7 +1691,7 @@
   },
   {
     "Flag-Code": "KW",
-    "country": "Kuwait",
+    "Country": "Kuwait",
     "Domestic-Product-USD": 37533.2,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 56386.3,
@@ -1701,7 +1701,7 @@
   },
   {
     "Flag-Code": "MT",
-    "country": "Malta",
+    "Country": "Malta",
     "Domestic-Product-USD": 37882.3,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 62445.7,
@@ -1711,7 +1711,7 @@
   },
   {
     "Flag-Code": "IT",
-    "country": "Italy",
+    "Country": "Italy",
     "Domestic-Product-USD": 38373.2,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 58754.9,
@@ -1721,7 +1721,7 @@
   },
   {
     "Flag-Code": "SX",
-    "country": "Sint Maarten",
+    "Country": "Sint Maarten",
     "Domestic-Product-USD": 39432.6,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 51527.1,
@@ -1731,7 +1731,7 @@
   },
   {
     "Flag-Code": "GU",
-    "country": "Guam",
+    "Country": "Guam",
     "Domestic-Product-USD": 40227.3,
     "Domestic-Product-Year": 2022,
     "Puchasing-Power-IntD": null,
@@ -1741,7 +1741,7 @@
   },
   {
     "Flag-Code": "VI",
-    "country": "United States Virgin Islands",
+    "Country": "United States Virgin Islands",
     "Domestic-Product-USD": 41976,
     "Domestic-Product-Year": 2021,
     "Puchasing-Power-IntD": 46238.1,
@@ -1751,7 +1751,7 @@
   },
   {
     "Flag-Code": "FR",
-    "country": "France",
+    "Country": "France",
     "Domestic-Product-USD": 44460.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 61156.8,
@@ -1761,7 +1761,7 @@
   },
   {
     "Flag-Code": "AD",
-    "country": "Andorra",
+    "Country": "Andorra",
     "Domestic-Product-USD": 46544.7,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 71587.5,
@@ -1771,7 +1771,7 @@
   },
   {
     "Flag-Code": "NZ",
-    "country": "New Zealand",
+    "Country": "New Zealand",
     "Domestic-Product-USD": 48527.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 54109.8,
@@ -1781,7 +1781,7 @@
   },
   {
     "Flag-Code": "GB",
-    "country": "United Kingdom",
+    "Country": "United Kingdom",
     "Domestic-Product-USD": 48866.6,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 58906.2,
@@ -1791,7 +1791,7 @@
   },
   {
     "Flag-Code": "HK",
-    "country": "Hong Kong",
+    "Country": "Hong Kong",
     "Domestic-Product-USD": 50696.6,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 71841.6,
@@ -1801,7 +1801,7 @@
   },
   {
     "Flag-Code": "IL",
-    "country": "Israel",
+    "Country": "Israel",
     "Domestic-Product-USD": 52261.7,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 53434,
@@ -1811,7 +1811,7 @@
   },
   {
     "Flag-Code": "DE",
-    "country": "Germany",
+    "Country": "Germany",
     "Domestic-Product-USD": 52745.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 69338.3,
@@ -1821,7 +1821,7 @@
   },
   {
     "Flag-Code": "AE",
-    "country": "United Arab Emirates",
+    "Country": "United Arab Emirates",
     "Domestic-Product-USD": 52976.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 83902.7,
@@ -1831,7 +1831,7 @@
   },
   {
     "Flag-Code": "CA",
-    "country": "Canada",
+    "Country": "Canada",
     "Domestic-Product-USD": 53371.7,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 61582.3,
@@ -1841,7 +1841,7 @@
   },
   {
     "Flag-Code": "BE",
-    "country": "Belgium",
+    "Country": "Belgium",
     "Domestic-Product-USD": 53475.3,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 70456,
@@ -1851,7 +1851,7 @@
   },
   {
     "Flag-Code": "FI",
-    "country": "Finland",
+    "Country": "Finland",
     "Domestic-Product-USD": 53755.9,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 65060.7,
@@ -1861,7 +1861,7 @@
   },
   {
     "Flag-Code": "SM",
-    "country": "San Marino",
+    "Country": "San Marino",
     "Domestic-Product-USD": 54982.5,
     "Domestic-Product-Year": 2021,
     "Puchasing-Power-IntD": 65717.9,
@@ -1871,7 +1871,7 @@
   },
   {
     "Flag-Code": "SE",
-    "country": "Sweden",
+    "Country": "Sweden",
     "Domestic-Product-USD": 56305.3,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 70206.6,
@@ -1881,7 +1881,7 @@
   },
   {
     "Flag-Code": "AT",
-    "country": "Austria",
+    "Country": "Austria",
     "Domestic-Product-USD": 56506,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 73751.4,
@@ -1891,7 +1891,7 @@
   },
   {
     "Flag-Code": "GL",
-    "country": "Greenland",
+    "Country": "Greenland",
     "Domestic-Product-USD": 57116.3,
     "Domestic-Product-Year": 2021,
     "Puchasing-Power-IntD": 68086.5,
@@ -1901,7 +1901,7 @@
   },
   {
     "Flag-Code": "NL",
-    "country": "Netherlands",
+    "Country": "Netherlands",
     "Domestic-Product-USD": 62536.7,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 78215.1,
@@ -1911,7 +1911,7 @@
   },
   {
     "Flag-Code": "AU",
-    "country": "Australia",
+    "Country": "Australia",
     "Domestic-Product-USD": 64711.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 69114.7,
@@ -1921,7 +1921,7 @@
   },
   {
     "Flag-Code": "MO",
-    "country": "Macau",
+    "Country": "Macau",
     "Domestic-Product-USD": 66835.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 113183.2,
@@ -1931,7 +1931,7 @@
   },
   {
     "Flag-Code": "FO",
-    "country": "Faroe Islands",
+    "Country": "Faroe Islands",
     "Domestic-Product-USD": 66979.3,
     "Domestic-Product-Year": 2022,
     "Puchasing-Power-IntD": 76566.5,
@@ -1941,7 +1941,7 @@
   },
   {
     "Flag-Code": "DK",
-    "country": "Denmark",
+    "Country": "Denmark",
     "Domestic-Product-USD": 67967.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 76687.9,
@@ -1951,7 +1951,7 @@
   },
   {
     "Flag-Code": "IS",
-    "country": "Iceland",
+    "Country": "Iceland",
     "Domestic-Product-USD": 78811.1,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 77567.2,
@@ -1961,7 +1961,7 @@
   },
   {
     "Flag-Code": "US",
-    "country": "United States",
+    "Country": "United States",
     "Domestic-Product-USD": 81695.2,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 81695.2,
@@ -1971,7 +1971,7 @@
   },
   {
     "Flag-Code": "SG",
-    "country": "Singapore",
+    "Country": "Singapore",
     "Domestic-Product-USD": 84734.3,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 141500.2,
@@ -1981,7 +1981,7 @@
   },
   {
     "Flag-Code": "QA",
-    "country": "Qatar",
+    "Country": "Qatar",
     "Domestic-Product-USD": 87480.4,
     "Domestic-Product-Year": 2022,
     "Puchasing-Power-IntD": 121124.7,
@@ -1991,7 +1991,7 @@
   },
   {
     "Flag-Code": "NO",
-    "country": "Norway",
+    "Country": "Norway",
     "Domestic-Product-USD": 87961.8,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 104459.8,
@@ -2001,7 +2001,7 @@
   },
   {
     "Flag-Code": "IM",
-    "country": "Isle of Man",
+    "Country": "Isle of Man",
     "Domestic-Product-USD": 94124.3,
     "Domestic-Product-Year": 2021,
     "Puchasing-Power-IntD": null,
@@ -2011,7 +2011,7 @@
   },
   {
     "Flag-Code": "KY",
-    "country": "Cayman Islands",
+    "Country": "Cayman Islands",
     "Domestic-Product-USD": 96073.8,
     "Domestic-Product-Year": 2022,
     "Puchasing-Power-IntD": 85167.7,
@@ -2021,7 +2021,7 @@
   },
   {
     "Flag-Code": "CH",
-    "country": "Switzerland",
+    "Country": "Switzerland",
     "Domestic-Product-USD": 99994.9,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 92980.4,
@@ -2031,7 +2031,7 @@
   },
   {
     "Flag-Code": "IE",
-    "country": "Ireland",
+    "Country": "Ireland",
     "Domestic-Product-USD": 103684.9,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 127623.4,
@@ -2041,7 +2041,7 @@
   },
   {
     "Flag-Code": "BM",
-    "country": "Bermuda",
+    "Country": "Bermuda",
     "Domestic-Product-USD": 123091.1,
     "Domestic-Product-Year": 2022,
     "Puchasing-Power-IntD": 106866.3,
@@ -2051,7 +2051,7 @@
   },
   {
     "Flag-Code": "LU",
-    "country": "Luxembourg",
+    "Country": "Luxembourg",
     "Domestic-Product-USD": 128259.4,
     "Domestic-Product-Year": 2023,
     "Puchasing-Power-IntD": 143341.5,
@@ -2061,7 +2061,7 @@
   },
   {
     "Flag-Code": "LI",
-    "country": "Liechtenstein",
+    "Country": "Liechtenstein",
     "Domestic-Product-USD": 187267.1,
     "Domestic-Product-Year": 2022,
     "Puchasing-Power-IntD": null,
@@ -2071,7 +2071,7 @@
   },
   {
     "Flag-Code": "MC",
-    "country": "Monaco",
+    "Country": "Monaco",
     "Domestic-Product-USD": 240862.2,
     "Domestic-Product-Year": 2022,
     "Puchasing-Power-IntD": null,

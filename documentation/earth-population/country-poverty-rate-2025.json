@@ -1,7 +1,7 @@
 [
   {
     "Flag-Code": "SS",
-    "country": "South Sudan",
+    "Country": "South Sudan",
     "World-Bank-Percentage": 82.3,
     "World-Bank-Year": 2016,
     "OECD-Percentage": null,
@@ -9,7 +9,7 @@
   },
   {
     "Flag-Code": "GQ",
-    "country": "Equatorial Guinea",
+    "Country": "Equatorial Guinea",
     "World-Bank-Percentage": 76.8,
     "World-Bank-Year": 2006,
     "OECD-Percentage": null,
@@ -17,7 +17,7 @@
   },
   {
     "Flag-Code": "MG",
-    "country": "Madagascar",
+    "Country": "Madagascar",
     "World-Bank-Percentage": 70.7,
     "World-Bank-Year": 2012,
     "OECD-Percentage": null,
@@ -25,7 +25,7 @@
   },
   {
     "Flag-Code": "CF",
-    "country": "Central African Republic",
+    "Country": "Central African Republic",
     "World-Bank-Percentage": 68.8,
     "World-Bank-Year": 2021,
     "OECD-Percentage": null,
@@ -33,7 +33,7 @@
   },
   {
     "Flag-Code": "BI",
-    "country": "Burundi",
+    "Country": "Burundi",
     "World-Bank-Percentage": 64.9,
     "World-Bank-Year": 2013,
     "OECD-Percentage": null,
@@ -41,7 +41,7 @@
   },
   {
     "Flag-Code": "HN",
-    "country": "Honduras",
+    "Country": "Honduras",
     "World-Bank-Percentage": 64.1,
     "World-Bank-Year": 2023,
     "OECD-Percentage": null,
@@ -49,7 +49,7 @@
   },
   {
     "Flag-Code": "CD",
-    "country": "DR Congo",
+    "Country": "DR Congo",
     "World-Bank-Percentage": 63.9,
     "World-Bank-Year": 2012,
     "OECD-Percentage": null,
@@ -57,7 +57,7 @@
   },
   {
     "Flag-Code": "ZM",
-    "country": "Zambia",
+    "Country": "Zambia",
     "World-Bank-Percentage": 60,
     "World-Bank-Year": 2022,
     "OECD-Percentage": null,
@@ -65,7 +65,7 @@
   },
   {
     "Flag-Code": "GT",
-    "country": "Guatemala",
+    "Country": "Guatemala",
     "World-Bank-Percentage": 59.3,
     "World-Bank-Year": 2014,
     "OECD-Percentage": null,
@@ -73,7 +73,7 @@
   },
   {
     "Flag-Code": "SZ",
-    "country": "Eswatini",
+    "Country": "Eswatini",
     "World-Bank-Percentage": 58.9,
     "World-Bank-Year": 2016,
     "OECD-Percentage": null,
@@ -81,7 +81,7 @@
   },
   {
     "Flag-Code": "HT",
-    "country": "Haiti",
+    "Country": "Haiti",
     "World-Bank-Percentage": 58.5,
     "World-Bank-Year": 2012,
     "OECD-Percentage": null,
@@ -89,7 +89,7 @@
   },
   {
     "Flag-Code": "SL",
-    "country": "Sierra Leone",
+    "Country": "Sierra Leone",
     "World-Bank-Percentage": 56.8,
     "World-Bank-Year": 2018,
     "OECD-Percentage": null,
@@ -97,7 +97,7 @@
   },
   {
     "Flag-Code": "ZA",
-    "country": "South Africa",
+    "Country": "South Africa",
     "World-Bank-Percentage": 55.5,
     "World-Bank-Year": 2014,
     "OECD-Percentage": 27.7,
@@ -105,7 +105,7 @@
   },
   {
     "Flag-Code": "ST",
-    "country": "Sao Tome and Principe",
+    "Country": "Sao Tome and Principe",
     "World-Bank-Percentage": 55.5,
     "World-Bank-Year": 2017,
     "OECD-Percentage": null,
@@ -113,7 +113,7 @@
   },
   {
     "Flag-Code": "AF",
-    "country": "Afghanistan",
+    "Country": "Afghanistan",
     "World-Bank-Percentage": 54.5,
     "World-Bank-Year": 2016,
     "OECD-Percentage": null,
@@ -121,7 +121,7 @@
   },
   {
     "Flag-Code": "SO",
-    "country": "Somalia",
+    "Country": "Somalia",
     "World-Bank-Percentage": 54.4,
     "World-Bank-Year": 2022,
     "OECD-Percentage": null,
@@ -129,7 +129,7 @@
   },
   {
     "Flag-Code": "GM",
-    "country": "Gambia",
+    "Country": "Gambia",
     "World-Bank-Percentage": 53.4,
     "World-Bank-Year": 2020,
     "OECD-Percentage": null,
@@ -137,7 +137,7 @@
   },
   {
     "Flag-Code": "LR",
-    "country": "Liberia",
+    "Country": "Liberia",
     "World-Bank-Percentage": 50.9,
     "World-Bank-Year": 2016,
     "OECD-Percentage": null,
@@ -145,7 +145,7 @@
   },
   {
     "Flag-Code": "MW",
-    "country": "Malawi",
+    "Country": "Malawi",
     "World-Bank-Percentage": 50.7,
     "World-Bank-Year": 2019,
     "OECD-Percentage": null,
@@ -153,7 +153,7 @@
   },
   {
     "Flag-Code": "GW",
-    "country": "Guinea-Bissau",
+    "Country": "Guinea-Bissau",
     "World-Bank-Percentage": 50.5,
     "World-Bank-Year": 2021,
     "OECD-Percentage": null,
@@ -161,7 +161,7 @@
   },
   {
     "Flag-Code": "LS",
-    "country": "Lesotho",
+    "Country": "Lesotho",
     "World-Bank-Percentage": 49.7,
     "World-Bank-Year": 2017,
     "OECD-Percentage": null,
@@ -169,7 +169,7 @@
   },
   {
     "Flag-Code": "YE",
-    "country": "Yemen",
+    "Country": "Yemen",
     "World-Bank-Percentage": 48.6,
     "World-Bank-Year": 2014,
     "OECD-Percentage": null,
@@ -177,7 +177,7 @@
   },
   {
     "Flag-Code": "SN",
-    "country": "Senegal",
+    "Country": "Senegal",
     "World-Bank-Percentage": 46.7,
     "World-Bank-Year": 2011,
     "OECD-Percentage": null,
@@ -185,7 +185,7 @@
   },
   {
     "Flag-Code": "SD",
-    "country": "Sudan",
+    "Country": "Sudan",
     "World-Bank-Percentage": 46.5,
     "World-Bank-Year": 2009,
     "OECD-Percentage": null,
@@ -193,7 +193,7 @@
   },
   {
     "Flag-Code": "MZ",
-    "country": "Mozambique",
+    "Country": "Mozambique",
     "World-Bank-Percentage": 46.1,
     "World-Bank-Year": 2014,
     "OECD-Percentage": null,
@@ -201,7 +201,7 @@
   },
   {
     "Flag-Code": "NE",
-    "country": "Niger",
+    "Country": "Niger",
     "World-Bank-Percentage": 45.5,
     "World-Bank-Year": 2021,
     "OECD-Percentage": null,
@@ -209,7 +209,7 @@
   },
   {
     "Flag-Code": "TG",
-    "country": "Togo",
+    "Country": "Togo",
     "World-Bank-Percentage": 45.5,
     "World-Bank-Year": 2018,
     "OECD-Percentage": null,
@@ -217,7 +217,7 @@
   },
   {
     "Flag-Code": "ML",
-    "country": "Mali",
+    "Country": "Mali",
     "World-Bank-Percentage": 44.6,
     "World-Bank-Year": 2021,
     "OECD-Percentage": null,
@@ -225,7 +225,7 @@
   },
   {
     "Flag-Code": "GN",
-    "country": "Guinea",
+    "Country": "Guinea",
     "World-Bank-Percentage": 43.7,
     "World-Bank-Year": 2018,
     "OECD-Percentage": null,
@@ -233,7 +233,7 @@
   },
   {
     "Flag-Code": "BF",
-    "country": "Burkina Faso",
+    "Country": "Burkina Faso",
     "World-Bank-Percentage": 43.2,
     "World-Bank-Year": 2021,
     "OECD-Percentage": null,
@@ -241,7 +241,7 @@
   },
   {
     "Flag-Code": "KM",
-    "country": "Comoros",
+    "Country": "Comoros",
     "World-Bank-Percentage": 42.4,
     "World-Bank-Year": 2013,
     "OECD-Percentage": null,
@@ -249,7 +249,7 @@
   },
   {
     "Flag-Code": "TD",
-    "country": "Chad",
+    "Country": "Chad",
     "World-Bank-Percentage": 42.3,
     "World-Bank-Year": 2018,
     "OECD-Percentage": null,
@@ -257,7 +257,7 @@
   },
   {
     "Flag-Code": "TL",
-    "country": "Timor-Leste",
+    "Country": "Timor-Leste",
     "World-Bank-Percentage": 41.8,
     "World-Bank-Year": 2014,
     "OECD-Percentage": null,
@@ -265,7 +265,7 @@
   },
   {
     "Flag-Code": "FM",
-    "country": "Micronesia",
+    "Country": "Micronesia",
     "World-Bank-Percentage": 41.2,
     "World-Bank-Year": 2013,
     "OECD-Percentage": null,
@@ -273,7 +273,7 @@
   },
   {
     "Flag-Code": "CG",
-    "country": "Republic of the Congo",
+    "Country": "Republic of the Congo",
     "World-Bank-Percentage": 40.9,
     "World-Bank-Year": 2011,
     "OECD-Percentage": null,
@@ -281,7 +281,7 @@
   },
   {
     "Flag-Code": "NG",
-    "country": "Nigeria",
+    "Country": "Nigeria",
     "World-Bank-Percentage": 40.1,
     "World-Bank-Year": 2018,
     "OECD-Percentage": null,
@@ -289,7 +289,7 @@
   },
   {
     "Flag-Code": "PG",
-    "country": "Papua New Guinea",
+    "Country": "Papua New Guinea",
     "World-Bank-Percentage": 39.9,
     "World-Bank-Year": 2009,
     "OECD-Percentage": null,
@@ -297,7 +297,7 @@
   },
   {
     "Flag-Code": "AR",
-    "country": "Argentina",
+    "Country": "Argentina",
     "World-Bank-Percentage": 39.2,
     "World-Bank-Year": 2022,
     "OECD-Percentage": null,
@@ -305,7 +305,7 @@
   },
   {
     "Flag-Code": "KE",
-    "country": "Kenya",
+    "Country": "Kenya",
     "World-Bank-Percentage": 38.6,
     "World-Bank-Year": 2021,
     "OECD-Percentage": null,
@@ -313,7 +313,7 @@
   },
   {
     "Flag-Code": "BJ",
-    "country": "Benin",
+    "Country": "Benin",
     "World-Bank-Percentage": 38.5,
     "World-Bank-Year": 2018,
     "OECD-Percentage": null,
@@ -321,7 +321,7 @@
   },
   {
     "Flag-Code": "ZW",
-    "country": "Zimbabwe",
+    "Country": "Zimbabwe",
     "World-Bank-Percentage": 38.3,
     "World-Bank-Year": 2019,
     "OECD-Percentage": null,
@@ -329,7 +329,7 @@
   },
   {
     "Flag-Code": "RW",
-    "country": "Rwanda",
+    "Country": "Rwanda",
     "World-Bank-Percentage": 38.2,
     "World-Bank-Year": 2016,
     "OECD-Percentage": null,
@@ -337,7 +337,7 @@
   },
   {
     "Flag-Code": "CI",
-    "country": "Ivory Coast",
+    "Country": "Ivory Coast",
     "World-Bank-Percentage": 37.5,
     "World-Bank-Year": 2021,
     "OECD-Percentage": null,
@@ -345,15 +345,15 @@
   },
   {
     "Flag-Code": "CM",
-    "country": "Cameroon",
+    "Country": "Cameroon",
     "World-Bank-Percentage": 37.5,
     "World-Bank-Year": 2014,
     "OECD-Percentage": null,
     "OECD-Year": null
   },
   {
-    "Flag-Code": "CO",
-    "country": "Colombia",
+    "Flag-Code": "Co",
+    "Country": "Colombia",
     "World-Bank-Percentage": 36.6,
     "World-Bank-Year": 2022,
     "OECD-Percentage": null,
@@ -361,7 +361,7 @@
   },
   {
     "Flag-Code": "BO",
-    "country": "Bolivia",
+    "Country": "Bolivia",
     "World-Bank-Percentage": 36.4,
     "World-Bank-Year": 2021,
     "OECD-Percentage": null,
@@ -369,7 +369,7 @@
   },
   {
     "Flag-Code": "MX",
-    "country": "Mexico",
+    "Country": "Mexico",
     "World-Bank-Percentage": 36.3,
     "World-Bank-Year": 2022,
     "OECD-Percentage": 15,
@@ -377,7 +377,7 @@
   },
   {
     "Flag-Code": "SY",
-    "country": "Syria",
+    "Country": "Syria",
     "World-Bank-Percentage": 35.2,
     "World-Bank-Year": 2007,
     "OECD-Percentage": null,
@@ -385,7 +385,7 @@
   },
   {
     "Flag-Code": "CV",
-    "country": "Cape Verde",
+    "Country": "Cape Verde",
     "World-Bank-Percentage": 35.2,
     "World-Bank-Year": 2015,
     "OECD-Percentage": null,
@@ -393,7 +393,7 @@
   },
   {
     "Flag-Code": "GA",
-    "country": "Gabon",
+    "Country": "Gabon",
     "World-Bank-Percentage": 33.4,
     "World-Bank-Year": 2017,
     "OECD-Percentage": null,
@@ -401,7 +401,7 @@
   },
   {
     "Flag-Code": "KG",
-    "country": "Kyrgyzstan",
+    "Country": "Kyrgyzstan",
     "World-Bank-Percentage": 33.3,
     "World-Bank-Year": 2021,
     "OECD-Percentage": null,
@@ -409,7 +409,7 @@
   },
   {
     "Flag-Code": "VE",
-    "country": "Venezuela",
+    "Country": "Venezuela",
     "World-Bank-Percentage": 33.1,
     "World-Bank-Year": 2015,
     "OECD-Percentage": null,
@@ -417,7 +417,7 @@
   },
   {
     "Flag-Code": "AO",
-    "country": "Angola",
+    "Country": "Angola",
     "World-Bank-Percentage": 32.3,
     "World-Bank-Year": 2018,
     "OECD-Percentage": null,
@@ -425,7 +425,7 @@
   },
   {
     "Flag-Code": "MR",
-    "country": "Mauritania",
+    "Country": "Mauritania",
     "World-Bank-Percentage": 31.8,
     "World-Bank-Year": 2019,
     "OECD-Percentage": null,
@@ -433,7 +433,7 @@
   },
   {
     "Flag-Code": "MD",
-    "country": "Moldova",
+    "Country": "Moldova",
     "World-Bank-Percentage": 31.1,
     "World-Bank-Year": 2022,
     "OECD-Percentage": null,
@@ -441,7 +441,7 @@
   },
   {
     "Flag-Code": "EG",
-    "country": "Egypt",
+    "Country": "Egypt",
     "World-Bank-Percentage": 29.7,
     "World-Bank-Year": 2019,
     "OECD-Percentage": null,
@@ -449,7 +449,7 @@
   },
   {
     "Flag-Code": "PE",
-    "country": "Peru",
+    "Country": "Peru",
     "World-Bank-Percentage": 27.5,
     "World-Bank-Year": 2022,
     "OECD-Percentage": null,
@@ -457,7 +457,7 @@
   },
   {
     "Flag-Code": "LB",
-    "country": "Lebanon",
+    "Country": "Lebanon",
     "World-Bank-Percentage": 27.4,
     "World-Bank-Year": 2012,
     "OECD-Percentage": null,
@@ -465,7 +465,7 @@
   },
   {
     "Flag-Code": "MN",
-    "country": "Mongolia",
+    "Country": "Mongolia",
     "World-Bank-Percentage": 27.1,
     "World-Bank-Year": 2022,
     "OECD-Percentage": null,
@@ -473,7 +473,7 @@
   },
   {
     "Flag-Code": "SV",
-    "country": "El Salvador",
+    "Country": "El Salvador",
     "World-Bank-Percentage": 26.6,
     "World-Bank-Year": 2022,
     "OECD-Percentage": null,
@@ -481,7 +481,7 @@
   },
   {
     "Flag-Code": "TZ",
-    "country": "Tanzania",
+    "Country": "Tanzania",
     "World-Bank-Percentage": 26.4,
     "World-Bank-Year": 2018,
     "OECD-Percentage": null,
@@ -489,7 +489,7 @@
   },
   {
     "Flag-Code": "TV",
-    "country": "Tuvalu",
+    "Country": "Tuvalu",
     "World-Bank-Percentage": 26.3,
     "World-Bank-Year": 2010,
     "OECD-Percentage": null,
@@ -497,7 +497,7 @@
   },
   {
     "Flag-Code": "CR",
-    "country": "Costa Rica",
+    "Country": "Costa Rica",
     "World-Bank-Percentage": 25.5,
     "World-Bank-Year": 2022,
     "OECD-Percentage": 21.2,
@@ -505,7 +505,7 @@
   },
   {
     "Flag-Code": "SC",
-    "country": "Seychelles",
+    "Country": "Seychelles",
     "World-Bank-Percentage": 25.3,
     "World-Bank-Year": 2018,
     "OECD-Percentage": null,
@@ -513,7 +513,7 @@
   },
   {
     "Flag-Code": "EC",
-    "country": "Ecuador",
+    "Country": "Ecuador",
     "World-Bank-Percentage": 25.2,
     "World-Bank-Year": 2022,
     "OECD-Percentage": null,
@@ -521,7 +521,7 @@
   },
   {
     "Flag-Code": "LC",
-    "country": "Saint Lucia",
+    "Country": "Saint Lucia",
     "World-Bank-Percentage": 25,
     "World-Bank-Year": 2015,
     "OECD-Percentage": null,
@@ -529,7 +529,7 @@
   },
   {
     "Flag-Code": "GD",
-    "country": "Grenada",
+    "Country": "Grenada",
     "World-Bank-Percentage": 25,
     "World-Bank-Year": 2018,
     "OECD-Percentage": null,
@@ -537,7 +537,7 @@
   },
   {
     "Flag-Code": "NI",
-    "country": "Nicaragua",
+    "Country": "Nicaragua",
     "World-Bank-Percentage": 24.9,
     "World-Bank-Year": 2016,
     "OECD-Percentage": null,
@@ -545,7 +545,7 @@
   },
   {
     "Flag-Code": "PW",
-    "country": "Palau",
+    "Country": "Palau",
     "World-Bank-Percentage": 24.9,
     "World-Bank-Year": 2006,
     "OECD-Percentage": null,
@@ -553,7 +553,7 @@
   },
   {
     "Flag-Code": "MM",
-    "country": "Myanmar",
+    "Country": "Myanmar",
     "World-Bank-Percentage": 24.8,
     "World-Bank-Year": 2017,
     "OECD-Percentage": null,
@@ -561,7 +561,7 @@
   },
   {
     "Flag-Code": "AM",
-    "country": "Armenia",
+    "Country": "Armenia",
     "World-Bank-Percentage": 24.8,
     "World-Bank-Year": 2022,
     "OECD-Percentage": null,
@@ -569,7 +569,7 @@
   },
   {
     "Flag-Code": "PY",
-    "country": "Paraguay",
+    "Country": "Paraguay",
     "World-Bank-Percentage": 24.7,
     "World-Bank-Year": 2022,
     "OECD-Percentage": null,
@@ -577,7 +577,7 @@
   },
   {
     "Flag-Code": "FJ",
-    "country": "Fiji",
+    "Country": "Fiji",
     "World-Bank-Percentage": 24.1,
     "World-Bank-Year": 2019,
     "OECD-Percentage": null,
@@ -585,7 +585,7 @@
   },
   {
     "Flag-Code": "DO",
-    "country": "Dominican Republic",
+    "Country": "Dominican Republic",
     "World-Bank-Percentage": 23.9,
     "World-Bank-Year": 2021,
     "OECD-Percentage": null,
@@ -593,7 +593,7 @@
   },
   {
     "Flag-Code": "ET",
-    "country": "Ethiopia",
+    "Country": "Ethiopia",
     "World-Bank-Percentage": 23.5,
     "World-Bank-Year": 2015,
     "OECD-Percentage": null,
@@ -601,7 +601,7 @@
   },
   {
     "Flag-Code": "GH",
-    "country": "Ghana",
+    "Country": "Ghana",
     "World-Bank-Percentage": 23.4,
     "World-Bank-Year": 2016,
     "OECD-Percentage": null,
@@ -609,7 +609,7 @@
   },
   {
     "Flag-Code": "TJ",
-    "country": "Tajikistan",
+    "Country": "Tajikistan",
     "World-Bank-Percentage": 22.5,
     "World-Bank-Year": 2022,
     "OECD-Percentage": null,
@@ -617,7 +617,7 @@
   },
   {
     "Flag-Code": "LV",
-    "country": "Latvia",
+    "Country": "Latvia",
     "World-Bank-Percentage": 22.5,
     "World-Bank-Year": 2022,
     "OECD-Percentage": 16.9,
@@ -625,7 +625,7 @@
   },
   {
     "Flag-Code": "EE",
-    "country": "Estonia",
+    "Country": "Estonia",
     "World-Bank-Percentage": 22.5,
     "World-Bank-Year": 2022,
     "OECD-Percentage": 16.2,
@@ -633,7 +633,7 @@
   },
   {
     "Flag-Code": "AL",
-    "country": "Albania",
+    "Country": "Albania",
     "World-Bank-Percentage": 22,
     "World-Bank-Year": 2020,
     "OECD-Percentage": null,
@@ -641,7 +641,7 @@
   },
   {
     "Flag-Code": "IN",
-    "country": "India",
+    "Country": "India",
     "World-Bank-Percentage": 21.9,
     "World-Bank-Year": 2011,
     "OECD-Percentage": null,
@@ -649,7 +649,7 @@
   },
   {
     "Flag-Code": "PK",
-    "country": "Pakistan",
+    "Country": "Pakistan",
     "World-Bank-Percentage": 21.9,
     "World-Bank-Year": 2018,
     "OECD-Percentage": null,
@@ -657,7 +657,7 @@
   },
   {
     "Flag-Code": "WS",
-    "country": "Samoa",
+    "Country": "Samoa",
     "World-Bank-Percentage": 21.9,
     "World-Bank-Year": 2018,
     "OECD-Percentage": null,
@@ -665,7 +665,7 @@
   },
   {
     "Flag-Code": "KI",
-    "country": "Kiribati",
+    "Country": "Kiribati",
     "World-Bank-Percentage": 21.9,
     "World-Bank-Year": 2019,
     "OECD-Percentage": null,
@@ -673,7 +673,7 @@
   },
   {
     "Flag-Code": "PA",
-    "country": "Panama",
+    "Country": "Panama",
     "World-Bank-Percentage": 21.8,
     "World-Bank-Year": 2021,
     "OECD-Percentage": null,
@@ -681,7 +681,7 @@
   },
   {
     "Flag-Code": "MK",
-    "country": "North Macedonia",
+    "Country": "North Macedonia",
     "World-Bank-Percentage": 21.8,
     "World-Bank-Year": 2019,
     "OECD-Percentage": null,
@@ -689,7 +689,7 @@
   },
   {
     "Flag-Code": "RO",
-    "country": "Romania",
+    "Country": "Romania",
     "World-Bank-Percentage": 21.2,
     "World-Bank-Year": 2021,
     "OECD-Percentage": 16,
@@ -697,7 +697,7 @@
   },
   {
     "Flag-Code": "DJ",
-    "country": "Djibouti",
+    "Country": "Djibouti",
     "World-Bank-Percentage": 21.1,
     "World-Bank-Year": 2017,
     "OECD-Percentage": null,
@@ -705,7 +705,7 @@
   },
   {
     "Flag-Code": "LT",
-    "country": "Lithuania",
+    "Country": "Lithuania",
     "World-Bank-Percentage": 20.9,
     "World-Bank-Year": 2021,
     "OECD-Percentage": 14.1,
@@ -713,7 +713,7 @@
   },
   {
     "Flag-Code": "BG",
-    "country": "Bulgaria",
+    "Country": "Bulgaria",
     "World-Bank-Percentage": 20.6,
     "World-Bank-Year": 2022,
     "OECD-Percentage": 13,
@@ -721,7 +721,7 @@
   },
   {
     "Flag-Code": "TO",
-    "country": "Tonga",
+    "Country": "Tonga",
     "World-Bank-Percentage": 20.6,
     "World-Bank-Year": 2021,
     "OECD-Percentage": null,
@@ -729,7 +729,7 @@
   },
   {
     "Flag-Code": "UG",
-    "country": "Uganda",
+    "Country": "Uganda",
     "World-Bank-Percentage": 20.3,
     "World-Bank-Year": 2019,
     "OECD-Percentage": null,
@@ -737,7 +737,7 @@
   },
   {
     "Flag-Code": "NP",
-    "country": "Nepal",
+    "Country": "Nepal",
     "World-Bank-Percentage": 20.3,
     "World-Bank-Year": 2022,
     "OECD-Percentage": null,
@@ -745,7 +745,7 @@
   },
   {
     "Flag-Code": "ME",
-    "country": "Montenegro",
+    "Country": "Montenegro",
     "World-Bank-Percentage": 20.3,
     "World-Bank-Year": 2021,
     "OECD-Percentage": null,
@@ -753,7 +753,7 @@
   },
   {
     "Flag-Code": "ES",
-    "country": "Spain",
+    "Country": "Spain",
     "World-Bank-Percentage": 20.2,
     "World-Bank-Year": 2022,
     "OECD-Percentage": 13.7,
@@ -761,7 +761,7 @@
   },
   {
     "Flag-Code": "IT",
-    "country": "Italy",
+    "Country": "Italy",
     "World-Bank-Percentage": 20.1,
     "World-Bank-Year": 2021,
     "OECD-Percentage": 12.2,
@@ -769,7 +769,7 @@
   },
   {
     "Flag-Code": "RS",
-    "country": "Serbia",
+    "Country": "Serbia",
     "World-Bank-Percentage": 20,
     "World-Bank-Year": 2021,
     "OECD-Percentage": null,
@@ -777,7 +777,7 @@
   },
   {
     "Flag-Code": "IQ",
-    "country": "Iraq",
+    "Country": "Iraq",
     "World-Bank-Percentage": 18.9,
     "World-Bank-Year": 2012,
     "OECD-Percentage": null,
@@ -785,7 +785,7 @@
   },
   {
     "Flag-Code": "GR",
-    "country": "Greece",
+    "Country": "Greece",
     "World-Bank-Percentage": 18.8,
     "World-Bank-Year": 2021,
     "OECD-Percentage": 11.2,
@@ -793,7 +793,7 @@
   },
   {
     "Flag-Code": "BD",
-    "country": "Bangladesh",
+    "Country": "Bangladesh",
     "World-Bank-Percentage": 18.7,
     "World-Bank-Year": 2022,
     "OECD-Percentage": null,
@@ -801,7 +801,7 @@
   },
   {
     "Flag-Code": "GB",
-    "country": "United Kingdom",
+    "Country": "United Kingdom",
     "World-Bank-Percentage": 18.6,
     "World-Bank-Year": 2017,
     "OECD-Percentage": 11.8,
@@ -809,7 +809,7 @@
   },
   {
     "Flag-Code": "LA",
-    "country": "Laos",
+    "Country": "Laos",
     "World-Bank-Percentage": 18.3,
     "World-Bank-Year": 2018,
     "OECD-Percentage": null,
@@ -817,7 +817,7 @@
   },
   {
     "Flag-Code": "PH",
-    "country": "Philippines",
+    "Country": "Philippines",
     "World-Bank-Percentage": 18.1,
     "World-Bank-Year": 2021,
     "OECD-Percentage": null,
@@ -825,7 +825,7 @@
   },
   {
     "Flag-Code": "US",
-    "country": "United States",
+    "Country": "United States",
     "World-Bank-Percentage": 18,
     "World-Bank-Year": null,
     "OECD-Percentage": 18.1,
@@ -833,7 +833,7 @@
   },
   {
     "Flag-Code": "HR",
-    "country": "Croatia",
+    "Country": "Croatia",
     "World-Bank-Percentage": 18,
     "World-Bank-Year": 2021,
     "OECD-Percentage": 14,
@@ -841,7 +841,7 @@
   },
   {
     "Flag-Code": "KH",
-    "country": "Cambodia",
+    "Country": "Cambodia",
     "World-Bank-Percentage": 17.7,
     "World-Bank-Year": 2012,
     "OECD-Percentage": null,
@@ -849,7 +849,7 @@
   },
   {
     "Flag-Code": "NA",
-    "country": "Namibia",
+    "Country": "Namibia",
     "World-Bank-Percentage": 17.4,
     "World-Bank-Year": 2015,
     "OECD-Percentage": null,
@@ -857,7 +857,7 @@
   },
   {
     "Flag-Code": "LU",
-    "country": "Luxembourg",
+    "Country": "Luxembourg",
     "World-Bank-Percentage": 17.3,
     "World-Bank-Year": 2021,
     "OECD-Percentage": 8.9,
@@ -865,7 +865,7 @@
   },
   {
     "Flag-Code": "BA",
-    "country": "Bosnia and Herzegovina",
+    "Country": "Bosnia and Herzegovina",
     "World-Bank-Percentage": 16.9,
     "World-Bank-Year": 2015,
     "OECD-Percentage": null,
@@ -873,7 +873,7 @@
   },
   {
     "Flag-Code": "JM",
-    "country": "Jamaica",
+    "Country": "Jamaica",
     "World-Bank-Percentage": 16.7,
     "World-Bank-Year": 2021,
     "OECD-Percentage": null,
@@ -881,7 +881,7 @@
   },
   {
     "Flag-Code": "MT",
-    "country": "Malta",
+    "Country": "Malta",
     "World-Bank-Percentage": 16.7,
     "World-Bank-Year": 2021,
     "OECD-Percentage": null,
@@ -889,7 +889,7 @@
   },
   {
     "Flag-Code": "TN",
-    "country": "Tunisia",
+    "Country": "Tunisia",
     "World-Bank-Percentage": 16.6,
     "World-Bank-Year": 2021,
     "OECD-Percentage": null,
@@ -897,7 +897,7 @@
   },
   {
     "Flag-Code": "PT",
-    "country": "Portugal",
+    "Country": "Portugal",
     "World-Bank-Percentage": 16.4,
     "World-Bank-Year": 2021,
     "OECD-Percentage": 11.2,
@@ -905,7 +905,7 @@
   },
   {
     "Flag-Code": "SE",
-    "country": "Sweden",
+    "Country": "Sweden",
     "World-Bank-Percentage": 16.1,
     "World-Bank-Year": 2022,
     "OECD-Percentage": 8.4,
@@ -913,7 +913,7 @@
   },
   {
     "Flag-Code": "BW",
-    "country": "Botswana",
+    "Country": "Botswana",
     "World-Bank-Percentage": 16.1,
     "World-Bank-Year": 2015,
     "OECD-Percentage": null,
@@ -921,7 +921,7 @@
   },
   {
     "Flag-Code": "VU",
-    "country": "Vanuatu",
+    "Country": "Vanuatu",
     "World-Bank-Percentage": 15.9,
     "World-Bank-Year": 2019,
     "OECD-Percentage": null,
@@ -929,7 +929,7 @@
   },
   {
     "Flag-Code": "CH",
-    "country": "Switzerland",
+    "Country": "Switzerland",
     "World-Bank-Percentage": 15.8,
     "World-Bank-Year": 2021,
     "OECD-Percentage": 10.1,
@@ -937,7 +937,7 @@
   },
   {
     "Flag-Code": "JO",
-    "country": "Jordan",
+    "Country": "Jordan",
     "World-Bank-Percentage": 15.7,
     "World-Bank-Year": 2018,
     "OECD-Percentage": null,
@@ -945,7 +945,7 @@
   },
   {
     "Flag-Code": "FR",
-    "country": "France",
+    "Country": "France",
     "World-Bank-Percentage": 15.6,
     "World-Bank-Year": 2021,
     "OECD-Percentage": 8.3,
@@ -953,7 +953,7 @@
   },
   {
     "Flag-Code": "GE",
-    "country": "Georgia",
+    "Country": "Georgia",
     "World-Bank-Percentage": 15.6,
     "World-Bank-Year": 2022,
     "OECD-Percentage": null,
@@ -961,7 +961,7 @@
   },
   {
     "Flag-Code": "DE",
-    "country": "Germany",
+    "Country": "Germany",
     "World-Bank-Percentage": 14.8,
     "World-Bank-Year": 2021,
     "OECD-Percentage": 11.6,
@@ -969,7 +969,7 @@
   },
   {
     "Flag-Code": "AT",
-    "country": "Austria",
+    "Country": "Austria",
     "World-Bank-Percentage": 14.8,
     "World-Bank-Year": 2021,
     "OECD-Percentage": 9.6,
@@ -977,7 +977,7 @@
   },
   {
     "Flag-Code": "NL",
-    "country": "Netherlands",
+    "Country": "Netherlands",
     "World-Bank-Percentage": 14.5,
     "World-Bank-Year": 2021,
     "OECD-Percentage": 7.4,
@@ -985,7 +985,7 @@
   },
   {
     "Flag-Code": "TR",
-    "country": "Turkey",
+    "Country": "Turkey",
     "World-Bank-Percentage": 14.4,
     "World-Bank-Year": 2021,
     "OECD-Percentage": 13.2,
@@ -993,7 +993,7 @@
   },
   {
     "Flag-Code": "LK",
-    "country": "Sri Lanka",
+    "Country": "Sri Lanka",
     "World-Bank-Percentage": 14.3,
     "World-Bank-Year": 2019,
     "OECD-Percentage": null,
@@ -1001,7 +1001,7 @@
   },
   {
     "Flag-Code": "IE",
-    "country": "Ireland",
+    "Country": "Ireland",
     "World-Bank-Percentage": 14,
     "World-Bank-Year": 2021,
     "OECD-Percentage": 7,
@@ -1009,7 +1009,7 @@
   },
   {
     "Flag-Code": "CY",
-    "country": "Cyprus",
+    "Country": "Cyprus",
     "World-Bank-Percentage": 13.9,
     "World-Bank-Year": 2021,
     "OECD-Percentage": null,
@@ -1017,7 +1017,7 @@
   },
   {
     "Flag-Code": "SK",
-    "country": "Slovakia",
+    "Country": "Slovakia",
     "World-Bank-Percentage": 13.7,
     "World-Bank-Year": 2021,
     "OECD-Percentage": 9.4,
@@ -1025,7 +1025,7 @@
   },
   {
     "Flag-Code": "SI",
-    "country": "Slovenia",
+    "Country": "Slovenia",
     "World-Bank-Percentage": 12.7,
     "World-Bank-Year": 2022,
     "OECD-Percentage": 7.9,
@@ -1033,7 +1033,7 @@
   },
   {
     "Flag-Code": "SB",
-    "country": "Solomon Islands",
+    "Country": "Solomon Islands",
     "World-Bank-Percentage": 12.7,
     "World-Bank-Year": 2012,
     "OECD-Percentage": null,
@@ -1041,7 +1041,7 @@
   },
   {
     "Flag-Code": "DK",
-    "country": "Denmark",
+    "Country": "Denmark",
     "World-Bank-Percentage": 12.4,
     "World-Bank-Year": 2021,
     "OECD-Percentage": 6.5,
@@ -1049,7 +1049,7 @@
   },
   {
     "Flag-Code": "BT",
-    "country": "Bhutan",
+    "Country": "Bhutan",
     "World-Bank-Percentage": 12.4,
     "World-Bank-Year": 2022,
     "OECD-Percentage": null,
@@ -1057,7 +1057,7 @@
   },
   {
     "Flag-Code": "BE",
-    "country": "Belgium",
+    "Country": "Belgium",
     "World-Bank-Percentage": 12.3,
     "World-Bank-Year": 2022,
     "OECD-Percentage": 6.9,
@@ -1065,7 +1065,7 @@
   },
   {
     "Flag-Code": "FI",
-    "country": "Finland",
+    "Country": "Finland",
     "World-Bank-Percentage": 12.2,
     "World-Bank-Year": 2022,
     "OECD-Percentage": 6.7,
@@ -1073,7 +1073,7 @@
   },
   {
     "Flag-Code": "NO",
-    "country": "Norway",
+    "Country": "Norway",
     "World-Bank-Percentage": 12.2,
     "World-Bank-Year": 2021,
     "OECD-Percentage": 8,
@@ -1081,7 +1081,7 @@
   },
   {
     "Flag-Code": "HU",
-    "country": "Hungary",
+    "Country": "Hungary",
     "World-Bank-Percentage": 12.1,
     "World-Bank-Year": 2021,
     "OECD-Percentage": 9.9,
@@ -1089,7 +1089,7 @@
   },
   {
     "Flag-Code": "PL",
-    "country": "Poland",
+    "Country": "Poland",
     "World-Bank-Percentage": 11.8,
     "World-Bank-Year": 2022,
     "OECD-Percentage": 9.1,
@@ -1097,7 +1097,7 @@
   },
   {
     "Flag-Code": "RU",
-    "country": "Russia",
+    "Country": "Russia",
     "World-Bank-Percentage": 11,
     "World-Bank-Year": 2021,
     "OECD-Percentage": 11.5,
@@ -1105,7 +1105,7 @@
   },
   {
     "Flag-Code": "UZ",
-    "country": "Uzbekistan",
+    "Country": "Uzbekistan",
     "World-Bank-Percentage": 11,
     "World-Bank-Year": 2023,
     "OECD-Percentage": null,
@@ -1113,7 +1113,7 @@
   },
   {
     "Flag-Code": "MU",
-    "country": "Mauritius",
+    "Country": "Mauritius",
     "World-Bank-Percentage": 10.3,
     "World-Bank-Year": 2017,
     "OECD-Percentage": null,
@@ -1121,7 +1121,7 @@
   },
   {
     "Flag-Code": "CZ",
-    "country": "Czech Republic",
+    "Country": "Czech Republic",
     "World-Bank-Percentage": 10.2,
     "World-Bank-Year": 2021,
     "OECD-Percentage": 6.2,
@@ -1129,7 +1129,7 @@
   },
   {
     "Flag-Code": "UY",
-    "country": "Uruguay",
+    "Country": "Uruguay",
     "World-Bank-Percentage": 9.9,
     "World-Bank-Year": 2022,
     "OECD-Percentage": null,
@@ -1137,7 +1137,7 @@
   },
   {
     "Flag-Code": "ID",
-    "country": "Indonesia",
+    "Country": "Indonesia",
     "World-Bank-Percentage": 9.4,
     "World-Bank-Year": 2023,
     "OECD-Percentage": null,
@@ -1145,7 +1145,7 @@
   },
   {
     "Flag-Code": "IS",
-    "country": "Iceland",
+    "Country": "Iceland",
     "World-Bank-Percentage": 8.8,
     "World-Bank-Year": 2017,
     "OECD-Percentage": null,
@@ -1153,7 +1153,7 @@
   },
   {
     "Flag-Code": "MH",
-    "country": "Marshall Islands",
+    "Country": "Marshall Islands",
     "World-Bank-Percentage": 7.2,
     "World-Bank-Year": 2019,
     "OECD-Percentage": null,
@@ -1161,7 +1161,7 @@
   },
   {
     "Flag-Code": "CL",
-    "country": "Chile",
+    "Country": "Chile",
     "World-Bank-Percentage": 6.5,
     "World-Bank-Year": 2022,
     "OECD-Percentage": 16.3,
@@ -1169,7 +1169,7 @@
   },
   {
     "Flag-Code": "TH",
-    "country": "Thailand",
+    "Country": "Thailand",
     "World-Bank-Percentage": 6.3,
     "World-Bank-Year": 2021,
     "OECD-Percentage": null,
@@ -1177,7 +1177,7 @@
   },
   {
     "Flag-Code": "MY",
-    "country": "Malaysia",
+    "Country": "Malaysia",
     "World-Bank-Percentage": 6.2,
     "World-Bank-Year": 2021,
     "OECD-Percentage": null,
@@ -1185,7 +1185,7 @@
   },
   {
     "Flag-Code": "AZ",
-    "country": "Azerbaijan",
+    "Country": "Azerbaijan",
     "World-Bank-Percentage": 6,
     "World-Bank-Year": 2012,
     "OECD-Percentage": null,
@@ -1193,7 +1193,7 @@
   },
   {
     "Flag-Code": "DZ",
-    "country": "Algeria",
+    "Country": "Algeria",
     "World-Bank-Percentage": 5.5,
     "World-Bank-Year": 2011,
     "OECD-Percentage": null,
@@ -1201,7 +1201,7 @@
   },
   {
     "Flag-Code": "MV",
-    "country": "Maldives",
+    "Country": "Maldives",
     "World-Bank-Percentage": 5.4,
     "World-Bank-Year": 2019,
     "OECD-Percentage": null,
@@ -1209,7 +1209,7 @@
   },
   {
     "Flag-Code": "KZ",
-    "country": "Kazakhstan",
+    "Country": "Kazakhstan",
     "World-Bank-Percentage": 5.2,
     "World-Bank-Year": 2022,
     "OECD-Percentage": null,
@@ -1217,7 +1217,7 @@
   },
   {
     "Flag-Code": "MA",
-    "country": "Morocco",
+    "Country": "Morocco",
     "World-Bank-Percentage": 4.8,
     "World-Bank-Year": 2013,
     "OECD-Percentage": null,
@@ -1225,7 +1225,7 @@
   },
   {
     "Flag-Code": "VN",
-    "country": "Vietnam",
+    "Country": "Vietnam",
     "World-Bank-Percentage": 4.3,
     "World-Bank-Year": 2022,
     "OECD-Percentage": null,
@@ -1233,7 +1233,7 @@
   },
   {
     "Flag-Code": "BY",
-    "country": "Belarus",
+    "Country": "Belarus",
     "World-Bank-Percentage": 3.9,
     "World-Bank-Year": 2022,
     "OECD-Percentage": null,
@@ -1241,7 +1241,7 @@
   },
   {
     "Flag-Code": "UA",
-    "country": "Ukraine",
+    "Country": "Ukraine",
     "World-Bank-Percentage": 1.6,
     "World-Bank-Year": 2020,
     "OECD-Percentage": null,
@@ -1249,7 +1249,7 @@
   },
   {
     "Flag-Code": "CN",
-    "country": "China",
+    "Country": "China",
     "World-Bank-Percentage": null,
     "World-Bank-Year": 2020,
     "OECD-Percentage": null,
@@ -1257,7 +1257,7 @@
   },
   {
     "Flag-Code": "BR",
-    "country": "Brazil",
+    "Country": "Brazil",
     "World-Bank-Percentage": null,
     "World-Bank-Year": null,
     "OECD-Percentage": 19.2,
@@ -1265,7 +1265,7 @@
   },
   {
     "Flag-Code": "JP",
-    "country": "Japan",
+    "Country": "Japan",
     "World-Bank-Percentage": null,
     "World-Bank-Year": null,
     "OECD-Percentage": 15.4,
@@ -1273,7 +1273,7 @@
   },
   {
     "Flag-Code": "KR",
-    "country": "South Korea",
+    "Country": "South Korea",
     "World-Bank-Percentage": null,
     "World-Bank-Year": null,
     "OECD-Percentage": 14.9,
@@ -1281,7 +1281,7 @@
   },
   {
     "Flag-Code": "CA",
-    "country": "Canada",
+    "Country": "Canada",
     "World-Bank-Percentage": null,
     "World-Bank-Year": null,
     "OECD-Percentage": 11.9,
@@ -1289,7 +1289,7 @@
   },
   {
     "Flag-Code": "AU",
-    "country": "Australia",
+    "Country": "Australia",
     "World-Bank-Percentage": null,
     "World-Bank-Year": null,
     "OECD-Percentage": 12.6,
@@ -1297,7 +1297,7 @@
   },
   {
     "Flag-Code": "IL",
-    "country": "Israel",
+    "Country": "Israel",
     "World-Bank-Percentage": null,
     "World-Bank-Year": null,
     "OECD-Percentage": 16.8,
@@ -1305,7 +1305,7 @@
   },
   {
     "Flag-Code": "NZ",
-    "country": "New Zealand",
+    "Country": "New Zealand",
     "World-Bank-Percentage": null,
     "World-Bank-Year": null,
     "OECD-Percentage": 14.3,
