@@ -3,6 +3,8 @@
 - https://learn.microsoft.com/en-us/cpp/
 - https://clang.llvm.org/docs/index.html
 - https://c3-lang.org/standard-library/
+- https://go.dev/doc/
+- https://pkg.go.dev/std
 - https://odin-lang.org/docs/overview/
 - https://rust-lang.org/learn
 - https://crates.io/crates
