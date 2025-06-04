@@ -1,0 +1,1374 @@
+[
+  {
+    "flagCode": "MX",
+    "country": "Mexico",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Selective",
+    "countriesWhereWeedIsIllegal_notes": "Private recreational use legalized by Supreme Court in June 2021, though legislature has yet to replace old unconstitutional laws with viable new ones. Medical cannabis with less than 1% THC legalized in June 2017."
+  },
+  {
+    "flagCode": "IT",
+    "country": "Italy",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Personal use is a misdemeanor, though fines and loss of passport or driver's license can still apply. Unauthorized sale and cultivation earn more severe punishments. Medicinal and industrial cultivation and use are tightly regulated."
+  },
+  {
+    "flagCode": "CO",
+    "country": "Colombia",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Cultivation, consumption, and possession of up to 22g for personal use is decriminalized. Carrying more than 22G or cultivating up to 20 plants for personal use is allowed, but sales are not."
+  },
+  {
+    "flagCode": "ES",
+    "country": "Spain",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Selective",
+    "countriesWhereWeedIsIllegal_notes": "All personal use activities are a fine-able misdemeanor only. Legal \"cannabis social clubs\" exist. Legalized for medical use in certain forms (Sativex)."
+  },
+  {
+    "flagCode": "AR",
+    "country": "Argentina",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Supreme court decriminalized small amounts and private consumption in 2009. Legal for medical needs since 21 September 2017."
+  },
+  {
+    "flagCode": "PE",
+    "country": "Peru",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Possession of up to 8g is not punished. Production and sale are still prohibited and can lead to 8–15 years in prison. Legalized for medical use in 2017."
+  },
+  {
+    "flagCode": "CL",
+    "country": "Chile",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Cannabis use is quite common even in public. Possession and cultivation for private recreational use is decriminalized. Medical use is legal, and multiple presidential nominees in 2021 admitted using cannabis and proposed its legalization."
+  },
+  {
+    "flagCode": "NL",
+    "country": "Netherlands",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Heavily decriminalized. Sales allowed in licensed coffee shops, personal consumption and possession of up to 5g is tolerated. Transportation and distribution, however, are still prohibited, as is production. Pilot programs for legalizing the production pipeline are in process."
+  },
+  {
+    "flagCode": "EC",
+    "country": "Ecuador",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Possession of under 10g is considered personal use and not punished. Legalized for medical uses in Sept. 2019."
+  },
+  {
+    "flagCode": "BE",
+    "country": "Belgium",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Selective",
+    "countriesWhereWeedIsIllegal_notes": "Recreationally, up to 3g decriminalized since 2003. Medically legal in certain forms (Sativex)."
+  },
+  {
+    "flagCode": "CZ",
+    "country": "Czech Republic",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Recreational possession of up to 10g or cultivation of up to 5 plants is usually tolerated, but can incur a small fine. Use is common. Medicinal use legal and regulated since 2013."
+  },
+  {
+    "flagCode": "PT",
+    "country": "Portugal",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Portugal decriminalized all drug use in 2001 (the first country to do so). Up to 25g of plant material or 5g of hashish are acceptable. Legalized for medical use in July 2018."
+  },
+  {
+    "flagCode": "IL",
+    "country": "Israel",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Possession of up to 15g is rarely prosecuted. Public use can be punishable via fines. A 2017 survey found Israel had the highest rate of recreational cannabis use in the world (27% of adults)."
+  },
+  {
+    "flagCode": "AT",
+    "country": "Austria",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Selective",
+    "countriesWhereWeedIsIllegal_notes": "Recreationally, decriminalized since Jan. 2016. Medically legal in certain forms (Dronabinol, Nabilone, Sativex)."
+  },
+  {
+    "flagCode": "CH",
+    "country": "Switzerland",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Decriminalized in 2012 such that possession of 10g or less is punishable by fine only."
+  },
+  {
+    "flagCode": "PY",
+    "country": "Paraguay",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Possession of up to 10g is not punished. Paraguay is one of world's leading producers of cannabis."
+  },
+  {
+    "flagCode": "CR",
+    "country": "Costa Rica",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Medically legal as of March 2022. Decriminalized for personal use, as the crime has no criminal penalty. Dealers may still be arrested. Personal use is quite common."
+  },
+  {
+    "flagCode": "MD",
+    "country": "Moldova",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Drug use is an adminstrative offense rather than a crime. Personal possession and/or use may be punished with small fine or 2 hours community service."
+  },
+  {
+    "flagCode": "JM",
+    "country": "Jamaica",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Decriminalized since 2015. Up to 2oz or cultivation of 5 plants is a petty offense. Rastafari can use for spiritual purposes. First medical dispensary opened in 2018."
+  },
+  {
+    "flagCode": "SI",
+    "country": "Slovenia",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Selective",
+    "countriesWhereWeedIsIllegal_notes": "Possession of personal use amounts is a misdemeanor only. Medically, cannabis-based drugs were legalized in 2013, but cannabis itself was not."
+  },
+  {
+    "flagCode": "TT",
+    "country": "Trinidad and Tobago",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Decriminalized in Dec 2019 for possession of up to 30g and cultivation of up to 4 plants."
+  },
+  {
+    "flagCode": "EE",
+    "country": "Estonia",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Selective",
+    "countriesWhereWeedIsIllegal_notes": "Marginally decriminalized, as up to 7.5g is punished with only a fine. Possession of larger amounts or selling can result in up to 5 years imprisionment. Medical use requires a specific permit."
+  },
+  {
+    "flagCode": "LC",
+    "country": "Saint Lucia",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Decriminalized for amounts up to 30g on 14 Sept. 2021 ."
+  },
+  {
+    "flagCode": "VC",
+    "country": "Saint Vincent and the Grenadines",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Decriminalized for amounts up to 56g (2oz) in 2019."
+  },
+  {
+    "flagCode": "AG",
+    "country": "Antigua and Barbuda",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "DM",
+    "country": "Dominica",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Decriminalized in Oct. 2020 for possession of up to 28g and cultivation of up to 3 plants."
+  },
+  {
+    "flagCode": "BM",
+    "country": "Bermuda",
+    "countriesWhereWeedIsIllegal_recreational": "Decriminalized",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Recreationally, up to 7g decriminalized since 2017. Medical use allowed since Nov. 2016, but supplies are restricted."
+  },
+  {
+    "flagCode": "CN",
+    "country": "China",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Illegal for personal and medical use, legal for industrial and manufacturing uses (fabric, rope)."
+  },
+  {
+    "flagCode": "ID",
+    "country": "Indonesia",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Banned in 1927. Minimum sentence for possession is 4 years in prison for adults."
+  },
+  {
+    "flagCode": "NG",
+    "country": "Nigeria",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Nigeria ranks as one of the world's leading producers and consumers of cannabis despite its illegality."
+  },
+  {
+    "flagCode": "BR",
+    "country": "Brazil",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Selective",
+    "countriesWhereWeedIsIllegal_notes": "Possession of a small amount is treated with a warning, community service, and education on the effects of drug use. Possession of large amounts is considered drug trafficking, as are sale, transportation, and cultivation. Medically legal in certain forms (Sativex), especially for terminally ill patients."
+  },
+  {
+    "flagCode": "RU",
+    "country": "Russia",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "According to Russian law, possession of up to 6g of cannabis (or 2g of hashish) is an administrative offense and can result in a fine of RUB 5,000 or up to 15 days imprisonment. Possession of larger amounts warrants greater punishment. Foreign nationals and stateless individuals who violate the law are subject to deportation regardless of the amount. In 2022, American WNBA star Brittney Griner was arrested in Russia for possession of .less than a gram (.702) of hash oil, which she had been prescribed in the U.S. but which is illegal in Russia, and was eventually sentenced to 9 1/2 years in prison."
+  },
+  {
+    "flagCode": "ET",
+    "country": "Ethiopia",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Possession of cannabis is punishable with up to six months in prison."
+  },
+  {
+    "flagCode": "JP",
+    "country": "Japan",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Although hemp was an important crop for medieval Japan, the country outlawed its use in 1948."
+  },
+  {
+    "flagCode": "PH",
+    "country": "Philippines",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illigal",
+    "countriesWhereWeedIsIllegal_notes": "Medical use of cannabis is possible with a special permit from the Food and Drugs Authority for use by individuals with serious or terminal illness."
+  },
+  {
+    "flagCode": "CD",
+    "country": "DR Congo",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "VN",
+    "country": "Vietnam",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "TR",
+    "country": "Turkey",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Selective",
+    "countriesWhereWeedIsIllegal_notes": "Legalized for medical use in certain forms (Sativex, etc.) in 2016."
+  },
+  {
+    "flagCode": "TZ",
+    "country": "Tanzania",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "FR",
+    "country": "France",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Selective",
+    "countriesWhereWeedIsIllegal_notes": "Possession typically punished via a 200€ on-the-spot fine. Limited medical use was legalized in 2013, and pilot programs are testing expansion options."
+  },
+  {
+    "flagCode": "KE",
+    "country": "Kenya",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "KR",
+    "country": "South Korea",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Selective",
+    "countriesWhereWeedIsIllegal_notes": "Medical use was legalized in November 2018 but is limited to Epidiolex, Marinol and Sativex."
+  },
+  {
+    "flagCode": "SD",
+    "country": "Sudan",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "UG",
+    "country": "Uganda",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "DZ",
+    "country": "Algeria",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "IQ",
+    "country": "Iraq",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "AF",
+    "country": "Afghanistan",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "King Zahir Shah prohibited production in 1973."
+  },
+  {
+    "flagCode": "YE",
+    "country": "Yemen",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "AO",
+    "country": "Angola",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "UA",
+    "country": "Ukraine",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "In December 2023, Parliament adopted a bill to legalize medical cannabis on second reading. It was signed into law by President Zelensky on 15 February 2024"
+  },
+  {
+    "flagCode": "PL",
+    "country": "Poland",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Though illegal, prosecutors can choose to drop charges for possession of a minimal amount of cannabis. Legalized for medical use in 2017."
+  },
+  {
+    "flagCode": "UZ",
+    "country": "Uzbekistan",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "MY",
+    "country": "Malaysia",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Medical use legalized in 2021. Recreational use still illegal. Drug trafficking comes with mandatory death sentence."
+  },
+  {
+    "flagCode": "MZ",
+    "country": "Mozambique",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Cannabis is known as suruma in Mozambique."
+  },
+  {
+    "flagCode": "GH",
+    "country": "Ghana",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Legal (but obstructed)",
+    "countriesWhereWeedIsIllegal_notes": "Technically legal for medical use, but requires license from Secretary of Health, rendering it functionally illegal."
+  },
+  {
+    "flagCode": "SA",
+    "country": "Saudi Arabia",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Drug use is punishable by imprisonment (or deportation for foreigners), trafficking can result in death penalty."
+  },
+  {
+    "flagCode": "MG",
+    "country": "Madagascar",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "CI",
+    "country": "Ivory Coast",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "CM",
+    "country": "Cameroon",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Cannabis has several uses in traditional Cameroonian medicine, including easing labor pains and enhancing intercourse."
+  },
+  {
+    "flagCode": "NP",
+    "country": "Nepal",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Although traditionally consumed and offered during Maha Shivaratri, a festival honoring the Hindu god Shiva, cannabis is technically illegal. Multiple propositions to legalize it are in process."
+  },
+  {
+    "flagCode": "VE",
+    "country": "Venezuela",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "NE",
+    "country": "Niger",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "SY",
+    "country": "Syria",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Illegal, but rarely enforced since the start of the Syrian civil war except in areas controlled by the jihadist Al-Nusra Front."
+  },
+  {
+    "flagCode": "ML",
+    "country": "Mali",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "BF",
+    "country": "Burkina Faso",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "LK",
+    "country": "Sri Lanka",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "TW",
+    "country": "Taiwan",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "MW",
+    "country": "Malawi",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Although illegal, \"ganja\" is still widely used and cultivated. Malawian cannabis, particularly \"Malawi Gold\" is internationally respected for its quality. Cultivation and processing for medial use was legalized in Feb.2020."
+  },
+  {
+    "flagCode": "ZM",
+    "country": "Zambia",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Legal (but obstructed)",
+    "countriesWhereWeedIsIllegal_notes": "May be legally cultivated for medicinal use as of 2017, but requires a license and health minister has refused to grant any licenses."
+  },
+  {
+    "flagCode": "TD",
+    "country": "Chad",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "KZ",
+    "country": "Kazakhstan",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Although cannabis is illegal in Kazakhstan, it is said to grow profusely in the wild."
+  },
+  {
+    "flagCode": "SO",
+    "country": "Somalia",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "SN",
+    "country": "Senegal",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Cannabis is called samba in Senegal."
+  },
+  {
+    "flagCode": "RO",
+    "country": "Romania",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Selective",
+    "countriesWhereWeedIsIllegal_notes": "Cannabis products with less than 0.2% THC legalized for medical use in 2013."
+  },
+  {
+    "flagCode": "GT",
+    "country": "Guatemala",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Recent government efforts to legalize cannabis have stalled, though polls indicate possible support for decriminalization."
+  },
+  {
+    "flagCode": "ZW",
+    "country": "Zimbabwe",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Cannabis is often called mbanje in Zimbabwe."
+  },
+  {
+    "flagCode": "GN",
+    "country": "Guinea",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "BJ",
+    "country": "Benin",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "RW",
+    "country": "Rwanda",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Legalized for medical use in July 2021."
+  },
+  {
+    "flagCode": "BI",
+    "country": "Burundi",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "A 1977 report noted that the ban was rarely enforced."
+  },
+  {
+    "flagCode": "BO",
+    "country": "Bolivia",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "TN",
+    "country": "Tunisia",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "SS",
+    "country": "South Sudan",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "HT",
+    "country": "Haiti",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "JO",
+    "country": "Jordan",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "DO",
+    "country": "Dominican Republic",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "As in most countries, sentencing increases in severity in line with the amount of cannabis possessed."
+  },
+  {
+    "flagCode": "AE",
+    "country": "United Arab Emirates",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "As of Jan. 2022, possession of cannabis-related products is no longer a criminal offense, though the products will still be confiscated and destroyed."
+  },
+  {
+    "flagCode": "HN",
+    "country": "Honduras",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "CU",
+    "country": "Cuba",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "TJ",
+    "country": "Tajikistan",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "PG",
+    "country": "Papua New Guinea",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "SE",
+    "country": "Sweden",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Selective",
+    "countriesWhereWeedIsIllegal_notes": "Legal for specific medicinal uses but requires license."
+  },
+  {
+    "flagCode": "AZ",
+    "country": "Azerbaijan",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "GR",
+    "country": "Greece",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Illegal for recreational use, but legal for medicinal use since 2017."
+  },
+  {
+    "flagCode": "TG",
+    "country": "Togo",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "HU",
+    "country": "Hungary",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "BY",
+    "country": "Belarus",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "SL",
+    "country": "Sierra Leone",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "TM",
+    "country": "Turkmenistan",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "LY",
+    "country": "Libya",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "HK",
+    "country": "Hong Kong",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "KG",
+    "country": "Kyrgyzstan",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "NI",
+    "country": "Nicaragua",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "BG",
+    "country": "Bulgaria",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "A previously existing \"personal dose\" allowance was eliminated in 2004"
+  },
+  {
+    "flagCode": "RS",
+    "country": "Serbia",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "CG",
+    "country": "Republic of the Congo",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Known locally as mbanga."
+  },
+  {
+    "flagCode": "SV",
+    "country": "El Salvador",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "DK",
+    "country": "Denmark",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Possession is punishable by a fine (small amounts) and/or imprisonment (large amounts). 4-year pilot program for legal medical use began in January 2018. Freetown Christiania, a self-declared autonomous community in Copenhagen, is known for its cannabis trade."
+  },
+  {
+    "flagCode": "SG",
+    "country": "Singapore",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Selective",
+    "countriesWhereWeedIsIllegal_notes": "Offenders carrying 500g or more are assumed to be dealers and may be sentenced to death. Epilepsy patients may obtain permission to use cannabis-related medications."
+  },
+  {
+    "flagCode": "LB",
+    "country": "Lebanon",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Cultivation for medical purposes was legalized in April 2020, as was cultivation of a non-psychoactive variety of hemp."
+  },
+  {
+    "flagCode": "LR",
+    "country": "Liberia",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "NO",
+    "country": "Norway",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Decriminalization bill failed in 2021, but efforts are ongoing. Current penalties for possession and use can include fines and loss of driver's license."
+  },
+  {
+    "flagCode": "CF",
+    "country": "Central African Republic",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "OM",
+    "country": "Oman",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "SK",
+    "country": "Slovakia",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "As of 2022, Slovakia is the only country in the European Union that still considers CBD a dangerous substance."
+  },
+  {
+    "flagCode": "MR",
+    "country": "Mauritania",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "IE",
+    "country": "Ireland",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Selective",
+    "countriesWhereWeedIsIllegal_notes": "Efforts to legalize cannabis are increasing. Medicinal use is currently legal as a last resort via a 5-year pilot program launched in 2019."
+  },
+  {
+    "flagCode": "NZ",
+    "country": "New Zealand",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Offenders caught in possession of more than 28g are tried as drug traffickers. Legalized for medical use in December 2018."
+  },
+  {
+    "flagCode": "KW",
+    "country": "Kuwait",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "PA",
+    "country": "Panama",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Ban is often unenforced and use often accepted. Medical use legalized in 2021, making Panama the first country in Central America to do so."
+  },
+  {
+    "flagCode": "HR",
+    "country": "Croatia",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Personal cannabis use or the possession of small quantities of the drug usually results in a fine. Medicinal cannabis was legalized 15 Oct. 2015 for patients with illnesses such as cancer, multiple sclerosis, or AIDS."
+  },
+  {
+    "flagCode": "ER",
+    "country": "Eritrea",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "MN",
+    "country": "Mongolia",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "BA",
+    "country": "Bosnia and Herzegovina",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "The Ministry of Civil Affairs formed a task force in 2016 to consider legalizing cannabis for medical use."
+  },
+  {
+    "flagCode": "QA",
+    "country": "Qatar",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "NA",
+    "country": "Namibia",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Illegal, though it played a role in Nambian traditional medicine."
+  },
+  {
+    "flagCode": "AM",
+    "country": "Armenia",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "LT",
+    "country": "Lithuania",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Medical use was legalized on 11 October 2018. Cultivation of industrial hemp is also legal."
+  },
+  {
+    "flagCode": "GM",
+    "country": "Gambia",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Cannabis is often referred to as yamba or tie in the Gambia."
+  },
+  {
+    "flagCode": "AL",
+    "country": "Albania",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Prohibited, but rarely enforced. Plants are readily available.\nOn 21 July 2023 the Albanian Parliament voted 69–23 to legalize medical cannabis."
+  },
+  {
+    "flagCode": "GA",
+    "country": "Gabon",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "BW",
+    "country": "Botswana",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Cannabis is alternately called motokwane or dagga in Botswana."
+  },
+  {
+    "flagCode": "GW",
+    "country": "Guinea-Bissau",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "GQ",
+    "country": "Equatorial Guinea",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Enforcment may be infrequent."
+  },
+  {
+    "flagCode": "LV",
+    "country": "Latvia",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Illegal for recreational and medicinal use, but hemp may still be cultivated for industrial uses."
+  },
+  {
+    "flagCode": "MK",
+    "country": "North Macedonia",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "In 2020, prime minister announced plans to legalize recreational use. Legalized for medical use on Feb. 09, 2016."
+  },
+  {
+    "flagCode": "BH",
+    "country": "Bahrain",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "CY",
+    "country": "Cyprus",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Legalized for medical use in Jan 2017, expanded in Feb. 2019. Recreational use carries penalties of up to 8 years for possession (2 years for first-offense 25-year-olds) and life in prison for consumption."
+  },
+  {
+    "flagCode": "MU",
+    "country": "Mauritius",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Cannabis is called gandia in Mauritius."
+  },
+  {
+    "flagCode": "SZ",
+    "country": "Eswatini",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "The Swazi name for cannabis is \"insangu.\""
+  },
+  {
+    "flagCode": "DJ",
+    "country": "Djibouti",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Cannabis use in Djibouti is low, due largely to poor growing conditions and a preference for the legal drug khat."
+  },
+  {
+    "flagCode": "FJ",
+    "country": "Fiji",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "KM",
+    "country": "Comoros",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Cannabis was legal from January 1975 to May 1978, thanks to then-president Ali Soilih."
+  },
+  {
+    "flagCode": "SB",
+    "country": "Solomon Islands",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "GY",
+    "country": "Guyana",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Offenders possessing 15g or more of cannabis may be charged with drug trafficking."
+  },
+  {
+    "flagCode": "BT",
+    "country": "Bhutan",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Cannabis plants grow naturally and have traditionally been fed to pigs or woven into textiles."
+  },
+  {
+    "flagCode": "MO",
+    "country": "Macau",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "SR",
+    "country": "Suriname",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "ME",
+    "country": "Montenegro",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "MV",
+    "country": "Maldives",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "CV",
+    "country": "Cape Verde",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Cannabis is sometimes mixed with cocaine to create the blended drug cochamba."
+  },
+  {
+    "flagCode": "BN",
+    "country": "Brunei",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Cannabis is strictly outlawed, with punishments ranging from prison terms and cane whippings to the death sentence (typically reserved for traffickers)."
+  },
+  {
+    "flagCode": "BS",
+    "country": "Bahamas",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "IS",
+    "country": "Iceland",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Possession typically results in a fine, but sale and cultivation are punished more severely."
+  },
+  {
+    "flagCode": "VU",
+    "country": "Vanuatu",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Legalized for medical use in 2018."
+  },
+  {
+    "flagCode": "ST",
+    "country": "Sao Tome and Principe",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "WS",
+    "country": "Samoa",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "KI",
+    "country": "Kiribati",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "SC",
+    "country": "Seychelles",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "GD",
+    "country": "Grenada",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "FM",
+    "country": "Micronesia",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "TO",
+    "country": "Tonga",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "AD",
+    "country": "Andorra",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "GL",
+    "country": "Greenland",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "LI",
+    "country": "Liechtenstein",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "MC",
+    "country": "Monaco",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Although maximum penalties are steep, police and courts often let offenders off with a warning."
+  },
+  {
+    "flagCode": "MH",
+    "country": "Marshall Islands",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "SM",
+    "country": "San Marino",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Legalized for medical use in 2016."
+  },
+  {
+    "flagCode": "PW",
+    "country": "Palau",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "TV",
+    "country": "Tuvalu",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "VA",
+    "country": "Vatican City",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "PK",
+    "country": "Pakistan",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal (but tolerated)",
+    "countriesWhereWeedIsIllegal_medical": "Selective",
+    "countriesWhereWeedIsIllegal_notes": "Although illegal, use tends to be tolerated in many parts of the country (Peshawar and northern Pakistan). Medical CBD legalized in Sept. 2020."
+  },
+  {
+    "flagCode": "BD",
+    "country": "Bangladesh",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal (but tolerated)",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Banned in 1989, but ban is rarely enforced. Freely available in many areas."
+  },
+  {
+    "flagCode": "EG",
+    "country": "Egypt",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal (but tolerated)",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Cannabis is illegal and the potential penalties are steep, but the law is rarely enforced and cannabis use is widespread. Cannabis has several uses in traditional Egyptian medicine."
+  },
+  {
+    "flagCode": "IR",
+    "country": "Iran",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal (but tolerated)",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Ban is not strictly enforced. Possession of more than 5g of hashish is punishable by death."
+  },
+  {
+    "flagCode": "GB",
+    "country": "United Kingdom",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal (but tolerated)",
+    "countriesWhereWeedIsIllegal_medical": "Selective",
+    "countriesWhereWeedIsIllegal_notes": "Possession may result in warning or fine instead of arrest. Legal for medicinal use since Nov. 2018 but must be prescribed by specialist as a last resort. The U.K. is one of the world's leading exporters of legal cannabis."
+  },
+  {
+    "flagCode": "MM",
+    "country": "Myanmar",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal (but tolerated)",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": null
+  },
+  {
+    "flagCode": "MA",
+    "country": "Morocco",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal (but tolerated)",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Banned in 1974, but often unofficially tolerated. Morocco led the world in cannabis production in 2016. Medical, cosmetic, and industrial use was legalized on May 26, 2021."
+  },
+  {
+    "flagCode": "KH",
+    "country": "Cambodia",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal (but tolerated)",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Prohibition is inconsistently enforced. \"Happy\" restaurants freely offer marijuana cooked into food or used as a garnish."
+  },
+  {
+    "flagCode": "LA",
+    "country": "Laos",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal (but tolerated)",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Illegal, but rarely enforced, as many police would rather accept a bribe to release a would-be offender. Many shops sell marijuana openly."
+  },
+  {
+    "flagCode": "FI",
+    "country": "Finland",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal (but tolerated)",
+    "countriesWhereWeedIsIllegal_medical": "Selective",
+    "countriesWhereWeedIsIllegal_notes": "Personal use is generally punished via a simple fine. Medicinal cannabis use requires a special license, which can be difficult to obtain."
+  },
+  {
+    "flagCode": "LS",
+    "country": "Lesotho",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal (but tolerated)",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Illegal, but law is widely ignored. Cannabis, known locally as matekoane, is country's largest cash crop. Those with a license can grow cannabis legally for medicinal purposes."
+  },
+  {
+    "flagCode": "BZ",
+    "country": "Belize",
+    "countriesWhereWeedIsIllegal_recreational": "Illegal (but tolerated)",
+    "countriesWhereWeedIsIllegal_medical": "Illegal",
+    "countriesWhereWeedIsIllegal_notes": "Prohibited, but widely tolerated. Laws decriminalizing possession of up to 10g pending."
+  },
+  {
+    "flagCode": "DE",
+    "country": "Germany",
+    "countriesWhereWeedIsIllegal_recreational": "Legal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "On 23 February 2024, the German Bundestag passed the Act on the Controlled Use of Cannabis, legalizing possession of 25 g (7⁄8 oz) outside the home, 50 g (1+3⁄4 oz) at home, and private cultivation of three plants, for adults 18 and over, beginning on 1 April 2024."
+  },
+  {
+    "flagCode": "TH",
+    "country": "Thailand",
+    "countriesWhereWeedIsIllegal_recreational": "Legal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Legalized on 9 June, 2022. Possession, cultivation up to 6 plants, distribution, and private consumption are legal. Sales are legal except to minors and pregnant women. Oils and tinctures with THC of over 0.2% are still illegal unless prescribed. Legalized for medical use in 2018."
+  },
+  {
+    "flagCode": "CA",
+    "country": "Canada",
+    "countriesWhereWeedIsIllegal_recreational": "Legal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Medicinally legal since 2001 and recreationally since October 17, 2018. Guidelines for production, purchase, and consumption vary by province."
+  },
+  {
+    "flagCode": "UY",
+    "country": "Uruguay",
+    "countriesWhereWeedIsIllegal_recreational": "Legal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Legal for recreational use, but buyers must be registered citizens. Foreigners cannot purchase. Cultivation of up to 6 plants is legal, as are non-profit cannabis social clubs."
+  },
+  {
+    "flagCode": "MT",
+    "country": "Malta",
+    "countriesWhereWeedIsIllegal_recreational": "Legal",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "As of Dec. 2021, possession of up to 7g and cultivation of up to 4 plants is legal. Malta is the first EU country to legalize recreational cannabis. Legalized for medical use in 2018."
+  },
+  {
+    "flagCode": "ZA",
+    "country": "South Africa",
+    "countriesWhereWeedIsIllegal_recreational": "Legal (but obstructed)",
+    "countriesWhereWeedIsIllegal_medical": "Legal (but obstructed)",
+    "countriesWhereWeedIsIllegal_notes": "Legal for private use and cultivation, but purchase, sale, and public use are prohibited. Legalized for medical use, but no legal way to buy or sell medicinals exists."
+  },
+  {
+    "flagCode": "GE",
+    "country": "Georgia",
+    "countriesWhereWeedIsIllegal_recreational": "Legal (but obstructed)",
+    "countriesWhereWeedIsIllegal_medical": "Legal (but obstructed)",
+    "countriesWhereWeedIsIllegal_notes": "Georgia was among the first countries to legalize cannabis for recreational and medicinal use (30 July 2018). However, while recreational possession and consumption are legal, sales are not. Similarly, medical use of cannabis is legal, but no network exists to dispense it."
+  },
+  {
+    "flagCode": "IN",
+    "country": "India",
+    "countriesWhereWeedIsIllegal_recreational": "Selective",
+    "countriesWhereWeedIsIllegal_medical": "Selective",
+    "countriesWhereWeedIsIllegal_notes": "Personal use is illegal, but many states make exceptions for the edible processed form bhang, which is sold in government-owned shops. Medical use of CBD oil w up to 0.3% THC are legal. Cannabis laws vary by state."
+  },
+  {
+    "flagCode": "US",
+    "country": "United States",
+    "countriesWhereWeedIsIllegal_recreational": "Selective",
+    "countriesWhereWeedIsIllegal_medical": "Selective",
+    "countriesWhereWeedIsIllegal_notes": "Recreational and medicinal legality vary greatly by state."
+  },
+  {
+    "flagCode": "AU",
+    "country": "Australia",
+    "countriesWhereWeedIsIllegal_recreational": "Selective",
+    "countriesWhereWeedIsIllegal_medical": "Selective",
+    "countriesWhereWeedIsIllegal_notes": "Decriminalized for personal recreational use in the Northern Territory and South Australia. Legal to use in Australian Capital Territory, but not to sell. Medical legality varies by territory."
+  },
+  {
+    "flagCode": "LU",
+    "country": "Luxembourg",
+    "countriesWhereWeedIsIllegal_recreational": "Selective",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Consumption and possession are legal for personal use at home but the sale remains prohibited. Transportation is illegal (outside of medical use). Growing for personal use is legal for adults within the limit of 4 plants per household (from seeds and the plants must be hidden from public view). Consumption outside the home and possession of up to 3 g (1⁄10 oz) outside the home are decriminalized (subject to a fine between 25 and 500 euros, or 145 euros)."
+  },
+  {
+    "flagCode": "BB",
+    "country": "Barbados",
+    "countriesWhereWeedIsIllegal_recreational": "Selective",
+    "countriesWhereWeedIsIllegal_medical": "Legal",
+    "countriesWhereWeedIsIllegal_notes": "Legal for Rastafarians' spiritual use."
+  },
+  {
+    "flagCode": "KP",
+    "country": "North Korea",
+    "countriesWhereWeedIsIllegal_recreational": "Unknown",
+    "countriesWhereWeedIsIllegal_medical": "Unknown",
+    "countriesWhereWeedIsIllegal_notes": "The legality of cannabis in North Korea is unknown, as conflicting reports have surfaced."
+  }
+]

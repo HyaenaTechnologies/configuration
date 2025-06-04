@@ -1,0 +1,2082 @@
+[
+  {
+    "flagCode": "BI",
+    "country": "Burundi",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 199.6,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 950.9,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 230,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AF",
+    "country": "Afghanistan",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 352.6,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 2092.9,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 360,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "SY",
+    "country": "Syria",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 421.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2021,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 2914.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2021,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 560,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2021
+  },
+  {
+    "flagCode": "SL",
+    "country": "Sierra Leone",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 433.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 1846.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 560,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CF",
+    "country": "Central African Republic",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 445,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 1130,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 470,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MG",
+    "country": "Madagascar",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 528.7,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 1875.1,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 530,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "YE",
+    "country": "Yemen",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 533.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": null,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": null,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 820,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2018
+  },
+  {
+    "flagCode": "MZ",
+    "country": "Mozambique",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 608.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 1657.1,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 530,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "NE",
+    "country": "Niger",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 618.3,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 1817.3,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 600,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SO",
+    "country": "Somalia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 643.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 1611.3,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 610,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CD",
+    "country": "DR Congo",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 649.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 1670.8,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 660,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MW",
+    "country": "Malawi",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 672.9,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 1867.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 640,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TD",
+    "country": "Chad",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 719.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 1969.3,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 710,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "LR",
+    "country": "Liberia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 799.5,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 1819,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 730,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GM",
+    "country": "Gambia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 843.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 3162.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 830,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BF",
+    "country": "Burkina Faso",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 874.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 2726.9,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 850,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "LS",
+    "country": "Lesotho",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 878,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 2793.9,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 1160,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "ML",
+    "country": "Mali",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 897.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 2726,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 860,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GW",
+    "country": "Guinea-Bissau",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 914.3,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 2630.3,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 900,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "RW",
+    "country": "Rwanda",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 1000.2,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 3361.1,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 980,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TG",
+    "country": "Togo",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 1013,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 3155.3,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 1030,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "UG",
+    "country": "Uganda",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 1014.2,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 3098.1,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 980,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MM",
+    "country": "Myanmar",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 1187.6,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 5905.2,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 1210,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TJ",
+    "country": "Tajikistan",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 1189,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 5082.2,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 1440,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TZ",
+    "country": "Tanzania",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 1211.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 3972.6,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 1210,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "ET",
+    "country": "Ethiopia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 1293.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 3109.3,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 1130,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "NP",
+    "country": "Nepal",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 1324,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 5181.8,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 1370,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "ZM",
+    "country": "Zambia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 1369.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 4125.6,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 1320,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "PK",
+    "country": "Pakistan",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 1407,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 6212,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 1500,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BJ",
+    "country": "Benin",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 1434.7,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 4248.3,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 1440,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "KM",
+    "country": "Comoros",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 1587.2,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 3854.8,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 1600,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "ZW",
+    "country": "Zimbabwe",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 1592.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 3899.9,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 1740,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "NG",
+    "country": "Nigeria",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 1621.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 6318.2,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 1930,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TL",
+    "country": "Timor-Leste",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 1648.6,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 5108.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 2140,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GN",
+    "country": "Guinea",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 1663.9,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 4429.3,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 1360,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CM",
+    "country": "Cameroon",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 1673.6,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 5380.2,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 1650,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "HT",
+    "country": "Haiti",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 1693.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 3255.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 1740,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SN",
+    "country": "Senegal",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 1746,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 4833,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 1660,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "KH",
+    "country": "Cambodia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 1875.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 5624.1,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 1810,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "KE",
+    "country": "Kenya",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 1949.9,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 6323.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 2110,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "KG",
+    "country": "Kyrgyzstan",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 1969.9,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 7102.8,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 1700,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "LA",
+    "country": "Laos",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 2075.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 9326.3,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 2120,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "KI",
+    "country": "Kiribati",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 2089.9,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 3521.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 3730,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MR",
+    "country": "Mauritania",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 2149.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 6934.4,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 2150,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SB",
+    "country": "Solomon Islands",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 2203.2,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 3034.9,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 2270,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GH",
+    "country": "Ghana",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 2238.2,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 7466.4,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 2340,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SD",
+    "country": "Sudan",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 2272.5,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 3137.2,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 990,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AO",
+    "country": "Angola",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 2309.5,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 8040.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 2130,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "IN",
+    "country": "India",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 2484.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 10175.8,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 2540,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "UZ",
+    "country": "Uzbekistan",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 2496.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 9724.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 2360,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CG",
+    "country": "Republic of the Congo",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 2508.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 6932.9,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 2470,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BD",
+    "country": "Bangladesh",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 2529.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 9065.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 2860,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "NI",
+    "country": "Nicaragua",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 2530.3,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 8043.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 2270,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "ST",
+    "country": "Sao Tome and Principe",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 2601.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 6063.6,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 2480,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CI",
+    "country": "Ivory Coast",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 2728.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 7790.9,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 2670,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "PG",
+    "country": "Papua New Guinea",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 2994.5,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 4607.4,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 2840,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "HN",
+    "country": "Honduras",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 3247.2,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 7210.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 2900,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "LB",
+    "country": "Lebanon",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 3350.3,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 12852.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 3740,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "VU",
+    "country": "Vanuatu",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 3367.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 3315.1,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 3660,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "PS",
+    "country": "Palestine",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 3367.6,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 5888.4,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 4220,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "EG",
+    "country": "Egypt",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 3512.6,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 18816.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 3900,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "DJ",
+    "country": "Djibouti",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 3606.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 7204,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 3450,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MA",
+    "country": "Morocco",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 3672.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 9743.3,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 3700,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BO",
+    "country": "Bolivia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 3701,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 10727,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 3600,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BT",
+    "country": "Bhutan",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 3704,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 15021.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 3590,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "PH",
+    "country": "Philippines",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 3725.6,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 10755.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 4230,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SZ",
+    "country": "Eswatini",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 3797.3,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 11740.8,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 3860,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "LK",
+    "country": "Sri Lanka",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 3828,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 14455.3,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 3540,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TN",
+    "country": "Tunisia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 3895.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 13681.6,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 3770,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "FM",
+    "country": "Micronesia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 3992.2,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 4216.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 4150,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "WS",
+    "country": "Samoa",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 4139,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 6680.6,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 4020,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CV",
+    "country": "Cape Verde",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 4321.6,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 9086.2,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 4280,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "VN",
+    "country": "Vietnam",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 4346.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 15194.3,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 4180,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "JO",
+    "country": "Jordan",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 4482.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 10451.9,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 4460,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "IR",
+    "country": "Iran",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 4502.5,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 17921.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 4680,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TO",
+    "country": "Tonga",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 4681.7,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 7016.4,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 5000,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "NA",
+    "country": "Namibia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 4742.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 12756.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 4870,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "ID",
+    "country": "Indonesia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 4940.5,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 15612.8,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 4870,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "UA",
+    "country": "Ukraine",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 5181.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 18007.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 5070,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "DZ",
+    "country": "Algeria",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 5260.2,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 17027,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 4960,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SV",
+    "country": "El Salvador",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 5344.2,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 12542.3,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 4920,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TV",
+    "country": "Tuvalu",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 5465.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 5763.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 7550,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "IQ",
+    "country": "Iraq",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 5512.5,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 13968.6,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 5600,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MN",
+    "country": "Mongolia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 5764.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 18108,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 4950,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GT",
+    "country": "Guatemala",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 5797.5,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 14066.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 5580,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "FJ",
+    "country": "Fiji",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 5868.2,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 15046.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 5580,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SR",
+    "country": "Suriname",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 6069,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 21047.2,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 5360,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "ZA",
+    "country": "South Africa",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 6253.2,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 15847.4,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 6750,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "PY",
+    "country": "Paraguay",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 6260.5,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 17465.9,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 6200,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "EC",
+    "country": "Ecuador",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 6533.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 15870.3,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 6510,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MD",
+    "country": "Moldova",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 6650.6,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 17384.4,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 6110,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MH",
+    "country": "Marshall Islands",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 6762.5,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 7491.4,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 7570,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "JM",
+    "country": "Jamaica",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 6874.2,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 11475,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 6150,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CO",
+    "country": "Colombia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 6979.7,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 21548,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 6870,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GQ",
+    "country": "Equatorial Guinea",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 7066.6,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 18723.6,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 5240,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AZ",
+    "country": "Azerbaijan",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 7155.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 23685.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 6680,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TH",
+    "country": "Thailand",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 7171.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 23422.9,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 7180,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BW",
+    "country": "Botswana",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 7249.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 19383.2,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 7620,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "LY",
+    "country": "Libya",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 7330,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 19641.1,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 7570,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "PE",
+    "country": "Peru",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 7789.9,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 16717.4,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 6990,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BY",
+    "country": "Belarus",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 7829.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 30751.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 7780,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BZ",
+    "country": "Belize",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 7987.6,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 14195.3,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 7190,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GE",
+    "country": "Georgia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 8120.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 24681.3,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 6680,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AL",
+    "country": "Albania",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 8367.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 21395.3,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 7570,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GA",
+    "country": "Gabon",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 8420.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 21947,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 7960,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BA",
+    "country": "Bosnia and Herzegovina",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 8426.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 22845.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 8160,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AM",
+    "country": "Armenia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 8715.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 23054.6,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 7330,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "DM",
+    "country": "Dominica",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 8953.9,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 17598.6,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 8920,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TM",
+    "country": "Turkmenistan",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 9190.7,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 17100.1,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2019,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 7130,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2019
+  },
+  {
+    "flagCode": "CU",
+    "country": "Cuba",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 9499.6,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2020,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": null,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": null,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 8920,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2019
+  },
+  {
+    "flagCode": "BR",
+    "country": "Brazil",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 10043.6,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 20584.4,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 9070,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "VC",
+    "country": "Saint Vincent and the Grenadines",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 10279.5,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 19875.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 10070,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GD",
+    "country": "Grenada",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 10463.3,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 17654.1,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 9800,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "DO",
+    "country": "Dominican Republic",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 10716,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 25610.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 9700,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "RS",
+    "country": "Serbia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 11361,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 27401.8,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 10030,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MU",
+    "country": "Mauritius",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 11416.9,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 29498.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 11530,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MY",
+    "country": "Malaysia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 11648.7,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 37247.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 11970,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "ME",
+    "country": "Montenegro",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 12016.9,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 31216.4,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 11500,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "NR",
+    "country": "Nauru",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 12060.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 12670.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 22090,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CN",
+    "country": "China",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 12614.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 24557.6,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 13400,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MV",
+    "country": "Maldives",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 12667.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 24808.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 11030,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TR",
+    "country": "Turkey",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 12985.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 44151,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 11650,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "KZ",
+    "country": "Kazakhstan",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 13136.6,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 39332.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 10940,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AR",
+    "country": "Argentina",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 13730.5,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 29362.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 12520,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "RU",
+    "country": "Russia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 13817,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 44103.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 14250,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MX",
+    "country": "Mexico",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 13926.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 25601.6,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 12100,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "LC",
+    "country": "Saint Lucia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 13980.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 25128.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 12400,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "PW",
+    "country": "Palau",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 14565.3,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 17490.8,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 14250,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BG",
+    "country": "Bulgaria",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 15797.6,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 38689.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 14460,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CR",
+    "country": "Costa Rica",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 16595.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 27952.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 13850,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CL",
+    "country": "Chile",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 17093.2,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 33284.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 15820,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MP",
+    "country": "Northern Mariana Islands",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 17302.9,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2020,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": null,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": null,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": null,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": null
+  },
+  {
+    "flagCode": "SC",
+    "country": "Seychelles",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 17879.2,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 32693.6,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 16940,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TT",
+    "country": "Trinidad and Tobago",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 18333,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 31572.1,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 17940,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "RO",
+    "country": "Romania",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 18419.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 47903.3,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 16670,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "PA",
+    "country": "Panama",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 18661.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 39695.1,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 18010,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "PF",
+    "country": "French Polynesia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 18984.9,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": null,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": null,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": null,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": null
+  },
+  {
+    "flagCode": "AS",
+    "country": "American Samoa",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 19673.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": null,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": null,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": null,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": null
+  },
+  {
+    "flagCode": "MF",
+    "country": "Saint Martin",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 20320.7,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2021,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": null,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": null,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": null,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": null
+  },
+  {
+    "flagCode": "CW",
+    "country": "Curacao",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 20492.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 29523.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 20590,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "GY",
+    "country": "Guyana",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 20626.2,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 55262.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 20360,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "HR",
+    "country": "Croatia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 21459.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 45909.6,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 20670,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AG",
+    "country": "Antigua and Barbuda",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 21560.2,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 31802.4,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 19990,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "PL",
+    "country": "Poland",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 22112.9,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 49464,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 19730,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "HU",
+    "country": "Hungary",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 22147.2,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 45942.2,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 19820,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "KN",
+    "country": "Saint Kitts and Nevis",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 22553.3,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 33402.8,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 21380,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "UY",
+    "country": "Uruguay",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 22564.5,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 34061.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 19530,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BB",
+    "country": "Barbados",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 22672.6,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 19357.2,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 21280,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GR",
+    "country": "Greece",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 22990,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 41186.8,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 22580,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "LV",
+    "country": "Latvia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 23184.3,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 42501,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 21970,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "OM",
+    "country": "Oman",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 23295.3,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 44421.2,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 21540,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SK",
+    "country": "Slovakia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 24470.2,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 44650.2,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 22790,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "LT",
+    "country": "Lithuania",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 27102.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 51877,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 24820,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "PT",
+    "country": "Portugal",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 27275.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 48758.9,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 26270,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SA",
+    "country": "Saudi Arabia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 28895,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 54991.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 28690,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BH",
+    "country": "Bahrain",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 29084.3,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 63847.8,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 28280,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "EE",
+    "country": "Estonia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 29823.7,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 48992.1,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 27240,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CZ",
+    "country": "Czech Republic",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 30427.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 53816.8,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 27110,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TC",
+    "country": "Turks and Caicos Islands",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 30438.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 24819.6,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 26570,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SI",
+    "country": "Slovenia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 32163.5,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 54947.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 30620,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "ES",
+    "country": "Spain",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 32677,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 25779.2,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 32180,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "KR",
+    "country": "South Korea",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 33121.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 54033.2,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 35490,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AW",
+    "country": "Aruba",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 33300.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 45236,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 33410,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "BN",
+    "country": "Brunei",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 33430.9,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 86445.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 34970,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "JP",
+    "country": "Japan",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 33834.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 50206.6,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 39030,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CY",
+    "country": "Cyprus",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 34701.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 57100.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 30990,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BS",
+    "country": "Bahamas",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 34749.6,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 35554.8,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 31990,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "NC",
+    "country": "New Caledonia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 35745.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": null,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": null,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 37370,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2021
+  },
+  {
+    "flagCode": "PR",
+    "country": "Puerto Rico",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 36779.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 47699.6,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 25240,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "KW",
+    "country": "Kuwait",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 37533.2,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 56386.3,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 46140,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MT",
+    "country": "Malta",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 37882.3,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 62445.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 34240,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "IT",
+    "country": "Italy",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 38373.2,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 58754.9,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 38200,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SX",
+    "country": "Sint Maarten",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 39432.6,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 51527.1,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 36960,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "GU",
+    "country": "Guam",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 40227.3,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": null,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": null,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": null,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": null
+  },
+  {
+    "flagCode": "VI",
+    "country": "United States Virgin Islands",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 41976,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2021,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 46238.1,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2021,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": null,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": null
+  },
+  {
+    "flagCode": "FR",
+    "country": "France",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 44460.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 61156.8,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 45070,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AD",
+    "country": "Andorra",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 46544.7,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 71587.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 50080,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "NZ",
+    "country": "New Zealand",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 48527.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 54109.8,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 48610,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GB",
+    "country": "United Kingdom",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 48866.6,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 58906.2,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 47800,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "HK",
+    "country": "Hong Kong",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 50696.6,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 71841.6,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 55200,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "IL",
+    "country": "Israel",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 52261.7,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 53434,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 55020,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "DE",
+    "country": "Germany",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 52745.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 69338.3,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 53970,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AE",
+    "country": "United Arab Emirates",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 52976.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 83902.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 53290,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CA",
+    "country": "Canada",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 53371.7,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 61582.3,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 53930,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BE",
+    "country": "Belgium",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 53475.3,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 70456,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 54530,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "FI",
+    "country": "Finland",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 53755.9,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 65060.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 53390,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SM",
+    "country": "San Marino",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 54982.5,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2021,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 65717.9,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2021,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 47120,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2021
+  },
+  {
+    "flagCode": "SE",
+    "country": "Sweden",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 56305.3,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 70206.6,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 61650,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AT",
+    "country": "Austria",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 56506,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 73751.4,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 55070,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GL",
+    "country": "Greenland",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 57116.3,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2021,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 68086.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2021,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": null,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": null
+  },
+  {
+    "flagCode": "NL",
+    "country": "Netherlands",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 62536.7,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 78215.1,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 60670,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AU",
+    "country": "Australia",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 64711.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 69114.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 63140,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MO",
+    "country": "Macau",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 66835.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 113183.2,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 43940,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "FO",
+    "country": "Faroe Islands",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 66979.3,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 76566.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 74420,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "DK",
+    "country": "Denmark",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 67967.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 76687.9,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 73360,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "IS",
+    "country": "Iceland",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 78811.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 77567.2,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 79840,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "US",
+    "country": "United States",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 81695.2,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 81695.2,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 80300,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SG",
+    "country": "Singapore",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 84734.3,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 141500.2,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 70590,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "QA",
+    "country": "Qatar",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 87480.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 121124.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 70070,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "NO",
+    "country": "Norway",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 87961.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 104459.8,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 102460,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "IM",
+    "country": "Isle of Man",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 94124.3,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2021,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": null,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": null,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 76300,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2021
+  },
+  {
+    "flagCode": "KY",
+    "country": "Cayman Islands",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 96073.8,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 85167.7,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 68790,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "CH",
+    "country": "Switzerland",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 99994.9,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 92980.4,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 95160,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "IE",
+    "country": "Ireland",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 103684.9,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 127623.4,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 80390,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BM",
+    "country": "Bermuda",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 123091.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 106866.3,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 134640,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "LU",
+    "country": "Luxembourg",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 128259.4,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": 143341.5,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": 2023,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": 88370,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "LI",
+    "country": "Liechtenstein",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 187267.1,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": null,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": null,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": null,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": null
+  },
+  {
+    "flagCode": "MC",
+    "country": "Monaco",
+    "PoorestCountriesInTheWorld_GDPPerCapita_USD": 240862.2,
+    "PoorestCountriesInTheWorld_GDPPerCapita_DataYear": 2022,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_IntDollars": null,
+    "PoorestCountriesInTheWorld_GDPPerCapitaPPP_DataYear": null,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_USDollars": null,
+    "PoorestCountriesInTheWorld_GNIPerCapAtlasMethod_DataYear": null
+  }
+]
