@@ -23,6 +23,7 @@
 - https://github.com/whatwg
 - https://github.com/openssh
 - https://github.com/servo
+- https://github.com/boostorg
 - https://github.com/openssl
 - https://github.com/prometheus
 - https://github.com/openstax
@@ -73,6 +74,7 @@
 - https://github.com/git-lfs
 - https://github.com/micro-editor
 - https://github.com/rclone
+- https://github.com/abseil
 - https://github.com/linuxkit
 - https://github.com/moby
 - https://github.com/dependabot

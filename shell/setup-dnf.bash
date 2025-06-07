@@ -11,11 +11,15 @@ rustup target add x86_64-apple-darwin
 rustup target add aarch64-unknown-linux-gnu
 rustup target add aarch64-pc-windows-msvc
 rustup target add x86_64-pc-windows-msvc
-sudo dnf -y install git-lfs gcc gdb llvm clang lldb make cmake ninja zsh tree git rsync librsync
+sudo dnf -y install autoconf automake gcc gdb llvm clang lldb make cmake ninja zsh tree git git-lfs rsync librsync
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 sudo dnf -y install ed sed nano podman micro neovim helix openssh ffmpeg imagemagick
 sudo dnf-3 config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo
 sudo dnf -y install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin cri-o cri-tools1.33
+# Install Boost and Abseil
+sudo dnf -y install boost abseil-cpp
+# Install Camera Library
+sudo dnf -y install libcamera
 # Install Vulkan
 sudo dnf -y install vulkan-headers vulkan-loader vulkan-tools spirv-tools spirv-headers-devel
 # Install WebM and WebP Image Format Libraries

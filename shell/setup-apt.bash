@@ -8,7 +8,7 @@ sudo apt update && sudo apt -y full-upgrade
 sudo apt -y install curl ssh apt-transport-https ca-certificates pkg-config linux-tools-generic fdutils libssl-dev ufw iptables firewalld nftables
 # Install Tools
 curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
-sudo apt -y install git-lfs gcc gdb llvm clang lldb make cmake ninja-build tree git zsh rsync librsync-dev
+sudo apt -y install autoconf automake gcc gdb llvm clang lldb make cmake ninja-build tree git git-lfs zsh rsync librsync-dev
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 rustup target add aarch64-apple-darwin
 rustup target add x86_64-apple-darwin
@@ -35,6 +35,10 @@ echo \
 sudo apt update
 
 sudo apt -y install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+# Install Boost and Abseil
+sudo apt -y install libboost-all-dev libboost-doc libabsl-dev
+# Install Camera Library
+sudo apt -y install libcamera-dev libcamera-doc
 # Install Vulkan
 sudo apt -y install libvulkan-dev libvulkan-memory-allocator-dev libvulkan-volk-dev libvulkan1 spirv-cross vulkan-memory-allocator-doc vulkan-tools vulkan-utility-libraries-dev vulkan-validationlayers libshaderc-dev glslang-dev glslang-tools
 # Install WebM and WebP Image Format Libraries

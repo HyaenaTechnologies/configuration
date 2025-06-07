@@ -5,6 +5,10 @@
 - https://github.com/carbon-language/carbon-lang
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
+- https://github.com/raspberrypi/libcamera
+- https://github.com/boostorg/asio
+- https://github.com/boostorg/beast
+- https://github.com/abseil/abseil-cpp
 - https://github.com/uutils/procps
 - https://github.com/uutils/coreutils
 - https://github.com/uutils/diffutils
