@@ -16,7 +16,7 @@ WORKDIR /zig-application
 COPY --from=builder ./binary ./binary
 
 RUN groupadd --system application-service \
-useradd --gid appliction-service application \
+useradd --gid application-service application \
 chown --recursive application-service:application ./
 
 USER application
