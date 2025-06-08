@@ -12,23 +12,24 @@
 - https://developer.mozilla.org/en-US/docs/Web
 - https://spec.whatwg.org/
 - https://wiki.csswg.org/spec
-- https://w3.org/WAI/ARIA/apg/patterns/
 - https://toml.io/en/
 - https://yaml.org/
 - https://www.json.org/json-en.html
 - https://commonmark.org/
 - https://git-scm.com/doc
 - https://git-lfs.com/
-- https://publications.opengroup.org/
 - https://docs.kernel.org/
+- https://publications.opengroup.org/
 - https://systemd.io/
 - https://openssh.com/
 - https://p9f.org/
 - https://learn.microsoft.com/en-us/windows/win32/api/
 - https://riscv.org/specifications/ratified/
+- https://ecma-international.org/publications-and-standards/standards/
 - https://www.bluetooth.com/specifications/specs/
 - https://datatracker.ietf.org/
-- https://ecma-international.org/publications-and-standards/standards/
+- https://www.w3.org/TR/
+- https://w3.org/WAI/ARIA/apg/patterns/
 - https://vulkan.org/learn
 - https://skia.org/
 - https://google.github.io/filament/documentation/
@@ -49,5 +50,4 @@
 - https://raspberrypi.com/documentation/
 - https://docs.github.com/en
 - https://openstax.org/subjects
-- https://mathsolver.microsoft.com/en
 

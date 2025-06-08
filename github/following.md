@@ -70,10 +70,11 @@
 - https://github.com/llvm
 - https://github.com/tree-sitter
 - https://github.com/rust-embedded
+- https://github.com/material-components
 - https://github.com/github-linguist
 - https://github.com/git-lfs
 - https://github.com/micro-editor
-- https://github.com/rclone
+- https://github.com/ory
 - https://github.com/abseil
 - https://github.com/linuxkit
 - https://github.com/moby
@@ -107,6 +108,7 @@
 - https://github.com/carbon-language
 - https://github.com/zigtools
 - https://github.com/helix-editor
+- https://github.com/zitadel
 - https://github.com/advanced-security
 - https://github.com/authzed
 - https://github.com/distribution

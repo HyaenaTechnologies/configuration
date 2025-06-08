@@ -23,6 +23,7 @@
 [Moby Swarm]: https://docs.docker.com/reference/cli/docker/swarm/
 [NVIM]: https://neovim.io/
 [Odin Language]: https://odin-lang.org/
+[Ory Identity]: https://www.ory.sh/
 [Prometheus Database]: https://prometheus.io/
 [RPM Fedora]: https://fedoraproject.org/
 [RPM RHEL]: http://developers.redhat.com/
@@ -31,15 +32,19 @@
 [Spice Database]: https://authzed.com/
 [Surreal Database]: https://surrealdb.com/
 [UpD]: https://github.com/HyaenaTechnologies/configuration/tree/main/upd
+[Vault]: https://www.hashicorp.com/en/products/vault 
 [Victoria Database]: https://victoriametrics.com/
 [VSCode]: https://code.visualstudio.com/
 [Zig Language]: https://ziglang.org/
+[Zitadel Identity]: https://zitadel.com/
 
 # Configuration
 
 Development Environment Configuration
 
 ## Development Environment
+
+- **_Authentication:_** [Ory][Ory Identity], [Zitadel][Zitadel Identity]
 
 - **_Container Engines:_** [Docker][Moby], [Podman][Containerman]
 
@@ -54,6 +59,8 @@ Development Environment Configuration
 - **_Programming Languages:_** [C3][C3 Language], [Go][Go Language], [Odin][Odin Language], [Rust][Rust Language], [Zig][Zig Language]
 
 - **_Operating Systems:_** [Fedora][RPM Fedora]: -> [Red Hat Enterprise Linux][RPM RHEL] || [Ubuntu][APT Ubuntu] <- :[Debian][APT Debian]
+
+- **_Secret Management:_** [HashiCorp Vault][Vault]
 
 - **_Version Control Systems:_** [Git][Git Repositories]
 
