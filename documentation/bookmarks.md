@@ -14,7 +14,7 @@
 - https://wiki.csswg.org/spec
 - https://toml.io/en/
 - https://yaml.org/
-- https://www.json.org/json-en.html
+- https://json.org/json-en.html
 - https://commonmark.org/
 - https://git-scm.com/doc
 - https://git-lfs.com/
@@ -26,9 +26,9 @@
 - https://learn.microsoft.com/en-us/windows/win32/api/
 - https://riscv.org/specifications/ratified/
 - https://ecma-international.org/publications-and-standards/standards/
-- https://www.bluetooth.com/specifications/specs/
+- https://bluetooth.com/specifications/specs/
 - https://datatracker.ietf.org/
-- https://www.w3.org/TR/
+- https://w3.org/TR/
 - https://w3.org/WAI/ARIA/apg/patterns/
 - https://vulkan.org/learn
 - https://skia.org/

@@ -41,6 +41,7 @@
 - https://github.com/grafana
 - https://github.com/mdn
 - https://github.com/docker-library
+- https://github.com/SELinuxProject
 - https://github.com/toml-lang
 - https://github.com/semver
 - https://github.com/rpm-software-management
@@ -70,7 +71,6 @@
 - https://github.com/llvm
 - https://github.com/tree-sitter
 - https://github.com/rust-embedded
-- https://github.com/material-components
 - https://github.com/github-linguist
 - https://github.com/git-lfs
 - https://github.com/micro-editor
