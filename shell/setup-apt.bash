@@ -76,6 +76,10 @@ sudo install ./skaffold /usr/local/bin/
 sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
 echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg] https://brave-browser-apt-release.s3.brave.com/ stable main"|sudo tee /etc/apt/sources.list.d/brave-browser-release.list
 sudo apt update && sudo apt -y install brave-browser
+# Install Vivaldi Browser
+wget https://downloads.vivaldi.com/stable/vivaldi-stable_7.4.3684.46-1_amd64.deb --verbose
+sudo apt -y ./vivaldi-stable_7.4.3684.46-1_amd64.deb
+rm ./vivaldi-stable_7.4.3684.46-1_amd64.deb
 # Install Snaps
 sudo snap install snapcraft --classic
 sudo snap install snap-store snapd-desktop-integration desktop-security-center firmware-updater prompting-client krita 0ad warzone2100

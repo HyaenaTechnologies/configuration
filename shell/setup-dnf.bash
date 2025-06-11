@@ -50,6 +50,10 @@ sudo install ./skaffold /usr/local/bin/
 # Install Brave Browser
 sudo dnf-3 config-manager --add-repo https://brave-browser-rpm-release.s3.brave.com/brave-browser.repo
 sudo dnf -y install brave-browser
+# Install Vivaldi Browser
+wget https://downloads.vivaldi.com/stable/vivaldi-stable-7.4.3684.46-1.x86_64.rpm --verbose
+sudo dnf -y install ./vivaldi-stable-7.4.3684.46-1.x86_64.rpm
+rm ./vivaldi-stable-7.4.3684.46-1.x86_64.rpm
 # Install Snapd
 sudo dnf install snapd
 sudo ln -s /var/lib/snapd/snap /snap
