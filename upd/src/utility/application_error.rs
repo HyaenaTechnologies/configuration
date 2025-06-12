@@ -3,10 +3,10 @@
 #![allow(unused_imports)]
 #![allow(unused_variables)]
 
-use std::primitive::str;
+use std::string::String;
 
 // Application Error Definition
 pub struct ApplicationError<T> {
-    pub error_message: &'static str,
+    pub error_message: String,
     pub error_value: T,
 }
