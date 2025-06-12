@@ -1,6 +1,8 @@
 [APT Debian]: https://www.debian.org/
 [APT Ubuntu]: https://ubuntu.com/
 [Arduino IDE]: https://arduino.cc/en/software
+[C Language]: https://learn.microsoft.com/en-us/cpp/c-language/
+[CC Language]: https://learn.microsoft.com/en-us/cpp/cpp/
 [C3 Language]: https://c3-lang.org
 [Certificate Manager]: https://cert-manager.io/
 [Containerman]: https://podman.io/
@@ -56,7 +58,7 @@ Development Environment Configuration
 
 - **_Integrated Development Environments:_** [Arduino][Arduino IDE]
 
-- **_Programming Languages:_** [C3][C3 Language], [Go][Go Language], [Odin][Odin Language], [Rust][Rust Language], [Zig][Zig Language]
+- **_Programming Languages:_** [C][C Language], [C++][CC Language], [C3][C3 Language], [Go][Go Language], [Odin][Odin Language], [Rust][Rust Language], [Zig][Zig Language]
 
 - **_Operating Systems:_** [Fedora][RPM Fedora]: -> [Red Hat Enterprise Linux][RPM RHEL] || [Ubuntu][APT Ubuntu] <- :[Debian][APT Debian]
 
