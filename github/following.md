@@ -15,14 +15,17 @@
 - https://github.com/arduino-libraries
 - https://github.com/raspberrypi
 - https://github.com/google
+- https://github.com/godaddy
 - https://github.com/KhronosGroup
 - https://github.com/dart-lang
+- https://github.com/ovh
 - https://github.com/GNOME
 - https://github.com/Debian
 - https://github.com/systemd
 - https://github.com/whatwg
 - https://github.com/openssh
 - https://github.com/servo
+- https://github.com/hostinger
 - https://github.com/boostorg
 - https://github.com/openssl
 - https://github.com/prometheus
@@ -30,6 +33,7 @@
 - https://github.com/golang
 - https://github.com/libusb
 - https://github.com/ubuntu
+- https://github.com/digitalocean
 - https://github.com/uutils
 - https://github.com/docker
 - https://github.com/rust-lang
@@ -45,6 +49,7 @@
 - https://github.com/toml-lang
 - https://github.com/semver
 - https://github.com/rpm-software-management
+- https://github.com/vultr
 - https://github.com/commonmark
 - https://github.com/hyperium
 - https://github.com/letsencrypt
@@ -74,6 +79,7 @@
 - https://github.com/github-linguist
 - https://github.com/git-lfs
 - https://github.com/micro-editor
+- https://github.com/hetznercloud
 - https://github.com/ory
 - https://github.com/abseil
 - https://github.com/linuxkit
