@@ -35,5 +35,6 @@ mv ./target/x86_64-unknown-linux-gnu/release/upd ./binary
 ## Install System Update Daemon
 
 ```shell
-echo 'export PATH="$PATH:/usr/local/bin/upd"' >> ~/.bashrc
+sudo install ./upd /usr/local/bin/
 ```
+

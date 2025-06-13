@@ -28,24 +28,26 @@ sudo dnf -y install vulkan-headers vulkan-loader vulkan-tools spirv-tools spirv-
 sudo dnf -y install libwebp libwebp-tools 
 # Install LibUSB
 sudo dnf -y install libusb-dev libhidapi-dev
-# Install Mesa
+# Install Mesa 3D Rendering Library
 sudo dnf -y install mesa-dri-drivers mesa-filesystem mesa-va-drivers mesa-vdpau-drivers mesa-vulkan-drivers
 # Install Kubectl
-curl -LO https://dl.k8s.io/release/v1.33.0/bin/linux/amd64/kubectl
+wget https://dl.k8s.io/release/v1.33.0/bin/linux/amd64/kubectl --verbose
 sudo install ./kubectl /usr/local/bin/
 # Install Kops
 curl -Lo kops https://github.com/kubernetes/kops/releases/download/$(curl -s https://api.github.com/repos/kubernetes/kops/releases/latest | grep tag_name | cut -d '"' -f 4)/kops-linux-amd64
 chmod +x kops
 sudo install ./kops /usr/local/bin/
 # Install Minikube
-curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-latest.x86_64.rpm
-sudo rpm -Uvh minikube-latest.x86_64.rpm
+wget https://storage.googleapis.com/minikube/releases/latest/minikube-latest.x86_64.rpm --verbose
+sudo dnf -y install ./minikube-latest.x86_64.rpm
 rm ./minikube-latest.x86_64.rpm
 # Install Kompose
-curl -L https://github.com/kubernetes/kompose/releases/download/v1.36.0/kompose-linux-amd64 -o kompose
+wget https://github.com/kubernetes/kompose/releases/download/v1.36.0/kompose-linux-amd64 --verbose
+mv ./kompose-linux-amd64 ./kompose
 sudo install ./kompose /usr/local/bin/
 # Install Skaffold
-curl -Lo skaffold https://storage.googleapis.com/skaffold/releases/latest/skaffold-linux-amd64
+wget https://storage.googleapis.com/skaffold/releases/latest/skaffold-linux-amd64 --verbose
+mv ./skaffold-linux-amd64 ./skaffold
 sudo install ./skaffold /usr/local/bin/
 # Install Brave Browser
 sudo dnf-3 config-manager --add-repo https://brave-browser-rpm-release.s3.brave.com/brave-browser.repo

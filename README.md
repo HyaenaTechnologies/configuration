@@ -33,7 +33,6 @@
 [SeaweedFS Database]: https://seaweedfs.com/
 [Spice Database]: https://authzed.com/
 [Surreal Database]: https://surrealdb.com/
-[UpD]: https://github.com/HyaenaTechnologies/configuration/tree/main/upd
 [Vault]: https://www.hashicorp.com/en/products/vault 
 [Victoria Database]: https://victoriametrics.com/
 [VSCode]: https://code.visualstudio.com/
@@ -78,7 +77,3 @@ Development Environment Configuration
 
 - **_Time Series:_** [Greptime][Greptime Database], [Prometheus][Prometheus Database], [Victoria Metrics][Victoria Database]
 
-
-## System Update Daemon
-
-The System Update Daemon is located [Here][UpD]
