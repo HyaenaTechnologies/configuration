@@ -2,6 +2,9 @@
 
 - https://learn.microsoft.com/en-us/cpp/
 - https://clang.llvm.org/docs/index.html
+- https://abseil.io/docs/cpp/
+- https://www.boost.org/doc/user-guide/index.html
+- https://www.boost.org/libraries/latest/grid/
 - https://c3-lang.org/standard-library/
 - https://go.dev/doc/
 - https://pkg.go.dev/std
@@ -41,7 +44,6 @@
 - https://knative.dev/docs/
 - https://kompose.io/user-guide/
 - https://skaffold.dev/docs/
-- https://opentelemetry.io/docs/
 - https://docs.helix-editor.com/
 - https://neovim.io/doc/
 - https://micro-editor.github.io/
