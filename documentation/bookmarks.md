@@ -4,7 +4,6 @@
 - https://clang.llvm.org/docs/index.html
 - https://abseil.io/docs/cpp/
 - https://www.boost.org/doc/user-guide/index.html
-- https://www.boost.org/libraries/latest/grid/
 - https://c3-lang.org/standard-library/
 - https://go.dev/doc/
 - https://pkg.go.dev/std
@@ -32,7 +31,6 @@
 - https://bluetooth.com/specifications/specs/
 - https://datatracker.ietf.org/
 - https://w3.org/TR/
-- https://w3.org/WAI/ARIA/apg/patterns/
 - https://vulkan.org/learn
 - https://skia.org/
 - https://google.github.io/filament/documentation/
