@@ -24,6 +24,7 @@
 - https://github.com/systemd
 - https://github.com/whatwg
 - https://github.com/openssh
+- https://github.com/system76
 - https://github.com/servo
 - https://github.com/hostinger
 - https://github.com/boostorg
@@ -109,6 +110,7 @@
 - https://github.com/c3lang
 - https://github.com/sudo-project
 - https://github.com/charmbracelet
+- https://github.com/FrameworkComputer
 - https://github.com/compose-spec
 - https://github.com/cli
 - https://github.com/carbon-language
