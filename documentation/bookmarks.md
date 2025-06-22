@@ -12,8 +12,6 @@
 - https://crates.io/crates
 - https://ziglang.org/learn/
 - https://developer.mozilla.org/en-US/docs/Web
-- https://spec.whatwg.org/
-- https://wiki.csswg.org/spec
 - https://toml.io/en/
 - https://yaml.org/
 - https://json.org/json-en.html
