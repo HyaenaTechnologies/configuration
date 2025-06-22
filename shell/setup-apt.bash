@@ -84,5 +84,5 @@ sudo apt -y ./vivaldi-stable_7.4.3684.46-1_amd64.deb
 rm ./vivaldi-stable_7.4.3684.46-1_amd64.deb
 # Install Snaps
 sudo snap install snapcraft --classic
-sudo snap install snap-store snapd-desktop-integration desktop-security-center firmware-updater prompting-client krita 0ad warzone2100
+sudo snap install snap-store snapd-desktop-integration desktop-security-center firmware-updater prompting-client krita
 
