@@ -1,10 +1,12 @@
 # Stars
 
 - https://github.com/ziglang/zig
-- https://github.com/rust-lang/rust
 - https://github.com/carbon-language/carbon-lang
+- https://github.com/rust-lang/rust
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
+- https://github.com/r9os/r9
+- https://github.com/plan9foundation/plan9
 - https://github.com/SELinuxProject/selinux
 - https://github.com/raspberrypi/libcamera
 - https://github.com/uutils/procps
@@ -24,7 +26,6 @@
 - https://github.com/google/filament
 - https://github.com/google/skia
 - https://github.com/curl/curl
-- https://github.com/rustwasm/wasm-pack
 - https://github.com/hyperium/hyper
 - https://github.com/rust-lang/mdBook
 - https://github.com/openssl/openssl
@@ -59,7 +60,6 @@
 - https://github.com/rust-cli/anstyle
 - https://github.com/aws/s2n-quic
 - https://github.com/microsoft/windows-rs
-- https://github.com/rustwasm/walrus
 - https://github.com/rustwasm/wasm-bindgen
 - https://github.com/rust-lang/futures-rs
 - https://github.com/rust-lang/regex

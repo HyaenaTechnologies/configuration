@@ -30,8 +30,6 @@
 - https://datatracker.ietf.org/
 - https://w3.org/TR/
 - https://vulkan.org/learn
-- https://skia.org/
-- https://google.github.io/filament/documentation/
 - https://docs.podman.io/en/latest/
 - https://docs.docker.com/
 - https://kubernetes.io/docs/home/

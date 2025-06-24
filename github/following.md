@@ -125,7 +125,9 @@
 - https://github.com/devcontainers
 - https://github.com/GreptimeTeam
 - https://github.com/dragonflydb
+- https://github.com/r9os
 - https://github.com/podman-desktop
+- https://github.com/LadybirdBrowser
 - https://github.com/RsyncProject
 - https://github.com/jj-vcs
 - https://github.com/trifectatechfoundation
