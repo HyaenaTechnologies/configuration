@@ -6,7 +6,7 @@ use std::{
     vec::Vec,
 };
 
-use crate::utility::{print_help::print_help_message, print_version::print_version_number};
+use super::{print_help::print_help_message, print_version::print_version_number};
 
 use crate::upgrades::{
     apt_upgrade::upgrade_apt, dnf_release::release_dnf, dnf_upgrade::upgrade_dnf,
