@@ -1,7 +1,8 @@
 #!/bin/env bash
 
-for LOG_FILES in $(find /var/log/ -type f)
+# Clean Logs
+for LOG_FILE in $(find /var/log/ -type f)
 do
-    cp /dev/null $LOG_FILES
+    cp /dev/null $LOG_FILE
 done
 
