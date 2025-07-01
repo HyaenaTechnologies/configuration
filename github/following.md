@@ -99,6 +99,7 @@
 - https://github.com/rustwasm
 - https://github.com/GoogleContainerTools
 - https://github.com/cert-manager
+- https://github.com/dolthub
 - https://github.com/VictoriaMetrics
 - https://github.com/actions
 - https://github.com/firecracker-microvm
@@ -122,6 +123,7 @@
 - https://github.com/distribution
 - https://github.com/plan9foundation
 - https://github.com/lima-vm
+- https://github.com/ydb-platform
 - https://github.com/devcontainers
 - https://github.com/GreptimeTeam
 - https://github.com/dragonflydb

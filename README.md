@@ -8,6 +8,7 @@
 [Containerman]: https://podman.io/
 [Containerman Pod]: https://docs.podman.io/en/latest/markdown/podman-pod.1.html
 [Dragonfly Database]: https://www.dragonflydb.io/
+[Dolt Database]: https://www.dolthub.com/
 [Git Repositories]: https://git-scm.com
 [Go Language]: https://go.dev/
 [Greptime Database]: https://greptime.com/
@@ -74,6 +75,8 @@ Development Environment Configuration
 - **_Key Value:_** [Dragonfly][Dragonfly Database]
 
 - **_Object Storage:_** [Minio][Minio Database], [SeaweedFS][SeaweedFS Database]
+
+- **_Relational:_** [Dolt][Dolt Database]
 
 - **_Time Series:_** [Greptime][Greptime Database], [Prometheus][Prometheus Database], [Victoria Metrics][Victoria Database]
 
