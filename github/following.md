@@ -35,6 +35,7 @@
 - https://github.com/libusb
 - https://github.com/ubuntu
 - https://github.com/digitalocean
+- https://github.com/MariaDB
 - https://github.com/uutils
 - https://github.com/docker
 - https://github.com/rust-lang
@@ -127,6 +128,7 @@
 - https://github.com/devcontainers
 - https://github.com/GreptimeTeam
 - https://github.com/dragonflydb
+- https://github.com/tigerbeetle
 - https://github.com/r9os
 - https://github.com/podman-desktop
 - https://github.com/LadybirdBrowser
