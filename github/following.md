@@ -5,6 +5,7 @@
 - https://github.com/chromium
 - https://github.com/yaml
 - https://github.com/sparkfun
+- https://github.com/postgres
 - https://github.com/duckduckgo
 - https://github.com/arduino
 - https://github.com/w3c
@@ -35,7 +36,6 @@
 - https://github.com/libusb
 - https://github.com/ubuntu
 - https://github.com/digitalocean
-- https://github.com/MariaDB
 - https://github.com/uutils
 - https://github.com/docker
 - https://github.com/rust-lang

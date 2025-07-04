@@ -20,6 +20,9 @@ sudo install ./go /usr/local/bin/
 # Install Docker
 sudo dnf-3 config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo
 sudo dnf -y install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin cri-o cri-tools1.33
+# Install Postgres
+sudo dnf install -y https://download.postgresql.org/pub/repos/yum/reporpms/F-41-x86_64/pgdg-fedora-repo-latest.noarch.rpm
+sudo dnf install -y postgresql17-server
 # Install Boost, Abseil, LibCamera and International Components for Unicode
 sudo dnf -y install boost abseil-cpp icu libcamera
 # Install Vulkan
