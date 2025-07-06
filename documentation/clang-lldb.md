@@ -2,7 +2,7 @@
 
 ## Clang Analysis Flags
 
-- --analyze: Run the static analyzery
+- --analyze: Run the static analyzer
 
 ## Clang Compilation Flags
 
