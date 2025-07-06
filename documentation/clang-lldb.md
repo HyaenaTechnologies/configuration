@@ -9,7 +9,7 @@
 - -CC: Include comments from within macros in preprocessed output
 - -C: Include comments in preprocessed output
 - -c: Only run preprocess, compile, and assemble steps
-- -o <file>: rite output to <file>
+- -o <file>: Write output to <file>
 - -include-pch <file>: Include precompiled header file
 - -include <file>: Include file before parsing
 
