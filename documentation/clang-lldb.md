@@ -9,9 +9,9 @@
 - -CC: Include comments from within macros in preprocessed output
 - -C: Include comments in preprocessed output
 - -c: Only run preprocess, compile, and assemble steps
-- -o <file>: Write output to <file>
-- -include-pch <file>: Include precompiled header file
-- -include <file>: Include file before parsing
+- -o "\<file\>": Write output to "\<file\>"
+- -include-pch "\<file\>": Include precompiled header file
+- -include "\<file\>": Include file before parsing
 
 ## Clang Diagnostics Flags
 
@@ -43,21 +43,21 @@
 
 ## LLDB Attatching Flags
 
-- --attach-name <name>: Tells the debugger to attach to a process with the given name.
-- --attach-pid <pid>: Tells the debugger to attach to a process with the given pid.
-- -n <value>: Alias for --attach-name
-- -p <value>:  Alias for --attach-pid
+- --attach-name "\<name\>": Tells the debugger to attach to a process with the given name.
+- --attach-pid "\<pid\>": Tells the debugger to attach to a process with the given pid.
+- -n "\<value\>": Alias for --attach-name
+- -p "\<value\>":  Alias for --attach-pid
 - --wait-for: Tells the debugger to wait for a process with the given pid or name to launch before attaching.
 - -w: Alias for --wait-for
 
 ## LLDB Option Flags
 
-- --arch <architecture>: Tells the debugger to use the specified architecture when starting and running the program.
-- -a <value>: Alias for --arch
+- --arch "\<architecture\>": Tells the debugger to use the specified architecture when starting and running the program.
+- -a "\<value\>": Alias for --arch
 - --debug: Tells the debugger to print out extra information for debugging itself.
 - -d: Alias for --debug
-- --file <filename>: Tells the debugger to use the file <filename> as the program to be debugged.
-- -f <value>: Alias for --file
+- --file "\<filename\>": Tells the debugger to use the file "\<filename\>" as the program to be debugged.
+- -f "\<value\>": Alias for --file
 
 ## LLDB REPL Flags
 
@@ -83,8 +83,8 @@
   Passing one of the attach options causes lldb to immediately attach to the
   given process.
 
-    lldb -p <pid>
-    lldb -n <process-name>
+    lldb -p "\<pid\>"
+    lldb -n "\<process-name\>"
 
   Passing --repl starts lldb in REPL mode.
 
