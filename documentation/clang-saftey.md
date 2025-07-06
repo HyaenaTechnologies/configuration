@@ -1,7 +1,6 @@
 # Clang Safety Flags
 
 - --analyze: Run the static analyzer
-- -fsanitize-address-globals-dead-stripping: Enable linker dead stripping of globals in AddressSanitizer
 - -fsanitize-address-use-after-scope: Enable use-after-scope detection in AddressSanitizer
 - -fsanitize-address-use-odr-indicator: Enable ODR indicator globals to avoid false ODR violation reports in partially sanitized programs at the cost of an increase in binary size
 - -fsanitize-cfi-cross-dso: Enable control flow integrity (CFI) checks for cross-DSO calls.
