@@ -10,7 +10,7 @@ curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.s
 sudo apt -y install autoconf automake gcc gdb llvm clang clangd lldb lld make cmake ninja-build tree git git-lfs zsh rsync librsync-dev
 sudo add-apt-repository ppa:maveonair/helix-editor
 sudo apt update
-sudo apt -y install ed sed nano micro neovim helix podman openssh ffmpeg imagemagick
+sudo apt -y install ed sed nano micro neovim helix podman openssh-client openssh-server ffmpeg imagemagick
 # Install Rust
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 rustup target add aarch64-apple-darwin
