@@ -61,8 +61,8 @@
 
 ## LLDB REPL Flags
 
-- --repl         Runs lldb in REPL mode with a stub process.
-- -r             Alias for --repl
+- --repl: Runs lldb in REPL mode with a stub process.
+- -r: Alias for --repl
 
 ## LLDB Examples
 
