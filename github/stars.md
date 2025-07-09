@@ -1,5 +1,7 @@
 # Stars
 
+- https://github.com/rust-cli/proc-exit
+- https://github.com/rust-cli/argfile
 - https://github.com/ziglang/zig
 - https://github.com/carbon-language/carbon-lang
 - https://github.com/rust-lang/rust
@@ -41,8 +43,6 @@
 - https://github.com/rust-embedded/svd2rust
 - https://github.com/rust-embedded/svd
 - https://github.com/rust-embedded/cortex-ar
-- https://github.com/rust-cli/confy
-- https://github.com/rust-cli/env_logger
 - https://github.com/cloudflare/quiche
 - https://github.com/rust-cli/rexpect
 - https://github.com/rust-embedded/embedded-alloc
@@ -52,21 +52,15 @@
 - https://github.com/rust-embedded/embedded-hal
 - https://github.com/rust-embedded/critical-section
 - https://github.com/rust-embedded/riscv
-- https://github.com/rust-cli/human-panic
-- https://github.com/rust-cli/argfile
 - https://github.com/rust-cli/termtree
-- https://github.com/rust-cli/proc-exit
 - https://github.com/rust-cli/config-rs
-- https://github.com/rust-cli/anstyle
 - https://github.com/aws/s2n-quic
 - https://github.com/microsoft/windows-rs
 - https://github.com/rustwasm/wasm-bindgen
 - https://github.com/rust-lang/futures-rs
-- https://github.com/rust-lang/regex
 - https://github.com/rust-lang/docs.rs
 - https://github.com/rust-lang/rustup
 - https://github.com/rust-lang/rustfmt
-- https://github.com/rust-lang/log
 - https://github.com/rust-lang/socket2
 - https://github.com/rust-lang/miri
 - https://github.com/rust-lang/stdarch
