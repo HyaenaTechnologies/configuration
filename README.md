@@ -19,6 +19,7 @@
 [K8S Native]: https://knative.dev/docs/
 [K8S Ops]: https://kops.sigs.k8s.io/
 [K8S Skaffold]: https://skaffold.dev/
+[Maria Database]: https://mariadb.org/
 [Micro Editor]: https://micro-editor.github.io/
 [Minio Database]: https://min.io/
 [Moby]: http://docker.com
@@ -78,7 +79,7 @@ Development Environment Configuration
 
 - **_Object Storage:_** [Minio][Minio Database], [SeaweedFS][SeaweedFS Database]
 
-- **_Relational:_** [Dolt][Dolt Database], [Postgres][Postgres Database]
+- **_Relational:_** [Dolt][Dolt Database], [Maria][Maria Database], [Postgres][Postgres Database]
 
 - **_Time Series:_** [Greptime][Greptime Database], [Prometheus][Prometheus Database], [Victoria Metrics][Victoria Database]
 

@@ -44,8 +44,8 @@ echo \
 sudo apt update
 
 sudo apt -y install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
-# Install Postgres and sqlite
-sudo apt -y install postgresql postgresql-common postgresql-common-dev sqlite3 sqlite3-doc sqlite3-tools
+# Install Postgres, Maria and Sqlite
+sudo apt -y install postgresql postgresql-common postgresql-common-dev mariadb-client mariadb-server sqlite3 sqlite3-doc sqlite3-tools
 # Install Boost, Abseil, Google Test, LibCamera and International Components for Unicode
 sudo apt -y install libicu-dev icu-devtools icu-doc libboost-all-dev libboost-doc libabsl-dev googletest libcamera-dev libcamera-doc
 # Install Vulkan
