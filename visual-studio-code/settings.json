@@ -1,7 +1,6 @@
 {
 	"accessibility.verbosity.inlineChat": false,
-	"accessibility.verbosity.panelChat": false,
-	"C_Cpp.copilotHover": "disabled",
+	"accessibility.verbosity.panelChat": false,	
 	"chat.agent.enabled": false,
 	"chat.commandCenter.enabled": false,
 	"chat.detectParticipant.enabled": false,
