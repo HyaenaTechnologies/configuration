@@ -1,6 +1,6 @@
 {
 	"accessibility.verbosity.inlineChat": false,
-	"accessibility.verbosity.panelChat": false,	
+	"accessibility.verbosity.panelChat": false,
 	"chat.agent.enabled": false,
 	"chat.commandCenter.enabled": false,
 	"chat.detectParticipant.enabled": false,
@@ -14,7 +14,7 @@
 	"chat.sendElementsToChat.attachImages": false,
 	"chat.sendElementsToChat.enabled": false,
 	"chat.useFileStorage": false,
-	"containers.containerCommand": "/usr/bin/",
+	"containers.containerCommand": "/usr/bin/docker",
 	"cmake.cmakePath": "/usr/bin/cmake",
 	"debug.internalConsoleOptions": "openOnSessionStart",
 	"debug.openDebug": "openOnDebugBreak",
@@ -25,6 +25,7 @@
 	"git.autoStash": true,
 	"git.enableSmartCommit": true,
 	"git.mergeEditor": true,
+	"git.path": "/usr/bin/git",
 	"git.showPushSuccessNotification": true,
 	"git.supportCancellation": true,
 	"git.timeline.showUncommitted": true,
@@ -37,9 +38,10 @@
 	"inlineChat.accessibleDiffView": "off",
 	"inlineChat.holdToSpeech": false,
 	"inlineChat.lineNaturalLanguageHint": false,
-	"makefile.makePath": "/usr/bin",
+	"makefile.makePath": "/usr/bin/",
 	"notebook.experimental.generate": false,
 	"remote.SSH.experimental.chat": false,
+	"remote.SSH.path": "/usr/bin/ssh",
 	"rust-analyzer.assist.emitMustUse": true,
 	"rust-analyzer.cargo.allTargets": false,
 	"rust-analyzer.cargo.buildScripts.rebuildOnSave": false,
@@ -73,8 +75,7 @@
 	"telemetry.telemetryLevel": "off",
 	"vscode-kubernetes.kubectl-path": "/usr/bin/hyaena-technologies/kubectl",
 	"vscode-kubernetes.minikube-path": "/usr/bin/hyaena-technologies/minikube",
-	"zig.formattingProvider": "off",
-	"zig.path": "zig",
-	"zig.zls.path": "zls"
+	"zig.path": "/usr/bin/zig/zig",
+	"zig.zls.path": "/usr/bin/zig/zls",
 }
 
