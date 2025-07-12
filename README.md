@@ -10,6 +10,7 @@
 [Dragonfly Database]: https://www.dragonflydb.io/
 [Dolt Database]: https://www.dolthub.com/
 [Git Repositories]: https://git-scm.com
+[Go Language]: https://go.dev/
 [Greptime Database]: https://greptime.com/
 [Helix Editor]: https://helix-editor.com/ 
 [K8S Control]: https://kubernetes.io/
@@ -60,7 +61,7 @@ Development Environment Configuration
 
 - **_Integrated Development Environments:_** [Arduino][Arduino IDE]
 
-- **_Programming Languages:_** [C][C Language], [C++][CC Language], [C3][C3 Language], [Odin][Odin Language], [Rust][Rust Language], [Zig][Zig Language]
+- **_Programming Languages:_** [C][C Language], [C++][CC Language], [C3][C3 Language], [Go][Go Language], [Odin][Odin Language], [Rust][Rust Language], [Zig][Zig Language]
 
 - **_Operating Systems:_** [Fedora][RPM Fedora]: -> [Red Hat Enterprise Linux][RPM RHEL] || [Ubuntu][APT Ubuntu] <- :[Debian][APT Debian]
 
