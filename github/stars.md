@@ -1,10 +1,12 @@
 # Stars
 
 - https://github.com/ziglang/zig
-- https://github.com/rust-lang/rust
 - https://github.com/carbon-language/carbon-lang
+- https://github.com/rust-lang/rust
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
+- https://github.com/trifectatechfoundation/bzip2-rs
+- https://github.com/rust-lang/git2-rs
 - https://github.com/rust-cli/proc-exit
 - https://github.com/rust-cli/argfile
 - https://github.com/r9os/r9
