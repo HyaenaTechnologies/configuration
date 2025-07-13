@@ -6,7 +6,7 @@ sudo dnf -y upgrade
 sudo dnf -y install ssh dnf-utils dnf-plugins-core curl openssl openssl-devel ufw iptables firewalld nftables
 curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.rpm.sh | sudo bash
 sudo dnf -y install autoconf automake gcc gdb llvm clang lldb lld make cmake ninja zig zsh tree git git-lfs rsync librsync
-sudo dnf -y install ed sed nano podman micro neovim helix openssh ffmpeg imagemagick
+sudo dnf -y install ed sed nano podman micro neovim helix openssh ffmpeg imagemagick bzip2
 # Install Rust
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 rustup target add aarch64-apple-darwin
