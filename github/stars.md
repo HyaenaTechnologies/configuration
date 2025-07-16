@@ -1,12 +1,16 @@
 # Stars
 
 - https://github.com/ziglang/zig
-- https://github.com/rust-lang/rust
 - https://github.com/carbon-language/carbon-lang
+- https://github.com/rust-lang/rust
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
+- https://github.com/rustls/rustls
+- https://github.com/pendulum-project/statime
+- https://github.com/pendulum-project/ntpd-rs
+- https://github.com/pciutils/pciutils
+- https://github.com/rust-lang/flate2-rs
 - https://github.com/trifectatechfoundation/zlib-rs
-- https://github.com/trifectatechfoundation/bzip2-rs
 - https://github.com/rust-lang/git2-rs
 - https://github.com/rust-cli/proc-exit
 - https://github.com/rust-cli/argfile

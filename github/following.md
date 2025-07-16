@@ -74,6 +74,7 @@
 - https://github.com/containerd
 - https://github.com/traefik
 - https://github.com/KDE
+- https://github.com/pciutils
 - https://github.com/redox-os
 - https://github.com/curl
 - https://github.com/llvm
@@ -106,7 +107,6 @@
 - https://github.com/actions
 - https://github.com/firecracker-microvm
 - https://github.com/starship
-- https://github.com/open-telemetry
 - https://github.com/SerenityOS
 - https://github.com/blender
 - https://github.com/canonical
@@ -117,6 +117,7 @@
 - https://github.com/compose-spec
 - https://github.com/cli
 - https://github.com/carbon-language
+- https://github.com/rustls
 - https://github.com/zigtools
 - https://github.com/helix-editor
 - https://github.com/zitadel
@@ -129,6 +130,7 @@
 - https://github.com/GreptimeTeam
 - https://github.com/dragonflydb
 - https://github.com/tigerbeetle
+- https://github.com/pendulum-project
 - https://github.com/r9os
 - https://github.com/podman-desktop
 - https://github.com/LadybirdBrowser

@@ -8,7 +8,7 @@ sudo apt update && sudo apt -y full-upgrade
 sudo apt -y install curl ssh apt-transport-https ca-certificates pkg-config linux-tools-generic fdutils libssl-dev ufw iptables firewalld nftables
 curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
 sudo apt -y install autoconf automake gcc gdb llvm clang clangd clang-format clang-tidy clang-tools lldb lld make cmake ninja-build
-sudo apt -y install tree git git-lfs zsh rsync librsync-dev bzip2 bzip2-doc
+sudo apt -y install tree git git-lfs zsh rsync librsync-dev
 sudo add-apt-repository ppa:maveonair/helix-editor
 sudo apt update
 sudo apt -y install ed sed nano micro neovim helix podman openssh-client openssh-server ffmpeg imagemagick
