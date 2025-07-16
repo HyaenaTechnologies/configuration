@@ -1,10 +1,11 @@
 # Stars
 
 - https://github.com/ziglang/zig
-- https://github.com/carbon-language/carbon-lang
 - https://github.com/rust-lang/rust
+- https://github.com/carbon-language/carbon-lang
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
+- https://github.com/trifectatechfoundation/zlib-rs
 - https://github.com/trifectatechfoundation/bzip2-rs
 - https://github.com/rust-lang/git2-rs
 - https://github.com/rust-cli/proc-exit
@@ -31,7 +32,6 @@
 - https://github.com/google/skia
 - https://github.com/curl/curl
 - https://github.com/hyperium/hyper
-- https://github.com/rust-lang/mdBook
 - https://github.com/openssl/openssl
 - https://github.com/webmproject/libwebm
 - https://github.com/webmproject/libwebp

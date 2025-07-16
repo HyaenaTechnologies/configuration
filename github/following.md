@@ -83,6 +83,7 @@
 - https://github.com/git-lfs
 - https://github.com/micro-editor
 - https://github.com/hetznercloud
+- https://github.com/RustCrypto
 - https://github.com/ory
 - https://github.com/abseil
 - https://github.com/linuxkit
@@ -94,7 +95,6 @@
 - https://github.com/notaryproject
 - https://github.com/kata-containers
 - https://github.com/odin-lang
-- https://github.com/harness
 - https://github.com/knative
 - https://github.com/kubernetes-sigs
 - https://github.com/rust-cli
