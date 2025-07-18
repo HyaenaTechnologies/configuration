@@ -1,6 +1,6 @@
 [APT Debian]: https://www.debian.org/
 [APT Ubuntu]: https://ubuntu.com/
-[Arduino IDE]: https://arduino.cc/en/software
+[Arduino Micro]: https://arduino.cc/
 [C Language]: https://learn.microsoft.com/en-us/cpp/c-language/
 [CC Language]: https://learn.microsoft.com/en-us/cpp/cpp/
 [C3 Language]: https://c3-lang.org
@@ -9,6 +9,7 @@
 [Containerman Pod]: https://docs.podman.io/en/latest/markdown/podman-pod.1.html
 [Dragonfly Database]: https://www.dragonflydb.io/
 [Dolt Database]: https://www.dolthub.com/
+[Espressif]: https://www.espressif.com/
 [Git Repositories]: https://git-scm.com
 [Go Language]: https://go.dev/
 [Greptime Database]: https://greptime.com/
@@ -30,6 +31,7 @@
 [Ory Identity]: https://www.ory.sh/
 [Postgres Database]: https://www.postgresql.org/
 [Prometheus Database]: https://prometheus.io/
+[Raspberry Micro]: https://www.raspberrypi.com/
 [RPM Fedora]: https://fedoraproject.org/
 [RPM RHEL]: http://developers.redhat.com/
 [Rust Language]: https://rust-lang.org/
@@ -59,7 +61,7 @@ Development Environment Configuration
 
 - **_Editors:_** [Helix][Helix Editor], [Micro][Micro Editor], [NeoVim][NVIM], [Visual Studio Code][VSCode]
 
-- **_Integrated Development Environments:_** [Arduino][Arduino IDE]
+- **_Microcontrollers:_** [Arduino][Arduino Micro], [Espressif Systems][Espressif], [Raspberry Pi][Raspberry Micro]
 
 - **_Programming Languages:_** [C][C Language], [C++][CC Language], [C3][C3 Language], [Go][Go Language], [Odin][Odin Language], [Rust][Rust Language], [Zig][Zig Language]
 
