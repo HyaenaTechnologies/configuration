@@ -7,18 +7,19 @@ sudo apt update && sudo apt -y full-upgrade
 # Install Utilities
 sudo apt -y install curl ssh apt-transport-https ca-certificates pkg-config linux-tools-generic fdutils libssl-dev ufw iptables firewalld nftables
 curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
-sudo apt -y install autoconf automake gcc gdb llvm clang clangd clang-format clang-tidy clang-tools lldb lld make cmake ninja-build
+# Install AutoConf, AutoMake, GCC, Make, CMake, and Ninja
+sudo apt -y install autoconf automake gcc gcc-aarch64-linux-gnu gcc-arm-linux-gnueabi gcc-arm-linux-gnueabihf gdb make cmake ninja-build
+# Install LLVM, Clang, ClangD, LLDB, and LLD
+sudo apt -y install clang-format clang-tidy clang-tools clang clangd libc++-dev libc++1 libc++abi-dev libc++abi1 libclang-dev libclang1 liblldb-dev libllvm-ocaml-dev libomp-dev libomp5 lld lldb llvm-dev llvm-runtime llvm python3-clang
 sudo apt -y install tree git git-lfs zsh rsync librsync-dev
 sudo add-apt-repository ppa:maveonair/helix-editor
 sudo apt update
 sudo apt -y install ed sed nano micro neovim helix podman openssh-client openssh-server ffmpeg imagemagick
 # Install Rust
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-rustup target add aarch64-apple-darwin
-rustup target add x86_64-apple-darwin
-rustup target add aarch64-unknown-linux-gnu
-rustup target add aarch64-pc-windows-msvc
-rustup target add x86_64-pc-windows-msvc
+rustup target add aarch64-apple-darwin x86_64-apple-darwin aarch64-apple-ios x86_64-apple-ios
+rustup target add aarch64-unknown-linux-gnu aarch64-linux-android x86_64-linux-android
+rustup target add aarch64-pc-windows-msvc x86_64-pc-windows-msvc
 # Install Go Language
 wget https://go.dev/dl/go1.24.4.linux-amd64.tar.gz --verbose && tar --extract --file ./*.gz --verbose
 sudo install ./go /usr/local/bin/

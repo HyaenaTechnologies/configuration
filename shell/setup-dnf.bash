@@ -9,11 +9,9 @@ sudo dnf -y install autoconf automake gcc gdb llvm clang lldb lld make cmake nin
 sudo dnf -y install ed sed nano podman micro neovim helix openssh ffmpeg imagemagick
 # Install Rust
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-rustup target add aarch64-apple-darwin
-rustup target add x86_64-apple-darwin
-rustup target add aarch64-unknown-linux-gnu
-rustup target add aarch64-pc-windows-msvc
-rustup target add x86_64-pc-windows-msvc
+rustup target add aarch64-apple-darwin x86_64-apple-darwin aarch64-apple-ios x86_64-apple-ios
+rustup target add aarch64-unknown-linux-gnu aarch64-linux-android x86_64-linux-android
+rustup target add aarch64-pc-windows-msvc x86_64-pc-windows-msvc
 # Install Go Language
 wget https://go.dev/dl/go1.24.4.linux-amd64.tar.gz --verbose && tar --extract --file ./*.gz --verbose
 sudo install ./go /usr/local/bin/
