@@ -14,8 +14,6 @@
 - https://github.com/rust-lang/git2-rs
 - https://github.com/rust-cli/proc-exit
 - https://github.com/rust-cli/argfile
-- https://github.com/r9os/r9
-- https://github.com/plan9foundation/plan9
 - https://github.com/SELinuxProject/selinux
 - https://github.com/raspberrypi/libcamera
 - https://github.com/uutils/procps

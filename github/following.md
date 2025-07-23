@@ -4,6 +4,7 @@
 - https://github.com/git
 - https://github.com/chromium
 - https://github.com/yaml
+- https://github.com/Kitware
 - https://github.com/sparkfun
 - https://github.com/postgres
 - https://github.com/duckduckgo
@@ -131,7 +132,6 @@
 - https://github.com/dragonflydb
 - https://github.com/tigerbeetle
 - https://github.com/pendulum-project
-- https://github.com/r9os
 - https://github.com/podman-desktop
 - https://github.com/LadybirdBrowser
 - https://github.com/RsyncProject
