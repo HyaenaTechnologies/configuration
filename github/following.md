@@ -105,7 +105,6 @@
 - https://github.com/rustwasm
 - https://github.com/GoogleContainerTools
 - https://github.com/cert-manager
-- https://github.com/dolthub
 - https://github.com/VictoriaMetrics
 - https://github.com/actions
 - https://github.com/firecracker-microvm
@@ -133,6 +132,7 @@
 - https://github.com/GreptimeTeam
 - https://github.com/dragonflydb
 - https://github.com/tigerbeetle
+- https://github.com/tukaani-project
 - https://github.com/pendulum-project
 - https://github.com/podman-desktop
 - https://github.com/LadybirdBrowser

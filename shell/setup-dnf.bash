@@ -22,7 +22,7 @@ sudo dnf -y install docker-ce docker-ce-cli containerd.io docker-buildx-plugin d
 sudo dnf install -y https://download.postgresql.org/pub/repos/yum/reporpms/F-41-x86_64/pgdg-fedora-repo-latest.noarch.rpm
 sudo dnf install -y postgresql17-server sqlite mariadb mariadb-server
 # Install Compression Tools and Libraries
-sudo dnf -y install libzip liblzma-dev gzip xz zip 7z
+sudo dnf -y install libzip liblzma-dev gzip xz zip 7zip
 # Install Boost, Abseil, LibCamera and International Components for Unicode
 sudo dnf -y install boost abseil-cpp icu libcamera
 # Install Vulkan

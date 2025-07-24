@@ -5,6 +5,8 @@
 - https://github.com/carbon-language/carbon-lang
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
+- https://github.com/redox-os/kernel
+- https://github.com/tukaani-project/xz
 - https://github.com/nih-at/libzip
 - https://github.com/libarchive/libarchive
 - https://github.com/rustls/rustls

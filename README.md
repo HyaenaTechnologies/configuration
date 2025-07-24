@@ -8,7 +8,6 @@
 [Containerman]: https://podman.io/
 [Containerman Pod]: https://docs.podman.io/en/latest/markdown/podman-pod.1.html
 [Dragonfly Database]: https://www.dragonflydb.io/
-[Dolt Database]: https://www.dolthub.com/
 [Espressif]: https://www.espressif.com/
 [Git Repositories]: https://git-scm.com
 [Go Language]: https://go.dev/
@@ -81,7 +80,7 @@ Development Environment Configuration
 
 - **_Object Storage:_** [Minio][Minio Database], [SeaweedFS][SeaweedFS Database]
 
-- **_Relational:_** [Dolt][Dolt Database], [Maria][Maria Database], [Postgres][Postgres Database]
+- **_Relational:_** [Maria][Maria Database], [Postgres][Postgres Database]
 
 - **_Time Series:_** [Greptime][Greptime Database], [Prometheus][Prometheus Database], [Victoria Metrics][Victoria Database]
 
