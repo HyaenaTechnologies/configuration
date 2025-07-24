@@ -1,10 +1,12 @@
 # Stars
 
 - https://github.com/ziglang/zig
-- https://github.com/carbon-language/carbon-lang
 - https://github.com/rust-lang/rust
+- https://github.com/carbon-language/carbon-lang
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
+- https://github.com/nih-at/libzip
+- https://github.com/libarchive/libarchive
 - https://github.com/rustls/rustls
 - https://github.com/pendulum-project/statime
 - https://github.com/pendulum-project/ntpd-rs

@@ -17,6 +17,7 @@
 - https://github.com/arduino-libraries
 - https://github.com/raspberrypi
 - https://github.com/google
+- https://github.com/libarchive
 - https://github.com/godaddy
 - https://github.com/KhronosGroup
 - https://github.com/dart-lang
@@ -80,6 +81,7 @@
 - https://github.com/curl
 - https://github.com/llvm
 - https://github.com/tree-sitter
+- https://github.com/nih-at
 - https://github.com/rust-embedded
 - https://github.com/github-linguist
 - https://github.com/git-lfs
