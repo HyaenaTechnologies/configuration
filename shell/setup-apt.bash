@@ -8,7 +8,7 @@ sudo apt update && sudo apt -y full-upgrade
 sudo apt -y install curl ssh apt-transport-https ca-certificates pkg-config linux-tools-generic fdutils libssl-dev ufw iptables firewalld nftables
 curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
 # Install AutoConf, AutoMake, GCC, Make, CMake, and Ninja
-sudo apt -y install autoconf automake gcc gcc-aarch64-linux-gnu gcc-arm-linux-gnueabi gcc-arm-linux-gnueabihf gdb make cmake ninja-build
+sudo apt -y install autoconf automake gcc gcc-aarch64-linux-gnu gcc-arm-linux-gnueabi gcc-arm-linux-gnueabihf gdb make cmake cmake-doc cmake-extras ninja-build
 # Install LLVM, Clang, ClangD, LLDB, and LLD
 sudo apt -y install clang-format clang-tidy clang-tools clang clangd libc++-dev libc++1 libc++abi-dev libc++abi1 libclang-dev libclang1 liblldb-dev libllvm-ocaml-dev libomp-dev libomp5 lld lldb llvm-dev llvm-runtime llvm python3-clang
 sudo apt -y install tree git git-lfs zsh rsync librsync-dev
