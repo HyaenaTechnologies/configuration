@@ -5,7 +5,7 @@ sudo ubuntu-drivers install
 # Initial System Update
 sudo apt update && sudo apt -y full-upgrade
 # Install Utilities
-sudo apt -y install curl ssh apt-transport-https ca-certificates pkg-config linux-tools-generic fdutils libssl-dev ufw iptables firewalld nftables
+sudo apt -y install build-essential curl ssh apt-transport-https ca-certificates pkg-config linux-tools-generic fdutils libssl-dev ufw iptables firewalld nftables
 curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
 # Install AutoConf, AutoMake, GCC, Make, CMake, and Ninja
 sudo apt -y install autoconf automake gcc gcc-aarch64-linux-gnu gcc-arm-linux-gnueabi gcc-arm-linux-gnueabihf gdb make cmake cmake-doc cmake-extras ninja-build
