@@ -4,9 +4,7 @@
 [C Language]: https://learn.microsoft.com/en-us/cpp/c-language/
 [CC Language]: https://learn.microsoft.com/en-us/cpp/cpp/
 [C3 Language]: https://c3-lang.org
-[Certificate Manager]: https://cert-manager.io/
 [Containerman]: https://podman.io/
-[Containerman Pod]: https://docs.podman.io/en/latest/markdown/podman-pod.1.html
 [Dragonfly Database]: https://www.dragonflydb.io/
 [Espressif]: https://www.espressif.com/
 [Git Repositories]: https://git-scm.com
@@ -23,8 +21,6 @@
 [Micro Editor]: https://micro-editor.github.io/
 [Minio Database]: https://min.io/
 [Moby]: http://docker.com
-[Moby Compose]: https://docs.docker.com/reference/cli/docker/compose/
-[Moby Swarm]: https://docs.docker.com/reference/cli/docker/swarm/
 [NVIM]: https://neovim.io/
 [Odin Language]: https://odin-lang.org/
 [Ory Identity]: https://www.ory.sh/
@@ -52,11 +48,7 @@ Development Environment Configuration
 
 - **_Authentication:_** [Ory][Ory Identity], [Zitadel][Zitadel Identity]
 
-- **_Container Engines:_** [Docker][Moby], [Podman][Containerman]
-
-- **_Container Orchestration Engines:_** [Docker Compose][Moby Compose], [Docker Swarm][Moby Swarm], [KOps][K8S Ops], [Minikube][K8S Kube], [Podman Pods][Containerman Pod]
-
-- **_Container Tools:_** [Cert-Manager][Certificate Manager], [Knative][K8S Native], [Kompose][K8S Kompose], [Kubectl][K8S Control], [Skaffold][K8S Skaffold]
+- **_Container Tools:_** [Docker][Moby], [Knative][K8S Native], [Kompose][K8S Kompose], [KOps][K8S Ops], [Kubectl][K8S Control], [Minikube][K8S Kube], [Podman][Containerman], [Skaffold][K8S Skaffold]
 
 - **_Editors:_** [Helix][Helix Editor], [Micro][Micro Editor], [NeoVim][NVIM], [Visual Studio Code][VSCode]
 
