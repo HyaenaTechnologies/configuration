@@ -21,7 +21,6 @@ export PATH=$PATH:/usr/local/lib
 export PATH=$PATH:~/.cargo/bin
 export PATH=$PATH:~/arduino-ide
 export PATH=$PATH:~/blender
-export PATH=$PATH:~/grafana/bin
 export PATH=$PATH:~/podman-desktop
 export PATH=$PATH:~/VSCode
 
