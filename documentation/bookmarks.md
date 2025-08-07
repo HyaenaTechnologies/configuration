@@ -36,9 +36,9 @@
 - https://kubernetes.io/docs/home/
 - https://docs.helix-editor.com/
 - https://neovim.io/doc/
-- https://micro-editor.github.io/
 - https://code.visualstudio.com/docs
 - https://docs.arduino.cc/language-reference/
+- https://espressif.com/
 - https://raspberrypi.com/documentation/
 - https://docs.github.com/en
 - https://openstax.org/subjects

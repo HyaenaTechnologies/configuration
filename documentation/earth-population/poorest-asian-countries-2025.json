@@ -1,0 +1,512 @@
+[
+  {
+    "flagCode": "AF",
+    "country": "Afghanistan",
+    "imfGDPPerCapita": null,
+    "unGDPPerCapita": 323.30461795315676,
+    "GNIPerCapita": 1690,
+    "GNIPerCapitaAtlasMethodYear": 2021,
+    "GNIPerCapitaAtlasMethod": 390,
+    "GNIPerCapitaYear": 2021
+  },
+  {
+    "flagCode": "NP",
+    "country": "Nepal",
+    "imfGDPPerCapita": 1491.6216772851737,
+    "unGDPPerCapita": 1330.4938534207124,
+    "GNIPerCapita": 4750,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 1340,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "MM",
+    "country": "Myanmar",
+    "imfGDPPerCapita": 1239.840585153125,
+    "unGDPPerCapita": 1188.900394890849,
+    "GNIPerCapita": 4760,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 1210,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "TL",
+    "country": "Timor-Leste",
+    "imfGDPPerCapita": 1404.280517722697,
+    "unGDPPerCapita": 2259.2208780982996,
+    "GNIPerCapita": 4780,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 1970,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "TJ",
+    "country": "Tajikistan",
+    "imfGDPPerCapita": 1200.8306525628784,
+    "unGDPPerCapita": 972.6885887250039,
+    "GNIPerCapita": 5680,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 1210,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "KG",
+    "country": "Kyrgyzstan",
+    "imfGDPPerCapita": 1864.1458636907594,
+    "unGDPPerCapita": 1498.3625838413275,
+    "GNIPerCapita": 5830,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 1410,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "PK",
+    "country": "Pakistan",
+    "imfGDPPerCapita": null,
+    "unGDPPerCapita": 1280.4521589217145,
+    "GNIPerCapita": 6350,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 1580,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "BD",
+    "country": "Bangladesh",
+    "imfGDPPerCapita": 2590.7551497834215,
+    "unGDPPerCapita": 2462.7718613215548,
+    "GNIPerCapita": 7690,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 2820,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "PS",
+    "country": "Palestine",
+    "imfGDPPerCapita": null,
+    "unGDPPerCapita": 3419.1769744633802,
+    "GNIPerCapita": 8170,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 4610,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "IN",
+    "country": "India",
+    "imfGDPPerCapita": 2689.4532984486327,
+    "unGDPPerCapita": 2367.3823495255724,
+    "GNIPerCapita": 8210,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 2380,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "LA",
+    "country": "Laos",
+    "imfGDPPerCapita": 1929.3666368180059,
+    "unGDPPerCapita": 1951.3022272181684,
+    "GNIPerCapita": 8810,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 2360,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "UZ",
+    "country": "Uzbekistan",
+    "imfGDPPerCapita": 2643.6440380639833,
+    "unGDPPerCapita": 2169.6227606643383,
+    "GNIPerCapita": 9640,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 2190,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "PH",
+    "country": "Philippines",
+    "imfGDPPerCapita": 4037.401423103599,
+    "unGDPPerCapita": 3461.7209107178023,
+    "GNIPerCapita": 10730,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 3950,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "IQ",
+    "country": "Iraq",
+    "imfGDPPerCapita": 5654.8165918061795,
+    "unGDPPerCapita": 5618.4071729957805,
+    "GNIPerCapita": 10820,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 5270,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "JO",
+    "country": "Jordan",
+    "imfGDPPerCapita": 4649.8910656470525,
+    "unGDPPerCapita": 4118.855625092226,
+    "GNIPerCapita": 10890,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 4260,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "BT",
+    "country": "Bhutan",
+    "imfGDPPerCapita": 3903.69055658343,
+    "unGDPPerCapita": 3638.1893904970866,
+    "GNIPerCapita": 11300,
+    "GNIPerCapitaAtlasMethodYear": 2021,
+    "GNIPerCapitaAtlasMethod": 3040,
+    "GNIPerCapitaYear": 2021
+  },
+  {
+    "flagCode": "MN",
+    "country": "Mongolia",
+    "imfGDPPerCapita": 6238.9468596286715,
+    "unGDPPerCapita": 4875.181257285832,
+    "GNIPerCapita": 12470,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 4210,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "VN",
+    "country": "Vietnam",
+    "imfGDPPerCapita": 4584.828590832587,
+    "unGDPPerCapita": 4023.681335446215,
+    "GNIPerCapita": 12810,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 4010,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "LB",
+    "country": "Lebanon",
+    "imfGDPPerCapita": null,
+    "unGDPPerCapita": 6719.144804100236,
+    "GNIPerCapita": 13400,
+    "GNIPerCapitaAtlasMethodYear": 2021,
+    "GNIPerCapitaAtlasMethod": 4970,
+    "GNIPerCapitaYear": 2021
+  },
+  {
+    "flagCode": "LK",
+    "country": "Sri Lanka",
+    "imfGDPPerCapita": null,
+    "unGDPPerCapita": 3279.7563443035797,
+    "GNIPerCapita": 14030,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 3610,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "ID",
+    "country": "Indonesia",
+    "imfGDPPerCapita": 5164.793627349758,
+    "unGDPPerCapita": 4616.741506574595,
+    "GNIPerCapita": 14250,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 4580,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "TM",
+    "country": "Turkmenistan",
+    "imfGDPPerCapita": 10749.128805528393,
+    "unGDPPerCapita": 8795.225001148467,
+    "GNIPerCapita": 15400,
+    "GNIPerCapitaAtlasMethodYear": 2019,
+    "GNIPerCapitaAtlasMethod": 7080,
+    "GNIPerCapitaYear": 2019
+  },
+  {
+    "flagCode": "AZ",
+    "country": "Azerbaijan",
+    "imfGDPPerCapita": 7573.694182367253,
+    "unGDPPerCapita": 7571.010896640603,
+    "GNIPerCapita": 16530,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 5630,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "AM",
+    "country": "Armenia",
+    "imfGDPPerCapita": 8605.996558685256,
+    "unGDPPerCapita": 6609.492067363059,
+    "GNIPerCapita": 18120,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 5960,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "IR",
+    "country": "Iran",
+    "imfGDPPerCapita": 5022.641766674566,
+    "unGDPPerCapita": 4307.053735377531,
+    "GNIPerCapita": 18130,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 3900,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "GE",
+    "country": "Georgia",
+    "imfGDPPerCapita": 8633.530093231091,
+    "unGDPPerCapita": 6463.7596639582625,
+    "GNIPerCapita": 18830,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 5620,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "TH",
+    "country": "Thailand",
+    "imfGDPPerCapita": 7663.93139336972,
+    "unGDPPerCapita": 6916.248137738255,
+    "GNIPerCapita": 20070,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 7230,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "CN",
+    "country": "China",
+    "imfGDPPerCapita": 13087.070122166513,
+    "unGDPPerCapita": 12684.979874302662,
+    "GNIPerCapita": 21250,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 12850,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "MV",
+    "country": "Maldives",
+    "imfGDPPerCapita": 13591.327528526872,
+    "unGDPPerCapita": 11649.838769360893,
+    "GNIPerCapita": 22530,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 11030,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "KZ",
+    "country": "Kazakhstan",
+    "imfGDPPerCapita": 14236.367648893198,
+    "unGDPPerCapita": 10818.372849480422,
+    "GNIPerCapita": 27080,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 9470,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "MY",
+    "country": "Malaysia",
+    "imfGDPPerCapita": 12383.164062282853,
+    "unGDPPerCapita": 11293.241943643025,
+    "GNIPerCapita": 32250,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 11780,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "RU",
+    "country": "Russia",
+    "imfGDPPerCapita": 14283.908692542207,
+    "unGDPPerCapita": 15558.796363813135,
+    "GNIPerCapita": 35770,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 12830,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "TR",
+    "country": "Turkey",
+    "imfGDPPerCapita": 12699.49159153063,
+    "unGDPPerCapita": 10345.142977052052,
+    "GNIPerCapita": 36920,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 10590,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "OM",
+    "country": "Oman",
+    "imfGDPPerCapita": 19824.0483084578,
+    "unGDPPerCapita": 20868.69322928136,
+    "GNIPerCapita": 38890,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 20150,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "JP",
+    "country": "Japan",
+    "imfGDPPerCapita": 33390.33167347668,
+    "unGDPPerCapita": 34379.09717878525,
+    "GNIPerCapita": 48470,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 42440,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "IL",
+    "country": "Israel",
+    "imfGDPPerCapita": 55758.533515179915,
+    "unGDPPerCapita": 55163.60938849533,
+    "GNIPerCapita": 48820,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 54650,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "KR",
+    "country": "South Korea",
+    "imfGDPPerCapita": 34082.683337526854,
+    "unGDPPerCapita": 32398.24259198328,
+    "GNIPerCapita": 50730,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 35990,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "BH",
+    "country": "Bahrain",
+    "imfGDPPerCapita": 28472.67438676346,
+    "unGDPPerCapita": 27007.782977247418,
+    "GNIPerCapita": 57370,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 27180,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "SA",
+    "country": "Saudi Arabia",
+    "imfGDPPerCapita": 31997.060720991256,
+    "unGDPPerCapita": 32058.681432493497,
+    "GNIPerCapita": 59660,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 27590,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "KW",
+    "country": "Kuwait",
+    "imfGDPPerCapita": 31912.942094037502,
+    "unGDPPerCapita": 34890.61057523955,
+    "GNIPerCapita": 64590,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 39570,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "BN",
+    "country": "Brunei",
+    "imfGDPPerCapita": 33259.70878991272,
+    "unGDPPerCapita": 35771.8782836189,
+    "GNIPerCapita": 67740,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 31410,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "MO",
+    "country": "Macau",
+    "imfGDPPerCapita": 75729.18268105434,
+    "unGDPPerCapita": 33299.26164150763,
+    "GNIPerCapita": 70930,
+    "GNIPerCapitaAtlasMethodYear": 2021,
+    "GNIPerCapitaAtlasMethod": 44980,
+    "GNIPerCapitaYear": 2021
+  },
+  {
+    "flagCode": "HK",
+    "country": "Hong Kong",
+    "imfGDPPerCapita": 54998.72905647315,
+    "unGDPPerCapita": 48652.664654790104,
+    "GNIPerCapita": 73940,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 54370,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "AE",
+    "country": "United Arab Emirates",
+    "imfGDPPerCapita": 46518.24431517716,
+    "unGDPPerCapita": 44690.99242023621,
+    "GNIPerCapita": 87300,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 48950,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "SG",
+    "country": "Singapore",
+    "imfGDPPerCapita": 89465.23016650342,
+    "unGDPPerCapita": 79510.9653792105,
+    "GNIPerCapita": 107030,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 67200,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "QA",
+    "country": "Qatar",
+    "imfGDPPerCapita": 78528.44612614694,
+    "unGDPPerCapita": 76094.14966510372,
+    "GNIPerCapita": 110640,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 70500,
+    "GNIPerCapitaYear": 2022
+  },
+  {
+    "flagCode": "YE",
+    "country": "Yemen",
+    "imfGDPPerCapita": 405.5163630879569,
+    "unGDPPerCapita": 263.4922762777715,
+    "GNIPerCapita": null,
+    "GNIPerCapitaAtlasMethodYear": 2018,
+    "GNIPerCapitaAtlasMethod": 840,
+    "GNIPerCapitaYear": null
+  },
+  {
+    "flagCode": "KP",
+    "country": "North Korea",
+    "imfGDPPerCapita": null,
+    "unGDPPerCapita": 571.1527605283957,
+    "GNIPerCapita": null,
+    "GNIPerCapitaAtlasMethodYear": null,
+    "GNIPerCapitaAtlasMethod": null,
+    "GNIPerCapitaYear": null
+  },
+  {
+    "flagCode": "SY",
+    "country": "Syria",
+    "imfGDPPerCapita": null,
+    "unGDPPerCapita": 725.8200496479368,
+    "GNIPerCapita": null,
+    "GNIPerCapitaAtlasMethodYear": 2020,
+    "GNIPerCapitaAtlasMethod": 760,
+    "GNIPerCapitaYear": null
+  },
+  {
+    "flagCode": "TW",
+    "country": "Taiwan",
+    "imfGDPPerCapita": 34740.83624658198,
+    "unGDPPerCapita": null,
+    "GNIPerCapita": null,
+    "GNIPerCapitaAtlasMethodYear": null,
+    "GNIPerCapitaAtlasMethod": null,
+    "GNIPerCapitaYear": null
+  },
+  {
+    "flagCode": "KH",
+    "country": "Cambodia",
+    "imfGDPPerCapita": 2529.6952039444195,
+    "unGDPPerCapita": 1653.1151949798298,
+    "GNIPerCapita": null,
+    "GNIPerCapitaAtlasMethodYear": 2022,
+    "GNIPerCapitaAtlasMethod": 1700,
+    "GNIPerCapitaYear": null
+  }
+]

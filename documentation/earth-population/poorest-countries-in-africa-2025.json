@@ -1,0 +1,434 @@
+[
+  {
+    "flagCode": "BI",
+    "country": "Burundi",
+    "imfGDPPerCapita": 213.69006254343296,
+    "unGDPPerCapita": 280.2515635858235,
+    "GNIPerCapitaPPP": 840,
+    "GNIPerCapitaAtlasMethod": 240
+  },
+  {
+    "flagCode": "MG",
+    "country": "Madagascar",
+    "imfGDPPerCapita": 502.8908972624287,
+    "unGDPPerCapita": 456.7709303710672,
+    "GNIPerCapitaPPP": 1720,
+    "GNIPerCapitaAtlasMethod": 510
+  },
+  {
+    "flagCode": "MW",
+    "country": "Malawi",
+    "imfGDPPerCapita": 505.98439870184234,
+    "unGDPPerCapita": 565.2972393894518,
+    "GNIPerCapitaPPP": 1700,
+    "GNIPerCapitaAtlasMethod": 640
+  },
+  {
+    "flagCode": "CF",
+    "country": "Central African Republic",
+    "imfGDPPerCapita": 509.67844912647286,
+    "unGDPPerCapita": 434.52536421150387,
+    "GNIPerCapitaPPP": 1020,
+    "GNIPerCapitaAtlasMethod": 480
+  },
+  {
+    "flagCode": "SL",
+    "country": "Sierra Leone",
+    "imfGDPPerCapita": 516.7923499312341,
+    "unGDPPerCapita": 394.72255008339204,
+    "GNIPerCapitaPPP": 1900,
+    "GNIPerCapitaAtlasMethod": 510
+  },
+  {
+    "flagCode": "SD",
+    "country": "Sudan",
+    "imfGDPPerCapita": 520.0137044371019,
+    "unGDPPerCapita": 710.9544521031859,
+    "GNIPerCapitaPPP": 4150,
+    "GNIPerCapitaAtlasMethod": 760
+  },
+  {
+    "flagCode": "SS",
+    "country": "South Sudan",
+    "imfGDPPerCapita": 534.6711735363613,
+    "unGDPPerCapita": 378.7124245208716,
+    "GNIPerCapitaPPP": null,
+    "GNIPerCapitaAtlasMethod": null
+  },
+  {
+    "flagCode": "MZ",
+    "country": "Mozambique",
+    "imfGDPPerCapita": 644.7910147424906,
+    "unGDPPerCapita": 516.5849510407867,
+    "GNIPerCapitaPPP": 1410,
+    "GNIPerCapitaAtlasMethod": 500
+  },
+  {
+    "flagCode": "SO",
+    "country": "Somalia",
+    "imfGDPPerCapita": 651.4472365388432,
+    "unGDPPerCapita": 530.1530931532916,
+    "GNIPerCapitaPPP": 1360,
+    "GNIPerCapitaAtlasMethod": 470
+  },
+  {
+    "flagCode": "CD",
+    "country": "DR Congo",
+    "imfGDPPerCapita": 653.7241208167895,
+    "unGDPPerCapita": 554.3799631310267,
+    "GNIPerCapitaPPP": 1280,
+    "GNIPerCapitaAtlasMethod": 590
+  },
+  {
+    "flagCode": "NE",
+    "country": "Niger",
+    "imfGDPPerCapita": 673.9786086296198,
+    "unGDPPerCapita": 552.1459427318772,
+    "GNIPerCapitaPPP": 1510,
+    "GNIPerCapitaAtlasMethod": 610
+  },
+  {
+    "flagCode": "LR",
+    "country": "Liberia",
+    "imfGDPPerCapita": 829.4932483716352,
+    "unGDPPerCapita": 569.7226240183138,
+    "GNIPerCapitaPPP": 1620,
+    "GNIPerCapitaAtlasMethod": 680
+  },
+  {
+    "flagCode": "ML",
+    "country": "Mali",
+    "imfGDPPerCapita": 859.6441100369858,
+    "unGDPPerCapita": 747.146689524898,
+    "GNIPerCapitaPPP": 2420,
+    "GNIPerCapitaAtlasMethod": 850
+  },
+  {
+    "flagCode": "TD",
+    "country": "Chad",
+    "imfGDPPerCapita": 890.1764927131886,
+    "unGDPPerCapita": 799.816222855973,
+    "GNIPerCapitaPPP": 1640,
+    "GNIPerCapitaAtlasMethod": 690
+  },
+  {
+    "flagCode": "BF",
+    "country": "Burkina Faso",
+    "imfGDPPerCapita": 909.7555099565518,
+    "unGDPPerCapita": 796.5490600051506,
+    "GNIPerCapitaPPP": 2400,
+    "GNIPerCapitaAtlasMethod": 840
+  },
+  {
+    "flagCode": "RW",
+    "country": "Rwanda",
+    "imfGDPPerCapita": 940.4020783428167,
+    "unGDPPerCapita": 913.7364183591525,
+    "GNIPerCapitaPPP": 2730,
+    "GNIPerCapitaAtlasMethod": 930
+  },
+  {
+    "flagCode": "GM",
+    "country": "Gambia",
+    "imfGDPPerCapita": 954.6116530656357,
+    "unGDPPerCapita": 790.7401960958014,
+    "GNIPerCapitaPPP": 2470,
+    "GNIPerCapitaAtlasMethod": 810
+  },
+  {
+    "flagCode": "GW",
+    "country": "Guinea-Bissau",
+    "imfGDPPerCapita": 956.2039901845726,
+    "unGDPPerCapita": 699.9093139869839,
+    "GNIPerCapitaPPP": 2220,
+    "GNIPerCapitaAtlasMethod": 820
+  },
+  {
+    "flagCode": "TG",
+    "country": "Togo",
+    "imfGDPPerCapita": 1011.3551150478162,
+    "unGDPPerCapita": 831.8673553043169,
+    "GNIPerCapitaPPP": 2610,
+    "GNIPerCapitaAtlasMethod": 990
+  },
+  {
+    "flagCode": "LS",
+    "country": "Lesotho",
+    "imfGDPPerCapita": 1013.4048711135182,
+    "unGDPPerCapita": 967.863006279302,
+    "GNIPerCapitaPPP": 3160,
+    "GNIPerCapitaAtlasMethod": 1260
+  },
+  {
+    "flagCode": "NG",
+    "country": "Nigeria",
+    "imfGDPPerCapita": 1064.0345559260381,
+    "unGDPPerCapita": 2000.0126300899262,
+    "GNIPerCapitaPPP": 5650,
+    "GNIPerCapitaAtlasMethod": 2140
+  },
+  {
+    "flagCode": "UG",
+    "country": "Uganda",
+    "imfGDPPerCapita": 1095.8472236007076,
+    "unGDPPerCapita": 938.8653086801764,
+    "GNIPerCapitaPPP": 2650,
+    "GNIPerCapitaAtlasMethod": 930
+  },
+  {
+    "flagCode": "TZ",
+    "country": "Tanzania",
+    "imfGDPPerCapita": 1128.4142664563071,
+    "unGDPPerCapita": null,
+    "GNIPerCapitaPPP": 3040,
+    "GNIPerCapitaAtlasMethod": 1200
+  },
+  {
+    "flagCode": "ZM",
+    "country": "Zambia",
+    "imfGDPPerCapita": 1363.1530672313006,
+    "unGDPPerCapita": 1329.5990216255436,
+    "GNIPerCapitaPPP": 3680,
+    "GNIPerCapitaAtlasMethod": 1170
+  },
+  {
+    "flagCode": "BJ",
+    "country": "Benin",
+    "imfGDPPerCapita": 1442.5731546795369,
+    "unGDPPerCapita": 1174.3089540652738,
+    "GNIPerCapitaPPP": 4020,
+    "GNIPerCapitaAtlasMethod": 1400
+  },
+  {
+    "flagCode": "ET",
+    "country": "Ethiopia",
+    "imfGDPPerCapita": 1514.1874335656075,
+    "unGDPPerCapita": 878.2036140309436,
+    "GNIPerCapitaPPP": 2800,
+    "GNIPerCapitaAtlasMethod": 1020
+  },
+  {
+    "flagCode": "KM",
+    "country": "Comoros",
+    "imfGDPPerCapita": 1610.698116434671,
+    "unGDPPerCapita": 1412.011367768141,
+    "GNIPerCapitaPPP": 3850,
+    "GNIPerCapitaAtlasMethod": 1610
+  },
+  {
+    "flagCode": "GN",
+    "country": "Guinea",
+    "imfGDPPerCapita": 1685.2652701709303,
+    "unGDPPerCapita": 1380.5770975582295,
+    "GNIPerCapitaPPP": 2840,
+    "GNIPerCapitaAtlasMethod": 1180
+  },
+  {
+    "flagCode": "CM",
+    "country": "Cameroon",
+    "imfGDPPerCapita": 1780.6642056540816,
+    "unGDPPerCapita": 1484.024056788479,
+    "GNIPerCapitaPPP": 5080,
+    "GNIPerCapitaAtlasMethod": 1660
+  },
+  {
+    "flagCode": "KE",
+    "country": "Kenya",
+    "imfGDPPerCapita": 1807.6913049146135,
+    "unGDPPerCapita": 1971.4074653456742,
+    "GNIPerCapitaPPP": 5680,
+    "GNIPerCapitaAtlasMethod": 2170
+  },
+  {
+    "flagCode": "SN",
+    "country": "Senegal",
+    "imfGDPPerCapita": 1872.4910204944013,
+    "unGDPPerCapita": 1467.1402915698288,
+    "GNIPerCapitaPPP": 4100,
+    "GNIPerCapitaAtlasMethod": 1640
+  },
+  {
+    "flagCode": "MR",
+    "country": "Mauritania",
+    "imfGDPPerCapita": 1999.6011333832546,
+    "unGDPPerCapita": 2069.064130978766,
+    "GNIPerCapitaPPP": 6330,
+    "GNIPerCapitaAtlasMethod": 2160
+  },
+  {
+    "flagCode": "ZW",
+    "country": "Zimbabwe",
+    "imfGDPPerCapita": 2029.6977133822595,
+    "unGDPPerCapita": 1558.5459093376123,
+    "GNIPerCapitaPPP": 2460,
+    "GNIPerCapitaAtlasMethod": 1500
+  },
+  {
+    "flagCode": "GH",
+    "country": "Ghana",
+    "imfGDPPerCapita": 2145.8862717921074,
+    "unGDPPerCapita": 2103.737989921373,
+    "GNIPerCapitaPPP": 6380,
+    "GNIPerCapitaAtlasMethod": 2350
+  },
+  {
+    "flagCode": "AO",
+    "country": "Angola",
+    "imfGDPPerCapita": 2359.707991803279,
+    "unGDPPerCapita": 2902.279713114754,
+    "GNIPerCapitaPPP": 6450,
+    "GNIPerCapitaAtlasMethod": 1900
+  },
+  {
+    "flagCode": "CG",
+    "country": "Republic of the Congo",
+    "imfGDPPerCapita": 2390.4917001313916,
+    "unGDPPerCapita": 2366.4032668973728,
+    "GNIPerCapitaPPP": 3520,
+    "GNIPerCapitaAtlasMethod": 2060
+  },
+  {
+    "flagCode": "CI",
+    "country": "Ivory Coast",
+    "imfGDPPerCapita": 2656.8943643672715,
+    "unGDPPerCapita": 2140.4918759457682,
+    "GNIPerCapitaPPP": 6330,
+    "GNIPerCapitaAtlasMethod": 2620
+  },
+  {
+    "flagCode": "EG",
+    "country": "Egypt",
+    "imfGDPPerCapita": 2936.6034165216365,
+    "unGDPPerCapita": 3457.9777976783876,
+    "GNIPerCapitaPPP": 14590,
+    "GNIPerCapitaAtlasMethod": 4100
+  },
+  {
+    "flagCode": "ST",
+    "country": "Sao Tome and Principe",
+    "imfGDPPerCapita": 3125.8584664563336,
+    "unGDPPerCapita": 2275.7623182132243,
+    "GNIPerCapitaPPP": 4770,
+    "GNIPerCapitaAtlasMethod": 2410
+  },
+  {
+    "flagCode": "DJ",
+    "country": "Djibouti",
+    "imfGDPPerCapita": 3685.5617863657862,
+    "unGDPPerCapita": 3381.0806702249847,
+    "GNIPerCapitaPPP": 5780,
+    "GNIPerCapitaAtlasMethod": 3180
+  },
+  {
+    "flagCode": "MA",
+    "country": "Morocco",
+    "imfGDPPerCapita": 3964.97080466709,
+    "unGDPPerCapita": 3406.4604431861944,
+    "GNIPerCapitaPPP": 9390,
+    "GNIPerCapitaAtlasMethod": 3710
+  },
+  {
+    "flagCode": "SZ",
+    "country": "Eswatini",
+    "imfGDPPerCapita": 4048.0189783229976,
+    "unGDPPerCapita": 3444.422331372346,
+    "GNIPerCapitaPPP": 9920,
+    "GNIPerCapitaAtlasMethod": 3800
+  },
+  {
+    "flagCode": "NA",
+    "country": "Namibia",
+    "imfGDPPerCapita": 4127.301297844686,
+    "unGDPPerCapita": 4076.3445658007904,
+    "GNIPerCapitaPPP": 10890,
+    "GNIPerCapitaAtlasMethod": 4880
+  },
+  {
+    "flagCode": "TN",
+    "country": "Tunisia",
+    "imfGDPPerCapita": 4430.299791069432,
+    "unGDPPerCapita": 3739.792365126411,
+    "GNIPerCapitaPPP": 12160,
+    "GNIPerCapitaAtlasMethod": 3840
+  },
+  {
+    "flagCode": "CV",
+    "country": "Cape Verde",
+    "imfGDPPerCapita": 5154.306823483007,
+    "unGDPPerCapita": 4389.732347731764,
+    "GNIPerCapitaPPP": 8970,
+    "GNIPerCapitaAtlasMethod": 4140
+  },
+  {
+    "flagCode": "GQ",
+    "country": "Equatorial Guinea",
+    "imfGDPPerCapita": 5524.058129517187,
+    "unGDPPerCapita": 6070.582894404234,
+    "GNIPerCapitaPPP": 12850,
+    "GNIPerCapitaAtlasMethod": 5320
+  },
+  {
+    "flagCode": "DZ",
+    "country": "Algeria",
+    "imfGDPPerCapita": 5624.081643839081,
+    "unGDPPerCapita": 4045.784468528712,
+    "GNIPerCapitaPPP": 12930,
+    "GNIPerCapitaAtlasMethod": 3900
+  },
+  {
+    "flagCode": "ZA",
+    "country": "South Africa",
+    "imfGDPPerCapita": 5764.456587378933,
+    "unGDPPerCapita": 6259.272587428356,
+    "GNIPerCapitaPPP": 15570,
+    "GNIPerCapitaAtlasMethod": 6780
+  },
+  {
+    "flagCode": "LY",
+    "country": "Libya",
+    "imfGDPPerCapita": 6465.188990904409,
+    "unGDPPerCapita": 5434.976724729707,
+    "GNIPerCapitaPPP": 23590,
+    "GNIPerCapitaAtlasMethod": 7260
+  },
+  {
+    "flagCode": "GA",
+    "country": "Gabon",
+    "imfGDPPerCapita": 8103.33458021773,
+    "unGDPPerCapita": 7763.70640885725,
+    "GNIPerCapitaPPP": 14880,
+    "GNIPerCapitaAtlasMethod": 7540
+  },
+  {
+    "flagCode": "BW",
+    "country": "Botswana",
+    "imfGDPPerCapita": 8359.483552682934,
+    "unGDPPerCapita": 7943.538944311742,
+    "GNIPerCapitaPPP": 17590,
+    "GNIPerCapitaAtlasMethod": 7350
+  },
+  {
+    "flagCode": "MU",
+    "country": "Mauritius",
+    "imfGDPPerCapita": 12898.571293405243,
+    "unGDPPerCapita": 10169.915160690069,
+    "GNIPerCapitaPPP": 27480,
+    "GNIPerCapitaAtlasMethod": 10760
+  },
+  {
+    "flagCode": "SC",
+    "country": "Seychelles",
+    "imfGDPPerCapita": 16591.479074251198,
+    "unGDPPerCapita": 15023.761287553001,
+    "GNIPerCapitaPPP": 33480,
+    "GNIPerCapitaAtlasMethod": 14340
+  },
+  {
+    "flagCode": "ER",
+    "country": "Eritrea",
+    "imfGDPPerCapita": null,
+    "unGDPPerCapita": 660.7429997227613,
+    "GNIPerCapitaPPP": null,
+    "GNIPerCapitaAtlasMethod": null
+  }
+]

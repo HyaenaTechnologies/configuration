@@ -14,7 +14,7 @@ sudo apt -y install clang-format clang-tidy clang-tools clang clangd libc++-dev 
 sudo apt -y install tree git git-lfs zsh rsync librsync-dev
 sudo add-apt-repository ppa:maveonair/helix-editor
 sudo apt update
-sudo apt -y install ed sed nano micro neovim helix podman openssh-client openssh-server ffmpeg imagemagick
+sudo apt -y install ed sed nano neovim helix podman openssh-client openssh-server ffmpeg imagemagick
 # Install Rust
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 rustup target add aarch64-apple-darwin x86_64-apple-darwin aarch64-apple-ios x86_64-apple-ios

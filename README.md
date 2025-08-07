@@ -18,7 +18,6 @@
 [K8S Ops]: https://kops.sigs.k8s.io/
 [K8S Skaffold]: https://skaffold.dev/
 [Maria Database]: https://mariadb.org/
-[Micro Editor]: https://micro-editor.github.io/
 [Minio Database]: https://min.io/
 [Moby]: http://docker.com
 [NVIM]: https://neovim.io/
@@ -50,7 +49,7 @@ Development Environment Configuration
 
 - **_Containerization Tools:_** [Docker][Moby], [Knative][K8S Native], [Kompose][K8S Kompose], [KOps][K8S Ops], [Kubectl][K8S Control], [Minikube][K8S Kube], [Podman][Containerman], [Skaffold][K8S Skaffold]
 
-- **_Editors:_** [Helix][Helix Editor], [Micro][Micro Editor], [NeoVim][NVIM], [Visual Studio Code][VSCode]
+- **_Editors:_** [Helix][Helix Editor], [NeoVim][NVIM], [Visual Studio Code][VSCode]
 
 - **_Microcontrollers:_** [Arduino][Arduino Micro], [Espressif Systems][Espressif], [Raspberry Pi][Raspberry Micro]
 

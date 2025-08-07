@@ -42,7 +42,6 @@
 - https://github.com/uutils
 - https://github.com/docker
 - https://github.com/rust-lang
-- https://github.com/zyedidia
 - https://github.com/containers
 - https://github.com/microsoft
 - https://github.com/webmproject
@@ -85,7 +84,6 @@
 - https://github.com/rust-embedded
 - https://github.com/github-linguist
 - https://github.com/git-lfs
-- https://github.com/micro-editor
 - https://github.com/hetznercloud
 - https://github.com/RustCrypto
 - https://github.com/ory
