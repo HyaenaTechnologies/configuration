@@ -1,0 +1,165 @@
+"flagCode","country","WBPercentage","WBDataYear","OECDPercentage","OECDDataYear"
+"SS","South Sudan",82.3,2016,,
+"GQ","Equatorial Guinea",76.8,2006,,
+"MG","Madagascar",70.7,2012,,
+"CF","Central African Republic",68.8,2021,,
+"BI","Burundi",64.9,2013,,
+"HN","Honduras",64.1,2023,,
+"CD","DR Congo",63.9,2012,,
+"ZM","Zambia",60,2022,,
+"GT","Guatemala",59.3,2014,,
+"SZ","Eswatini",58.9,2016,,
+"HT","Haiti",58.5,2012,,
+"SL","Sierra Leone",56.8,2018,,
+"ZA","South Africa",55.5,2014,27.7,2017
+"ST","Sao Tome and Principe",55.5,2017,,
+"AF","Afghanistan",54.5,2016,,
+"SO","Somalia",54.4,2022,,
+"GM","Gambia",53.4,2020,,
+"LR","Liberia",50.9,2016,,
+"MW","Malawi",50.7,2019,,
+"GW","Guinea-Bissau",50.5,2021,,
+"LS","Lesotho",49.7,2017,,
+"YE","Yemen",48.6,2014,,
+"SN","Senegal",46.7,2011,,
+"SD","Sudan",46.5,2009,,
+"MZ","Mozambique",46.1,2014,,
+"NE","Niger",45.5,2021,,
+"TG","Togo",45.5,2018,,
+"ML","Mali",44.6,2021,,
+"GN","Guinea",43.7,2018,,
+"BF","Burkina Faso",43.2,2021,,
+"KM","Comoros",42.4,2013,,
+"TD","Chad",42.3,2018,,
+"TL","Timor-Leste",41.8,2014,,
+"FM","Micronesia",41.2,2013,,
+"CG","Republic of the Congo",40.9,2011,,
+"NG","Nigeria",40.1,2018,,
+"PG","Papua New Guinea",39.9,2009,,
+"AR","Argentina",39.2,2022,,
+"KE","Kenya",38.6,2021,,
+"BJ","Benin",38.5,2018,,
+"ZW","Zimbabwe",38.3,2019,,
+"RW","Rwanda",38.2,2016,,
+"CI","Ivory Coast",37.5,2021,,
+"CM","Cameroon",37.5,2014,,
+"CO","Colombia",36.6,2022,,
+"BO","Bolivia",36.4,2021,,
+"MX","Mexico",36.3,2022,15,2021
+"SY","Syria",35.2,2007,,
+"CV","Cape Verde",35.2,2015,,
+"GA","Gabon",33.4,2017,,
+"KG","Kyrgyzstan",33.3,2021,,
+"VE","Venezuela",33.1,2015,,
+"AO","Angola",32.3,2018,,
+"MR","Mauritania",31.8,2019,,
+"MD","Moldova",31.1,2022,,
+"EG","Egypt",29.7,2019,,
+"PE","Peru",27.5,2022,,
+"LB","Lebanon",27.4,2012,,
+"MN","Mongolia",27.1,2022,,
+"SV","El Salvador",26.6,2022,,
+"TZ","Tanzania",26.4,2018,,
+"TV","Tuvalu",26.3,2010,,
+"CR","Costa Rica",25.5,2022,21.2,2023
+"SC","Seychelles",25.3,2018,,
+"EC","Ecuador",25.2,2022,,
+"LC","Saint Lucia",25,2015,,
+"GD","Grenada",25,2018,,
+"NI","Nicaragua",24.9,2016,,
+"PW","Palau",24.9,2006,,
+"MM","Myanmar",24.8,2017,,
+"AM","Armenia",24.8,2022,,
+"PY","Paraguay",24.7,2022,,
+"FJ","Fiji",24.1,2019,,
+"DO","Dominican Republic",23.9,2021,,
+"ET","Ethiopia",23.5,2015,,
+"GH","Ghana",23.4,2016,,
+"TJ","Tajikistan",22.5,2022,,
+"LV","Latvia",22.5,2022,16.9,2021
+"EE","Estonia",22.5,2022,16.2,2022
+"AL","Albania",22,2020,,
+"IN","India",21.9,2011,,
+"PK","Pakistan",21.9,2018,,
+"WS","Samoa",21.9,2018,,
+"KI","Kiribati",21.9,2019,,
+"PA","Panama",21.8,2021,,
+"MK","North Macedonia",21.8,2019,,
+"RO","Romania",21.2,2021,16,2022
+"DJ","Djibouti",21.1,2017,,
+"LT","Lithuania",20.9,2021,14.1,2021
+"BG","Bulgaria",20.6,2022,13,2022
+"TO","Tonga",20.6,2021,,
+"UG","Uganda",20.3,2019,,
+"NP","Nepal",20.3,2022,,
+"ME","Montenegro",20.3,2021,,
+"ES","Spain",20.2,2022,13.7,2021
+"IT","Italy",20.1,2021,12.2,2022
+"RS","Serbia",20,2021,,
+"IQ","Iraq",18.9,2012,,
+"GR","Greece",18.8,2021,11.2,2022
+"BD","Bangladesh",18.7,2022,,
+"GB","United Kingdom",18.6,2017,11.8,2021
+"LA","Laos",18.3,2018,,
+"PH","Philippines",18.1,2021,,
+"US","United States",18,,18.1,2023
+"HR","Croatia",18,2021,14,2022
+"KH","Cambodia",17.7,2012,,
+"NA","Namibia",17.4,2015,,
+"LU","Luxembourg",17.3,2021,8.9,2021
+"BA","Bosnia and Herzegovina",16.9,2015,,
+"JM","Jamaica",16.7,2021,,
+"MT","Malta",16.7,2021,,
+"TN","Tunisia",16.6,2021,,
+"PT","Portugal",16.4,2021,11.2,2021
+"SE","Sweden",16.1,2022,8.4,2021
+"BW","Botswana",16.1,2015,,
+"VU","Vanuatu",15.9,2019,,
+"CH","Switzerland",15.8,2021,10.1,2020
+"JO","Jordan",15.7,2018,,
+"FR","France",15.6,2021,8.3,2022
+"GE","Georgia",15.6,2022,,
+"DE","Germany",14.8,2021,11.6,2020
+"AT","Austria",14.8,2021,9.6,2022
+"NL","Netherlands",14.5,2021,7.4,2021
+"TR","Turkey",14.4,2021,13.2,2021
+"LK","Sri Lanka",14.3,2019,,
+"IE","Ireland",14,2021,7,2022
+"CY","Cyprus",13.9,2021,,
+"SK","Slovakia",13.7,2021,9.4,2021
+"SI","Slovenia",12.7,2022,7.9,2021
+"SB","Solomon Islands",12.7,2012,,
+"DK","Denmark",12.4,2021,6.5,2019
+"BT","Bhutan",12.4,2022,,
+"BE","Belgium",12.3,2022,6.9,2022
+"FI","Finland",12.2,2022,6.7,2022
+"NO","Norway",12.2,2021,8,2021
+"HU","Hungary",12.1,2021,9.9,2022
+"PL","Poland",11.8,2022,9.1,2021
+"RU","Russia",11,2021,11.5,2017
+"UZ","Uzbekistan",11,2023,,
+"MU","Mauritius",10.3,2017,,
+"CZ","Czech Republic",10.2,2021,6.2,2022
+"UY","Uruguay",9.9,2022,,
+"ID","Indonesia",9.4,2023,,
+"IS","Iceland",8.8,2017,,2017
+"MH","Marshall Islands",7.2,2019,,
+"CL","Chile",6.5,2022,16.3,2022
+"TH","Thailand",6.3,2021,,
+"MY","Malaysia",6.2,2021,,
+"AZ","Azerbaijan",6,2012,,
+"DZ","Algeria",5.5,2011,,
+"MV","Maldives",5.4,2019,,
+"KZ","Kazakhstan",5.2,2022,,
+"MA","Morocco",4.8,2013,,
+"VN","Vietnam",4.3,2022,,
+"BY","Belarus",3.9,2022,,
+"UA","Ukraine",1.6,2020,,
+"CN","China",,2020,,
+"BR","Brazil",,,19.2,2022
+"JP","Japan",,,15.4,2021
+"KR","South Korea",,,14.9,2021
+"CA","Canada",,,11.9,2022
+"AU","Australia",,,12.6,2020
+"IL","Israel",,,16.8,2022
+"NZ","New Zealand",,,14.3,2021

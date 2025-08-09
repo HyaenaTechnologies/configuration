@@ -1,4 +1,4 @@
-"flagCode","country","imfGDPPerCapita","unGDPPerCapita","GNIPerCapitaPPP","GNIPerCapitaAtlasMethod"
+"flagCode","country","imfGDP","unGDP","PPP","GNIAtlasMethod"
 "BI","Burundi",213.69006254343296,280.2515635858235,840,240
 "MG","Madagascar",502.8908972624287,456.7709303710672,1720,510
 "MW","Malawi",505.98439870184234,565.2972393894518,1700,640
