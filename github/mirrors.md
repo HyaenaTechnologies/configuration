@@ -12,7 +12,6 @@
 - https://codeberg.org/HyaenaTechnologiesCompany/task-orchestration-desktop
 - https://codeberg.org/HyaenaTechnologiesCompany/web-driver
 - https://gitea.com/HyaenaTechnologies/configuration
-- https://gitea.com/HyaenaTechnologies/data-interchange
 - https://gitea.com/HyaenaTechnologies/hyaena-technologies-web
 - https://gitea.com/HyaenaTechnologies/specification
 
