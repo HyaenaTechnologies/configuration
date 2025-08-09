@@ -5,9 +5,9 @@
     "imfGDP": null,
     "unGDP": 323.30461795315676,
     "PPP": 1690,
-    "GNIAtlasMethodYear": 2021,
+    "PPPYear": 2021,
     "GNIAtlasMethod": 390,
-    "PPPYear": 2021
+    "GNIAtlasMethodYear": 2021
   },
   {
     "flagCode": "NP",
@@ -15,9 +15,9 @@
     "imfGDP": 1491.6216772851737,
     "unGDP": 1330.4938534207124,
     "PPP": 4750,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 1340,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "MM",
@@ -25,9 +25,9 @@
     "imfGDP": 1239.840585153125,
     "unGDP": 1188.900394890849,
     "PPP": 4760,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 1210,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "TL",
@@ -35,9 +35,9 @@
     "imfGDP": 1404.280517722697,
     "unGDP": 2259.2208780982996,
     "PPP": 4780,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 1970,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "TJ",
@@ -45,9 +45,9 @@
     "imfGDP": 1200.8306525628784,
     "unGDP": 972.6885887250039,
     "PPP": 5680,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 1210,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "KG",
@@ -55,9 +55,9 @@
     "imfGDP": 1864.1458636907594,
     "unGDP": 1498.3625838413275,
     "PPP": 5830,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 1410,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "PK",
@@ -65,9 +65,9 @@
     "imfGDP": null,
     "unGDP": 1280.4521589217145,
     "PPP": 6350,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 1580,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "BD",
@@ -75,9 +75,9 @@
     "imfGDP": 2590.7551497834215,
     "unGDP": 2462.7718613215548,
     "PPP": 7690,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 2820,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "PS",
@@ -85,9 +85,9 @@
     "imfGDP": null,
     "unGDP": 3419.1769744633802,
     "PPP": 8170,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 4610,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "IN",
@@ -95,9 +95,9 @@
     "imfGDP": 2689.4532984486327,
     "unGDP": 2367.3823495255724,
     "PPP": 8210,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 2380,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "LA",
@@ -105,9 +105,9 @@
     "imfGDP": 1929.3666368180059,
     "unGDP": 1951.3022272181684,
     "PPP": 8810,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 2360,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "UZ",
@@ -115,9 +115,9 @@
     "imfGDP": 2643.6440380639833,
     "unGDP": 2169.6227606643383,
     "PPP": 9640,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 2190,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "PH",
@@ -125,9 +125,9 @@
     "imfGDP": 4037.401423103599,
     "unGDP": 3461.7209107178023,
     "PPP": 10730,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 3950,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "IQ",
@@ -135,9 +135,9 @@
     "imfGDP": 5654.8165918061795,
     "unGDP": 5618.4071729957805,
     "PPP": 10820,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 5270,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "JO",
@@ -145,9 +145,9 @@
     "imfGDP": 4649.8910656470525,
     "unGDP": 4118.855625092226,
     "PPP": 10890,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 4260,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "BT",
@@ -155,9 +155,9 @@
     "imfGDP": 3903.69055658343,
     "unGDP": 3638.1893904970866,
     "PPP": 11300,
-    "GNIAtlasMethodYear": 2021,
+    "PPPYear": 2021,
     "GNIAtlasMethod": 3040,
-    "PPPYear": 2021
+    "GNIAtlasMethodYear": 2021
   },
   {
     "flagCode": "MN",
@@ -165,9 +165,9 @@
     "imfGDP": 6238.9468596286715,
     "unGDP": 4875.181257285832,
     "PPP": 12470,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 4210,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "VN",
@@ -175,9 +175,9 @@
     "imfGDP": 4584.828590832587,
     "unGDP": 4023.681335446215,
     "PPP": 12810,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 4010,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "LB",
@@ -185,9 +185,9 @@
     "imfGDP": null,
     "unGDP": 6719.144804100236,
     "PPP": 13400,
-    "GNIAtlasMethodYear": 2021,
+    "PPPYear": 2021,
     "GNIAtlasMethod": 4970,
-    "PPPYear": 2021
+    "GNIAtlasMethodYear": 2021
   },
   {
     "flagCode": "LK",
@@ -195,9 +195,9 @@
     "imfGDP": null,
     "unGDP": 3279.7563443035797,
     "PPP": 14030,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 3610,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "ID",
@@ -205,9 +205,9 @@
     "imfGDP": 5164.793627349758,
     "unGDP": 4616.741506574595,
     "PPP": 14250,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 4580,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "TM",
@@ -215,9 +215,9 @@
     "imfGDP": 10749.128805528393,
     "unGDP": 8795.225001148467,
     "PPP": 15400,
-    "GNIAtlasMethodYear": 2019,
+    "PPPYear": 2019,
     "GNIAtlasMethod": 7080,
-    "PPPYear": 2019
+    "GNIAtlasMethodYear": 2019
   },
   {
     "flagCode": "AZ",
@@ -225,9 +225,9 @@
     "imfGDP": 7573.694182367253,
     "unGDP": 7571.010896640603,
     "PPP": 16530,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 5630,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "AM",
@@ -235,9 +235,9 @@
     "imfGDP": 8605.996558685256,
     "unGDP": 6609.492067363059,
     "PPP": 18120,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 5960,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "IR",
@@ -245,9 +245,9 @@
     "imfGDP": 5022.641766674566,
     "unGDP": 4307.053735377531,
     "PPP": 18130,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 3900,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "GE",
@@ -255,9 +255,9 @@
     "imfGDP": 8633.530093231091,
     "unGDP": 6463.7596639582625,
     "PPP": 18830,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 5620,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "TH",
@@ -265,9 +265,9 @@
     "imfGDP": 7663.93139336972,
     "unGDP": 6916.248137738255,
     "PPP": 20070,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 7230,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "CN",
@@ -275,9 +275,9 @@
     "imfGDP": 13087.070122166513,
     "unGDP": 12684.979874302662,
     "PPP": 21250,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 12850,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "MV",
@@ -285,9 +285,9 @@
     "imfGDP": 13591.327528526872,
     "unGDP": 11649.838769360893,
     "PPP": 22530,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 11030,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "KZ",
@@ -295,9 +295,9 @@
     "imfGDP": 14236.367648893198,
     "unGDP": 10818.372849480422,
     "PPP": 27080,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 9470,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "MY",
@@ -305,9 +305,9 @@
     "imfGDP": 12383.164062282853,
     "unGDP": 11293.241943643025,
     "PPP": 32250,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 11780,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "RU",
@@ -315,9 +315,9 @@
     "imfGDP": 14283.908692542207,
     "unGDP": 15558.796363813135,
     "PPP": 35770,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 12830,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "TR",
@@ -325,9 +325,9 @@
     "imfGDP": 12699.49159153063,
     "unGDP": 10345.142977052052,
     "PPP": 36920,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 10590,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "OM",
@@ -335,9 +335,9 @@
     "imfGDP": 19824.0483084578,
     "unGDP": 20868.69322928136,
     "PPP": 38890,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 20150,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "JP",
@@ -345,9 +345,9 @@
     "imfGDP": 33390.33167347668,
     "unGDP": 34379.09717878525,
     "PPP": 48470,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 42440,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "IL",
@@ -355,9 +355,9 @@
     "imfGDP": 55758.533515179915,
     "unGDP": 55163.60938849533,
     "PPP": 48820,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 54650,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "KR",
@@ -365,9 +365,9 @@
     "imfGDP": 34082.683337526854,
     "unGDP": 32398.24259198328,
     "PPP": 50730,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 35990,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "BH",
@@ -375,9 +375,9 @@
     "imfGDP": 28472.67438676346,
     "unGDP": 27007.782977247418,
     "PPP": 57370,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 27180,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "SA",
@@ -385,9 +385,9 @@
     "imfGDP": 31997.060720991256,
     "unGDP": 32058.681432493497,
     "PPP": 59660,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 27590,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "KW",
@@ -395,9 +395,9 @@
     "imfGDP": 31912.942094037502,
     "unGDP": 34890.61057523955,
     "PPP": 64590,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 39570,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "BN",
@@ -405,9 +405,9 @@
     "imfGDP": 33259.70878991272,
     "unGDP": 35771.8782836189,
     "PPP": 67740,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 31410,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "MO",
@@ -415,9 +415,9 @@
     "imfGDP": 75729.18268105434,
     "unGDP": 33299.26164150763,
     "PPP": 70930,
-    "GNIAtlasMethodYear": 2021,
+    "PPPYear": 2021,
     "GNIAtlasMethod": 44980,
-    "PPPYear": 2021
+    "GNIAtlasMethodYear": 2021
   },
   {
     "flagCode": "HK",
@@ -425,9 +425,9 @@
     "imfGDP": 54998.72905647315,
     "unGDP": 48652.664654790104,
     "PPP": 73940,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 54370,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "AE",
@@ -435,9 +435,9 @@
     "imfGDP": 46518.24431517716,
     "unGDP": 44690.99242023621,
     "PPP": 87300,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 48950,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "SG",
@@ -445,9 +445,9 @@
     "imfGDP": 89465.23016650342,
     "unGDP": 79510.9653792105,
     "PPP": 107030,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 67200,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "QA",
@@ -455,9 +455,9 @@
     "imfGDP": 78528.44612614694,
     "unGDP": 76094.14966510372,
     "PPP": 110640,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 70500,
-    "PPPYear": 2022
+    "GNIAtlasMethodYear": 2022
   },
   {
     "flagCode": "YE",
@@ -465,9 +465,9 @@
     "imfGDP": 405.5163630879569,
     "unGDP": 263.4922762777715,
     "PPP": null,
-    "GNIAtlasMethodYear": 2018,
+    "PPPYear": 2018,
     "GNIAtlasMethod": 840,
-    "PPPYear": null
+    "GNIAtlasMethodYear": null
   },
   {
     "flagCode": "KP",
@@ -475,9 +475,9 @@
     "imfGDP": null,
     "unGDP": 571.1527605283957,
     "PPP": null,
-    "GNIAtlasMethodYear": null,
+    "PPPYear": null,
     "GNIAtlasMethod": null,
-    "PPPYear": null
+    "GNIAtlasMethodYear": null
   },
   {
     "flagCode": "SY",
@@ -485,9 +485,9 @@
     "imfGDP": null,
     "unGDP": 725.8200496479368,
     "PPP": null,
-    "GNIAtlasMethodYear": 2020,
+    "PPPYear": 2020,
     "GNIAtlasMethod": 760,
-    "PPPYear": null
+    "GNIAtlasMethodYear": null
   },
   {
     "flagCode": "TW",
@@ -495,9 +495,9 @@
     "imfGDP": 34740.83624658198,
     "unGDP": null,
     "PPP": null,
-    "GNIAtlasMethodYear": null,
+    "PPPYear": null,
     "GNIAtlasMethod": null,
-    "PPPYear": null
+    "GNIAtlasMethodYear": null
   },
   {
     "flagCode": "KH",
@@ -505,8 +505,8 @@
     "imfGDP": 2529.6952039444195,
     "unGDP": 1653.1151949798298,
     "PPP": null,
-    "GNIAtlasMethodYear": 2022,
+    "PPPYear": 2022,
     "GNIAtlasMethod": 1700,
-    "PPPYear": null
+    "GNIAtlasMethodYear": null
   }
 ]

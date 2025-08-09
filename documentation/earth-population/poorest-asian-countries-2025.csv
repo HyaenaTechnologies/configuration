@@ -1,4 +1,4 @@
-"flagCode","country","imfGDP","unGDP","PPP","GNIAtlasMethodYear","GNIAtlasMethod","PPPYear"
+"flagCode","country","imfGDP","unGDP","PPP","PPPYear","GNIAtlasMethod","GNIAtlasMethodYear"
 "AF","Afghanistan",,323.30461795315676,1690,2021,390,2021
 "NP","Nepal",1491.6216772851737,1330.4938534207124,4750,2022,1340,2022
 "MM","Myanmar",1239.840585153125,1188.900394890849,4760,2022,1210,2022
