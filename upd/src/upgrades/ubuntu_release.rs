@@ -1,6 +1,6 @@
 use std::{
     io::{Error, StdoutLock, Write, stdout},
-    process::{Command, ExitCode, Output},
+    process::{Command, Output, exit},
     result::{
         Result,
         Result::{Err, Ok},
@@ -8,7 +8,7 @@ use std::{
 };
 
 // Ubuntu System Release Upgrade
-pub fn release_ubuntu() -> ExitCode {
+pub fn release_ubuntu() -> () {
     let ubuntu_release: Result<Output, Error> = Command::new("do-release-upgrade").output();
     let mut standard_output: StdoutLock = stdout().lock();
 
@@ -19,9 +19,9 @@ pub fn release_ubuntu() -> ExitCode {
         }
         Err(error) => {
             eprintln!("Error Executing Ubuntu System Release Upgrade: {}", error);
-            return ExitCode::FAILURE;
+            exit(1);
         }
     };
 
-    return ExitCode::SUCCESS;
+    return ();
 }

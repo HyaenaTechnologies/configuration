@@ -1,6 +1,6 @@
 use std::{
     io::{Error, StdoutLock, Write, stdout},
-    process::{Command, ExitCode, Output},
+    process::{Command, Output, exit},
     result::{
         Result,
         Result::{Err, Ok},
@@ -8,7 +8,7 @@ use std::{
 };
 
 // APT Upgrade
-pub fn upgrade_apt() -> ExitCode {
+pub fn upgrade_apt() -> () {
     let apt_update: Result<Output, Error> = Command::new("apt").arg("update").output();
     let apt_upgrade: Result<Output, Error> =
         Command::new("apt").arg("-y").arg("full-upgrade").output();
@@ -21,7 +21,7 @@ pub fn upgrade_apt() -> ExitCode {
         }
         Err(error) => {
             eprintln!("Error Executing APT Update: {}", error);
-            return ExitCode::FAILURE;
+            exit(1);
         }
     };
 
@@ -32,9 +32,9 @@ pub fn upgrade_apt() -> ExitCode {
         }
         Err(error) => {
             eprint!("Error Executing APT Upgrade: {}", error);
-            return ExitCode::FAILURE;
+            exit(1);
         }
     };
 
-    return ExitCode::SUCCESS;
+    return ();
 }

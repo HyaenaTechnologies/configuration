@@ -1,6 +1,6 @@
 use std::{
     io::{Error, StdoutLock, Write, stdout},
-    process::{Command, ExitCode, Output},
+    process::{Command, Output, exit},
     result::{
         Result,
         Result::{Err, Ok},
@@ -8,7 +8,7 @@ use std::{
 };
 
 // DNF Upgrade
-pub fn upgrade_dnf() -> ExitCode {
+pub fn upgrade_dnf() -> () {
     let dnf_upgrade: Result<Output, Error> = Command::new("dnf").arg("-y").arg("upgrade").output();
     let mut standard_output: StdoutLock = stdout().lock();
 
@@ -19,9 +19,9 @@ pub fn upgrade_dnf() -> ExitCode {
         }
         Err(error) => {
             eprintln!("Error Executing DNF Upgrade: {}", error);
-            return ExitCode::FAILURE;
+            exit(1);
         }
     };
 
-    return ExitCode::SUCCESS;
+    return ();
 }

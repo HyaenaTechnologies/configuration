@@ -1,6 +1,6 @@
 use std::{
     io::{Error, StdoutLock, Write, stdout},
-    process::{Command, ExitCode, Output},
+    process::{Command, Output, exit},
     result::{
         Result,
         Result::{Err, Ok},
@@ -8,7 +8,7 @@ use std::{
 };
 
 // Snap Refresh
-pub fn refresh_snap() -> ExitCode {
+pub fn refresh_snap() -> () {
     let snap_refresh: Result<Output, Error> = Command::new("snap").arg("refresh").output();
     let mut standard_output: StdoutLock = stdout().lock();
 
@@ -19,9 +19,9 @@ pub fn refresh_snap() -> ExitCode {
         }
         Err(error) => {
             eprintln!("Error Executing Snap Refresh: {}", error);
-            return ExitCode::FAILURE;
+            exit(1);
         }
     };
 
-    return ExitCode::SUCCESS;
+    return ();
 }

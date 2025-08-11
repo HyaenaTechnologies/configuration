@@ -1,6 +1,6 @@
 use std::{
     io::{Error, StdoutLock, Write, stdout},
-    process::{Command, ExitCode, Output},
+    process::{Command, Output, exit},
     result::{
         Result,
         Result::{Err, Ok},
@@ -8,7 +8,7 @@ use std::{
 };
 
 // DNF System Release Upgrade
-pub fn release_dnf() -> ExitCode {
+pub fn release_dnf() -> () {
     let dnf_release: Result<Output, Error> = Command::new("dnf")
         .arg("system-upgrade")
         .arg("download")
@@ -23,9 +23,9 @@ pub fn release_dnf() -> ExitCode {
         }
         Err(error) => {
             eprintln!("Error Executing DNF System Release Upgrade: {}", error);
-            return ExitCode::FAILURE;
+            exit(1);
         }
     };
 
-    return ExitCode::SUCCESS;
+    return ();
 }
