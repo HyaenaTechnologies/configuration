@@ -16,6 +16,8 @@
 - https://github.com/topics/data-structure
 - https://github.com/topics/data-structures
 - https://github.com/topics/espressif
+- https://github.com/topics/event
+- https://github.com/topics/glsl
 - https://github.com/topics/go
 - https://github.com/topics/interpreter
 - https://github.com/topics/json
@@ -25,12 +27,20 @@
 - https://github.com/topics/parser
 - https://github.com/topics/programming-language
 - https://github.com/topics/odin
+- https://github.com/topics/orchestrator
+- https://github.com/topics/orchestration
 - https://github.com/topics/raspberry-pi
+- https://github.com/topics/renderer
 - https://github.com/topics/rust
+- https://github.com/topics/scheduler
+- https://github.com/topics/scheduling
 - https://github.com/topics/serialization
 - https://github.com/topics/syntax-tree
+- https://github.com/topics/task
 - https://github.com/topics/tokenizer
 - https://github.com/topics/toml
+- https://github.com/topics/vulkan
+- https://github.com/topics/workflow
 - https://github.com/topics/yaml
 - https://github.com/topics/zig
 
