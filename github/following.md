@@ -46,7 +46,6 @@
 - https://github.com/microsoft
 - https://github.com/webmproject
 - https://github.com/neovim
-- https://github.com/grafana
 - https://github.com/mdn
 - https://github.com/docker-library
 - https://github.com/SELinuxProject
@@ -128,6 +127,7 @@
 - https://github.com/lima-vm
 - https://github.com/devcontainers
 - https://github.com/GreptimeTeam
+- https://github.com/jqlang
 - https://github.com/dragonflydb
 - https://github.com/tigerbeetle
 - https://github.com/tukaani-project
