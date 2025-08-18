@@ -15,7 +15,7 @@ pub fn upgrade_dnf() -> () {
     match dnf_upgrade {
         Ok(upgrade) => {
             standard_output.write_all(&upgrade.stdout).unwrap();
-            writeln!(standard_output, "Status: {}", upgrade.status).unwrap();
+            writeln!(standard_output, "{}", upgrade.status).unwrap();
         }
         Err(error) => {
             eprintln!("Error Executing DNF Upgrade: {}", error);

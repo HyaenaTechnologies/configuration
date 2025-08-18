@@ -17,7 +17,7 @@ pub fn upgrade_apt() -> () {
     match apt_update {
         Ok(update) => {
             standard_output.write_all(&update.stdout).unwrap();
-            writeln!(standard_output, "Status: {}", update.status).unwrap();
+            writeln!(standard_output, "{}", update.status).unwrap();
         }
         Err(error) => {
             eprintln!("Error Executing APT Update: {}", error);
@@ -28,7 +28,7 @@ pub fn upgrade_apt() -> () {
     match apt_upgrade {
         Ok(upgrade) => {
             standard_output.write_all(&upgrade.stdout).unwrap();
-            writeln!(standard_output, "Status: {}", upgrade.status).unwrap();
+            writeln!(standard_output, "{}", upgrade.status).unwrap();
         }
         Err(error) => {
             eprint!("Error Executing APT Upgrade: {}", error);
