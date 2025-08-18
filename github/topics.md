@@ -16,11 +16,12 @@
 - https://github.com/topics/csv
 - https://github.com/topics/database
 - https://github.com/topics/data-structures
-- https://github.com/topics/design
+- https://github.com/topics/design-system
 - https://github.com/topics/dhcp
 - https://github.com/topics/dns
 - https://github.com/topics/espressif
 - https://github.com/topics/event
+- https://github.com/topics/file-system
 - https://github.com/topics/glsl
 - https://github.com/topics/go
 - https://github.com/topics/harfbuzz
@@ -39,6 +40,7 @@
 - https://github.com/topics/nat
 - https://github.com/topics/odin
 - https://github.com/topics/opengl
+- https://github.com/topics/operating-system
 - https://github.com/topics/orchestrator
 - https://github.com/topics/parser
 - https://github.com/topics/png
