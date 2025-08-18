@@ -1,6 +1,8 @@
 # Topics
 
 - https://github.com/topics/algorithms
+- https://github.com/topics/authentication
+- https://github.com/topics/authorization
 - https://github.com/topics/arduino
 - https://github.com/topics/abstract-syntax-tree
 - https://github.com/topics/ast
@@ -12,6 +14,7 @@
 - https://github.com/topics/carbon
 - https://github.com/topics/comma-separated-values
 - https://github.com/topics/compiler
+- https://github.com/topics/container
 - https://github.com/topics/cryptography
 - https://github.com/topics/csv
 - https://github.com/topics/database
@@ -19,9 +22,12 @@
 - https://github.com/topics/design-system
 - https://github.com/topics/dhcp
 - https://github.com/topics/dns
+- https://github.com/topics/editor
 - https://github.com/topics/espressif
 - https://github.com/topics/event
+- https://github.com/topics/file-manager
 - https://github.com/topics/file-system
+- https://github.com/topics/graph
 - https://github.com/topics/glsl
 - https://github.com/topics/go
 - https://github.com/topics/harfbuzz
@@ -34,10 +40,12 @@
 - https://github.com/topics/jwt
 - https://github.com/topics/language
 - https://github.com/topics/lexer
+- https://github.com/topics/linux
 - https://github.com/topics/load-balancer
 - https://github.com/topics/markdown
 - https://github.com/topics/mathml
 - https://github.com/topics/nat
+- https://github.com/topics/object-storage
 - https://github.com/topics/odin
 - https://github.com/topics/opengl
 - https://github.com/topics/operating-system
@@ -45,14 +53,15 @@
 - https://github.com/topics/parser
 - https://github.com/topics/png
 - https://github.com/topics/programming-language
-- https://github.com/topics/queue
 - https://github.com/topics/raspberry-pi
+- https://github.com/topics/relational
 - https://github.com/topics/renderer
 - https://github.com/topics/router
 - https://github.com/topics/rust
 - https://github.com/topics/saml
 - https://github.com/topics/scanner
 - https://github.com/topics/scheduler
+- https://github.com/topics/secret-management
 - https://github.com/topics/serialization
 - https://github.com/topics/smtp
 - https://github.com/topics/ssh
@@ -61,9 +70,12 @@
 - https://github.com/topics/system-design
 - https://github.com/topics/tcp
 - https://github.com/topics/task
+- https://github.com/topics/text-editor
+- https://github.com/topics/time-series
 - https://github.com/topics/tls
 - https://github.com/topics/tokenizer
 - https://github.com/topics/toml
+- https://github.com/topics/transactional
 - https://github.com/topics/typography
 - https://github.com/topics/udp
 - https://github.com/topics/unicode
