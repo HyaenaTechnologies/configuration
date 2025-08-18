@@ -5,7 +5,6 @@
 - https://github.com/HyaenaTechnologies/configuration
 - https://github.com/HyaenaTechnologies/data-interchange
 - https://github.com/HyaenaTechnologies/electronic-mail
-- https://github.com/HyaenaTechnologies/glsl-design
 - https://github.com/HyaenaTechnologies/hyaena-technologies-web
 - https://github.com/HyaenaTechnologies/specification
 - https://github.com/HyaenaTechnologies/task-orchestration

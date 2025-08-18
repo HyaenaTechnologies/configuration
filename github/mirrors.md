@@ -5,7 +5,6 @@
 - https://codeberg.org/HyaenaTechnologiesCompany/configuration
 - https://codeberg.org/HyaenaTechnologiesCompany/data-interchange
 - https://codeberg.org/HyaenaTechnologiesCompany/electronic-mail
-- https://codeberg.org/HyaenaTechnologiesCompany/glsl-design
 - https://codeberg.org/HyaenaTechnologiesCompany/hyaena-technologies-web
 - https://codeberg.org/HyaenaTechnologiesCompany/specification
 - https://codeberg.org/HyaenaTechnologiesCompany/task-orchestration
