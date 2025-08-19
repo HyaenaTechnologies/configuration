@@ -27,6 +27,7 @@
 - https://github.com/topics/event
 - https://github.com/topics/file-manager
 - https://github.com/topics/file-system
+- https://github.com/topics/git
 - https://github.com/topics/graph
 - https://github.com/topics/glsl
 - https://github.com/topics/go
@@ -53,6 +54,7 @@
 - https://github.com/topics/parser
 - https://github.com/topics/png
 - https://github.com/topics/programming-language
+- https://github.com/topics/proxy
 - https://github.com/topics/raspberry-pi
 - https://github.com/topics/relational
 - https://github.com/topics/renderer
