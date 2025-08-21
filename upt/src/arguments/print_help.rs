@@ -16,14 +16,18 @@ pub fn print_help_message() -> () {
     )
     .unwrap();
     writeln!(standard_output, "dnf-upgrade\t\t DNF Upgrade").unwrap();
-    writeln!(standard_output, "help\t\t Print List of Commands and Flags").unwrap();
+    writeln!(
+        standard_output,
+        "help\t\t\t Print List of Commands and Flags"
+    )
+    .unwrap();
     writeln!(standard_output, "snap-refresh\t\t Snap Refresh").unwrap();
     writeln!(
         standard_output,
         "ubuntu-release\t\t Ubuntu System Releade Upgrade"
     )
     .unwrap();
-    writeln!(standard_output, "version\t\t Print Version Number").unwrap();
+    writeln!(standard_output, "version\t\t\t Print Version Number").unwrap();
     writeln!(standard_output, "").unwrap();
     writeln!(standard_output, "Flags:\t\t Description:").unwrap();
     writeln!(standard_output, "").unwrap();
