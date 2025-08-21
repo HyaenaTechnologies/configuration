@@ -14,7 +14,7 @@ pub fn print_version_number() -> () {
     writeln!(standard_output, "Systsem Update Tool").unwrap();
     writeln!(standard_output, "").unwrap();
     writeln!(standard_output, "").unwrap();
-    writeln!(standard_output, "Version Number:		{}", version_number).unwrap();
+    writeln!(standard_output, "Version Number:\t\t {}", version_number).unwrap();
 
     return ();
 }
