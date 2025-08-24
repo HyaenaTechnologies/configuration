@@ -25,6 +25,7 @@
 - https://github.com/GNOME
 - https://github.com/Debian
 - https://github.com/systemd
+- https://github.com/qemu
 - https://github.com/whatwg
 - https://github.com/openssh
 - https://github.com/system76
@@ -95,6 +96,7 @@
 - https://github.com/envoyproxy
 - https://github.com/notaryproject
 - https://github.com/kata-containers
+- https://github.com/harfbuzz
 - https://github.com/odin-lang
 - https://github.com/knative
 - https://github.com/kubernetes-sigs
