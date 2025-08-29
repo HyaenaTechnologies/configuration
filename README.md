@@ -22,7 +22,6 @@
 [Moby]: http://docker.com
 [NVIM]: https://neovim.io/
 [Odin Language]: https://odin-lang.org/
-[Ory Identity]: https://www.ory.sh/
 [Postgres Database]: https://www.postgresql.org/
 [Prometheus Database]: https://prometheus.io/
 [Raspberry Micro]: https://www.raspberrypi.com/
@@ -37,15 +36,12 @@
 [Victoria Database]: https://victoriametrics.com/
 [VSCode]: https://code.visualstudio.com/
 [Zig Language]: https://ziglang.org/
-[Zitadel Identity]: https://zitadel.com/
 
 # Configuration
 
 Development Environment Configuration
 
 ## Development Environment
-
-- **_Authentication:_** [Ory][Ory Identity], [Zitadel][Zitadel Identity]
 
 - **_Containerization Tools:_** [Docker][Moby], [Knative][K8S Native], [Kompose][K8S Kompose], [KOps][K8S Ops], [Kubectl][K8S Control], [Minikube][K8S Kube], [Podman][Containerman], [Skaffold][K8S Skaffold]
 
