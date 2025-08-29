@@ -81,6 +81,8 @@
 - https://github.com/topics/scheduler
 - https://github.com/topics/secret-management
 - https://github.com/topics/serialization
+- https://github.com/topics/shell
+- https://github.com/topics/shell-script
 - https://github.com/topics/smtp
 - https://github.com/topics/ssh
 - https://github.com/topics/svg

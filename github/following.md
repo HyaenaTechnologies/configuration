@@ -86,7 +86,6 @@
 - https://github.com/git-lfs
 - https://github.com/hetznercloud
 - https://github.com/RustCrypto
-- https://github.com/ory
 - https://github.com/abseil
 - https://github.com/linuxkit
 - https://github.com/moby
@@ -121,7 +120,6 @@
 - https://github.com/rustls
 - https://github.com/zigtools
 - https://github.com/helix-editor
-- https://github.com/zitadel
 - https://github.com/advanced-security
 - https://github.com/authzed
 - https://github.com/distribution
