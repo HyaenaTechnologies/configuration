@@ -29,7 +29,6 @@
 [RPM RHEL]: http://developers.redhat.com/
 [Rust Language]: https://rust-lang.org/
 [SeaweedFS Database]: https://seaweedfs.com/
-[Spice Database]: https://authzed.com/
 [Surreal Database]: https://surrealdb.com/
 [TigerBeetle Database]: https://tigerbeetle.com/ 
 [Vault]: https://www.hashicorp.com/en/products/vault 
@@ -58,8 +57,6 @@ Development Environment Configuration
 - **_Version Control Systems:_** [Git][Git Repositories]
 
 ## Databases
-
-- **_Authorization:_** [Spice][Spice Database]
 
 - **_Graph:_** [Surreal][Surreal Database]
 
