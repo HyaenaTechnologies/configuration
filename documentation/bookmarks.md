@@ -13,7 +13,6 @@
 - https://ziglang.org/learn/
 - https://www.typescriptlang.org/docs/
 - https://developer.mozilla.org/en-US/docs/Web
-- https://docs.deno.com/runtime/
 - https://toml.io/en/
 - https://yaml.org/
 - https://json.org/json-en.html
@@ -33,9 +32,6 @@
 - https://datatracker.ietf.org/
 - https://w3.org/TR/
 - https://vulkan.org/learn
-- https://docs.podman.io/en/latest/
-- https://docs.docker.com/
-- https://kubernetes.io/docs/home/
 - https://docs.helix-editor.com/
 - https://neovim.io/doc/
 - https://code.visualstudio.com/docs
