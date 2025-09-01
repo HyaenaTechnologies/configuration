@@ -3,9 +3,7 @@
 # User specific environment
 export PATH=$PATH:/usr/bin
 export PATH=$PATH:/usr/bin/arduino
-export PATH=$PATH:/usr/bin/bun
 export PATH=$PATH:/usr/bin/c3
-export PATH=$PATH:/usr/bin/deno
 export PATH=$PATH:/usr/bin/container-initiative
 export PATH=$PATH:/usr/bin/go/bin
 export PATH=$PATH:/usr/bin/go/pkg/tool/bin
