@@ -13,6 +13,7 @@
 - https://github.com/minio
 - https://github.com/FFmpeg
 - https://github.com/hashicorp
+- https://github.com/libevent
 - https://github.com/torvalds
 - https://github.com/arduino-libraries
 - https://github.com/raspberrypi
@@ -103,6 +104,7 @@
 - https://github.com/rustwasm
 - https://github.com/GoogleContainerTools
 - https://github.com/cert-manager
+- https://github.com/denoland
 - https://github.com/VictoriaMetrics
 - https://github.com/actions
 - https://github.com/firecracker-microvm
@@ -121,7 +123,6 @@
 - https://github.com/zigtools
 - https://github.com/helix-editor
 - https://github.com/advanced-security
-- https://github.com/authzed
 - https://github.com/distribution
 - https://github.com/plan9foundation
 - https://github.com/lima-vm
@@ -129,6 +130,7 @@
 - https://github.com/GreptimeTeam
 - https://github.com/jqlang
 - https://github.com/dragonflydb
+- https://github.com/oven-sh
 - https://github.com/tigerbeetle
 - https://github.com/tukaani-project
 - https://github.com/pendulum-project

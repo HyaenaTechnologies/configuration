@@ -1,10 +1,12 @@
 # Stars
 
 - https://github.com/ziglang/zig
-- https://github.com/rust-lang/rust
 - https://github.com/carbon-language/carbon-lang
+- https://github.com/rust-lang/rust
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
+- https://github.com/denoland/deno
+- https://github.com/oven-sh/bun
 - https://github.com/redox-os/kernel
 - https://github.com/tukaani-project/xz
 - https://github.com/nih-at/libzip
@@ -64,7 +66,7 @@
 - https://github.com/rust-cli/config-rs
 - https://github.com/aws/s2n-quic
 - https://github.com/microsoft/windows-rs
-- https://github.com/rustwasm/wasm-bindgen
+- https://github.com/wasm-bindgen/wasm-bindgen
 - https://github.com/rust-lang/futures-rs
 - https://github.com/rust-lang/docs.rs
 - https://github.com/rust-lang/rustup

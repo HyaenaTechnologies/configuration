@@ -12,6 +12,8 @@
 - https://crates.io/crates
 - https://ziglang.org/learn/
 - https://developer.mozilla.org/en-US/docs/Web
+- https://docs.deno.com/runtime/
+- https://bun.com/docs/
 - https://toml.io/en/
 - https://yaml.org/
 - https://json.org/json-en.html
