@@ -28,8 +28,7 @@
 [Rust Language]: https://rust-lang.org/
 [SeaweedFS Database]: https://seaweedfs.com/
 [Surreal Database]: https://surrealdb.com/
-[TigerBeetle Database]: https://tigerbeetle.com/ 
-[Vault]: https://www.hashicorp.com/en/products/vault 
+[TigerBeetle Database]: https://tigerbeetle.com/
 [Victoria Database]: https://victoriametrics.com/
 [VSCode]: https://code.visualstudio.com/
 
@@ -48,8 +47,6 @@ Development Environment Configuration
 - **_Programming Languages:_** [C][C Language], [C++][CC Language], [Go][Go Language], [Rust][Rust Language]
 
 - **_Operating Systems:_** [Fedora][RPM Fedora]: -> [Red Hat Enterprise Linux][RPM RHEL] || [Ubuntu][APT Ubuntu] <- :[Debian][APT Debian]
-
-- **_Secret Management:_** [HashiCorp Vault][Vault]
 
 - **_Version Control Systems:_** [Git][Git Repositories]
 
