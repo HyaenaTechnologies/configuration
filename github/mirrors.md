@@ -5,6 +5,7 @@
 - https://codeberg.org/HyaenaTechnologiesCompany/configuration
 - https://codeberg.org/HyaenaTechnologiesCompany/data-interchange
 - https://codeberg.org/HyaenaTechnologiesCompany/electronic-mail
+- https://codeberg.org/HyaenaTechnologiesCompany/http-proxy
 - https://codeberg.org/HyaenaTechnologiesCompany/hyaena-technologies-web
 - https://codeberg.org/HyaenaTechnologiesCompany/specification
 - https://codeberg.org/HyaenaTechnologiesCompany/task-orchestration

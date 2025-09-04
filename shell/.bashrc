@@ -3,7 +3,6 @@
 # User specific environment
 export PATH=$PATH:/usr/bin
 export PATH=$PATH:/usr/bin/arduino
-export PATH=$PATH:/usr/bin/c3
 export PATH=$PATH:/usr/bin/container-initiative
 export PATH=$PATH:/usr/bin/go/bin
 export PATH=$PATH:/usr/bin/go/pkg/tool/bin
@@ -11,9 +10,7 @@ export PATH=$PATH:/usr/bin/helix
 export PATH=$PATH:/usr/bin/hyaena-technologies
 export PATH=$PATH:/usr/bin/hyaena-database
 export PATH=$PATH:/usr/bin/nvim/bin
-export PATH=$PATH:/usr/bin/odin
 export PATH=$PATH:/usr/bin/typescript
-export PATH=$PATH:/usr/bin/zig
 export PATH=$PATH:/usr/include
 export PATH=$PATH:/usr/lib
 export PATH=$PATH:/usr/local/bin
@@ -22,7 +19,7 @@ export PATH=$PATH:/usr/local/lib
 export PATH=$PATH:~/.cargo/bin
 export PATH=$PATH:~/arduino-ide
 export PATH=$PATH:~/blender
-export PATH=$PATH:~/podman-desktop
+export PATH=$PATH:~/podman
 export PATH=$PATH:~/VSCode
 
 # We use PROMPT_COMMAND and the DEBUG trap to generate timing information. We try

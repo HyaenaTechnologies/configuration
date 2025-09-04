@@ -81,10 +81,6 @@
 	"rust-analyzer.testExplorer": true,
 	"security.workspace.trust.startupPrompt": "always",
 	"telemetry.feedback.enabled": false,
-	"telemetry.telemetryLevel": "off",
-	"vscode-kubernetes.kubectl-path": "/usr/bin/hyaena-technologies/kubectl",
-	"vscode-kubernetes.minikube-path": "/usr/bin/hyaena-technologies/minikube",
-	"zig.path": "/usr/bin/zig/zig",
-	"zig.zls.path": "/usr/bin/zig/zls"
+	"telemetry.telemetryLevel": "off"
 }
 

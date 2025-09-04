@@ -23,10 +23,6 @@ rustup target add aarch64-pc-windows-msvc x86_64-pc-windows-msvc
 # Install Go Language
 wget https://go.dev/dl/go1.24.4.linux-amd64.tar.gz --verbose && tar --extract --file ./*.gz --verbose
 sudo install ./go /usr/local/bin/
-# Install Zig Language
-wget https://ziglang.org/download/0.14.1/zig-x86_64-linux-0.14.1.tar.xz --verbose && tar --extract --file ./*.xz --verbose
-mv ./zig-x86_64-linux-0.14.1 ./zig
-sudo install ./zig /usr/local/bin/
 # Install Docker
 # Add Docker's official GPG key:
 sudo apt -y update
@@ -61,25 +57,6 @@ sudo apt -y install libusb-dev libhidapi-dev
 sudo apt -y install libfilament-dev libfilament-tools
 # Install Mesa 3D Rendering Library
 sudo apy -y install mesa-vulkan-drivers mesa-vdpau-drivers mesa-va-drivers mesa-utils-bin mesa-utils mesa-libgallium mesa-common-dev mesa-drm-shim mesa-opencl-icd
-# Install Kubectl
-wget https://dl.k8s.io/release/v1.33.0/bin/linux/amd64/kubectl --verbose
-sudo install ./kubectl /usr/local/bin/
-# Install Kops
-curl -Lo kops https://github.com/kubernetes/kops/releases/download/$(curl -s https://api.github.com/repos/kubernetes/kops/releases/latest | grep tag_name | cut -d '"' -f 4)/kops-linux-amd64
-chmod +x kops
-sudo install ./kops /usr/local/bin/
-# Install Minikube
-wget https://storage.googleapis.com/minikube/releases/latest/minikube_latest_amd64.deb --verbose
-sudo apt -y install minikube_latest_amd64.deb
-rm ./minikube_latest_amd64.deb
-# Install Kompose
-wget https://github.com/kubernetes/kompose/releases/download/v1.36.0/kompose-linux-amd64 --verbose
-mv ./kompose-linux-amd64 ./kompose
-sudo install ./kompose /usr/local/bin/ 
-# Install Skaffold
-wget https://storage.googleapis.com/skaffold/releases/latest/skaffold-linux-amd64 --verbose
-mv ./skaffold-linux-amd64 ./skaffold
-sudo install ./skaffold /usr/local/bin/
 # Install Brave Browser
 sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
 echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg] https://brave-browser-apt-release.s3.brave.com/ stable main"|sudo tee /etc/apt/sources.list.d/brave-browser-release.list

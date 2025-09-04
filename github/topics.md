@@ -16,9 +16,7 @@
 - https://github.com/topics/bgp
 - https://github.com/topics/c
 - https://github.com/topics/c%2B%2B
-- https://github.com/topics/c3
 - https://github.com/topics/cache
-- https://github.com/topics/carbon
 - https://github.com/topics/comma-separated-values
 - https://github.com/topics/compiler
 - https://github.com/topics/container
@@ -63,7 +61,6 @@
 - https://github.com/topics/mov
 - https://github.com/topics/nat
 - https://github.com/topics/object-storage
-- https://github.com/topics/odin
 - https://github.com/topics/opengl
 - https://github.com/topics/operating-system
 - https://github.com/topics/orchestrator
@@ -126,5 +123,4 @@
 - https://github.com/topics/x86-64
 - https://github.com/topics/xacml
 - https://github.com/topics/yaml
-- https://github.com/topics/zig
 

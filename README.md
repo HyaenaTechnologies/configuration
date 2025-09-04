@@ -3,7 +3,6 @@
 [Arduino Micro]: https://arduino.cc/
 [C Language]: https://learn.microsoft.com/en-us/cpp/c-language/
 [CC Language]: https://learn.microsoft.com/en-us/cpp/cpp/
-[C3 Language]: https://c3-lang.org
 [Containerman]: https://podman.io/
 [Dragonfly Database]: https://www.dragonflydb.io/
 [Espressif]: https://www.espressif.com/
@@ -21,7 +20,6 @@
 [Minio Database]: https://min.io/
 [Moby]: http://docker.com
 [NVIM]: https://neovim.io/
-[Odin Language]: https://odin-lang.org/
 [Postgres Database]: https://www.postgresql.org/
 [Prometheus Database]: https://prometheus.io/
 [Raspberry Micro]: https://www.raspberrypi.com/
@@ -34,7 +32,6 @@
 [Vault]: https://www.hashicorp.com/en/products/vault 
 [Victoria Database]: https://victoriametrics.com/
 [VSCode]: https://code.visualstudio.com/
-[Zig Language]: https://ziglang.org/
 
 # Configuration
 
@@ -48,7 +45,7 @@ Development Environment Configuration
 
 - **_Microcontrollers:_** [Arduino][Arduino Micro], [Espressif Systems][Espressif], [Raspberry Pi][Raspberry Micro]
 
-- **_Programming Languages:_** [C][C Language], [C++][CC Language], [C3][C3 Language], [Go][Go Language], [Odin][Odin Language], [Rust][Rust Language], [Zig][Zig Language]
+- **_Programming Languages:_** [C][C Language], [C++][CC Language], [Go][Go Language], [Rust][Rust Language]
 
 - **_Operating Systems:_** [Fedora][RPM Fedora]: -> [Red Hat Enterprise Linux][RPM RHEL] || [Ubuntu][APT Ubuntu] <- :[Debian][APT Debian]
 

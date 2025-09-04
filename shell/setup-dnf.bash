@@ -5,7 +5,7 @@ sudo dnf -y upgrade
 # Install Utilities
 sudo dnf -y install ssh dnf-utils dnf-plugins-core curl openssl openssl-devel ufw iptables firewalld nftables
 curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.rpm.sh | sudo bash
-sudo dnf -y install autoconf automake gcc gdb llvm clang lldb lld make cmake ninja zig zsh tree git git-lfs rsync librsync
+sudo dnf -y install autoconf automake gcc gdb llvm clang lldb lld make cmake ninja zsh tree git git-lfs rsync librsync
 sudo dnf -y install ed sed nano podman neovim helix openssh ffmpeg imagemagick
 # Install Rust
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
@@ -33,25 +33,6 @@ sudo dnf -y install libwebp libwebp-tools
 sudo dnf -y install libusb-dev libhidapi-dev
 # Install Mesa 3D Rendering Library
 sudo dnf -y install mesa-dri-drivers mesa-filesystem mesa-va-drivers mesa-vdpau-drivers mesa-vulkan-drivers
-# Install Kubectl
-wget https://dl.k8s.io/release/v1.33.0/bin/linux/amd64/kubectl --verbose
-sudo install ./kubectl /usr/local/bin/
-# Install Kops
-curl -Lo kops https://github.com/kubernetes/kops/releases/download/$(curl -s https://api.github.com/repos/kubernetes/kops/releases/latest | grep tag_name | cut -d '"' -f 4)/kops-linux-amd64
-chmod +x kops
-sudo install ./kops /usr/local/bin/
-# Install Minikube
-wget https://storage.googleapis.com/minikube/releases/latest/minikube-latest.x86_64.rpm --verbose
-sudo dnf -y install ./minikube-latest.x86_64.rpm
-rm ./minikube-latest.x86_64.rpm
-# Install Kompose
-wget https://github.com/kubernetes/kompose/releases/download/v1.36.0/kompose-linux-amd64 --verbose
-mv ./kompose-linux-amd64 ./kompose
-sudo install ./kompose /usr/local/bin/
-# Install Skaffold
-wget https://storage.googleapis.com/skaffold/releases/latest/skaffold-linux-amd64 --verbose
-mv ./skaffold-linux-amd64 ./skaffold
-sudo install ./skaffold /usr/local/bin/
 # Install Brave Browser
 sudo dnf-3 config-manager --add-repo https://brave-browser-rpm-release.s3.brave.com/brave-browser.repo
 sudo dnf -y install brave-browser
