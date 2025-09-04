@@ -1,7 +1,6 @@
 # Repositories
 
 - https://github.com/HyaenaTechnologies/authentication-authorization
-- https://github.com/HyaenaTechnologies/calculate-engine
 - https://github.com/HyaenaTechnologies/configuration
 - https://github.com/HyaenaTechnologies/data-interchange
 - https://github.com/HyaenaTechnologies/electronic-mail

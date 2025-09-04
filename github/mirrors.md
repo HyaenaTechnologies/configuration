@@ -1,7 +1,6 @@
 # Mirrors
 
 - https://codeberg.org/HyaenaTechnologiesCompany/authentication-authorization
-- https://codeberg.org/HyaenaTechnologiesCompany/calculate-engine
 - https://codeberg.org/HyaenaTechnologiesCompany/configuration
 - https://codeberg.org/HyaenaTechnologiesCompany/data-interchange
 - https://codeberg.org/HyaenaTechnologiesCompany/electronic-mail
