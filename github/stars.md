@@ -14,7 +14,6 @@
 - https://github.com/pendulum-project/ntpd-rs
 - https://github.com/pciutils/pciutils
 - https://github.com/rust-lang/flate2-rs
-- https://github.com/trifectatechfoundation/zlib-rs
 - https://github.com/rust-lang/git2-rs
 - https://github.com/rust-cli/proc-exit
 - https://github.com/rust-cli/argfile
@@ -51,7 +50,6 @@
 - https://github.com/rust-embedded/svd2rust
 - https://github.com/rust-embedded/svd
 - https://github.com/rust-embedded/cortex-ar
-- https://github.com/cloudflare/quiche
 - https://github.com/rust-cli/rexpect
 - https://github.com/rust-embedded/embedded-alloc
 - https://github.com/rust-embedded/heapless
@@ -62,9 +60,7 @@
 - https://github.com/rust-embedded/riscv
 - https://github.com/rust-cli/termtree
 - https://github.com/rust-cli/config-rs
-- https://github.com/aws/s2n-quic
 - https://github.com/microsoft/windows-rs
-- https://github.com/wasm-bindgen/wasm-bindgen
 - https://github.com/rust-lang/futures-rs
 - https://github.com/rust-lang/docs.rs
 - https://github.com/rust-lang/rustup

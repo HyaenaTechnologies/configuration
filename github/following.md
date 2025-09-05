@@ -12,8 +12,6 @@
 - https://github.com/w3c
 - https://github.com/minio
 - https://github.com/FFmpeg
-- https://github.com/hashicorp
-- https://github.com/libevent
 - https://github.com/torvalds
 - https://github.com/arduino-libraries
 - https://github.com/raspberrypi

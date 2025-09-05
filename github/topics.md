@@ -19,7 +19,6 @@
 - https://github.com/topics/cache
 - https://github.com/topics/comma-separated-values
 - https://github.com/topics/compiler
-- https://github.com/topics/container
 - https://github.com/topics/cryptography
 - https://github.com/topics/csv
 - https://github.com/topics/database
@@ -27,6 +26,7 @@
 - https://github.com/topics/design-system
 - https://github.com/topics/dhcp
 - https://github.com/topics/dns
+- https://github.com/topics/docker
 - https://github.com/topics/editor
 - https://github.com/topics/espressif
 - https://github.com/topics/event
@@ -48,6 +48,7 @@
 - https://github.com/topics/json
 - https://github.com/topics/jwt
 - https://github.com/topics/key-value
+- https://github.com/topics/kubernetes
 - https://github.com/topics/language
 - https://github.com/topics/lexer
 - https://github.com/topics/linux
@@ -68,6 +69,7 @@
 - https://github.com/topics/parser
 - https://github.com/topics/pcm
 - https://github.com/topics/png
+- https://github.com/topics/podman
 - https://github.com/topics/programming-language
 - https://github.com/topics/queue
 - https://github.com/topics/raspberry-pi
@@ -76,7 +78,6 @@
 - https://github.com/topics/renderer
 - https://github.com/topics/router
 - https://github.com/topics/rust
-- https://github.com/topics/saml
 - https://github.com/topics/scanner
 - https://github.com/topics/scheduler
 - https://github.com/topics/secret-management
@@ -105,6 +106,7 @@
 - https://github.com/topics/unicode
 - https://github.com/topics/uri
 - https://github.com/topics/url
+- https://github.com/topics/virtual-machine
 - https://github.com/topics/vulkan
 - https://github.com/topics/wasm
 - https://github.com/topics/wav
@@ -121,6 +123,5 @@
 - https://github.com/topics/workflow
 - https://github.com/topics/x86
 - https://github.com/topics/x86-64
-- https://github.com/topics/xacml
 - https://github.com/topics/yaml
 
