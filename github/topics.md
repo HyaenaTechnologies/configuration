@@ -17,7 +17,6 @@
 - https://github.com/topics/c
 - https://github.com/topics/c%2B%2B
 - https://github.com/topics/cache
-- https://github.com/topics/comma-separated-values
 - https://github.com/topics/compiler
 - https://github.com/topics/cryptography
 - https://github.com/topics/csv
@@ -37,7 +36,6 @@
 - https://github.com/topics/graph
 - https://github.com/topics/glsl
 - https://github.com/topics/go
-- https://github.com/topics/harfbuzz
 - https://github.com/topics/http
 - https://github.com/topics/http-proxy
 - https://github.com/topics/imap
@@ -54,7 +52,6 @@
 - https://github.com/topics/linux
 - https://github.com/topics/load-balancer
 - https://github.com/topics/markdown
-- https://github.com/topics/mathml
 - https://github.com/topics/midi
 - https://github.com/topics/mp3
 - https://github.com/topics/mp4
@@ -65,7 +62,6 @@
 - https://github.com/topics/opengl
 - https://github.com/topics/operating-system
 - https://github.com/topics/orchestrator
-- https://github.com/topics/orchestration
 - https://github.com/topics/parser
 - https://github.com/topics/pcm
 - https://github.com/topics/png
