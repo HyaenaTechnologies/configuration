@@ -1,0 +1,208 @@
+"flagCode","country","InternetUsers"
+"TV","Tuvalu",7106
+"NR","Nauru",9910
+"PW","Palau",10200
+"AI","Anguilla",12000
+"MH","Marshall Islands",24300
+"SM","San Marino",29200
+"VG","British Virgin Islands",30800
+"KN","Saint Kitts and Nevis",35800
+"GI","Gibraltar",37500
+"MC","Monaco",38100
+"GL","Greenland",38800
+"LI","Liechtenstein",38900
+"FO","Faroe Islands",54400
+"DM","Dominica",55400
+"TO","Tonga",60800
+"KY","Cayman Islands",60900
+"VI","United States Virgin Islands",61200
+"BM","Bermuda",63500
+"AG","Antigua and Barbuda",72900
+"VC","Saint Vincent and the Grenadines",76200
+"AD","Andorra",78700
+"KI","Kiribati",79300
+"GD","Grenada",86900
+"AW","Aruba",105000
+"SC","Seychelles",115000
+"CW","Curacao",126000
+"LC","Saint Lucia",126000
+"WS","Samoa",127000
+"GU","Guam",136000
+"ST","Sao Tome and Principe",146000
+"VU","Vanuatu",151000
+"PF","French Polynesia",205000
+"BB","Barbados",226000
+"NC","New Caledonia",241000
+"BZ","Belize",304000
+"KM","Comoros",312000
+"SB","Solomon Islands",352000
+"BS","Bahamas",381000
+"CV","Cape Verde",387000
+"IS","Iceland",392000
+"BN","Brunei",460000
+"TL","Timor-Leste",486000
+"SR","Suriname",500000
+"MT","Malta",508000
+"ME","Montenegro",572000
+"MO","Macau",648000
+"LU","Luxembourg",669000
+"GY","Guyana",681000
+"BT","Bhutan",702000
+"ER","Eritrea",714000
+"SZ","Eswatini",720000
+"FJ","Fiji",739000
+"DJ","Djibouti",765000
+"CF","Central African Republic",839000
+"MU","Mauritius",1010000
+"LS","Lesotho",1130000
+"GQ","Equatorial Guinea",1160000
+"EE","Estonia",1260000
+"GM","Gambia",1280000
+"TT","Trinidad and Tobago",1280000
+"CY","Cyprus",1290000
+"BH","Bahrain",1610000
+"MK","North Macedonia",1670000
+"LV","Latvia",1750000
+"BI","Burundi",1780000
+"SL","Sierra Leone",1800000
+"LR","Liberia",1840000
+"GA","Gabon",1840000
+"SS","South Sudan",1900000
+"SI","Slovenia",1940000
+"MR","Mauritania",1960000
+"NA","Namibia",1970000
+"BW","Botswana",2070000
+"AM","Armenia",2370000
+"JM","Jamaica",2370000
+"AL","Albania",2380000
+"MD","Moldova",2420000
+"CG","Republic of the Congo",2460000
+"LT","Lithuania",2550000
+"PG","Papua New Guinea",2570000
+"TM","Turkmenistan",2640000
+"BA","Bosnia and Herzegovina",2730000
+"TD","Chad",2740000
+"PR","Puerto Rico",2830000
+"MN","Mongolia",2900000
+"QA","Qatar",3050000
+"GE","Georgia",3120000
+"UY","Uruguay",3150000
+"HR","Croatia",3270000
+"PA","Panama",3540000
+"TG","Togo",3560000
+"MW","Malawi",3950000
+"GN","Guinea",3960000
+"NI","Nicaragua",4470000
+"HT","Haiti",4650000
+"BJ","Benin",4710000
+"CR","Costa Rica",4760000
+"PS","Palestine",4800000
+"SV","El Salvador",4880000
+"RW","Rwanda",4930000
+"KW","Kuwait",4940000
+"LA","Laos",4970000
+"NZ","New Zealand",5030000
+"SK","Slovakia",5050000
+"OM","Oman",5140000
+"IE","Ireland",5220000
+"LB","Lebanon",5340000
+"FI","Finland",5520000
+"NO","Norway",5550000
+"SG","Singapore",5610000
+"BF","Burkina Faso",5750000
+"PY","Paraguay",5780000
+"BG","Bulgaria",5860000
+"DK","Denmark",5930000
+"TJ","Tajikistan",6070000
+"RS","Serbia",6160000
+"NE","Niger",6370000
+"KG","Kyrgyzstan",6410000
+"ZW","Zimbabwe",6450000
+"LY","Libya",6570000
+"MG","Madagascar",6600000
+"MZ","Mozambique",6960000
+"HK","Hong Kong",7100000
+"ZM","Zambia",7130000
+"HN","Honduras",7190000
+"YE","Yemen",7290000
+"CU","Cuba",7810000
+"BY","Belarus",8260000
+"IL","Israel",8610000
+"GR","Greece",8660000
+"AT","Austria",8690000
+"ML","Mali",8720000
+"BO","Bolivia",8770000
+"CH","Switzerland",8860000
+"SY","Syria",9010000
+"HU","Hungary",9090000
+"AZ","Azerbaijan",9230000
+"PT","Portugal",9270000
+"CZ","Czech Republic",10100000
+"DO","Dominican Republic",10200000
+"TN","Tunisia",10500000
+"SE","Sweden",10500000
+"SO","Somalia",10700000
+"JO","Jordan",10700000
+"KH","Cambodia",10800000
+"AE","United Arab Emirates",11100000
+"SN","Senegal",11300000
+"GT","Guatemala",11300000
+"BE","Belgium",11300000
+"CM","Cameroon",12400000
+"LK","Sri Lanka",12400000
+"CI","Ivory Coast",12800000
+"AF","Afghanistan",13200000
+"UG","Uganda",14200000
+"SD","Sudan",14600000
+"EC","Ecuador",15200000
+"NP","Nepal",16500000
+"AO","Angola",17200000
+"VE","Venezuela",17500000
+"RO","Romania",17800000
+"NL","Netherlands",18100000
+"CL","Chile",18600000
+"KZ","Kazakhstan",19200000
+"TZ","Tanzania",20200000
+"GH","Ghana",24300000
+"AU","Australia",26100000
+"PE","Peru",27300000
+"KE","Kenya",27400000
+"ET","Ethiopia",28600000
+"UA","Ukraine",31500000
+"UZ","Uzbekistan",32700000
+"MM","Myanmar",33400000
+"SA","Saudi Arabia",33900000
+"CD","DR Congo",34000000
+"PL","Poland",34500000
+"MY","Malaysia",34900000
+"MA","Morocco",35300000
+"DZ","Algeria",36200000
+"IQ","Iraq",38000000
+"CA","Canada",38000000
+"CO","Colombia",41100000
+"AR","Argentina",41200000
+"ES","Spain",46200000
+"KR","South Korea",50400000
+"ZA","South Africa",50800000
+"IT","Italy",53300000
+"FR","France",63400000
+"TH","Thailand",65400000
+"GB","United Kingdom",67800000
+"IR","Iran",73200000
+"TR","Turkey",77300000
+"BD","Bangladesh",77700000
+"DE","Germany",78900000
+"VN","Vietnam",79800000
+"EG","Egypt",96300000
+"PH","Philippines",97500000
+"NG","Nigeria",107000000
+"JP","Japan",109000000
+"MX","Mexico",110000000
+"PK","Pakistan",116000000
+"RU","Russia",133000000
+"BR","Brazil",183000000
+"ID","Indonesia",212000000
+"US","United States",322000000
+"IN","India",806000000
+"CN","China",1110000000
+,"Total",5539967816

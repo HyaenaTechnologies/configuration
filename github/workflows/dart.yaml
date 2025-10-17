@@ -1,0 +1,50 @@
+name: Dart
+
+on:
+  push:
+    branches: [ "main" ]
+    
+  pull_request:
+    branches: [ "main" ]
+    
+  schedule:
+  - cron: "30 03 * * 1-5"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: Checkout Repository
+        uses: actions/checkout@v5.0.0
+
+      - name: Install Dart
+        uses: dart-lang/setup-dart@1.7.1 
+
+      - name: Environment Information
+        run: dart info
+      
+      - name: Get Dependencies
+        run: dart pub get
+
+      - name: Update Dependencies
+        run: dart pub update
+      
+      - name: Analyze Package
+        run: dart analyze
+
+      - name: Fix Package
+        run: dart fix
+
+      - name: Format Package
+        run: dart format
+           
+      - name: Test Package
+        run: dart test
+
+      - name: RUn Package
+        run: dart run
+
+      - name: Compile Package
+        run: dart compile exe ./binary/dart-application
+

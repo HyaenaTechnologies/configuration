@@ -1,0 +1,41 @@
+theme = "dark_plus"
+
+[editor]
+auto-completion = true
+auto-format = true
+auto-info = true
+color-modes = true
+gutters = ["diagnostics", "spacer", "line-numbers", "spacer", "diff"]
+middle-click-paste = true
+mouse = true
+preview-completion-insert = true
+shell = ["sh", "-c"]
+
+[editor.file-picker]
+deduplicate-links = true
+follow-symlinks = true
+git-exclude = true
+git-global = true
+git-ignore = true
+hidden = false
+ignore = true
+parents = true
+
+[editor.lsp]
+auto-signature-help = true
+display-inlay-hints = true
+display-messages = true
+display-signature-help-docs = true
+enable = true
+goto-reference-include-declaration = true
+snippets = true
+
+[editor.search]
+smart-case = true
+wrap-around = true
+
+[editor.smart-tab]
+enable = true
+
+[editor.soft-wrap]
+enable = true
