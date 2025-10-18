@@ -26,6 +26,7 @@
 [Turso Database]: https://turso.tech/
 [Victoria Database]: https://victoriametrics.com/
 [VSCode]: https://code.visualstudio.com/
+[Zed Editor]: https://zed.dev/ 
 
 # Configuration
 
@@ -33,7 +34,7 @@ Development Environment Configuration
 
 ## Development Environment
 
-- **_Editors:_** [Helix][Helix Editor], [NeoVim][NVIM], [Visual Studio Code][VSCode]
+- **_Editors:_** [Helix][Helix Editor], [NeoVim][NVIM], [Visual Studio Code][VSCode], [Zed][Zed Editor]
 
 - **_Microcontrollers:_** [Arduino][Arduino Micro], [Espressif Systems][Espressif], [Raspberry Pi][Raspberry Micro]
 
