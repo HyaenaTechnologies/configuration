@@ -1,12 +1,14 @@
 # Stars
 
-- https://github.com/golang/go
 - https://github.com/rust-lang/rust
+- https://github.com/golang/go
 - https://github.com/dart-lang/sdk
 - https://github.com/carbon-language/carbon-lang
 - https://github.com/ziglang/zig
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
+- https://github.com/go-task/task
+- https://github.com/gfx-rs/wgpu
 - https://github.com/zed-industries/zed
 - https://github.com/coreutils/coreutils
 - https://github.com/qemu/qemu

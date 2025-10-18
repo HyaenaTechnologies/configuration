@@ -22,6 +22,7 @@ export PATH=$PATH:/usr/local/include
 export PATH=$PATH:/usr/local/lib
 export PATH=$PATH:~/.cargo/bin
 export PATH=$PATH:~/blender
+export PATH=$PATH:~/podman-desktop
 export PATH=$PATH:~/VSCode
 ```
 

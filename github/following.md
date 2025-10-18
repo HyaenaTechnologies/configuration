@@ -40,14 +40,18 @@
 - https://github.com/digitalocean
 - https://github.com/coreutils
 - https://github.com/uutils
+- https://github.com/docker
 - https://github.com/rust-lang
+- https://github.com/containers
 - https://github.com/microsoft
 - https://github.com/webmproject
 - https://github.com/neovim
 - https://github.com/mdn
+- https://github.com/docker-library
 - https://github.com/SELinuxProject
 - https://github.com/toml-lang
 - https://github.com/semver
+- https://github.com/gfx-rs
 - https://github.com/rpm-software-management
 - https://github.com/vultr
 - https://github.com/commonmark
@@ -63,8 +67,10 @@
 - https://github.com/seaweedfs
 - https://github.com/brave
 - https://github.com/ImageMagick
+- https://github.com/opencontainers
 - https://github.com/go-gitea
 - https://github.com/unicode-org
+- https://github.com/containerd
 - https://github.com/KDE
 - https://github.com/pciutils
 - https://github.com/NetworkManager
@@ -79,7 +85,9 @@
 - https://github.com/RustCrypto
 - https://github.com/superfly
 - https://github.com/linux-pam
+- https://github.com/gpuweb
 - https://github.com/go-task
+- https://github.com/moby
 - https://github.com/dependabot
 - https://github.com/ziglang
 - https://github.com/linux-mobile-broadband
@@ -105,6 +113,7 @@
 - https://github.com/zigtools
 - https://github.com/helix-editor
 - https://github.com/advanced-security
+- https://github.com/distribution
 - https://github.com/zed-industries
 - https://github.com/lima-vm
 - https://github.com/ydb-platform
@@ -115,6 +124,7 @@
 - https://github.com/toml-rs
 - https://github.com/tukaani-project
 - https://github.com/pendulum-project
+- https://github.com/podman-desktop
 - https://github.com/LadybirdBrowser
 - https://github.com/tursodatabase
 - https://github.com/jj-vcs

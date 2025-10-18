@@ -26,6 +26,7 @@
 [Turso Database]: https://turso.tech/
 [Victoria Database]: https://victoriametrics.com/
 [VSCode]: https://code.visualstudio.com/
+[Yandex Database]: https://ydb.tech/
 [Zed Editor]: https://zed.dev/ 
 
 # Configuration
@@ -54,7 +55,7 @@ Development Environment Configuration
 
 - **_Object Storage:_** [Minio][Minio Database], [SeaweedFS][SeaweedFS Database]
 
-- **_Relational:_** [Postgres][Postgres Database], [SQLite][SQLite Database], [Turso][Turso Database]
+- **_Relational:_** [Postgres][Postgres Database], [SQLite][SQLite Database], [Turso][Turso Database], [YDB][Yandex Database]
 
 - **_Time Series:_** [Greptime][Greptime Database], [Prometheus][Prometheus Database], [Victoria Metrics][Victoria Database]
 
