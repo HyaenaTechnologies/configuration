@@ -34,6 +34,7 @@
 - https://github.com/openssl
 - https://github.com/prometheus
 - https://github.com/openstax
+- https://github.com/libuv
 - https://github.com/golang
 - https://github.com/libusb
 - https://github.com/ubuntu
@@ -132,4 +133,5 @@
 - https://github.com/jj-vcs
 - https://github.com/trifectatechfoundation
 - https://github.com/gitui-org
+- https://github.com/crates-dev
 

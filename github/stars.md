@@ -7,6 +7,8 @@
 - https://github.com/ziglang/zig
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
+- https://github.com/lettre/lettre
+- https://github.com/libuv/libuv
 - https://github.com/go-task/task
 - https://github.com/gfx-rs/wgpu
 - https://github.com/zed-industries/zed
