@@ -69,11 +69,13 @@
 - https://github.com/ImageMagick
 - https://github.com/opencontainers
 - https://github.com/go-gitea
+- https://github.com/kubernetes
 - https://github.com/unicode-org
 - https://github.com/containerd
 - https://github.com/KDE
 - https://github.com/pciutils
 - https://github.com/NetworkManager
+- https://github.com/lettre
 - https://github.com/curl
 - https://github.com/llvm
 - https://github.com/tree-sitter
