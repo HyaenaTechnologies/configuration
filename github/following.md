@@ -70,7 +70,6 @@
 - https://github.com/ImageMagick
 - https://github.com/opencontainers
 - https://github.com/go-gitea
-- https://github.com/kubernetes
 - https://github.com/unicode-org
 - https://github.com/containerd
 - https://github.com/KDE
@@ -130,6 +129,7 @@
 - https://github.com/podman-desktop
 - https://github.com/LadybirdBrowser
 - https://github.com/tursodatabase
+- https://github.com/RsyncProject
 - https://github.com/jj-vcs
 - https://github.com/trifectatechfoundation
 - https://github.com/gitui-org
