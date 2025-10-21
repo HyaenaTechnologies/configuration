@@ -12,7 +12,6 @@
 - Inngest
 - JustPay
 - Lago
-- Mattermost
 - OpenMeter
 - OVH
 - Progress Chef
@@ -21,10 +20,12 @@
 - Rivet
 - Shuttle
 - Temporal
+- Uber
 - Windmill
 
 ## Open Source Projects
 
+- https://github.com/cadence-workflow/cadence
 - https://github.com/coder/coder
 - https://github.com/dagger/dagger
 - https://github.com/dagu-org/dagu
@@ -36,7 +37,6 @@
 - https://github.com/habitat-sh/habitat
 - https://github.com/inngest/inngest
 - https://github.com/juspay/hyperswitch
-- https://github.com/mattermost/mattermost
 - https://github.com/openmeterio/openmeter
 - https://github.com/ovh/cds
 - https://github.com/pulumi/pulumi
