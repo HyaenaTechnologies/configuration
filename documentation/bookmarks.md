@@ -20,13 +20,13 @@
 - https://git-lfs.com/
 - https://systemd.io/
 - https://openssh.com/
-- https://networkmanager.dev/docs/
 - https://publications.opengroup.org/
 - https://www.dragonflybsd.org/docs/
 - https://docs.freebsd.org/en/
 - https://netbsd.org/docs/
 - https://www.openbsd.org/
 - https://learn.microsoft.com/en-us/windows/win32/api/
+- https://ti.com/design-development/overview.html
 - https://riscv.org/specifications/ratified/
 - https://bluetooth.com/specifications/specs/
 - https://usb.org/documents
