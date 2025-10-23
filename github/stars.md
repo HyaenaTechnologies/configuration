@@ -8,9 +8,13 @@
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
 - https://github.com/tigerbeetle/tigerbeetle
+- https://github.com/jqlang/jq
+- https://github.com/grafana/mimir
+- https://github.com/grafana/tempo
+- https://github.com/grafana/loki
+- https://github.com/influxdata/influxdb
 - https://github.com/surrealdb/surrealdb
 - https://github.com/seaweedfs/seaweedfs
-- https://github.com/dragonflydb/dragonfly
 - https://github.com/tursodatabase/turso
 - https://github.com/VictoriaMetrics/VictoriaMetrics
 - https://github.com/GreptimeTeam/greptimedb

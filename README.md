@@ -2,13 +2,13 @@
 [APT Ubuntu]: https://ubuntu.com/
 [Arduino Micro]: https://arduino.cc/
 [Dart Language]: https://dart.dev/
-[Dragonfly Database]: https://www.dragonflydb.io/
 [Espressif]: https://www.espressif.com/
 [Firecracker VM]: https://firecracker-microvm.github.io/
 [Git Repositories]: https://git-scm.com
 [Go Language]: https://go.dev/
 [Greptime Database]: https://greptime.com/
 [Helix Editor]: https://helix-editor.com/
+[Influx Database]: https://influxdata.com/
 [Lima VM]: https://lima-vm.io/
 [Minio Database]: https://min.io/
 [NVIM]: https://neovim.io/
@@ -51,13 +51,11 @@ Development Environment Configuration
 
 - **_Graph:_** [Surreal][Surreal Database]
 
-- **_Key Value:_** [Dragonfly][Dragonfly Database]
-
 - **_Object Storage:_** [Minio][Minio Database], [SeaweedFS][SeaweedFS Database]
 
 - **_Relational:_** [Postgres][Postgres Database], [SQLite][SQLite Database], [Turso][Turso Database], [YDB][Yandex Database]
 
-- **_Time Series:_** [Greptime][Greptime Database], [Prometheus][Prometheus Database], [Victoria Metrics][Victoria Database]
+- **_Time Series:_** [Greptime][Greptime Database], [Influx][Influx Database], [Prometheus][Prometheus Database], [Victoria Metrics][Victoria Database]
 
 - **_Transactional:_** [TigerBeetle][TigerBeetle Database]
 
