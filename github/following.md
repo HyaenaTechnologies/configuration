@@ -61,6 +61,7 @@
 - https://github.com/hyperium
 - https://github.com/letsencrypt
 - https://github.com/espressif
+- https://github.com/STMicroelectronics
 - https://github.com/riscv
 - https://github.com/surrealdb
 - https://github.com/ChromeDevTools
@@ -102,6 +103,7 @@
 - https://github.com/VictoriaMetrics
 - https://github.com/actions
 - https://github.com/firecracker-microvm
+- https://github.com/clockworklabs
 - https://github.com/sqlite
 - https://github.com/starship
 - https://github.com/blender
