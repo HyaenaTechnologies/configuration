@@ -1,0 +1,98 @@
+[
+  {
+    "flagCode": "VE",
+    "country": "Venezuela",
+    "imfGDPPerCapita": 3588.3283246075134,
+    "unGDPPerCapita": 4534.644368777813,
+    "GNIPerCapitaPPP": null,
+    "GNIPerCapitaAtlasMethod": null
+  },
+  {
+    "flagCode": "BO",
+    "country": "Bolivia",
+    "imfGDPPerCapita": 3921.060579567312,
+    "unGDPPerCapita": 3497.7745632580395,
+    "GNIPerCapitaPPP": 9400,
+    "GNIPerCapitaAtlasMethod": 3450
+  },
+  {
+    "flagCode": "PY",
+    "country": "Paraguay",
+    "imfGDPPerCapita": 6533.078191037319,
+    "unGDPPerCapita": 5949.212043781049,
+    "GNIPerCapitaPPP": 15540,
+    "GNIPerCapitaAtlasMethod": 5920
+  },
+  {
+    "flagCode": "EC",
+    "country": "Ecuador",
+    "imfGDPPerCapita": 6648.040721928496,
+    "unGDPPerCapita": 6290.3022979896,
+    "GNIPerCapitaPPP": 12630,
+    "GNIPerCapitaAtlasMethod": 6310
+  },
+  {
+    "flagCode": "SR",
+    "country": "Suriname",
+    "imfGDPPerCapita": 6778.1511291708985,
+    "unGDPPerCapita": 5659.123232007501,
+    "GNIPerCapitaPPP": 16080,
+    "GNIPerCapitaAtlasMethod": 4880
+  },
+  {
+    "flagCode": "CO",
+    "country": "Colombia",
+    "imfGDPPerCapita": 7226.423287712259,
+    "unGDPPerCapita": 6437.718996136684,
+    "GNIPerCapitaPPP": 19490,
+    "GNIPerCapitaAtlasMethod": 6510
+  },
+  {
+    "flagCode": "PE",
+    "country": "Peru",
+    "imfGDPPerCapita": 8169.027119418569,
+    "unGDPPerCapita": 7017.211012039899,
+    "GNIPerCapitaPPP": 14080,
+    "GNIPerCapitaAtlasMethod": 6770
+  },
+  {
+    "flagCode": "BR",
+    "country": "Brazil",
+    "imfGDPPerCapita": 10955.162302877656,
+    "unGDPPerCapita": 9022.517527207112,
+    "GNIPerCapitaPPP": 17260,
+    "GNIPerCapitaAtlasMethod": 8140
+  },
+  {
+    "flagCode": "AR",
+    "country": "Argentina",
+    "imfGDPPerCapita": 13178.659757390178,
+    "unGDPPerCapita": 13764.748731772639,
+    "GNIPerCapitaPPP": 26030,
+    "GNIPerCapitaAtlasMethod": 11620
+  },
+  {
+    "flagCode": "CL",
+    "country": "Chile",
+    "imfGDPPerCapita": 16805.724097301598,
+    "unGDPPerCapita": 15140.358209255837,
+    "GNIPerCapitaPPP": 28550,
+    "GNIPerCapitaAtlasMethod": 15360
+  },
+  {
+    "flagCode": "UY",
+    "country": "Uruguay",
+    "imfGDPPerCapita": 24405.484697269174,
+    "unGDPPerCapita": 21027.361442259113,
+    "GNIPerCapitaPPP": 26290,
+    "GNIPerCapitaAtlasMethod": 18030
+  },
+  {
+    "flagCode": "GY",
+    "country": "Guyana",
+    "imfGDPPerCapita": 25332.960121341745,
+    "unGDPPerCapita": 17606.036464725486,
+    "GNIPerCapitaPPP": 37710,
+    "GNIPerCapitaAtlasMethod": 15050
+  }
+]

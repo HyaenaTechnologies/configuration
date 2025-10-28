@@ -1,0 +1,35 @@
+name: Rust
+
+on:
+  push:
+    branches: [ "main" ]
+    
+  pull_request:
+    branches: [ "main" ]
+    
+  schedule:
+  - cron: "30 03 * * 1-5"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+    - name: Checkout Repository
+      uses: actions/checkout@v5.0.0
+
+    - name: Update Dependencies
+      run: cargo update
+
+    - name: Check Package
+      run: cargo check
+
+    - name: Document Package
+      run: cargo doc
+
+    - name: Run Tests
+      run: cargo test
+
+    - name: Build Package
+      run: cargo build
+      
