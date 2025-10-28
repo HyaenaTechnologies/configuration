@@ -7,6 +7,8 @@
 - https://github.com/ziglang/zig
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
+- https://github.com/duckdb/duckdb
+- https://github.com/ClickHouse/ClickHouse
 - https://github.com/tursodatabase/libsql
 - https://github.com/wasm-bindgen/weedle
 - https://github.com/wasm-bindgen/walrus

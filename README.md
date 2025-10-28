@@ -1,7 +1,11 @@
 [APT Debian]: https://www.debian.org/
 [APT Ubuntu]: https://ubuntu.com/
 [Arduino Micro]: https://arduino.cc/
+[C++ Language]: https://learn.microsoft.com/en-us/cpp/
+[ClickHouse Database]: https://clickhouse.com/
 [Dart Language]: https://dart.dev/
+[Duck Database]: https://www.duckdb.org/
+[SpaceTime Database]: https://clockworklabs.io/
 [Espressif]: https://www.espressif.com/
 [Firecracker VM]: https://firecracker-microvm.github.io/
 [Git Repositories]: https://git-scm.com
@@ -39,7 +43,7 @@ Development Environment Configuration
 
 - **_Microcontrollers:_** [Arduino][Arduino Micro], [Espressif Systems][Espressif], [Raspberry Pi][Raspberry Micro]
 
-- **_Programming Languages:_** [Dart][Dart Language], [Go][Go Language], [Rust][Rust Language]
+- **_Programming Languages:_** [C++][C++ Language], [Dart][Dart Language], [Go][Go Language], [Rust][Rust Language]
 
 - **_Operating Systems:_** [Fedora][RPM Fedora]: -> [Red Hat Enterprise Linux][RPM RHEL] || [Ubuntu][APT Ubuntu] <- :[Debian][APT Debian]
 
@@ -48,6 +52,10 @@ Development Environment Configuration
 - **_Version Control Systems:_** [Git][Git Repositories]
 
 ## Databases
+
+- **_Columnar:_** [ClickHouse][ClickHouse Database], [Duck][Duck Database]
+
+- **_Embedded:_** [SpaceTime][SpaceTime Database]
 
 - **_Graph:_** [Surreal][Surreal Database]
 

@@ -36,7 +36,7 @@
 - https://vulkan.org/learn
 - https://docs.helix-editor.com/
 - https://neovim.io/doc/
-- https://code.visualstudio.com/docs
+- https://zed.dev/docs/
 - https://docs.arduino.cc/language-reference/
 - https://espressif.com/
 - https://raspberrypi.com/documentation/

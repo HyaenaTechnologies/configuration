@@ -109,6 +109,7 @@
 - https://github.com/canonical
 - https://github.com/c3lang
 - https://github.com/sudo-project
+- https://github.com/ClickHouse
 - https://github.com/time-rs
 - https://github.com/FrameworkComputer
 - https://github.com/cli
@@ -119,6 +120,7 @@
 - https://github.com/advanced-security
 - https://github.com/distribution
 - https://github.com/zed-industries
+- https://github.com/duckdb
 - https://github.com/lima-vm
 - https://github.com/ydb-platform
 - https://github.com/GreptimeTeam
