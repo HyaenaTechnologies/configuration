@@ -9,6 +9,7 @@
 - FlexPrice
 - Gitea
 - GitPod
+- Harness
 - InfraCost
 - Inngest
 - JustPay
@@ -21,7 +22,6 @@
 - Pulumi
 - Restate
 - Rivet
-- Shuttle
 - Temporal
 - Turbot
 - Uber
@@ -39,6 +39,7 @@
 - https://github.com/gitpod-io/gitpod
 - https://github.com/go-gitea/gitea
 - https://github.com/habitat-sh/habitat
+- https://github.com/harness/harness
 - https://github.com/infracost/infracost
 - https://github.com/inngest/inngest
 - https://github.com/juspay/hyperswitch
@@ -49,7 +50,6 @@
 - https://github.com/pulumi/pulumi
 - https://github.com/restatedev/restate
 - https://github.com/rivet-dev/engine
-- https://github.com/shuttle-hq/shuttle
 - https://github.com/temporalio/temporal
 - https://github.com/turbot/flowpipe
 - https://github.com/windmill-labs/windmill
