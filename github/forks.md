@@ -5,13 +5,15 @@
 - Coder
 - Dagger
 - Dagu
+- Dokku
 - Encore
 - FlexPrice
-- Gitea
 - GitPod
 - Harness
+- Hatchet
 - InfraCost
 - Inngest
+- Juno Build
 - JustPay
 - KodeRover
 - Lago
@@ -33,15 +35,17 @@
 - https://github.com/coder/coder
 - https://github.com/dagger/dagger
 - https://github.com/dagu-org/dagu
+- https://github.com/dokku/dokku
 - https://github.com/encoredev/encore
 - https://github.com/flexprice/flexprice
 - https://github.com/getlago/lago
 - https://github.com/gitpod-io/gitpod
-- https://github.com/go-gitea/gitea
 - https://github.com/habitat-sh/habitat
 - https://github.com/harness/harness
+- https://github.com/hatchet-dev/hatchet
 - https://github.com/infracost/infracost
 - https://github.com/inngest/inngest
+- https://github.com/junobuild/juno
 - https://github.com/juspay/hyperswitch
 - https://github.com/koderover/zadig
 - https://github.com/metalbear-co/mirrord
