@@ -9,6 +9,7 @@
 - https://github.com/duckduckgo
 - https://github.com/arduino
 - https://github.com/w3c
+- https://github.com/illumos
 - https://github.com/minio
 - https://github.com/FFmpeg
 - https://github.com/freebsd
@@ -108,6 +109,7 @@
 - https://github.com/blender
 - https://github.com/canonical
 - https://github.com/c3lang
+- https://github.com/oxidecomputer
 - https://github.com/sudo-project
 - https://github.com/ClickHouse
 - https://github.com/time-rs
