@@ -5,7 +5,6 @@
 [ClickHouse Database]: https://clickhouse.com/
 [Dart Language]: https://dart.dev/
 [Duck Database]: https://www.duckdb.org/
-[SpaceTime Database]: https://clockworklabs.io/
 [Espressif]: https://www.espressif.com/
 [Firecracker VM]: https://firecracker-microvm.github.io/
 [Git Repositories]: https://git-scm.com
@@ -54,8 +53,6 @@ Development Environment Configuration
 ## Databases
 
 - **_Columnar:_** [ClickHouse][ClickHouse Database], [Duck][Duck Database]
-
-- **_Embedded:_** [SpaceTime][SpaceTime Database]
 
 - **_Graph:_** [Surreal][Surreal Database]
 

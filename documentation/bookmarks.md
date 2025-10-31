@@ -34,9 +34,11 @@
 - https://datatracker.ietf.org/
 - https://w3.org/TR/
 - https://vulkan.org/learn
+- https://wayland.freedesktop.org/docs/html/
 - https://docs.helix-editor.com/
 - https://neovim.io/doc/
 - https://zed.dev/docs/
+- https://code.visualstudio.com/docs
 - https://docs.arduino.cc/language-reference/
 - https://espressif.com/
 - https://raspberrypi.com/documentation/

@@ -103,7 +103,6 @@
 - https://github.com/VictoriaMetrics
 - https://github.com/actions
 - https://github.com/firecracker-microvm
-- https://github.com/clockworklabs
 - https://github.com/sqlite
 - https://github.com/starship
 - https://github.com/blender
@@ -127,6 +126,7 @@
 - https://github.com/ydb-platform
 - https://github.com/GreptimeTeam
 - https://github.com/jqlang
+- https://github.com/hyprwm
 - https://github.com/tigerbeetle
 - https://github.com/toml-rs
 - https://github.com/tukaani-project

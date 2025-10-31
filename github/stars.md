@@ -4,10 +4,11 @@
 - https://github.com/golang/go
 - https://github.com/dart-lang/sdk
 - https://github.com/carbon-language/carbon-lang
-- https://github.com/c3lang/c3c
 - https://github.com/ziglang/zig
+- https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
-- https://github.com/clockworklabs/SpacetimeDB
+- https://github.com/trifectatechfoundation/zlib-rs
+- https://github.com/hyprwm/Hyprland
 - https://github.com/illumos/illumos-gate
 - https://github.com/duckdb/duckdb
 - https://github.com/ClickHouse/ClickHouse
@@ -75,9 +76,6 @@
 - https://github.com/raspberrypi/libcamera
 - https://github.com/uutils/procps
 - https://github.com/uutils/coreutils
-- https://github.com/uutils/diffutils
-- https://github.com/uutils/findutils
-- https://github.com/uutils/util-linux
 - https://github.com/trifectatechfoundation/sudo-rs
 - https://github.com/openssh/openssh-portable
 - https://github.com/systemd/systemd
@@ -99,7 +97,7 @@
 - https://github.com/FFmpeg/FFmpeg
 - https://github.com/libusb/libusb
 - https://github.com/rust-embedded/svd2rust
-- https://github.com/rust-embedded/cortex-ar
+- https://github.com/rust-embedded/aarch32
 - https://github.com/rust-embedded/embedded-alloc
 - https://github.com/rust-embedded/heapless
 - https://github.com/rust-embedded/cortex-m
