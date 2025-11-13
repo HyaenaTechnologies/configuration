@@ -1,0 +1,512 @@
+[
+  {
+    "flagCode": "AF",
+    "country": "Afghanistan",
+    "imfGDP": null,
+    "unGDP": 323.30461795315676,
+    "PPP": 1690,
+    "PPPYear": 2021,
+    "GNIAtlasMethod": 390,
+    "GNIAtlasMethodYear": 2021
+  },
+  {
+    "flagCode": "NP",
+    "country": "Nepal",
+    "imfGDP": 1491.6216772851737,
+    "unGDP": 1330.4938534207124,
+    "PPP": 4750,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 1340,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "MM",
+    "country": "Myanmar",
+    "imfGDP": 1239.840585153125,
+    "unGDP": 1188.900394890849,
+    "PPP": 4760,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 1210,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "TL",
+    "country": "Timor-Leste",
+    "imfGDP": 1404.280517722697,
+    "unGDP": 2259.2208780982996,
+    "PPP": 4780,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 1970,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "TJ",
+    "country": "Tajikistan",
+    "imfGDP": 1200.8306525628784,
+    "unGDP": 972.6885887250039,
+    "PPP": 5680,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 1210,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "KG",
+    "country": "Kyrgyzstan",
+    "imfGDP": 1864.1458636907594,
+    "unGDP": 1498.3625838413275,
+    "PPP": 5830,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 1410,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "PK",
+    "country": "Pakistan",
+    "imfGDP": null,
+    "unGDP": 1280.4521589217145,
+    "PPP": 6350,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 1580,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "BD",
+    "country": "Bangladesh",
+    "imfGDP": 2590.7551497834215,
+    "unGDP": 2462.7718613215548,
+    "PPP": 7690,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 2820,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "PS",
+    "country": "Palestine",
+    "imfGDP": null,
+    "unGDP": 3419.1769744633802,
+    "PPP": 8170,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 4610,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "IN",
+    "country": "India",
+    "imfGDP": 2689.4532984486327,
+    "unGDP": 2367.3823495255724,
+    "PPP": 8210,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 2380,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "LA",
+    "country": "Laos",
+    "imfGDP": 1929.3666368180059,
+    "unGDP": 1951.3022272181684,
+    "PPP": 8810,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 2360,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "UZ",
+    "country": "Uzbekistan",
+    "imfGDP": 2643.6440380639833,
+    "unGDP": 2169.6227606643383,
+    "PPP": 9640,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 2190,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "PH",
+    "country": "Philippines",
+    "imfGDP": 4037.401423103599,
+    "unGDP": 3461.7209107178023,
+    "PPP": 10730,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 3950,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "IQ",
+    "country": "Iraq",
+    "imfGDP": 5654.8165918061795,
+    "unGDP": 5618.4071729957805,
+    "PPP": 10820,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 5270,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "JO",
+    "country": "Jordan",
+    "imfGDP": 4649.8910656470525,
+    "unGDP": 4118.855625092226,
+    "PPP": 10890,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 4260,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "BT",
+    "country": "Bhutan",
+    "imfGDP": 3903.69055658343,
+    "unGDP": 3638.1893904970866,
+    "PPP": 11300,
+    "PPPYear": 2021,
+    "GNIAtlasMethod": 3040,
+    "GNIAtlasMethodYear": 2021
+  },
+  {
+    "flagCode": "MN",
+    "country": "Mongolia",
+    "imfGDP": 6238.9468596286715,
+    "unGDP": 4875.181257285832,
+    "PPP": 12470,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 4210,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "VN",
+    "country": "Vietnam",
+    "imfGDP": 4584.828590832587,
+    "unGDP": 4023.681335446215,
+    "PPP": 12810,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 4010,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "LB",
+    "country": "Lebanon",
+    "imfGDP": null,
+    "unGDP": 6719.144804100236,
+    "PPP": 13400,
+    "PPPYear": 2021,
+    "GNIAtlasMethod": 4970,
+    "GNIAtlasMethodYear": 2021
+  },
+  {
+    "flagCode": "LK",
+    "country": "Sri Lanka",
+    "imfGDP": null,
+    "unGDP": 3279.7563443035797,
+    "PPP": 14030,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 3610,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "ID",
+    "country": "Indonesia",
+    "imfGDP": 5164.793627349758,
+    "unGDP": 4616.741506574595,
+    "PPP": 14250,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 4580,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "TM",
+    "country": "Turkmenistan",
+    "imfGDP": 10749.128805528393,
+    "unGDP": 8795.225001148467,
+    "PPP": 15400,
+    "PPPYear": 2019,
+    "GNIAtlasMethod": 7080,
+    "GNIAtlasMethodYear": 2019
+  },
+  {
+    "flagCode": "AZ",
+    "country": "Azerbaijan",
+    "imfGDP": 7573.694182367253,
+    "unGDP": 7571.010896640603,
+    "PPP": 16530,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 5630,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "AM",
+    "country": "Armenia",
+    "imfGDP": 8605.996558685256,
+    "unGDP": 6609.492067363059,
+    "PPP": 18120,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 5960,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "IR",
+    "country": "Iran",
+    "imfGDP": 5022.641766674566,
+    "unGDP": 4307.053735377531,
+    "PPP": 18130,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 3900,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "GE",
+    "country": "Georgia",
+    "imfGDP": 8633.530093231091,
+    "unGDP": 6463.7596639582625,
+    "PPP": 18830,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 5620,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "TH",
+    "country": "Thailand",
+    "imfGDP": 7663.93139336972,
+    "unGDP": 6916.248137738255,
+    "PPP": 20070,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 7230,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "CN",
+    "country": "China",
+    "imfGDP": 13087.070122166513,
+    "unGDP": 12684.979874302662,
+    "PPP": 21250,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 12850,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "MV",
+    "country": "Maldives",
+    "imfGDP": 13591.327528526872,
+    "unGDP": 11649.838769360893,
+    "PPP": 22530,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 11030,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "KZ",
+    "country": "Kazakhstan",
+    "imfGDP": 14236.367648893198,
+    "unGDP": 10818.372849480422,
+    "PPP": 27080,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 9470,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "MY",
+    "country": "Malaysia",
+    "imfGDP": 12383.164062282853,
+    "unGDP": 11293.241943643025,
+    "PPP": 32250,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 11780,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "RU",
+    "country": "Russia",
+    "imfGDP": 14283.908692542207,
+    "unGDP": 15558.796363813135,
+    "PPP": 35770,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 12830,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "TR",
+    "country": "Turkey",
+    "imfGDP": 12699.49159153063,
+    "unGDP": 10345.142977052052,
+    "PPP": 36920,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 10590,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "OM",
+    "country": "Oman",
+    "imfGDP": 19824.0483084578,
+    "unGDP": 20868.69322928136,
+    "PPP": 38890,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 20150,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "JP",
+    "country": "Japan",
+    "imfGDP": 33390.33167347668,
+    "unGDP": 34379.09717878525,
+    "PPP": 48470,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 42440,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "IL",
+    "country": "Israel",
+    "imfGDP": 55758.533515179915,
+    "unGDP": 55163.60938849533,
+    "PPP": 48820,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 54650,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "KR",
+    "country": "South Korea",
+    "imfGDP": 34082.683337526854,
+    "unGDP": 32398.24259198328,
+    "PPP": 50730,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 35990,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "BH",
+    "country": "Bahrain",
+    "imfGDP": 28472.67438676346,
+    "unGDP": 27007.782977247418,
+    "PPP": 57370,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 27180,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "SA",
+    "country": "Saudi Arabia",
+    "imfGDP": 31997.060720991256,
+    "unGDP": 32058.681432493497,
+    "PPP": 59660,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 27590,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "KW",
+    "country": "Kuwait",
+    "imfGDP": 31912.942094037502,
+    "unGDP": 34890.61057523955,
+    "PPP": 64590,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 39570,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "BN",
+    "country": "Brunei",
+    "imfGDP": 33259.70878991272,
+    "unGDP": 35771.8782836189,
+    "PPP": 67740,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 31410,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "MO",
+    "country": "Macau",
+    "imfGDP": 75729.18268105434,
+    "unGDP": 33299.26164150763,
+    "PPP": 70930,
+    "PPPYear": 2021,
+    "GNIAtlasMethod": 44980,
+    "GNIAtlasMethodYear": 2021
+  },
+  {
+    "flagCode": "HK",
+    "country": "Hong Kong",
+    "imfGDP": 54998.72905647315,
+    "unGDP": 48652.664654790104,
+    "PPP": 73940,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 54370,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "AE",
+    "country": "United Arab Emirates",
+    "imfGDP": 46518.24431517716,
+    "unGDP": 44690.99242023621,
+    "PPP": 87300,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 48950,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "SG",
+    "country": "Singapore",
+    "imfGDP": 89465.23016650342,
+    "unGDP": 79510.9653792105,
+    "PPP": 107030,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 67200,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "QA",
+    "country": "Qatar",
+    "imfGDP": 78528.44612614694,
+    "unGDP": 76094.14966510372,
+    "PPP": 110640,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 70500,
+    "GNIAtlasMethodYear": 2022
+  },
+  {
+    "flagCode": "YE",
+    "country": "Yemen",
+    "imfGDP": 405.5163630879569,
+    "unGDP": 263.4922762777715,
+    "PPP": null,
+    "PPPYear": 2018,
+    "GNIAtlasMethod": 840,
+    "GNIAtlasMethodYear": null
+  },
+  {
+    "flagCode": "KP",
+    "country": "North Korea",
+    "imfGDP": null,
+    "unGDP": 571.1527605283957,
+    "PPP": null,
+    "PPPYear": null,
+    "GNIAtlasMethod": null,
+    "GNIAtlasMethodYear": null
+  },
+  {
+    "flagCode": "SY",
+    "country": "Syria",
+    "imfGDP": null,
+    "unGDP": 725.8200496479368,
+    "PPP": null,
+    "PPPYear": 2020,
+    "GNIAtlasMethod": 760,
+    "GNIAtlasMethodYear": null
+  },
+  {
+    "flagCode": "TW",
+    "country": "Taiwan",
+    "imfGDP": 34740.83624658198,
+    "unGDP": null,
+    "PPP": null,
+    "PPPYear": null,
+    "GNIAtlasMethod": null,
+    "GNIAtlasMethodYear": null
+  },
+  {
+    "flagCode": "KH",
+    "country": "Cambodia",
+    "imfGDP": 2529.6952039444195,
+    "unGDP": 1653.1151949798298,
+    "PPP": null,
+    "PPPYear": 2022,
+    "GNIAtlasMethod": 1700,
+    "GNIAtlasMethodYear": null
+  }
+]

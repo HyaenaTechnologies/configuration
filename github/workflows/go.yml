@@ -1,0 +1,58 @@
+name: Go
+
+on:
+  push:
+    branches: [ "main" ]
+    
+  pull_request:
+    branches: [ "main" ]
+    
+  schedule:
+  - cron: "30 03 * * 1-5"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+    - name: Checkout Repository
+      uses: actions/checkout@v5.0.0
+
+    - name: Set up Go
+      uses: actions/setup-go@v6.0.0
+      with:
+        go-version: '1.24'
+
+    - name: Environment Information
+      run: go env
+
+    - name: List Packages or Modules 
+      run: go list
+    
+    - name: Report Mistakes in Package  
+      run: go vet
+    
+    - name: Update Package to New APIs  
+      run: go fix
+    
+    - name: Format Package 
+      run: go fmt
+    
+    - name: Verify Dependencies
+      run: go mod verify
+    
+    - name: Add Missing Modules and Remove Unused Modules  
+      run: go mod tidy
+    
+    - name: Module Requirement Graph  
+      run: go mod graph
+    
+    - name: Run Tests
+      run: go test
+    
+    - name: Show Documentation for Package or Symbol  
+      run: go doc
+
+    - name: Compile Package and Dependencies
+      run: GOARCH=amd64 GOOS=linux go build -o ./binary/go-application ./source/main.go
+      

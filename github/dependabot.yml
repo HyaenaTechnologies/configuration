@@ -1,0 +1,39 @@
+version: 2
+
+updates:
+  - package-ecosystem: "github-actions"
+    commit-message:
+      prefix: "Actions"
+    directory: "/" 
+    schedule:
+      day: "saturday"
+      interval: "weekly"
+      time: "03:00"
+  
+  - package-ecosystem: "cargo"
+    commit-message:
+      prefix: "Cargo"
+    directory: "/" 
+    schedule:
+      day: "saturday"
+      interval: "weekly"
+      time: "03:00"
+
+  - package-ecosystem: "gomod"
+    commit-message:
+      prefix: "Go"
+    directory: "/" 
+    schedule:
+      day: "saturday"
+      interval: "weekly"
+      time: "03:00"
+
+  - package-ecosystem: "pub"
+    commit-message:
+      prefix: "Pub"
+    directory: "/" 
+    schedule:
+      day: "saturday"
+      interval: "weekly"
+      time: "03:00"
+
