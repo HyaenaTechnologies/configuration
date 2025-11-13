@@ -1,4 +1,5 @@
 {
+	"C_Cpp.copilotHover": "disabled",
 	"accessibility.openChatEditedFiles": false,
 	"accessibility.verboseChatProgressUpdates": false,
 	"accessibility.verbosity.inlineChat": false,
@@ -9,21 +10,21 @@
 	"chat.detectParticipant.enabled": false,
 	"chat.disableAIFeatures": true,
 	"chat.edits2.enabled": false,
-	"chat.emptyChatState.enabled": false,
 	"chat.extensionTools.enabled": false,
 	"chat.implicitContext.suggestedContext": false,
 	"chat.math.enabled": false,
 	"chat.mcp.access": "none",
 	"chat.notifyWindowOnResponseReceived": false,
-	"chat.promptFiles": false,
 	"chat.sendElementsToChat.attachCSS": false,
 	"chat.sendElementsToChat.attachImages": false,
 	"chat.sendElementsToChat.enabled": false,
 	"chat.showAgentSessionsViewDescription": false,
 	"chat.todoListTool.descriptionField": false,
 	"chat.tools.terminal.enableAutoApprove": false,
+	"chat.tools.todos.showWidget": false,
 	"chat.undoRequests.restoreInput": false,
 	"chat.useAgentsMdFile": false,
+	"chat.useCloudButtonV2": false,
 	"debug.internalConsoleOptions": "openOnSessionStart",
 	"debug.openDebug": "openOnDebugBreak",
 	"diffEditor.experimental.showMoves": true,
@@ -48,6 +49,7 @@
 	"telemetry.feedback.enabled": false,
 	"telemetry.telemetryLevel": "off",
 	"workbench.secondarySideBar.defaultVisibility": "hidden",
-	"workbench.settings.showAISearchToggle": false
+	"workbench.settings.showAISearchToggle": false,
+	"workbench.commandPalette.showAskInChat": false
 }
 
