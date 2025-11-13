@@ -1,5 +1,5 @@
 [DragonflyOS]:https://www.dragonflybsd.org/
-[FreeOS]:https://.freebsd.org/
+[FreeOS]:https://freebsd.org/
 [IllumOS]: https://illumos.org/
 [NetOS]:https://netbsd.org/
 [OpenOS]:https://www.openbsd.org/
