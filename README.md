@@ -30,6 +30,7 @@
 [RustFS Database]: https://rustfs.com/en/
 [SQLite Database]: https://sqlite.org/
 [SeaweedFS Database]: https://seaweedfs.com/
+[STME]: https://www.st.com/
 [Surreal Database]: https://surrealdb.com/
 [TigerBeetle Database]: https://tigerbeetle.com/
 [Turso Database]: https://turso.tech/
@@ -48,7 +49,7 @@ Development Environment Configuration
 
 - **_Editors:_** [Helix][Helix Editor], [NeoVim][NVIM], [Zed][Zed Editor]
 
-- **_Microcontrollers:_** [Arduino][Arduino Micro], [Espressif Systems][Espressif], [Raspberry Pi][Raspberry Micro]
+- **_Microcontrollers:_** [Arduino][Arduino Micro], [Espressif Systems][Espressif], [Raspberry Pi][Raspberry Micro], [STMicroElectronics][STME]
 
 - **_Programming Languages:_** [C++][C++ Language], [Dart][Dart Language], [Go][Go Language], [Rust][Rust Language]
 

@@ -7,7 +7,6 @@
 - https://gcc.gnu.org/onlinedocs/
 - https://www.sourceware.org/gdb/documentation/
 - https://learn.microsoft.com/en-us/cpp/
-- https://clang.llvm.org/docs/index.html
 - https://dart.dev/docs
 - https://pub.dev/packages
 - https://go.dev/doc/
@@ -52,6 +51,7 @@
 - https://docs.arduino.cc/language-reference/
 - https://espressif.com/
 - https://raspberrypi.com/documentation/
+- https://www.st.com/
 - https://docs.github.com/en
 - https://openstax.org/subjects
 
