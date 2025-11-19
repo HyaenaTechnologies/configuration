@@ -27,6 +27,7 @@
 - https://github.com/dart-lang
 - https://github.com/ovh
 - https://github.com/GNOME
+- https://github.com/fish-shell
 - https://github.com/Debian
 - https://github.com/systemd
 - https://github.com/qemu
@@ -117,6 +118,7 @@
 - https://github.com/firecracker-microvm
 - https://github.com/sqlite
 - https://github.com/starship
+- https://github.com/nushell
 - https://github.com/blender
 - https://github.com/canonical
 - https://github.com/c3lang
@@ -144,6 +146,7 @@
 - https://github.com/tigerbeetle
 - https://github.com/toml-rs
 - https://github.com/tukaani-project
+- https://github.com/wavetermdev
 - https://github.com/pendulum-project
 - https://github.com/podman-desktop
 - https://github.com/LadybirdBrowser
@@ -152,6 +155,7 @@
 - https://github.com/rustfs
 - https://github.com/RsyncProject
 - https://github.com/jj-vcs
+- https://github.com/ghostty-org
 - https://github.com/trifectatechfoundation
 - https://github.com/X11Libre
 - https://github.com/gitui-org
