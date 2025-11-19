@@ -49,7 +49,7 @@ Development Environment Configuration
 
 - **_Editors:_** [Helix][Helix Editor], [NeoVim][NVIM], [Zed][Zed Editor]
 
-- **_Microcontrollers:_** [Arduino][Arduino Micro], [Espressif Systems][Espressif], [Raspberry Pi][Raspberry Micro], [STMicroElectronics][STME]
+- **_Microcontrollers:_** [Arduino][Arduino Micro], [Espressif Systems][Espressif], [Raspberry Pi][Raspberry Micro], [ST Micro-Electronics][STME]
 
 - **_Programming Languages:_** [C++][C++ Language], [Dart][Dart Language], [Go][Go Language], [Rust][Rust Language]
 
