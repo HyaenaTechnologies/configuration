@@ -6,54 +6,20 @@ pub fn print_help_message() -> () {
 
     writeln!(
         standard_output,
-        "\x1b[32;1;3;4mGit Respository Update Tool\x1b[0m"
-    )
-    .unwrap();
-    writeln!(standard_output, "").unwrap();
-    writeln!(
-        standard_output,
-        "\x1b[32;1;3mCommands:\t\tDescription:\x1b[0m"
-    )
-    .unwrap();
-    writeln!(standard_output, "").unwrap();
-    writeln!(
-        standard_output,
-        "\x1b[32;3mclean\x1b[0m\t\tGit Garbage Collection"
-    )
-    .unwrap();
-    writeln!(
-        standard_output,
-        "\x1b[32;3mhelp\x1b[0m\t\tPrint Commands and Flags"
-    )
-    .unwrap();
-    writeln!(standard_output, "\x1b[32;3mprune\x1b[0m\t\tGit Prune").unwrap();
-    writeln!(
-        standard_output,
-        "\x1b[32;3mversion\x1b[0m\t\tPrint Version Number"
-    )
-    .unwrap();
-    writeln!(standard_output, "\x1b[32;3mupdate\x1b[0m\t\tGit Pull").unwrap();
-    writeln!(standard_output, "").unwrap();
-    writeln!(standard_output, "\x1b[32;1;3mFlags:\t\tDescription:\x1b[0m").unwrap();
-    writeln!(standard_output, "").unwrap();
-    writeln!(
-        standard_output,
-        "\x1b[32;3m--c\x1b[0m\t\tGit Garbage Collection"
-    )
-    .unwrap();
-    writeln!(
-        standard_output,
-        "\x1b[32;3m--h\x1b[0m\t\tPrint Commands and Flags"
-    )
-    .unwrap();
-    writeln!(standard_output, "\x1b[32;3m--p\x1b[0m\t\tGit Prune").unwrap();
-    writeln!(
-        standard_output,
-        "\x1b[32;3m--v\x1b[0m\t\tPrint Version Number"
-    )
-    .unwrap();
-    writeln!(standard_output, "\x1b[32;3m--u\x1b[0m\t\tGit Pull").unwrap();
-    writeln!(standard_output, "").unwrap();
+        "\t\x1b[32;1;3;4mGit Respository Update Tool\x1b[0m\n
+        \x1b[32;1;3mCommands:\tDescription:\x1b[0m\n
+        \x1b[32;3mclean\x1b[0m\t\tGit Garbage Collection   
+        \x1b[32;3mhelp\x1b[0m\t\tPrint Commands and Flags
+        \x1b[32;3mprune\x1b[0m\t\tGit Prune
+        \x1b[32;3mversion\x1b[0m\t\tPrint Version Number
+        \x1b[32;3mupdate\x1b[0m\t\tGit Pull\n
+        \x1b[32;1;3mFlags:\t\tDescription:\x1b[0m\n
+        \x1b[32;3m--c\x1b[0m\t\tGit Garbage Collection
+        \x1b[32;3m--h\x1b[0m\t\tPrint Commands and Flags
+        \x1b[32;3m--p\x1b[0m\t\tGit Prune
+        \x1b[32;3m--v\x1b[0m\t\tPrint Version Number
+        \x1b[32;3m--u\x1b[0m\t\tGit Pull
+        ").unwrap();
 
     return ();
 }

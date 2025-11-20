@@ -42,7 +42,7 @@ jobs:
       - name: Test Package
         run: dart test
 
-      - name: RUn Package
+      - name: Run Package
         run: dart run
 
       - name: Compile Package
