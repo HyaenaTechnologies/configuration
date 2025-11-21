@@ -17,7 +17,6 @@
 - https://github.com/NetBSD
 - https://github.com/torvalds
 - https://github.com/arduino-libraries
-- https://github.com/mate-desktop
 - https://github.com/gnuradio
 - https://github.com/raspberrypi
 - https://github.com/google
@@ -56,6 +55,7 @@
 - https://github.com/microsoft
 - https://github.com/webmproject
 - https://github.com/neovim
+- https://github.com/grafana
 - https://github.com/mdn
 - https://github.com/docker-library
 - https://github.com/SELinuxProject
@@ -73,7 +73,6 @@
 - https://github.com/xfce-mirror
 - https://github.com/STMicroelectronics
 - https://github.com/riscv
-- https://github.com/surrealdb
 - https://github.com/ChromeDevTools
 - https://github.com/WebAssembly
 - https://github.com/serde-rs
@@ -108,7 +107,6 @@
 - https://github.com/linux-mobile-broadband
 - https://github.com/envoyproxy
 - https://github.com/PipeWire
-- https://github.com/lxqt
 - https://github.com/kata-containers
 - https://github.com/odin-lang
 - https://github.com/rust-cli

@@ -23,6 +23,7 @@
 - Restate
 - Rivet
 - RustDesk
+- Task
 - Temporal
 - Typst
 - Uber
@@ -54,6 +55,7 @@
 - https://github.com/restatedev/restate
 - https://github.com/rivet-dev/engine
 - https://github.com/rustdesk/rustdesk
+- https://github.com/go-task/task
 - https://github.com/temporalio/temporal
 - https://github.com/typst/typst
 - https://github.com/windmill-labs/windmill

@@ -31,7 +31,6 @@
 [SQLite Database]: https://sqlite.org/
 [SeaweedFS Database]: https://seaweedfs.com/
 [STME]: https://www.st.com/
-[Surreal Database]: https://surrealdb.com/
 [TigerBeetle Database]: https://tigerbeetle.com/
 [Turso Database]: https://turso.tech/
 [Victoria Database]: https://victoriametrics.com/
@@ -64,8 +63,6 @@ Development Environment Configuration
 ## Databases
 
 - **_Columnar:_** [ClickHouse][ClickHouse Database], [Duck][Duck Database]
-
-- **_Graph:_** [Surreal][Surreal Database]
 
 - **_Object Storage:_** [Minio][Minio Database], [RustFS][RustFS Database], [SeaweedFS][SeaweedFS Database]
 
