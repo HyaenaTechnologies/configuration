@@ -1,11 +1,11 @@
 mod arguments;
-use arguments::argument_tokenizer::tokenize_arguments;
+use crate::arguments::parser::parse;
 
 mod git;
 
 // Main Entry Point
 fn main() -> () {
-    tokenize_arguments();
+    parse();
 
     return ();
 }

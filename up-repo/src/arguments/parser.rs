@@ -12,8 +12,8 @@ use crate::git::{
     clean_repository::clean_repo, prune_repository::prune_repo, update_repository::update_repo,
 };
 
-// Command Line Argument Tokenizer
-pub fn tokenize_arguments() -> ExitCode {
+// Command Line Argument Parser
+pub fn parse() -> ExitCode {
     let command_line_arguments: Vec<String> = args().collect();
     let mut standard_output: StdoutLock = stdout().lock();
 
@@ -39,7 +39,6 @@ pub fn tokenize_arguments() -> ExitCode {
             "prune" | "--p" => {
                 prune_repo();
             }
-
             "version" | "--v" => {
                 print_version_number();
             }
@@ -50,7 +49,7 @@ pub fn tokenize_arguments() -> ExitCode {
                 writeln!(
                     standard_output,
                     "\x1b[31;1;3;4mUknown Command or Flag:\x1b[0m {:#?}",
-                    command_line_arguments[1].trim()
+                    command_line_arguments[1]
                 )
                 .unwrap();
                 writeln!(standard_output, "").unwrap();

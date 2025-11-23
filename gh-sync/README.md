@@ -21,7 +21,7 @@ cargo build --release --target x86_64-unknown-linux-gnu
 
 mv ./target/x86_64-unknown-linux-gnu/release/gh-sync ./binary
 
-sudo ./binary/gh-sync
+sudo ./binary/gh-sync --h
 ```
 
 ## Install GitHub Synchronize
