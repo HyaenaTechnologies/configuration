@@ -1,3 +1,4 @@
+[CLIDoc]: https://github.com/HyaenaTechnologies/tools-utilities/blob/main/null-log/documentation/null-log.md
 [Rust Language]: https://rust-lang.org
 
 # Null Log
@@ -11,6 +12,7 @@ Clean Log File Contents - Retain Log Files - On Unix Operating Systems
 
 ## Build
 
+- [Command Line Documentation][CLIDoc]
 - [Rust][Rust Language]
 
 ```shell

@@ -1,4 +1,4 @@
-[CLIDoc]: https://github.com/HyaenaTechnologies/tools-utilities/blob/main/up-repo/documentation/up-repo.md
+[CLIDoc]: https://github.com/HyaenaTechnologies/tools-utilities/blob/main/gh-data/documentation/gh-data.md
 [Rust Language]: https://rust-lang.org
 
 # GitHub Data

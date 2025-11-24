@@ -9,14 +9,14 @@
 
 ## Flags
 
-| Flag           | Description              |
-| -------------- | ------------------------ |
-| --following    | Write Following Data     |
-| --f            | Write Following Data     |
-| --h            | Print Commands and Flags |
-| --repositories | Write Repository Data    |
-| --r            | Write Repository Data    |
-| --starred      | Write Starred Data       |
-| --s            | Write Starred Data       |
-| --v            | Print Version Number     |
+| Flag                                  | Description              |
+| ------------------------------------- | ------------------------ |
+| --following users/GitHubUser/repos    | Write Following Data     |
+| --f users/GitHubUser/repos            | Write Following Data     |
+| --h                                   | Print Commands and Flags |
+| --repositories users/GitHubUser/repos | Write Repository Data    |
+| --r users/GitHubUser/repos            | Write Repository Data    |
+| --starred users/GitHubUser/repos      | Write Starred Data       |
+| --s users/GitHubUser/repos            | Write Starred Data       |
+| --v                                   | Print Version Number     |
 

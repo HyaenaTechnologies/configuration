@@ -1,3 +1,4 @@
+[CLIDoc]: https://github.com/HyaenaTechnologies/tools-utilities/blob/main/gh-sync/documentation/gh-sync.md
 [Rust Language]: https://rust-lang.org
 
 # GitHub Synchronize
@@ -10,6 +11,7 @@ Synchronize GitHub Forks using the GitHub Command Line Interface
 
 ## Build
 
+- [Command Line Documentation][CLIDoc]
 - [Rust][Rust Language]
 
 ```shell
