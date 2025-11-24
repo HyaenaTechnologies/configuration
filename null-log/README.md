@@ -22,7 +22,7 @@ cargo build --release --target x86_64-unknown-linux-gnu
 
 mv ./target/x86_64-unknown-linux-gnu/release/null-log ./binary
 
-sudo ./binary/null-log --h
+./binary/null-log --h
 ```
 
 ## Install Null Log
