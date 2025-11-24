@@ -3,7 +3,11 @@
 
 # Null Log
 
-Clean Log File Contents - Retain Log Files - On Unix Operating Systems
+Clean Log File Contents - Retain Log Files
+
+## Dependencies
+
+- Unix /dev/null
 
 ## Features
 

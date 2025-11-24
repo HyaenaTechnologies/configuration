@@ -3,7 +3,11 @@
 
 # GitHub Data
 
-Write GitHub Profile Repository Data to Markdown Files
+Write GitHub Profile Data to Markdown Files
+
+## Dependencies
+
+- https://github.com/cli/cli
 
 ## Features
 

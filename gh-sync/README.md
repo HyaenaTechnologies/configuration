@@ -3,7 +3,11 @@
 
 # GitHub Synchronize
 
-Synchronize GitHub Forks using the GitHub Command Line Interface
+Synchronize GitHub Forks
+
+## Dependencies
+
+- https://github.com/cli/cli
 
 ## Features
 
