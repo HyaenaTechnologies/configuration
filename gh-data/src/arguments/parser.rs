@@ -12,8 +12,8 @@ use crate::github::{
     write_folliwng::following, write_repositories::repositories, write_stars::starred,
 };
 
-// Command Line Argument Tokenizer
-pub fn tokenize_arguments() -> ExitCode {
+// Command Line Argument Parse
+pub fn parse() -> ExitCode {
     let command_line_arguments: Vec<String> = args().collect();
     let mut standard_output: StdoutLock = stdout().lock();
 

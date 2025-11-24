@@ -1,11 +1,11 @@
 mod arguments;
-use arguments::argument_tokenizer::tokenize_arguments;
+use arguments::parser::parse;
 
 mod github;
 
 // Main Entry Point
 fn main() -> () {
-    tokenize_arguments();
+    parse();
 
     return ();
 }
