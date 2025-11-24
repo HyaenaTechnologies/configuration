@@ -19,7 +19,7 @@ pub fn repositories(user: &str) -> () {
         .arg(".[].html_url")
         .arg("--paginate")
         .output();
-    let file_path: PathBuf = PathBuf::from("./stars.md");
+    let file_path: PathBuf = PathBuf::from("./repositories.md");
     let markdown_file: Result<File, Error> = File::create(file_path);
     let mut standard_output: StdoutLock = stdout().lock();
 
