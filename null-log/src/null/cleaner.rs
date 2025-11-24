@@ -13,6 +13,7 @@ use std::{
 // Clean Logs by Copying the contents of /dev/null to the Log Files
 pub fn clean_logs(directory: &str) -> () {
     let log_directory: ReadDir = read_dir(directory).unwrap();
+    let mut standard_output: StdoutLock = stdout().lock();
 
     for directory_entry in log_directory {
         let entry: DirEntry = directory_entry.unwrap();
@@ -21,7 +22,6 @@ pub fn clean_logs(directory: &str) -> () {
         if path.is_file() {
             let clean_logs: Result<Output, Error> =
                 Command::new("cp").arg("/dev/null").arg(path).output();
-            let mut standard_output: StdoutLock = stdout().lock();
 
             match clean_logs {
                 Ok(cleaning) => {
@@ -35,7 +35,9 @@ pub fn clean_logs(directory: &str) -> () {
                 }
             };
         } else {
-            return ();
+            writeln!(standard_output, "Skipping...").unwrap();
         }
     }
+
+    return ();
 }

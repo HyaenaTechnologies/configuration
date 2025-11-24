@@ -8,7 +8,7 @@ use std::{
 
 use super::{print_help::print_help_message, print_version::print_version_number};
 
-use crate::github::synchronize_repositories::synch_repo;
+use crate::github::synchronize_repositories::sync_repo;
 
 // Command Line Argument Parser
 pub fn parse() -> ExitCode {
@@ -35,7 +35,7 @@ pub fn parse() -> ExitCode {
                 print_version_number();
             }
             &_ => {
-                synch_repo(command_line_arguments[1].trim());
+                sync_repo(command_line_arguments[1].trim());
             }
         };
     };

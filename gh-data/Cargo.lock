@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "github_synchronize"
+name = "github_data"
 version = "1.0.0"
