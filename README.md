@@ -8,7 +8,7 @@
 [FedoraOS]: https://fedoraproject.org/
 [UbuntuOS]: https://ubuntu.com/
 [Arduino Micro]: https://arduino.cc/
-[C++ Language]: https://learn.microsoft.com/en-us/cpp/
+[C Language]: https://learn.microsoft.com/en-us/cpp/
 [ClickHouse Database]: https://clickhouse.com/
 [Dart Language]: https://dart.dev/
 [Duck Database]: https://www.duckdb.org/
@@ -50,7 +50,7 @@ Development Environment Configuration
 
 - **_Microcontrollers:_** [Arduino][Arduino Micro], [Espressif Systems][Espressif], [Raspberry Pi][Raspberry Micro], [ST Micro-Electronics][STME]
 
-- **_Programming Languages:_** [C++][C++ Language], [Dart][Dart Language], [Go][Go Language], [Rust][Rust Language]
+- **_Programming Languages:_** [C][C Language], [Dart][Dart Language], [Go][Go Language], [Rust][Rust Language]
 
 - **_Linux Distrobutions:_** [Arch][ArchOS], [Debian][DebianOS], [Fedora][FedoraOS], [Ubuntu][UbuntuOS]
 
