@@ -116,7 +116,7 @@ starship_preexec() {
     # Avoid restarting the timer for commands in the same pipeline
     if [ "${STARSHIP_PREEXEC_READY:-}" = "true" ]; then
         STARSHIP_PREEXEC_READY=false
-        STARSHIP_START_TIME=$(/usr/bin/starship time)
+        STARSHIP_START_TIME=$(/usr/local/bin/starship time)
     fi
 
     : "$PREV_LAST_ARG"
@@ -165,15 +165,15 @@ starship_precmd() {
     local -a ARGS=(--terminal-width="${COLUMNS}" --status="${STARSHIP_CMD_STATUS}" --pipestatus="${STARSHIP_PIPE_STATUS[*]}" --jobs="${NUM_JOBS}" --shlvl="${SHLVL}")
     # Prepare the timer data, if needed.
     if [[ -n "${STARSHIP_START_TIME-}" ]]; then
-        STARSHIP_END_TIME=$(/usr/bin/starship time)
+        STARSHIP_END_TIME=$(/usr/local/bin/starship time)
         STARSHIP_DURATION=$((STARSHIP_END_TIME - STARSHIP_START_TIME))
         ARGS+=( --cmd-duration="${STARSHIP_DURATION}")
         STARSHIP_START_TIME=""
     fi
-    PS1="$(/usr/bin/starship prompt "${ARGS[@]}")"
+    PS1="$(/usr/local/bin/starship prompt "${ARGS[@]}")"
     if [[ ${BLE_ATTACHED-} ]]; then
         local nlns=${PS1//[!$'\n']}
-        bleopt prompt_rps1="$nlns$(/usr/bin/starship prompt --right "${ARGS[@]}")"
+        bleopt prompt_rps1="$nlns$(/usr/local/bin/starship prompt --right "${ARGS[@]}")"
     fi
     STARSHIP_PREEXEC_READY=true  # Signal that we can safely restart the timer
 }
@@ -193,7 +193,7 @@ elif [[ -n "${bash_preexec_imported:-}" || -n "${__bp_imported:-}" || -n "${pree
 else
     if [[ -n "${BASH_VERSION-}" ]] && [[ "${BASH_VERSINFO[0]}" -gt 4 || ( "${BASH_VERSINFO[0]}" -eq 4 && "${BASH_VERSINFO[1]}" -ge 4 ) ]]; then
         starship_preexec_ps0() {
-            /usr/bin/starship time
+            /usr/local/bin/starship time
         }
         # In order to set STARSHIP_START_TIME use an arithmetic expansion that evaluates to 0
         # To avoid printing anything, use the return value in an ${var:offset:length} substring expansion
@@ -233,7 +233,7 @@ fi
 shopt -s checkwinsize
 
 # Set up the start time and STARSHIP_SHELL, which controls shell-specific sequences
-STARSHIP_START_TIME=$(/usr/bin/starship time)
+STARSHIP_START_TIME=$(/usr/local/bin/starship time)
 export STARSHIP_SHELL="bash"
 
 # Set up the session key that will be used to store logs
@@ -242,7 +242,7 @@ STARSHIP_SESSION_KEY="${STARSHIP_SESSION_KEY}0000000000000000" # Pad it to 16+ c
 export STARSHIP_SESSION_KEY=${STARSHIP_SESSION_KEY:0:16}; # Trim to 16-digits if excess.
 
 # Set the continuation prompt
-PS2="$(/usr/bin/starship prompt --continuation)"
+PS2="$(/usr/local/bin/starship prompt --continuation)"
 ```
 
 ## Fish
@@ -287,7 +287,7 @@ function fish_prompt
             printf "\e[1;32m❯\e[0m "
         end
     else
-        /usr/bin/starship prompt --terminal-width="$COLUMNS" --status=$STARSHIP_CMD_STATUS --pipestatus="$STARSHIP_CMD_PIPESTATUS" --keymap=$STARSHIP_KEYMAP --cmd-duration=$STARSHIP_DURATION --jobs=$STARSHIP_JOBS
+        /usr/local/bin/starship prompt --terminal-width="$COLUMNS" --status=$STARSHIP_CMD_STATUS --pipestatus="$STARSHIP_CMD_PIPESTATUS" --keymap=$STARSHIP_KEYMAP --cmd-duration=$STARSHIP_DURATION --jobs=$STARSHIP_JOBS
     end
 end
 
@@ -315,7 +315,7 @@ function fish_right_prompt
             printf ""
         end
     else
-        /usr/bin/starship prompt --right --terminal-width="$COLUMNS" --status=$STARSHIP_CMD_STATUS --pipestatus="$STARSHIP_CMD_PIPESTATUS" --keymap=$STARSHIP_KEYMAP --cmd-duration=$STARSHIP_DURATION --jobs=$STARSHIP_JOBS
+        /usr/local/bin/starship prompt --right --terminal-width="$COLUMNS" --status=$STARSHIP_CMD_STATUS --pipestatus="$STARSHIP_CMD_PIPESTATUS" --keymap=$STARSHIP_KEYMAP --cmd-duration=$STARSHIP_DURATION --jobs=$STARSHIP_JOBS
     end
 end
 
@@ -371,7 +371,7 @@ set -gx STARSHIP_SESSION_KEY (string sub -s1 -l16 (random)(random)(random)(rando
 export-env { $env.STARSHIP_SHELL = "nu"; load-env {
     STARSHIP_SESSION_KEY: (random chars -l 16)
     PROMPT_MULTILINE_INDICATOR: (
-        ^/usr/bin/starship prompt --continuation
+        ^/usr/local/bin/starship prompt --continuation
     )
 
     # Does not play well with default character module.
@@ -383,7 +383,7 @@ export-env { $env.STARSHIP_SHELL = "nu"; load-env {
             # The initial value of `$env.CMD_DURATION_MS` is always `0823`, which is an official setting.
             # See https://github.com/nushell/nushell/discussions/6402#discussioncomment-3466687.
             let cmd_duration = if $env.CMD_DURATION_MS == "0823" { 0 } else { $env.CMD_DURATION_MS };
-            ^/usr/bin/starship prompt
+            ^/usr/local/bin/starship prompt
                 --cmd-duration $cmd_duration
                 $"--status=($env.LAST_EXIT_CODE)"
                 --terminal-width (term size).columns
@@ -406,7 +406,7 @@ export-env { $env.STARSHIP_SHELL = "nu"; load-env {
             # The initial value of `$env.CMD_DURATION_MS` is always `0823`, which is an official setting.
             # See https://github.com/nushell/nushell/discussions/6402#discussioncomment-3466687.
             let cmd_duration = if $env.CMD_DURATION_MS == "0823" { 0 } else { $env.CMD_DURATION_MS };
-            ^/usr/bin/starship prompt
+            ^/usr/local/bin/starship prompt
                 --right
                 --cmd-duration $cmd_duration
                 $"--status=($env.LAST_EXIT_CODE)"
@@ -441,7 +441,7 @@ zmodload zsh/parameter  # Needed to access jobstates variable for STARSHIP_JOBS_
 if [[ $ZSH_VERSION == ([1-4]*) ]]; then
     # ZSH <= 5; Does not have a built-in variable so we will rely on Starship's inbuilt time function.
     __starship_get_time() {
-        STARSHIP_CAPTURED_TIME=$(/usr/bin/starship time)
+        STARSHIP_CAPTURED_TIME=$(/usr/local/bin/starship time)
     }
 else
     zmodload zsh/datetime
@@ -525,8 +525,8 @@ VIRTUAL_ENV_DISABLE_PROMPT=1
 
 setopt promptsubst
 
-PROMPT='$('/usr/bin/starship' prompt --terminal-width="$COLUMNS" --keymap="${KEYMAP:-}" --status="${STARSHIP_CMD_STATUS:-}" --pipestatus="${STARSHIP_PIPE_STATUS[*]:-}" --cmd-duration="${STARSHIP_DURATION:-}" --jobs="$STARSHIP_JOBS_COUNT")'
-RPROMPT='$('/usr/bin/starship' prompt --right --terminal-width="$COLUMNS" --keymap="${KEYMAP:-}" --status="${STARSHIP_CMD_STATUS:-}" --pipestatus="${STARSHIP_PIPE_STATUS[*]:-}" --cmd-duration="${STARSHIP_DURATION:-}" --jobs="$STARSHIP_JOBS_COUNT")'
-PROMPT2="$(/usr/bin/starship prompt --continuation)"
+PROMPT='$('/usr/local/bin/starship' prompt --terminal-width="$COLUMNS" --keymap="${KEYMAP:-}" --status="${STARSHIP_CMD_STATUS:-}" --pipestatus="${STARSHIP_PIPE_STATUS[*]:-}" --cmd-duration="${STARSHIP_DURATION:-}" --jobs="$STARSHIP_JOBS_COUNT")'
+RPROMPT='$('/usr/local/bin/starship' prompt --right --terminal-width="$COLUMNS" --keymap="${KEYMAP:-}" --status="${STARSHIP_CMD_STATUS:-}" --pipestatus="${STARSHIP_PIPE_STATUS[*]:-}" --cmd-duration="${STARSHIP_DURATION:-}" --jobs="$STARSHIP_JOBS_COUNT")'
+PROMPT2="$(/usr/local/bin/starship prompt --continuation)"
 ```
 
