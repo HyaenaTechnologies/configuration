@@ -52,6 +52,10 @@
 - https://espressif.com/
 - https://raspberrypi.com/documentation/
 - https://www.st.com/
+- https://docs.codeberg.org/
+- https://docs.gitea.com/
+- https://man.sr.ht/
 - https://docs.github.com/en
 - https://openstax.org/subjects
+- https://astexplorer.net/
 
