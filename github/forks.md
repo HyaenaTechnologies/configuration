@@ -26,4 +26,8 @@
 - https://github.com/dagu-org/dagu
 - https://github.com/cadence-workflow/cadence
 - https://github.com/flipt-io/flipt
+- https://github.com/opencost/opencost
+- https://github.com/radius-project/radius
+- https://github.com/openrundev/openrun
+- https://github.com/tinkerbell/tinkerbell
 
