@@ -13,5 +13,4 @@
 - https://gitea.com/HyaenaTechnologies/configuration
 - https://gitea.com/HyaenaTechnologies/libraries
 - https://gitea.com/HyaenaTechnologies/specification
-- https://gitea.com/HyaenaTechnologies/tools-utilities
 
