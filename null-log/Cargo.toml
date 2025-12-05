@@ -8,8 +8,11 @@ include = [
   "Cargo.toml",
   "src/**/*"
 ]
+license.workspace = true
+license-file.workspace = true
 name = "null_log"
 publish = false
+readme = "README.md"
 rust-version.workspace = true
 version = "1.0.0"
 
