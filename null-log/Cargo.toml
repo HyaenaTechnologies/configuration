@@ -3,14 +3,14 @@ resolver = "2"
 
 [package]
 description = "Clean Logs"
-edition = "2024"
+edition.workspace = true
 include = [
   "Cargo.toml",
   "src/**/*"
 ]
 name = "null_log"
 publish = false
-rust-version = "1.91.1"
+rust-version.workspace = true
 version = "1.0.0"
 
 [[bin]]

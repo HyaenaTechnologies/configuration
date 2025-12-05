@@ -1,0 +1,18 @@
+[workspace]
+members = ["gh-data", "gh-sync", "null-log"]
+resolver = "2"
+
+[workspace.package]
+description = "Development Environment Configuration"
+edition = "2024"
+include = [
+  "Cargo.toml",
+  "src/**/*"
+]
+license = "GNU Affero General Public License Version 3"
+license-file = "LICENSE.md"
+name = "configuration"
+publish = false
+readme = "README.md"
+repository = "https://github.com/HyaenaTechnologies/configuration"
+rust-version = "1.91.1"
