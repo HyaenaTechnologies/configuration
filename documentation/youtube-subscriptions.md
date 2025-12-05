@@ -25,5 +25,4 @@
 - https://www.youtube.com/@dialogueworks01
 - https://www.youtube.com/@dannyhaiphongyt
 - https://www.youtube.com/@judgingfreedom
-- https://www.youtube.com/@redactednews
 
