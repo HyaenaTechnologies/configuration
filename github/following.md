@@ -17,6 +17,7 @@
 - https://github.com/NetBSD
 - https://github.com/torvalds
 - https://github.com/arduino-libraries
+- https://github.com/gitlabhq
 - https://github.com/gnuradio
 - https://github.com/raspberrypi
 - https://github.com/google
@@ -55,7 +56,6 @@
 - https://github.com/microsoft
 - https://github.com/webmproject
 - https://github.com/neovim
-- https://github.com/grafana
 - https://github.com/mdn
 - https://github.com/docker-library
 - https://github.com/SELinuxProject
