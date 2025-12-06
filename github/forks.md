@@ -31,7 +31,7 @@
 - https://github.com/openrundev/openrun
 - https://github.com/tinkerbell/tinkerbell
 - https://github.com/go-gitea/gitea
-- https://gitea.com/gitea/gitea-mirror
 - https://codeberg.org/forgejo/forgejo
 - https://gitea.com/gitea/tea
+- https://gitlab.com/gitlab-org/cli
 
