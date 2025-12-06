@@ -6,7 +6,7 @@
 - https://codeberg.org/HyaenaTechnologiesCompany/libraries
 - https://codeberg.org/HyaenaTechnologiesCompany/specification
 - https://codeberg.org/HyaenaTechnologiesCompany/task-orchestration
-- https://codeberg.org/HyaenaTechnologiesCompany/task-orchestration-desktop
+- https://codeberg.org/HyaenaTechnologiesCompany/terminal-shell
 - https://codeberg.org/HyaenaTechnologiesCompany/virtual-machine
 - https://codeberg.org/HyaenaTechnologiesCompany/web-driver
 - https://codeberg.org/HyaenaTechnologiesCompany/web-service
@@ -19,7 +19,7 @@
 - https://gitlab.com/HyaenaTechnologies/libraries
 - https://gitlab.com/HyaenaTechnologies/specification
 - https://gitlab.com/HyaenaTechnologies/task-orchestration
-- https://gitlab.com/HyaenaTechnologies/task-orchestration-desktop
+- https://gitlab.com/HyaenaTechnologies/terminal-shell
 - https://gitlab.com/HyaenaTechnologies/virtual-machine
 - https://gitlab.com/HyaenaTechnologies/web-driver
 - https://gitlab.com/HyaenaTechnologies/web-service
