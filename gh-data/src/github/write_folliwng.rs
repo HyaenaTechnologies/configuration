@@ -2,7 +2,7 @@ use std::{
     fs::File,
     io::{BufRead, Error, Lines, StdoutLock, Write, stdout},
     path::PathBuf,
-    primitive::str,
+    primitive::{str, u8},
     process::{Command, Output, exit},
     result::{
         Result,
@@ -11,7 +11,7 @@ use std::{
 };
 
 // Write GitHub Following Data to a Markdown File
-pub fn following(user: &str) -> () {
+pub fn following(user: &str) -> u8 {
     let github_repositories: Result<Output, Error> = Command::new("gh")
         .arg("api")
         .arg(user)
@@ -54,5 +54,5 @@ pub fn following(user: &str) -> () {
         }
     };
 
-    return ();
+    return 0;
 }

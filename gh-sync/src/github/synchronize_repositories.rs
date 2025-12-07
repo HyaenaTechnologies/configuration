@@ -9,7 +9,7 @@ use std::{
 };
 
 // Synchronize GitHub Forks
-pub fn sync_repo(user: &str) -> () {
+pub fn sync_repo(user: &str) -> u8 {
     let github_repositories: Result<Output, Error> = Command::new("gh")
         .arg("api")
         .arg(user)
@@ -62,5 +62,5 @@ pub fn sync_repo(user: &str) -> () {
         }
     };
 
-    return ();
+    return 0;
 }

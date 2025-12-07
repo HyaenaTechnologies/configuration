@@ -1,10 +1,10 @@
 use std::{
     io::{StdoutLock, Write, stdout},
-    primitive::str,
+    primitive::{str, u8},
 };
 
 // Print Version Number
-pub fn print_version_number() -> () {
+pub fn print_version_number() -> u8 {
     let mut standard_output: StdoutLock = stdout().lock();
     let version_number: &str = "1.0.0";
 
@@ -17,5 +17,5 @@ pub fn print_version_number() -> () {
     )
     .unwrap();
 
-    return ();
+    return 0;
 }

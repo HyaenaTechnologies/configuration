@@ -3,17 +3,17 @@ resolver = "2"
 
 [package]
 description = "Synchronize GitHub Forks"
-edition.workspace = true
+edition = "2024"
 include = [
   "Cargo.toml",
   "src/**/*"
 ]
-license.workspace = true
-license-file.workspace = true
+license = "GNU Affero General Public License Version 3"
+license-file = "LICENSE.md"
 name = "github_synchronize"
 publish = false
 readme = "README.md"
-rust-version.workspace = true
+rust-version = "1.91.1"
 version = "1.0.0"
 
 [[bin]]

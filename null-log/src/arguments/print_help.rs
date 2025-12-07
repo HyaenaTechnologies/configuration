@@ -1,7 +1,10 @@
-use std::io::{StdoutLock, Write, stdout};
+use std::{
+    io::{StdoutLock, Write, stdout},
+    primitive::u8,
+};
 
 // Print Help Command Output
-pub fn print_help_message() -> () {
+pub fn print_help_message() -> u8 {
     let mut standard_output: StdoutLock = stdout().lock();
 
     writeln!(
@@ -18,5 +21,5 @@ pub fn print_help_message() -> () {
     )
     .unwrap();
 
-    return ();
+    return 0;
 }

@@ -2,7 +2,7 @@ use std::{
     fs::{DirEntry, ReadDir, read_dir},
     io::{Error, StdoutLock, Write, stdout},
     path::PathBuf,
-    primitive::str,
+    primitive::{str, u8},
     process::{Command, Output, exit},
     result::{
         Result,
@@ -11,7 +11,7 @@ use std::{
 };
 
 // Clean Logs by Copying the contents of /dev/null to the Log Files
-pub fn clean_logs(directory: &str) -> () {
+pub fn clean_logs(directory: &str) -> u8 {
     let log_directory: ReadDir = read_dir(directory).unwrap();
     let mut standard_output: StdoutLock = stdout().lock();
 
@@ -39,5 +39,5 @@ pub fn clean_logs(directory: &str) -> () {
         }
     }
 
-    return ();
+    return 0;
 }
