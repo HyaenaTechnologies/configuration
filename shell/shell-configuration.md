@@ -6,6 +6,7 @@
 # User specific environment
 export PATH=$PATH:/usr/bin
 export PATH=$PATH:/usr/bin/docker
+export PATH=$PATH:/usr/bin/fortran
 export PATH=$PATH:/usr/bin/go/bin
 export PATH=$PATH:/usr/bin/go/pkg/tool/bin
 export PATH=$PATH:/usr/bin/helix
