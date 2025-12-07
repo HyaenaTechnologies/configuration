@@ -10,10 +10,10 @@
 [Arduino Micro]: https://arduino.cc/
 [C Language]: https://learn.microsoft.com/en-us/cpp/
 [ClickHouse Database]: https://clickhouse.com/
-[Dart Language]: https://dart.dev/
 [Duck Database]: https://www.duckdb.org/
 [Espressif]: https://www.espressif.com/
 [Firecracker VM]: https://firecracker-microvm.github.io/
+[Fortran Language]: https://fortran-lang.org/
 [Git Repositories]: https://git-scm.com
 [Go Language]: https://go.dev/
 [Greptime Database]: https://greptime.com/
@@ -50,7 +50,7 @@ Development Environment Configuration
 
 - **_Microcontrollers:_** [Arduino][Arduino Micro], [Espressif Systems][Espressif], [Raspberry Pi][Raspberry Micro], [ST Micro-Electronics][STME]
 
-- **_Programming Languages:_** [C][C Language], [Dart][Dart Language], [Go][Go Language], [Rust][Rust Language]
+- **_Programming Languages:_** [C][C Language], [Fortran][Fortran Language], [Go][Go Language], [Rust][Rust Language]
 
 - **_Linux Distrobutions:_** [Arch][ArchOS], [Debian][DebianOS], [Fedora][FedoraOS], [Ubuntu][UbuntuOS]
 
