@@ -7,13 +7,11 @@
 - https://gcc.gnu.org/onlinedocs/
 - https://www.sourceware.org/gdb/documentation/
 - https://learn.microsoft.com/en-us/cpp/
-- https://dart.dev/docs
-- https://pub.dev/packages
+- https://fortran-lang.org/learn/
 - https://go.dev/doc/
 - https://pkg.go.dev/std
 - https://rust-lang.org/learn
 - https://crates.io/crates
-- https://www.typescriptlang.org/docs/
 - https://developer.mozilla.org/en-US/docs/Web
 - https://toml.io/en/
 - https://yaml.org/

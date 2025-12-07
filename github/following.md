@@ -24,7 +24,6 @@
 - https://github.com/jackaudio
 - https://github.com/godaddy
 - https://github.com/KhronosGroup
-- https://github.com/dart-lang
 - https://github.com/ovh
 - https://github.com/GNOME
 - https://github.com/fish-shell
@@ -109,7 +108,9 @@
 - https://github.com/PipeWire
 - https://github.com/kata-containers
 - https://github.com/odin-lang
+- https://github.com/harness
 - https://github.com/rust-cli
+- https://github.com/lfortran
 - https://github.com/denoland
 - https://github.com/VictoriaMetrics
 - https://github.com/actions
@@ -119,6 +120,7 @@
 - https://github.com/nushell
 - https://github.com/blender
 - https://github.com/canonical
+- https://github.com/fortran-lang
 - https://github.com/c3lang
 - https://github.com/oxidecomputer
 - https://github.com/sudo-project

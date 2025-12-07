@@ -2,13 +2,15 @@
 
 - https://github.com/llvm/llvm-project
 - https://github.com/gcc-mirror/gcc
-- https://github.com/rust-lang/rust
 - https://github.com/golang/go
-- https://github.com/dart-lang/sdk
+- https://github.com/rust-lang/rust
 - https://github.com/carbon-language/carbon-lang
-- https://github.com/ziglang/zig
 - https://github.com/c3lang/c3c
+- https://github.com/ziglang/zig
 - https://github.com/odin-lang/Odin
+- https://github.com/fortran-lang/stdlib
+- https://github.com/fortran-lang/fpm
+- https://github.com/lfortran/lfortran
 - https://github.com/nushell/nushell
 - https://github.com/fish-shell/fish-shell
 - https://github.com/ghostty-org/ghostty
