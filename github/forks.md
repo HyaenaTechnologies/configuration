@@ -17,6 +17,7 @@
 - https://github.com/junobuild/juno
 - https://github.com/inngest/inngest
 - https://github.com/juspay/hyperswitch
+- https://github.com/woodpecker-ci/woodpecker
 - https://github.com/hatchet-dev/hatchet
 - https://github.com/harness/harness
 - https://github.com/flexprice/flexprice
@@ -26,6 +27,7 @@
 - https://github.com/dagu-org/dagu
 - https://github.com/cadence-workflow/cadence
 - https://github.com/flipt-io/flipt
+- https://github.com/portainer/portainer
 - https://github.com/opencost/opencost
 - https://github.com/radius-project/radius
 - https://github.com/openrundev/openrun
