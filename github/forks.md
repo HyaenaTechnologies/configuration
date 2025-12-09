@@ -30,6 +30,8 @@
 - https://github.com/radius-project/radius
 - https://github.com/openrundev/openrun
 - https://github.com/tinkerbell/tinkerbell
+- https://github.com/jetkvm/kvm
+- https://github.com/gogs/gogs
 - https://github.com/go-gitea/gitea
 - https://codeberg.org/forgejo/forgejo
 - https://gitea.com/gitea/tea
