@@ -91,6 +91,7 @@
 - https://github.com/tree-sitter
 - https://github.com/nih-at
 - https://github.com/rust-embedded
+- https://github.com/intel
 - https://github.com/github-linguist
 - https://github.com/git-lfs
 - https://github.com/hetznercloud
@@ -157,6 +158,7 @@
 - https://github.com/jj-vcs
 - https://github.com/ghostty-org
 - https://github.com/trifectatechfoundation
+- https://github.com/arm
 - https://github.com/X11Libre
 - https://github.com/gitui-org
 - https://github.com/wasm-bindgen
