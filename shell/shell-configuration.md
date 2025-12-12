@@ -65,6 +65,7 @@ export PATH=$PATH:~/Zed/bin
 - m4
 - make
 - man-pages
+- man-db
 - mesa
 - ModemManager
 - nano
