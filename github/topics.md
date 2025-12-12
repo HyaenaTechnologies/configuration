@@ -8,6 +8,9 @@
 - https://github.com/topics/arm32
 - https://github.com/topics/ascii
 - https://github.com/topics/ast
+- https://github.com/topics/assembler
+- https://github.com/topics/assembly
+- https://github.com/topics/assembly-language
 - https://github.com/topics/astronomy
 - https://github.com/topics/audio-encoding
 - https://github.com/topics/authentication
@@ -34,6 +37,7 @@
 - https://github.com/topics/database
 - https://github.com/topics/data-structures
 - https://github.com/topics/debugger
+- https://github.com/topics/development-environment
 - https://github.com/topics/dhcp
 - https://github.com/topics/dns
 - https://github.com/topics/docker
