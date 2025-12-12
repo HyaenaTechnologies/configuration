@@ -111,8 +111,8 @@
 - https://github.com/odin-lang
 - https://github.com/harness
 - https://github.com/rust-cli
+- https://github.com/netwide-assembler
 - https://github.com/lfortran
-- https://github.com/denoland
 - https://github.com/VictoriaMetrics
 - https://github.com/actions
 - https://github.com/firecracker-microvm
@@ -138,12 +138,12 @@
 - https://github.com/distribution
 - https://github.com/zed-industries
 - https://github.com/duckdb
+- https://github.com/oceanbase
 - https://github.com/lima-vm
 - https://github.com/ydb-platform
 - https://github.com/GreptimeTeam
 - https://github.com/jqlang
 - https://github.com/hyprwm
-- https://github.com/oven-sh
 - https://github.com/tigerbeetle
 - https://github.com/toml-rs
 - https://github.com/tukaani-project

@@ -11,6 +11,7 @@
 - https://github.com/fortran-lang/stdlib
 - https://github.com/fortran-lang/fpm
 - https://github.com/lfortran/lfortran
+- https://github.com/netwide-assembler/nasm
 - https://github.com/intel/llvm
 - https://github.com/ARM-software/arm-trusted-firmware
 - https://github.com/arm/arm-toolchain
@@ -34,8 +35,6 @@
 - https://github.com/RsyncProject/rsync
 - https://github.com/biomejs/biome
 - https://github.com/swc-project/swc
-- https://github.com/denoland/deno
-- https://github.com/oven-sh/bun
 - https://github.com/rust-postgres/rust-postgres
 - https://github.com/rustfs/rustfs
 - https://github.com/rusqlite/rusqlite
@@ -45,7 +44,6 @@
 - https://github.com/ClickHouse/ClickHouse
 - https://github.com/tursodatabase/libsql
 - https://github.com/wasm-bindgen/walrus
-- https://github.com/wasm-bindgen/wasm-bindgen
 - https://github.com/tigerbeetle/tigerbeetle
 - https://github.com/jqlang/jq
 - https://github.com/influxdata/influxdb
