@@ -69,6 +69,7 @@ export PATH=$PATH:~/Zed/bin
 - mesa
 - ModemManager
 - nano
+- nasm
 - NetworkManager
 - ninja
 - nftables
