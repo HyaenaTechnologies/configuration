@@ -44,6 +44,7 @@ export PATH=$PATH:~/Zed/bin
 - ffmpeg
 - findutils
 - firewalld
+- flang
 - gcc
 - gdb
 - gfortran
