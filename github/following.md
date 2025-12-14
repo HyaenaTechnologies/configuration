@@ -57,6 +57,7 @@
 - https://github.com/neovim
 - https://github.com/mdn
 - https://github.com/docker-library
+- https://github.com/AdaCore
 - https://github.com/SELinuxProject
 - https://github.com/i3
 - https://github.com/toml-lang
@@ -106,6 +107,7 @@
 - https://github.com/ziglang
 - https://github.com/linux-mobile-broadband
 - https://github.com/envoyproxy
+- https://github.com/alire-project
 - https://github.com/PipeWire
 - https://github.com/kata-containers
 - https://github.com/odin-lang

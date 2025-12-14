@@ -8,6 +8,7 @@
 - https://www.sourceware.org/gdb/documentation/
 - https://learn.microsoft.com/en-us/cpp/
 - https://fortran-lang.org/learn/
+- https://learn.adacore.com/
 - https://go.dev/doc/
 - https://pkg.go.dev/std
 - https://rust-lang.org/learn
@@ -42,7 +43,6 @@
 - https://datatracker.ietf.org/
 - https://w3.org/TR/
 - https://vulkan.org/learn
-- https://wayland.freedesktop.org/docs/html/
 - https://docs.helix-editor.com/
 - https://neovim.io/doc/
 - https://zed.dev/docs/
