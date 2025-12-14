@@ -23,6 +23,7 @@
 [Lima VM]: https://lima-vm.io/
 [Minio Database]: https://min.io/
 [NVIM]: https://neovim.io/
+[Pascal Language]: https://www.freepascal.org/
 [Postgres Database]: https://www.postgresql.org/
 [Prometheus Database]: https://prometheus.io/
 [QEMU VM]: https://qemu.org/
@@ -51,7 +52,7 @@ Development Environment Configuration
 
 - **_Microcontrollers:_** [Arduino][Arduino Micro], [Espressif Systems][Espressif], [Raspberry Pi][Raspberry Micro], [ST Micro-Electronics][STME]
 
-- **_Programming Languages:_** [Ada][Ada Language], [C][C Language], [Fortran][Fortran Language], [Go][Go Language], [Rust][Rust Language]
+- **_Programming Languages:_** [Ada][Ada Language], [C][C Language], [Fortran][Fortran Language], [Go][Go Language], [Pascal][Pascal Language], [Rust][Rust Language]
 
 - **_Linux Distrobutions:_** [Arch][ArchOS], [Debian][DebianOS], [Fedora][FedoraOS], [Ubuntu][UbuntuOS]
 

@@ -46,6 +46,7 @@ export PATH=$PATH:~/Zed/bin
 - findutils
 - firewalld
 - flang
+- fpc
 - gcc
 - gdb
 - gfortran

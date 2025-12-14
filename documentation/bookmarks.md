@@ -8,7 +8,9 @@
 - https://www.sourceware.org/gdb/documentation/
 - https://learn.microsoft.com/en-us/cpp/
 - https://fortran-lang.org/learn/
+- https://www.freepascal.org/docs.html
 - https://learn.adacore.com/
+- https://www.adaic.org/ada-resources/
 - https://go.dev/doc/
 - https://pkg.go.dev/std
 - https://rust-lang.org/learn
@@ -19,6 +21,7 @@
 - https://json.org/json-en.html
 - https://commonmark.org/
 - https://www.jwt.io/
+- https://astexplorer.net/
 - https://www.dragonflybsd.org/docs/
 - https://docs.freebsd.org/en/
 - https://netbsd.org/docs/
@@ -55,5 +58,4 @@
 - https://man.sr.ht/
 - https://docs.github.com/en
 - https://openstax.org/subjects
-- https://astexplorer.net/
 
