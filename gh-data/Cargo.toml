@@ -1,0 +1,21 @@
+[workspace]
+resolver = "2"
+
+[package]
+description = "GitHub Profile Data"
+edition = "2024"
+include = [
+  "Cargo.toml",
+  "src/**/*"
+]
+license-file = "LICENSE.md"
+name = "github_data"
+publish = false
+readme = "README.md"
+rust-version = "1.91.1"
+version = "1.0.0"
+
+[[bin]]
+name = "gh-data"
+path = "src/main.rs"
+

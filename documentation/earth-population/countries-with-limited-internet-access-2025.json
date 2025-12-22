@@ -1,0 +1,1037 @@
+[
+  {
+    "flagCode": "TV",
+    "country": "Tuvalu",
+    "InternetUsers": 7106
+  },
+  {
+    "flagCode": "NR",
+    "country": "Nauru",
+    "InternetUsers": 9910
+  },
+  {
+    "flagCode": "PW",
+    "country": "Palau",
+    "InternetUsers": 10200
+  },
+  {
+    "flagCode": "AI",
+    "country": "Anguilla",
+    "InternetUsers": 12000
+  },
+  {
+    "flagCode": "MH",
+    "country": "Marshall Islands",
+    "InternetUsers": 24300
+  },
+  {
+    "flagCode": "SM",
+    "country": "San Marino",
+    "InternetUsers": 29200
+  },
+  {
+    "flagCode": "VG",
+    "country": "British Virgin Islands",
+    "InternetUsers": 30800
+  },
+  {
+    "flagCode": "KN",
+    "country": "Saint Kitts and Nevis",
+    "InternetUsers": 35800
+  },
+  {
+    "flagCode": "GI",
+    "country": "Gibraltar",
+    "InternetUsers": 37500
+  },
+  {
+    "flagCode": "MC",
+    "country": "Monaco",
+    "InternetUsers": 38100
+  },
+  {
+    "flagCode": "GL",
+    "country": "Greenland",
+    "InternetUsers": 38800
+  },
+  {
+    "flagCode": "LI",
+    "country": "Liechtenstein",
+    "InternetUsers": 38900
+  },
+  {
+    "flagCode": "FO",
+    "country": "Faroe Islands",
+    "InternetUsers": 54400
+  },
+  {
+    "flagCode": "DM",
+    "country": "Dominica",
+    "InternetUsers": 55400
+  },
+  {
+    "flagCode": "TO",
+    "country": "Tonga",
+    "InternetUsers": 60800
+  },
+  {
+    "flagCode": "KY",
+    "country": "Cayman Islands",
+    "InternetUsers": 60900
+  },
+  {
+    "flagCode": "VI",
+    "country": "United States Virgin Islands",
+    "InternetUsers": 61200
+  },
+  {
+    "flagCode": "BM",
+    "country": "Bermuda",
+    "InternetUsers": 63500
+  },
+  {
+    "flagCode": "AG",
+    "country": "Antigua and Barbuda",
+    "InternetUsers": 72900
+  },
+  {
+    "flagCode": "VC",
+    "country": "Saint Vincent and the Grenadines",
+    "InternetUsers": 76200
+  },
+  {
+    "flagCode": "AD",
+    "country": "Andorra",
+    "InternetUsers": 78700
+  },
+  {
+    "flagCode": "KI",
+    "country": "Kiribati",
+    "InternetUsers": 79300
+  },
+  {
+    "flagCode": "GD",
+    "country": "Grenada",
+    "InternetUsers": 86900
+  },
+  {
+    "flagCode": "AW",
+    "country": "Aruba",
+    "InternetUsers": 105000
+  },
+  {
+    "flagCode": "SC",
+    "country": "Seychelles",
+    "InternetUsers": 115000
+  },
+  {
+    "flagCode": "CW",
+    "country": "Curacao",
+    "InternetUsers": 126000
+  },
+  {
+    "flagCode": "LC",
+    "country": "Saint Lucia",
+    "InternetUsers": 126000
+  },
+  {
+    "flagCode": "WS",
+    "country": "Samoa",
+    "InternetUsers": 127000
+  },
+  {
+    "flagCode": "GU",
+    "country": "Guam",
+    "InternetUsers": 136000
+  },
+  {
+    "flagCode": "ST",
+    "country": "Sao Tome and Principe",
+    "InternetUsers": 146000
+  },
+  {
+    "flagCode": "VU",
+    "country": "Vanuatu",
+    "InternetUsers": 151000
+  },
+  {
+    "flagCode": "PF",
+    "country": "French Polynesia",
+    "InternetUsers": 205000
+  },
+  {
+    "flagCode": "BB",
+    "country": "Barbados",
+    "InternetUsers": 226000
+  },
+  {
+    "flagCode": "NC",
+    "country": "New Caledonia",
+    "InternetUsers": 241000
+  },
+  {
+    "flagCode": "BZ",
+    "country": "Belize",
+    "InternetUsers": 304000
+  },
+  {
+    "flagCode": "KM",
+    "country": "Comoros",
+    "InternetUsers": 312000
+  },
+  {
+    "flagCode": "SB",
+    "country": "Solomon Islands",
+    "InternetUsers": 352000
+  },
+  {
+    "flagCode": "BS",
+    "country": "Bahamas",
+    "InternetUsers": 381000
+  },
+  {
+    "flagCode": "CV",
+    "country": "Cape Verde",
+    "InternetUsers": 387000
+  },
+  {
+    "flagCode": "IS",
+    "country": "Iceland",
+    "InternetUsers": 392000
+  },
+  {
+    "flagCode": "BN",
+    "country": "Brunei",
+    "InternetUsers": 460000
+  },
+  {
+    "flagCode": "TL",
+    "country": "Timor-Leste",
+    "InternetUsers": 486000
+  },
+  {
+    "flagCode": "SR",
+    "country": "Suriname",
+    "InternetUsers": 500000
+  },
+  {
+    "flagCode": "MT",
+    "country": "Malta",
+    "InternetUsers": 508000
+  },
+  {
+    "flagCode": "ME",
+    "country": "Montenegro",
+    "InternetUsers": 572000
+  },
+  {
+    "flagCode": "MO",
+    "country": "Macau",
+    "InternetUsers": 648000
+  },
+  {
+    "flagCode": "LU",
+    "country": "Luxembourg",
+    "InternetUsers": 669000
+  },
+  {
+    "flagCode": "GY",
+    "country": "Guyana",
+    "InternetUsers": 681000
+  },
+  {
+    "flagCode": "BT",
+    "country": "Bhutan",
+    "InternetUsers": 702000
+  },
+  {
+    "flagCode": "ER",
+    "country": "Eritrea",
+    "InternetUsers": 714000
+  },
+  {
+    "flagCode": "SZ",
+    "country": "Eswatini",
+    "InternetUsers": 720000
+  },
+  {
+    "flagCode": "FJ",
+    "country": "Fiji",
+    "InternetUsers": 739000
+  },
+  {
+    "flagCode": "DJ",
+    "country": "Djibouti",
+    "InternetUsers": 765000
+  },
+  {
+    "flagCode": "CF",
+    "country": "Central African Republic",
+    "InternetUsers": 839000
+  },
+  {
+    "flagCode": "MU",
+    "country": "Mauritius",
+    "InternetUsers": 1010000
+  },
+  {
+    "flagCode": "LS",
+    "country": "Lesotho",
+    "InternetUsers": 1130000
+  },
+  {
+    "flagCode": "GQ",
+    "country": "Equatorial Guinea",
+    "InternetUsers": 1160000
+  },
+  {
+    "flagCode": "EE",
+    "country": "Estonia",
+    "InternetUsers": 1260000
+  },
+  {
+    "flagCode": "GM",
+    "country": "Gambia",
+    "InternetUsers": 1280000
+  },
+  {
+    "flagCode": "TT",
+    "country": "Trinidad and Tobago",
+    "InternetUsers": 1280000
+  },
+  {
+    "flagCode": "CY",
+    "country": "Cyprus",
+    "InternetUsers": 1290000
+  },
+  {
+    "flagCode": "BH",
+    "country": "Bahrain",
+    "InternetUsers": 1610000
+  },
+  {
+    "flagCode": "MK",
+    "country": "North Macedonia",
+    "InternetUsers": 1670000
+  },
+  {
+    "flagCode": "LV",
+    "country": "Latvia",
+    "InternetUsers": 1750000
+  },
+  {
+    "flagCode": "BI",
+    "country": "Burundi",
+    "InternetUsers": 1780000
+  },
+  {
+    "flagCode": "SL",
+    "country": "Sierra Leone",
+    "InternetUsers": 1800000
+  },
+  {
+    "flagCode": "LR",
+    "country": "Liberia",
+    "InternetUsers": 1840000
+  },
+  {
+    "flagCode": "GA",
+    "country": "Gabon",
+    "InternetUsers": 1840000
+  },
+  {
+    "flagCode": "SS",
+    "country": "South Sudan",
+    "InternetUsers": 1900000
+  },
+  {
+    "flagCode": "SI",
+    "country": "Slovenia",
+    "InternetUsers": 1940000
+  },
+  {
+    "flagCode": "MR",
+    "country": "Mauritania",
+    "InternetUsers": 1960000
+  },
+  {
+    "flagCode": "NA",
+    "country": "Namibia",
+    "InternetUsers": 1970000
+  },
+  {
+    "flagCode": "BW",
+    "country": "Botswana",
+    "InternetUsers": 2070000
+  },
+  {
+    "flagCode": "AM",
+    "country": "Armenia",
+    "InternetUsers": 2370000
+  },
+  {
+    "flagCode": "JM",
+    "country": "Jamaica",
+    "InternetUsers": 2370000
+  },
+  {
+    "flagCode": "AL",
+    "country": "Albania",
+    "InternetUsers": 2380000
+  },
+  {
+    "flagCode": "MD",
+    "country": "Moldova",
+    "InternetUsers": 2420000
+  },
+  {
+    "flagCode": "CG",
+    "country": "Republic of the Congo",
+    "InternetUsers": 2460000
+  },
+  {
+    "flagCode": "LT",
+    "country": "Lithuania",
+    "InternetUsers": 2550000
+  },
+  {
+    "flagCode": "PG",
+    "country": "Papua New Guinea",
+    "InternetUsers": 2570000
+  },
+  {
+    "flagCode": "TM",
+    "country": "Turkmenistan",
+    "InternetUsers": 2640000
+  },
+  {
+    "flagCode": "BA",
+    "country": "Bosnia and Herzegovina",
+    "InternetUsers": 2730000
+  },
+  {
+    "flagCode": "TD",
+    "country": "Chad",
+    "InternetUsers": 2740000
+  },
+  {
+    "flagCode": "PR",
+    "country": "Puerto Rico",
+    "InternetUsers": 2830000
+  },
+  {
+    "flagCode": "MN",
+    "country": "Mongolia",
+    "InternetUsers": 2900000
+  },
+  {
+    "flagCode": "QA",
+    "country": "Qatar",
+    "InternetUsers": 3050000
+  },
+  {
+    "flagCode": "GE",
+    "country": "Georgia",
+    "InternetUsers": 3120000
+  },
+  {
+    "flagCode": "UY",
+    "country": "Uruguay",
+    "InternetUsers": 3150000
+  },
+  {
+    "flagCode": "HR",
+    "country": "Croatia",
+    "InternetUsers": 3270000
+  },
+  {
+    "flagCode": "PA",
+    "country": "Panama",
+    "InternetUsers": 3540000
+  },
+  {
+    "flagCode": "TG",
+    "country": "Togo",
+    "InternetUsers": 3560000
+  },
+  {
+    "flagCode": "MW",
+    "country": "Malawi",
+    "InternetUsers": 3950000
+  },
+  {
+    "flagCode": "GN",
+    "country": "Guinea",
+    "InternetUsers": 3960000
+  },
+  {
+    "flagCode": "NI",
+    "country": "Nicaragua",
+    "InternetUsers": 4470000
+  },
+  {
+    "flagCode": "HT",
+    "country": "Haiti",
+    "InternetUsers": 4650000
+  },
+  {
+    "flagCode": "BJ",
+    "country": "Benin",
+    "InternetUsers": 4710000
+  },
+  {
+    "flagCode": "CR",
+    "country": "Costa Rica",
+    "InternetUsers": 4760000
+  },
+  {
+    "flagCode": "PS",
+    "country": "Palestine",
+    "InternetUsers": 4800000
+  },
+  {
+    "flagCode": "SV",
+    "country": "El Salvador",
+    "InternetUsers": 4880000
+  },
+  {
+    "flagCode": "RW",
+    "country": "Rwanda",
+    "InternetUsers": 4930000
+  },
+  {
+    "flagCode": "KW",
+    "country": "Kuwait",
+    "InternetUsers": 4940000
+  },
+  {
+    "flagCode": "LA",
+    "country": "Laos",
+    "InternetUsers": 4970000
+  },
+  {
+    "flagCode": "NZ",
+    "country": "New Zealand",
+    "InternetUsers": 5030000
+  },
+  {
+    "flagCode": "SK",
+    "country": "Slovakia",
+    "InternetUsers": 5050000
+  },
+  {
+    "flagCode": "OM",
+    "country": "Oman",
+    "InternetUsers": 5140000
+  },
+  {
+    "flagCode": "IE",
+    "country": "Ireland",
+    "InternetUsers": 5220000
+  },
+  {
+    "flagCode": "LB",
+    "country": "Lebanon",
+    "InternetUsers": 5340000
+  },
+  {
+    "flagCode": "FI",
+    "country": "Finland",
+    "InternetUsers": 5520000
+  },
+  {
+    "flagCode": "NO",
+    "country": "Norway",
+    "InternetUsers": 5550000
+  },
+  {
+    "flagCode": "SG",
+    "country": "Singapore",
+    "InternetUsers": 5610000
+  },
+  {
+    "flagCode": "BF",
+    "country": "Burkina Faso",
+    "InternetUsers": 5750000
+  },
+  {
+    "flagCode": "PY",
+    "country": "Paraguay",
+    "InternetUsers": 5780000
+  },
+  {
+    "flagCode": "BG",
+    "country": "Bulgaria",
+    "InternetUsers": 5860000
+  },
+  {
+    "flagCode": "DK",
+    "country": "Denmark",
+    "InternetUsers": 5930000
+  },
+  {
+    "flagCode": "TJ",
+    "country": "Tajikistan",
+    "InternetUsers": 6070000
+  },
+  {
+    "flagCode": "RS",
+    "country": "Serbia",
+    "InternetUsers": 6160000
+  },
+  {
+    "flagCode": "NE",
+    "country": "Niger",
+    "InternetUsers": 6370000
+  },
+  {
+    "flagCode": "KG",
+    "country": "Kyrgyzstan",
+    "InternetUsers": 6410000
+  },
+  {
+    "flagCode": "ZW",
+    "country": "Zimbabwe",
+    "InternetUsers": 6450000
+  },
+  {
+    "flagCode": "LY",
+    "country": "Libya",
+    "InternetUsers": 6570000
+  },
+  {
+    "flagCode": "MG",
+    "country": "Madagascar",
+    "InternetUsers": 6600000
+  },
+  {
+    "flagCode": "MZ",
+    "country": "Mozambique",
+    "InternetUsers": 6960000
+  },
+  {
+    "flagCode": "HK",
+    "country": "Hong Kong",
+    "InternetUsers": 7100000
+  },
+  {
+    "flagCode": "ZM",
+    "country": "Zambia",
+    "InternetUsers": 7130000
+  },
+  {
+    "flagCode": "HN",
+    "country": "Honduras",
+    "InternetUsers": 7190000
+  },
+  {
+    "flagCode": "YE",
+    "country": "Yemen",
+    "InternetUsers": 7290000
+  },
+  {
+    "flagCode": "CU",
+    "country": "Cuba",
+    "InternetUsers": 7810000
+  },
+  {
+    "flagCode": "BY",
+    "country": "Belarus",
+    "InternetUsers": 8260000
+  },
+  {
+    "flagCode": "IL",
+    "country": "Israel",
+    "InternetUsers": 8610000
+  },
+  {
+    "flagCode": "GR",
+    "country": "Greece",
+    "InternetUsers": 8660000
+  },
+  {
+    "flagCode": "AT",
+    "country": "Austria",
+    "InternetUsers": 8690000
+  },
+  {
+    "flagCode": "ML",
+    "country": "Mali",
+    "InternetUsers": 8720000
+  },
+  {
+    "flagCode": "BO",
+    "country": "Bolivia",
+    "InternetUsers": 8770000
+  },
+  {
+    "flagCode": "CH",
+    "country": "Switzerland",
+    "InternetUsers": 8860000
+  },
+  {
+    "flagCode": "SY",
+    "country": "Syria",
+    "InternetUsers": 9010000
+  },
+  {
+    "flagCode": "HU",
+    "country": "Hungary",
+    "InternetUsers": 9090000
+  },
+  {
+    "flagCode": "AZ",
+    "country": "Azerbaijan",
+    "InternetUsers": 9230000
+  },
+  {
+    "flagCode": "PT",
+    "country": "Portugal",
+    "InternetUsers": 9270000
+  },
+  {
+    "flagCode": "CZ",
+    "country": "Czech Republic",
+    "InternetUsers": 10100000
+  },
+  {
+    "flagCode": "DO",
+    "country": "Dominican Republic",
+    "InternetUsers": 10200000
+  },
+  {
+    "flagCode": "TN",
+    "country": "Tunisia",
+    "InternetUsers": 10500000
+  },
+  {
+    "flagCode": "SE",
+    "country": "Sweden",
+    "InternetUsers": 10500000
+  },
+  {
+    "flagCode": "SO",
+    "country": "Somalia",
+    "InternetUsers": 10700000
+  },
+  {
+    "flagCode": "JO",
+    "country": "Jordan",
+    "InternetUsers": 10700000
+  },
+  {
+    "flagCode": "KH",
+    "country": "Cambodia",
+    "InternetUsers": 10800000
+  },
+  {
+    "flagCode": "AE",
+    "country": "United Arab Emirates",
+    "InternetUsers": 11100000
+  },
+  {
+    "flagCode": "SN",
+    "country": "Senegal",
+    "InternetUsers": 11300000
+  },
+  {
+    "flagCode": "GT",
+    "country": "Guatemala",
+    "InternetUsers": 11300000
+  },
+  {
+    "flagCode": "BE",
+    "country": "Belgium",
+    "InternetUsers": 11300000
+  },
+  {
+    "flagCode": "CM",
+    "country": "Cameroon",
+    "InternetUsers": 12400000
+  },
+  {
+    "flagCode": "LK",
+    "country": "Sri Lanka",
+    "InternetUsers": 12400000
+  },
+  {
+    "flagCode": "CI",
+    "country": "Ivory Coast",
+    "InternetUsers": 12800000
+  },
+  {
+    "flagCode": "AF",
+    "country": "Afghanistan",
+    "InternetUsers": 13200000
+  },
+  {
+    "flagCode": "UG",
+    "country": "Uganda",
+    "InternetUsers": 14200000
+  },
+  {
+    "flagCode": "SD",
+    "country": "Sudan",
+    "InternetUsers": 14600000
+  },
+  {
+    "flagCode": "EC",
+    "country": "Ecuador",
+    "InternetUsers": 15200000
+  },
+  {
+    "flagCode": "NP",
+    "country": "Nepal",
+    "InternetUsers": 16500000
+  },
+  {
+    "flagCode": "AO",
+    "country": "Angola",
+    "InternetUsers": 17200000
+  },
+  {
+    "flagCode": "VE",
+    "country": "Venezuela",
+    "InternetUsers": 17500000
+  },
+  {
+    "flagCode": "RO",
+    "country": "Romania",
+    "InternetUsers": 17800000
+  },
+  {
+    "flagCode": "NL",
+    "country": "Netherlands",
+    "InternetUsers": 18100000
+  },
+  {
+    "flagCode": "CL",
+    "country": "Chile",
+    "InternetUsers": 18600000
+  },
+  {
+    "flagCode": "KZ",
+    "country": "Kazakhstan",
+    "InternetUsers": 19200000
+  },
+  {
+    "flagCode": "TZ",
+    "country": "Tanzania",
+    "InternetUsers": 20200000
+  },
+  {
+    "flagCode": "GH",
+    "country": "Ghana",
+    "InternetUsers": 24300000
+  },
+  {
+    "flagCode": "AU",
+    "country": "Australia",
+    "InternetUsers": 26100000
+  },
+  {
+    "flagCode": "PE",
+    "country": "Peru",
+    "InternetUsers": 27300000
+  },
+  {
+    "flagCode": "KE",
+    "country": "Kenya",
+    "InternetUsers": 27400000
+  },
+  {
+    "flagCode": "ET",
+    "country": "Ethiopia",
+    "InternetUsers": 28600000
+  },
+  {
+    "flagCode": "UA",
+    "country": "Ukraine",
+    "InternetUsers": 31500000
+  },
+  {
+    "flagCode": "UZ",
+    "country": "Uzbekistan",
+    "InternetUsers": 32700000
+  },
+  {
+    "flagCode": "MM",
+    "country": "Myanmar",
+    "InternetUsers": 33400000
+  },
+  {
+    "flagCode": "SA",
+    "country": "Saudi Arabia",
+    "InternetUsers": 33900000
+  },
+  {
+    "flagCode": "CD",
+    "country": "DR Congo",
+    "InternetUsers": 34000000
+  },
+  {
+    "flagCode": "PL",
+    "country": "Poland",
+    "InternetUsers": 34500000
+  },
+  {
+    "flagCode": "MY",
+    "country": "Malaysia",
+    "InternetUsers": 34900000
+  },
+  {
+    "flagCode": "MA",
+    "country": "Morocco",
+    "InternetUsers": 35300000
+  },
+  {
+    "flagCode": "DZ",
+    "country": "Algeria",
+    "InternetUsers": 36200000
+  },
+  {
+    "flagCode": "IQ",
+    "country": "Iraq",
+    "InternetUsers": 38000000
+  },
+  {
+    "flagCode": "CA",
+    "country": "Canada",
+    "InternetUsers": 38000000
+  },
+  {
+    "flagCode": "CO",
+    "country": "Colombia",
+    "InternetUsers": 41100000
+  },
+  {
+    "flagCode": "AR",
+    "country": "Argentina",
+    "InternetUsers": 41200000
+  },
+  {
+    "flagCode": "ES",
+    "country": "Spain",
+    "InternetUsers": 46200000
+  },
+  {
+    "flagCode": "KR",
+    "country": "South Korea",
+    "InternetUsers": 50400000
+  },
+  {
+    "flagCode": "ZA",
+    "country": "South Africa",
+    "InternetUsers": 50800000
+  },
+  {
+    "flagCode": "IT",
+    "country": "Italy",
+    "InternetUsers": 53300000
+  },
+  {
+    "flagCode": "FR",
+    "country": "France",
+    "InternetUsers": 63400000
+  },
+  {
+    "flagCode": "TH",
+    "country": "Thailand",
+    "InternetUsers": 65400000
+  },
+  {
+    "flagCode": "GB",
+    "country": "United Kingdom",
+    "InternetUsers": 67800000
+  },
+  {
+    "flagCode": "IR",
+    "country": "Iran",
+    "InternetUsers": 73200000
+  },
+  {
+    "flagCode": "TR",
+    "country": "Turkey",
+    "InternetUsers": 77300000
+  },
+  {
+    "flagCode": "BD",
+    "country": "Bangladesh",
+    "InternetUsers": 77700000
+  },
+  {
+    "flagCode": "DE",
+    "country": "Germany",
+    "InternetUsers": 78900000
+  },
+  {
+    "flagCode": "VN",
+    "country": "Vietnam",
+    "InternetUsers": 79800000
+  },
+  {
+    "flagCode": "EG",
+    "country": "Egypt",
+    "InternetUsers": 96300000
+  },
+  {
+    "flagCode": "PH",
+    "country": "Philippines",
+    "InternetUsers": 97500000
+  },
+  {
+    "flagCode": "NG",
+    "country": "Nigeria",
+    "InternetUsers": 107000000
+  },
+  {
+    "flagCode": "JP",
+    "country": "Japan",
+    "InternetUsers": 109000000
+  },
+  {
+    "flagCode": "MX",
+    "country": "Mexico",
+    "InternetUsers": 110000000
+  },
+  {
+    "flagCode": "PK",
+    "country": "Pakistan",
+    "InternetUsers": 116000000
+  },
+  {
+    "flagCode": "RU",
+    "country": "Russia",
+    "InternetUsers": 133000000
+  },
+  {
+    "flagCode": "BR",
+    "country": "Brazil",
+    "InternetUsers": 183000000
+  },
+  {
+    "flagCode": "ID",
+    "country": "Indonesia",
+    "InternetUsers": 212000000
+  },
+  {
+    "flagCode": "US",
+    "country": "United States",
+    "InternetUsers": 322000000
+  },
+  {
+    "flagCode": "IN",
+    "country": "India",
+    "InternetUsers": 806000000
+  },
+  {
+    "flagCode": "CN",
+    "country": "China",
+    "InternetUsers": 1110000000
+  },
+  {
+    "flagCode": null,
+    "country": "Total",
+    "InternetUsers": 5539967816
+  }
+]
