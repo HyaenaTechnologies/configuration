@@ -20,7 +20,6 @@
 - https://github.com/gitlabhq
 - https://github.com/gnuradio
 - https://github.com/raspberrypi
-- https://github.com/google
 - https://github.com/jackaudio
 - https://github.com/KhronosGroup
 - https://github.com/ovh
@@ -50,7 +49,6 @@
 - https://github.com/rust-lang
 - https://github.com/influxdata
 - https://github.com/FirebirdSQL
-- https://github.com/microsoft
 - https://github.com/webmproject
 - https://github.com/neovim
 - https://github.com/mdn
@@ -58,7 +56,6 @@
 - https://github.com/SELinuxProject
 - https://github.com/i3
 - https://github.com/toml-lang
-- https://github.com/semver
 - https://github.com/gfx-rs
 - https://github.com/gcc-mirror
 - https://github.com/rpm-software-management
@@ -130,6 +127,7 @@
 - https://github.com/rustls
 - https://github.com/zigtools
 - https://github.com/helix-editor
+- https://github.com/toml-f
 - https://github.com/advanced-security
 - https://github.com/zed-industries
 - https://github.com/duckdb
