@@ -16,7 +16,6 @@ export PATH=$PATH:/usr/bin/nvim/bin
 export PATH=$PATH:/usr/bin/slang/bin
 export PATH=$PATH:/usr/bin/typescript
 export PATH=$PATH:/usr/bin/virtual-machine
-export PATH=$PATH:/usr/bin/zig
 export PATH=$PATH:/usr/include
 export PATH=$PATH:/usr/lib
 export PATH=$PATH:/usr/local/bin
