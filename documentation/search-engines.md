@@ -10,4 +10,4 @@
 - https://sr.ht/projects?search=%s&sort=recently-updated
 - https://yandex.com/search/?text=%s
 - https://youtube.com/results?search_query=%s
-
+- https://wikipedia.org/wiki/%s
