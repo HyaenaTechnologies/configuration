@@ -1,4 +1,4 @@
-[Ada Language]: https://learn.adacore.com/
+[Ada Language]: https://ada-lang.io/docs/arm
 [DragonflyOS]:https://www.dragonflybsd.org/
 [FreeOS]:https://freebsd.org/
 [IllumOS]: https://illumos.org/
