@@ -5,7 +5,6 @@
 ```shell
 # User specific environment
 export PATH=$PATH:/usr/bin
-export PATH=$PATH:/usr/c3
 export PATH=$PATH:/usr/bin/ada
 export PATH=$PATH:/usr/bin/fortran
 export PATH=$PATH:/usr/bin/go/bin
