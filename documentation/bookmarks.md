@@ -7,7 +7,6 @@
 - https://alire.ada.dev/docs/
 - https://learn.adacore.com/
 - https://www.adaic.org/ada-resources/
-- https://www.modula2.org/reference/index.php
 - https://rust-lang.org/learn
 - https://crates.io/crates
 - https://www.c-language.org/
@@ -23,6 +22,7 @@
 - https://cppreference.com/
 - https://go.dev/doc/
 - https://pkg.go.dev/std
+- https://www.typescriptlang.org/docs/
 - https://developer.mozilla.org/en-US/docs/Web
 - https://toml.io/en/
 - https://yaml.org/
