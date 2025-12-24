@@ -5,9 +5,9 @@
 - https://fpm.fortran-lang.org/
 - https://ada-lang.io/docs/arm
 - https://alire.ada.dev/docs/
-- https://gcc.gnu.org/onlinedocs/gnat_rm/index.html
 - https://learn.adacore.com/
 - https://www.adaic.org/ada-resources/
+- https://www.modula2.org/reference/index.php
 - https://rust-lang.org/learn
 - https://crates.io/crates
 - https://www.c-language.org/

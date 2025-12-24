@@ -23,6 +23,7 @@
 [Influx Database]: https://influxdata.com/
 [Lima VM]: https://lima-vm.io/
 [Minio Database]: https://min.io/
+[Modula Language]: https://www.modula2.org/reference/index.php
 [NVIM]: https://neovim.io/
 [Postgres Database]: https://www.postgresql.org/
 [Prometheus Database]: https://prometheus.io/
@@ -52,7 +53,7 @@ Development Environment Configuration
 
 - **_Microcontrollers:_** [Arduino][Arduino Micro], [Espressif Systems][Espressif], [Raspberry Pi][Raspberry Micro], [ST Micro-Electronics][STME]
 
-- **_Programming Languages:_** [Ada][Ada Language], [C][C Language], [C++][C++ Language], [Fortran][Fortran Language], [Go][Go Language], [Rust][Rust Language]
+- **_Programming Languages:_** [Ada][Ada Language], [C][C Language], [C++][C++ Language], [Fortran][Fortran Language], [Go][Go Language], [Modula-2][Modula Language], [Rust][Rust Language]
 
 - **_Linux Distrobutions:_** [Arch][ArchOS], [Debian][DebianOS], [Fedora][FedoraOS], [Ubuntu][UbuntuOS]
 
