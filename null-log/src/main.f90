@@ -1,4 +1,7 @@
-program hello
-  ! This is a comment line; it is ignored by the compiler
+program null_log
+  implicit none
+  !> Main Entry Point
+
   print *, 'Null Log'
-end program hello
+end program null_log
+

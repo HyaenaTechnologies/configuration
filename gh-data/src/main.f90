@@ -1,4 +1,7 @@
-program hello
-  ! This is a comment line; it is ignored by the compiler
+program gh_data
+  implicit none
+  !> Main Entry Point
+
   print *, 'GitHub Data'
-end program hello
+end program gh_data
+
