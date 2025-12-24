@@ -1,5 +1,5 @@
-module arguments
+module print_help
   implicit none
 
-end module arguments
+end module print_help
 

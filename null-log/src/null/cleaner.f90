@@ -1,5 +1,5 @@
-module null
+module cleaner
   implicit none
 
-end module null
+end module cleaner
 

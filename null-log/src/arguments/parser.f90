@@ -1,5 +1,5 @@
-module arguments
+module parser
   implicit none
 
-end module arguments
+end module parser
 

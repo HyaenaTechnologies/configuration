@@ -1,5 +1,5 @@
-module arguments
+module print_version
   implicit none
 
-end module arguments
+end module print_version
 
