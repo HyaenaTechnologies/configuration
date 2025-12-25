@@ -2,8 +2,8 @@ module arguments
   implicit none
 
   use parser,
-  use print_help,
-  use print_version,
+  use help_message,
+  use version_message,
   
 end module arguments
 

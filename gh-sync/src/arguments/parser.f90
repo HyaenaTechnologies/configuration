@@ -1,5 +1,10 @@
-module arguments
+module parser
   implicit none
 
-end module arguments
+  !> Parse Command Line Arguments
+  integer function parse_arguments() result()
+  
+  end function
+
+end module parser
 
