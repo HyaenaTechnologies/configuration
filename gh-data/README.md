@@ -146,7 +146,7 @@ gfortran ./src/*.f90 ./src/*/*.f90 -o ./build/gh-data
 -Wanalyzer-write-to-string-literal
 ```
 
-## Install System Update Daemon
+## Install GitHub Data
 
 ```shell
 sudo install ./gh-data /usr/local/bin/
