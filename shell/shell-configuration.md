@@ -47,6 +47,7 @@ export PATH=$PATH:~/Zed/bin
 - flang
 - gcc
 - gdb
+- gcobol
 - gfortran
 - git
 - git-lfs

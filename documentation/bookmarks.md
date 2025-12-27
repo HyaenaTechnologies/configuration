@@ -7,6 +7,7 @@
 - https://alire.ada.dev/docs/
 - https://learn.adacore.com/
 - https://www.adaic.org/ada-resources/
+- https://developer.ibm.com/languages/cobol/
 - https://rust-lang.org/learn
 - https://crates.io/crates
 - https://www.c-language.org/
@@ -22,7 +23,7 @@
 - https://cppreference.com/
 - https://go.dev/doc/
 - https://pkg.go.dev/std
-- https://www.typescriptlang.org/docs/
+- https://shader-slang.org/docs/
 - https://developer.mozilla.org/en-US/docs/Web
 - https://toml.io/en/
 - https://yaml.org/
@@ -45,7 +46,6 @@
 - https://git-lfs.com/
 - https://systemd.io/
 - https://openssh.com/
-- https://learn.microsoft.com/en-us/windows/win32/api/
 - https://ti.com/design-development/overview.html
 - https://riscv.org/specifications/ratified/
 - https://bluetooth.com/specifications/specs/

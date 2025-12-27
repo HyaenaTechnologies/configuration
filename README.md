@@ -1,4 +1,5 @@
 [Ada Language]: https://ada-lang.io/docs/arm
+[Cobol Language]: https://gcc.gnu.org/onlinedocs/gcobol/gcobol.html
 [DragonflyOS]:https://www.dragonflybsd.org/
 [FreeOS]:https://freebsd.org/
 [IllumOS]: https://illumos.org/
@@ -17,7 +18,6 @@
 [Firecracker VM]: https://firecracker-microvm.github.io/
 [Fortran Language]: https://fortran-lang.org/
 [Git Repositories]: https://git-scm.com
-[Go Language]: https://go.dev/
 [Greptime Database]: https://greptime.com/
 [Helix Editor]: https://helix-editor.com/
 [Influx Database]: https://influxdata.com/
@@ -28,7 +28,6 @@
 [Prometheus Database]: https://prometheus.io/
 [QEMU VM]: https://qemu.org/
 [Raspberry Micro]: https://www.raspberrypi.com/
-[Rust Language]: https://rust-lang.org/
 [RustFS Database]: https://rustfs.com/en/
 [SQLite Database]: https://sqlite.org/
 [SeaweedFS Database]: https://seaweedfs.com/
@@ -52,7 +51,7 @@ Development Environment Configuration
 
 - **_Microcontrollers:_** [Arduino][Arduino Micro], [Espressif Systems][Espressif], [Raspberry Pi][Raspberry Micro], [ST Micro-Electronics][STME]
 
-- **_Programming Languages:_** [Ada][Ada Language], [C][C Language], [C++][C++ Language], [Fortran][Fortran Language], [Go][Go Language], [Rust][Rust Language]
+- **_Programming Languages:_** [Ada][Ada Language], [C][C Language], [C++][C++ Language], [Cobol][Cobol Language], [Fortran][Fortran Language]
 
 - **_Linux Distrobutions:_** [Arch][ArchOS], [Debian][DebianOS], [Fedora][FedoraOS], [Ubuntu][UbuntuOS]
 
