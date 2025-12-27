@@ -10,8 +10,6 @@
 [FedoraOS]: https://fedoraproject.org/
 [UbuntuOS]: https://ubuntu.com/
 [Arduino Micro]: https://arduino.cc/
-[C Language]: https://www.c-language.org/
-[C++ Language]: https://isocpp.org/
 [ClickHouse Database]: https://clickhouse.com/
 [Duck Database]: https://www.duckdb.org/
 [Espressif]: https://www.espressif.com/
@@ -23,6 +21,7 @@
 [Influx Database]: https://influxdata.com/
 [Lima VM]: https://lima-vm.io/
 [Minio Database]: https://min.io/
+[Modula Language]: https://www.modula2.org/reference/index.php
 [NVIM]: https://neovim.io/
 [Postgres Database]: https://www.postgresql.org/
 [Prometheus Database]: https://prometheus.io/
@@ -51,7 +50,7 @@ Development Environment Configuration
 
 - **_Microcontrollers:_** [Arduino][Arduino Micro], [Espressif Systems][Espressif], [Raspberry Pi][Raspberry Micro], [ST Micro-Electronics][STME]
 
-- **_Programming Languages:_** [Ada][Ada Language], [C][C Language], [C++][C++ Language], [Cobol][Cobol Language], [Fortran][Fortran Language]
+- **_Programming Languages:_** [Ada][Ada Language], [Cobol][Cobol Language], [Fortran][Fortran Language], [Modula 2][Modula Language]
 
 - **_Linux Distrobutions:_** [Arch][ArchOS], [Debian][DebianOS], [Fedora][FedoraOS], [Ubuntu][UbuntuOS]
 

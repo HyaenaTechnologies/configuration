@@ -7,6 +7,7 @@
 - https://alire.ada.dev/docs/
 - https://learn.adacore.com/
 - https://www.adaic.org/ada-resources/
+- https://www.modula2.org/reference/index.php
 - https://developer.ibm.com/languages/cobol/
 - https://rust-lang.org/learn
 - https://crates.io/crates
@@ -24,6 +25,7 @@
 - https://go.dev/doc/
 - https://pkg.go.dev/std
 - https://shader-slang.org/docs/
+- https://www.typescriptlang.org/docs/
 - https://developer.mozilla.org/en-US/docs/Web
 - https://toml.io/en/
 - https://yaml.org/
