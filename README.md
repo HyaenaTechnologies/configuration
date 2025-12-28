@@ -1,4 +1,5 @@
 [Ada Language]: https://ada-lang.io/docs/arm
+[C Language]: https://www.c-language.org/
 [Cobol Language]: https://gcc.gnu.org/onlinedocs/gcobol/gcobol.html
 [DragonflyOS]:https://www.dragonflybsd.org/
 [FreeOS]:https://freebsd.org/
@@ -50,7 +51,7 @@ Development Environment Configuration
 
 - **_Microcontrollers:_** [Arduino][Arduino Micro], [Espressif Systems][Espressif], [Raspberry Pi][Raspberry Micro], [ST Micro-Electronics][STME]
 
-- **_Programming Languages:_** [Ada][Ada Language], [Cobol][Cobol Language], [Fortran][Fortran Language], [Modula 2][Modula Language]
+- **_Programming Languages:_** [Ada][Ada Language], [C][C Language], [Cobol][Cobol Language], [Fortran][Fortran Language], [Modula 2][Modula Language]
 
 - **_Linux Distrobutions:_** [Arch][ArchOS], [Debian][DebianOS], [Fedora][FedoraOS], [Ubuntu][UbuntuOS]
 
