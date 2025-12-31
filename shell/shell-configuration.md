@@ -79,6 +79,7 @@ export PATH=$PATH:~/Zed/bin
 - NetworkManager
 - ninja
 - nftables
+- openocd
 - openssh
 - openssl
 - postgresql

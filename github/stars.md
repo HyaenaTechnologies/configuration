@@ -5,13 +5,13 @@
 - https://github.com/fortran-lang/fpm
 - https://github.com/lfortran/lfortran
 - https://github.com/AdaCore/gnat-llvm
-- https://github.com/golang/go
 - https://github.com/rust-lang/rust
 - https://github.com/carbon-language/carbon-lang
+- https://github.com/golang/go
 - https://github.com/ziglang/zig
 - https://github.com/c3lang/c3c
-- https://github.com/odin-lang/Odin
 - https://github.com/netwide-assembler/nasm
+- https://github.com/odin-lang/Odin
 - https://github.com/shader-slang/slang
 - https://github.com/fortran-lang/test-drive
 - https://github.com/toml-f/toml-f
@@ -26,8 +26,11 @@
 - https://github.com/alire-project/alire
 - https://github.com/go-delve/delve
 - https://github.com/intel/llvm
-- https://github.com/arm/arm-toolchain
 - https://github.com/ARM-software/arm-trusted-firmware
+- https://github.com/zephyrproject-rtos/zephyr
+- https://github.com/coreboot/coreboot
+- https://github.com/openocd-org/openocd
+- https://github.com/arm/arm-toolchain
 - https://github.com/KhronosGroup/ANARI-SDK
 - https://github.com/KhronosGroup/OpenXR-SDK
 - https://github.com/KhronosGroup/SPIRV-LLVM-Translator
@@ -88,7 +91,6 @@
 - https://github.com/firecracker-microvm/firecracker
 - https://github.com/time-rs/time
 - https://github.com/git-lfs/git-lfs
-- https://github.com/gitui-org/gitui
 - https://github.com/toml-rs/toml
 - https://github.com/serde-rs/json
 - https://github.com/serde-rs/serde

@@ -2,6 +2,7 @@
 
 - https://github.com/topics/aarch64
 - https://github.com/topics/aarch32
+- https://github.com/topics/ada
 - https://github.com/topics/algorithms
 - https://github.com/topics/arduino
 - https://github.com/topics/arm64
@@ -17,6 +18,8 @@
 - https://github.com/topics/authorization
 - https://github.com/topics/binary-search
 - https://github.com/topics/biology
+- https://github.com/topics/bios
+- https://github.com/topics/boptloader
 - https://github.com/topics/bsd
 - https://github.com/topics/build-system
 - https://github.com/topics/bgp
@@ -27,13 +30,13 @@
 - https://github.com/topics/carbon
 - https://github.com/topics/character-encoding
 - https://github.com/topics/chemistry
+- https://github.com/topics/cobol
 - https://github.com/topics/compiler
 - https://github.com/topics/coninuous-deployment
 - https://github.com/topics/continuous-integration
 - https://github.com/topics/cpu
 - https://github.com/topics/cryptography
 - https://github.com/topics/csv
-- https://github.com/topics/dart
 - https://github.com/topics/database
 - https://github.com/topics/data-structures
 - https://github.com/topics/debugger
@@ -49,6 +52,7 @@
 - https://github.com/topics/file-system
 - https://github.com/topics/firewall
 - https://github.com/topics/formatter
+- https://github.com/topics/fortran
 - https://github.com/topics/git
 - https://github.com/topics/graph
 - https://github.com/topics/glslang
@@ -59,9 +63,11 @@
 - https://github.com/topics/http
 - https://github.com/topics/http-client
 - https://github.com/topics/http-proxy
+- https://github.com/topics/http-router
 - https://github.com/topics/http-server
 - https://github.com/topics/image-encoding
 - https://github.com/topics/imap
+- https://github.com/topics/initramfs
 - https://github.com/topics/integrated-circuit
 - https://github.com/topics/interpreter
 - https://github.com/topics/ip
@@ -75,6 +81,7 @@
 - https://github.com/topics/load-balancer
 - https://github.com/topics/markdown
 - https://github.com/topics/mathematics
+- https://github.com/topics/modula-2
 - https://github.com/topics/nat
 - https://github.com/topics/nas
 - https://github.com/topics/object-storage
@@ -95,7 +102,8 @@
 - https://github.com/topics/regular-expression
 - https://github.com/topics/relational-database
 - https://github.com/topics/renderer
-- https://github.com/topics/http-router
+- https://github.com/topics/robotics
+- https://github.com/topics/rtos
 - https://github.com/topics/rust
 - https://github.com/topics/search-engine
 - https://github.com/topics/security
@@ -103,8 +111,10 @@
 - https://github.com/topics/scheduler
 - https://github.com/topics/secret-managemer
 - https://github.com/topics/serialization
+- https://github.com/topics/shader-language
 - https://github.com/topics/shell
 - https://github.com/topics/shellscript
+- https://github.com/topics/simulation
 - https://github.com/topics/smtp
 - https://github.com/topics/sorting-algorithms
 - https://github.com/topics/ssd

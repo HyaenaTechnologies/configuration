@@ -51,6 +51,7 @@
 - https://github.com/FirebirdSQL
 - https://github.com/webmproject
 - https://github.com/neovim
+- https://github.com/coreboot
 - https://github.com/mdn
 - https://github.com/AdaCore
 - https://github.com/SELinuxProject
@@ -86,6 +87,7 @@
 - https://github.com/rust-embedded
 - https://github.com/intel
 - https://github.com/go-delve
+- https://github.com/zephyrproject-rtos
 - https://github.com/github-linguist
 - https://github.com/git-lfs
 - https://github.com/hetznercloud
@@ -134,6 +136,7 @@
 - https://github.com/oceanbase
 - https://github.com/lima-vm
 - https://github.com/ydb-platform
+- https://github.com/openocd-org
 - https://github.com/GreptimeTeam
 - https://github.com/jqlang
 - https://github.com/hyprwm
@@ -152,7 +155,6 @@
 - https://github.com/trifectatechfoundation
 - https://github.com/arm
 - https://github.com/X11Libre
-- https://github.com/gitui-org
 - https://github.com/wasm-bindgen
 - https://github.com/crates-dev
 - https://github.com/rust-postgres
