@@ -128,6 +128,7 @@
 - https://github.com/topics/tcp
 - https://github.com/topics/teminal-emulator
 - https://github.com/topics/text-editor
+- https://github.com/topics/text-search
 - https://github.com/topics/time-series
 - https://github.com/topics/tls
 - https://github.com/topics/tokenizer
@@ -149,7 +150,6 @@
 - https://github.com/topics/web-assembly
 - https://github.com/topics/web-authentication
 - https://github.com/topics/web-browser
-- https://github.com/topics/web-driver
 - https://github.com/topics/web-socket
 - https://github.com/topics/web-transport
 - https://github.com/topics/window-manager
