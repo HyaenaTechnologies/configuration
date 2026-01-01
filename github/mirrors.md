@@ -5,11 +5,11 @@
 - https://codeberg.org/HyaenaTechnologiesCompany/http-proxy
 - https://codeberg.org/HyaenaTechnologiesCompany/key-value
 - https://codeberg.org/HyaenaTechnologiesCompany/libraries
+- https://codeberg.org/HyaenaTechnologiesCompany/secret-management
 - https://codeberg.org/HyaenaTechnologiesCompany/specification
 - https://codeberg.org/HyaenaTechnologiesCompany/task-orchestration
 - https://codeberg.org/HyaenaTechnologiesCompany/terminal-shell
 - https://codeberg.org/HyaenaTechnologiesCompany/text-editor
-- https://codeberg.org/HyaenaTechnologiesCompany/text-search
 - https://codeberg.org/HyaenaTechnologiesCompany/virtual-machine
 - https://codeberg.org/HyaenaTechnologiesCompany/web-service
 - https://gitlab.com/HyaenaTechnologies/configuration
@@ -17,11 +17,11 @@
 - https://gitlab.com/HyaenaTechnologies/http-proxy
 - https://gitlab.com/HyaenaTechnologies/key-value
 - https://gitlab.com/HyaenaTechnologies/libraries
+- https://gitlab.com/HyaenaTechnologies/secret-management
 - https://gitlab.com/HyaenaTechnologies/specification
 - https://gitlab.com/HyaenaTechnologies/task-orchestration
 - https://gitlab.com/HyaenaTechnologies/terminal-shell
 - https://gitlab.com/HyaenaTechnologies/text-editor
-- https://gitlab.com/HyaenaTechnologies/text-search
 - https://gitlab.com/HyaenaTechnologies/virtual-machine
 - https://gitlab.com/HyaenaTechnologies/web-service
 - https://gitea.com/HyaenaTechnologies/configuration
