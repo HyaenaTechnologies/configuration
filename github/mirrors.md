@@ -9,8 +9,8 @@
 - https://codeberg.org/HyaenaTechnologiesCompany/task-orchestration
 - https://codeberg.org/HyaenaTechnologiesCompany/terminal-shell
 - https://codeberg.org/HyaenaTechnologiesCompany/text-editor
+- https://codeberg.org/HyaenaTechnologiesCompany/text-search
 - https://codeberg.org/HyaenaTechnologiesCompany/virtual-machine
-- https://codeberg.org/HyaenaTechnologiesCompany/web-driver
 - https://codeberg.org/HyaenaTechnologiesCompany/web-service
 - https://gitlab.com/HyaenaTechnologies/configuration
 - https://gitlab.com/HyaenaTechnologies/http-client
@@ -21,8 +21,8 @@
 - https://gitlab.com/HyaenaTechnologies/task-orchestration
 - https://gitlab.com/HyaenaTechnologies/terminal-shell
 - https://gitlab.com/HyaenaTechnologies/text-editor
+- https://gitlab.com/HyaenaTechnologies/text-search
 - https://gitlab.com/HyaenaTechnologies/virtual-machine
-- https://gitlab.com/HyaenaTechnologies/web-driver
 - https://gitlab.com/HyaenaTechnologies/web-service
 - https://gitea.com/HyaenaTechnologies/configuration
 - https://gitea.com/HyaenaTechnologies/libraries
