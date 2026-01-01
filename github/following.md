@@ -20,6 +20,7 @@
 - https://github.com/gitlabhq
 - https://github.com/gnuradio
 - https://github.com/raspberrypi
+- https://github.com/libarchive
 - https://github.com/jackaudio
 - https://github.com/KhronosGroup
 - https://github.com/ovh
@@ -143,7 +144,6 @@
 - https://github.com/tigerbeetle
 - https://github.com/toml-rs
 - https://github.com/tukaani-project
-- https://github.com/wavetermdev
 - https://github.com/pendulum-project
 - https://github.com/LadybirdBrowser
 - https://github.com/tursodatabase
