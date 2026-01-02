@@ -70,7 +70,6 @@
 - https://github.com/STMicroelectronics
 - https://github.com/riscv
 - https://github.com/ChromeDevTools
-- https://github.com/WebAssembly
 - https://github.com/serde-rs
 - https://github.com/seaweedfs
 - https://github.com/brave
@@ -155,7 +154,6 @@
 - https://github.com/trifectatechfoundation
 - https://github.com/arm
 - https://github.com/X11Libre
-- https://github.com/wasm-bindgen
 - https://github.com/crates-dev
 - https://github.com/rust-postgres
 

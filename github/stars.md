@@ -12,7 +12,6 @@
 - https://github.com/ziglang/zig
 - https://github.com/odin-lang/Odin
 - https://github.com/netwide-assembler/nasm
-- https://github.com/fortran-lang/test-drive
 - https://github.com/shader-slang/slang
 - https://github.com/toml-f/toml-f
 - https://github.com/AdaCore/gnatdoc
@@ -38,7 +37,6 @@
 - https://github.com/KhronosGroup/MoltenVK
 - https://github.com/KhronosGroup/KTX-Software
 - https://github.com/KhronosGroup/OpenGL-Registry
-- https://github.com/wasm-bindgen/wasm-bindgen
 - https://github.com/MariaDB/server
 - https://github.com/nushell/nushell
 - https://github.com/fish-shell/fish-shell
@@ -66,7 +64,6 @@
 - https://github.com/duckdb/duckdb
 - https://github.com/ClickHouse/ClickHouse
 - https://github.com/tursodatabase/libsql
-- https://github.com/wasm-bindgen/walrus
 - https://github.com/tigerbeetle/tigerbeetle
 - https://github.com/jqlang/jq
 - https://github.com/influxdata/influxdb
@@ -93,7 +90,6 @@
 - https://github.com/git-lfs/git-lfs
 - https://github.com/toml-rs/toml
 - https://github.com/serde-rs/json
-- https://github.com/serde-rs/serde
 - https://github.com/neovim/neovim
 - https://github.com/helix-editor/helix
 - https://github.com/linux-mobile-broadband/ModemManager
@@ -103,11 +99,6 @@
 - https://github.com/freebsd/freebsd-src
 - https://github.com/NetBSD/src
 - https://github.com/openbsd/src
-- https://github.com/rust-embedded/critical-section
-- https://github.com/rust-embedded/linux-embedded-hal
-- https://github.com/rust-embedded/rust-i2cdev
-- https://github.com/rust-embedded/svd
-- https://github.com/rust-embedded/aarch64-cpu
 - https://github.com/tree-sitter/tree-sitter
 - https://github.com/linux-pam/linux-pam
 - https://github.com/NetworkManager/NetworkManager
@@ -119,7 +110,6 @@
 - https://github.com/rust-lang/git2-rs
 - https://github.com/SELinuxProject/selinux
 - https://github.com/raspberrypi/libcamera
-- https://github.com/uutils/procps
 - https://github.com/uutils/coreutils
 - https://github.com/trifectatechfoundation/sudo-rs
 - https://github.com/openssh/openssh-portable
@@ -134,14 +124,6 @@
 - https://github.com/ImageMagick/ImageMagick
 - https://github.com/FFmpeg/FFmpeg
 - https://github.com/libusb/libusb
-- https://github.com/rust-embedded/svd2rust
-- https://github.com/rust-embedded/aarch32
-- https://github.com/rust-embedded/embedded-alloc
-- https://github.com/rust-embedded/heapless
-- https://github.com/rust-embedded/cortex-m
-- https://github.com/rust-embedded/embedded-hal
-- https://github.com/rust-embedded/riscv
-- https://github.com/rust-cli/config-rs
 - https://github.com/rust-lang/futures-rs
 - https://github.com/rust-lang/docs.rs
 - https://github.com/rust-lang/rustup
