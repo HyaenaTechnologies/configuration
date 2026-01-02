@@ -30,7 +30,6 @@
 - https://github.com/topics/carbon
 - https://github.com/topics/character-encoding
 - https://github.com/topics/chemistry
-- https://github.com/topics/cobol
 - https://github.com/topics/compiler
 - https://github.com/topics/coninuous-deployment
 - https://github.com/topics/continuous-integration
@@ -81,7 +80,6 @@
 - https://github.com/topics/load-balancer
 - https://github.com/topics/markdown
 - https://github.com/topics/mathematics
-- https://github.com/topics/modula-2
 - https://github.com/topics/nat
 - https://github.com/topics/nas
 - https://github.com/topics/object-storage
