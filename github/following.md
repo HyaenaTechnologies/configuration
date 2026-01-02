@@ -3,6 +3,7 @@
 - https://github.com/github
 - https://github.com/git
 - https://github.com/chromium
+- https://github.com/gentoo
 - https://github.com/yaml
 - https://github.com/postgres
 - https://github.com/DragonFlyBSD
@@ -41,7 +42,6 @@
 - https://github.com/OpenRC
 - https://github.com/golang
 - https://github.com/libusb
-- https://github.com/ubuntu
 - https://github.com/digitalocean
 - https://github.com/archlinux
 - https://github.com/MariaDB
@@ -60,7 +60,6 @@
 - https://github.com/toml-lang
 - https://github.com/gfx-rs
 - https://github.com/gcc-mirror
-- https://github.com/rpm-software-management
 - https://github.com/vultr
 - https://github.com/commonmark
 - https://github.com/hyperium
@@ -107,6 +106,7 @@
 - https://github.com/odin-lang
 - https://github.com/harness
 - https://github.com/rust-cli
+- https://github.com/void-linux
 - https://github.com/netwide-assembler
 - https://github.com/lfortran
 - https://github.com/VictoriaMetrics
