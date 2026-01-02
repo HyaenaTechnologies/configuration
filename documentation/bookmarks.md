@@ -6,8 +6,6 @@
 - https://ada-lang.io/docs/arm
 - https://alire.ada.dev/docs/
 - https://learn.adacore.com/
-- https://www.adaic.org/ada-resources/
-- https://www.modula2.org/reference/index.php
 - https://developer.ibm.com/languages/cobol/
 - https://rust-lang.org/learn
 - https://crates.io/crates
