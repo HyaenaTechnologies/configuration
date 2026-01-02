@@ -7,8 +7,8 @@
 [OpenOS]:https://www.openbsd.org/
 [ArchOS]: https://archlinux.org/
 [DebianOS]: https://debian.org/
-[FedoraOS]: https://fedoraproject.org/
-[UbuntuOS]: https://ubuntu.com/
+[GentooOS]: https://www.gentoo.org/
+[VoidOS]: https://docs.voidlinux.org/
 [Arduino Micro]: https://arduino.cc/
 [ClickHouse Database]: https://clickhouse.com/
 [Duck Database]: https://www.duckdb.org/
@@ -51,9 +51,9 @@ Development Environment Configuration
 
 - **_Programming Languages:_** [Ada][Ada Language], [C][C Language], [Fortran][Fortran Language]
 
-- **_Linux Distrobutions:_** [Arch][ArchOS], [Debian][DebianOS], [Fedora][FedoraOS], [Ubuntu][UbuntuOS]
+- **_Linux Distrobutions:_** [Arch][ArchOS], [Debian][DebianOS], [Gentoo][GentooOS], [Void][VoidOS]
 
-- **_Operating Systems:_** [DragonflyBSD][DragonflyOS], [FreeBSD][FreeOS], [Illum Solaris][IllumOS], [NetBSD][NetOS], [OpenBSD][OpenOS]
+- **_Unix Operating Systems:_** [DragonflyBSD][DragonflyOS], [FreeBSD][FreeOS], [Illum Solaris][IllumOS], [NetBSD][NetOS], [OpenBSD][OpenOS]
 
 - **_Virtual Machines:_** [Firecracker][Firecracker VM], [Lima][Lima VM], [QEMU][QEMU VM]
 
