@@ -2,6 +2,6 @@ program gh_data
   implicit none
   !> Main Entry Point
 
-  print *, 'GitHub Data'
+  print "(A)", "GitHub Data"
 end program gh_data
 

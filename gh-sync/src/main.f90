@@ -2,6 +2,6 @@ program gh_sync
   implicit none
   !> Main Entry Point
   
-  print *, 'GitHub Synchronize'
+  print "(A)", "GitHub Synchronize"
 end program gh_sync
 
