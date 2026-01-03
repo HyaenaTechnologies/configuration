@@ -51,6 +51,7 @@ export PATH=$PATH:~/Zed/bin
 - git
 - git-lfs
 - glslang
+- gm2
 - gnat
 - gnupg
 - gnuzip

@@ -6,6 +6,7 @@
 - https://ada-lang.io/docs/arm
 - https://alire.ada.dev/docs/
 - https://learn.adacore.com/
+- https://www.modula2.org/reference/index.php
 - https://www.c-language.org/
 - https://sourceware.org/glibc/manual/latest/html_node/index.html
 - https://llvm.org/docs/
@@ -17,11 +18,12 @@
 - https://www.gnu.org/software/make/manual/html_node/index.html
 - https://isocpp.org/
 - https://cppreference.com/
+- https://shader-slang.org/docs/
 - https://rust-lang.org/learn
 - https://crates.io/crates
 - https://go.dev/doc/
 - https://pkg.go.dev/std
-- https://shader-slang.org/docs/
+- https://www.typescriptlang.org/docs/
 - https://developer.mozilla.org/en-US/docs/Web
 - https://toml.io/en/
 - https://yaml.org/
