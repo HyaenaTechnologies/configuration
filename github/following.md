@@ -33,6 +33,7 @@
 - https://github.com/whatwg
 - https://github.com/openssh
 - https://github.com/system76
+- https://github.com/openwrt
 - https://github.com/servo
 - https://github.com/hostinger
 - https://github.com/openssl
@@ -91,7 +92,6 @@
 - https://github.com/go-task
 - https://github.com/swc-project
 - https://github.com/dependabot
-- https://github.com/ziglang
 - https://github.com/shader-slang
 - https://github.com/linux-mobile-broadband
 - https://github.com/envoyproxy
@@ -117,7 +117,6 @@
 - https://github.com/FrameworkComputer
 - https://github.com/cli
 - https://github.com/carbon-language
-- https://github.com/zigtools
 - https://github.com/helix-editor
 - https://github.com/toml-f
 - https://github.com/advanced-security
@@ -127,6 +126,7 @@
 - https://github.com/lima-vm
 - https://github.com/ydb-platform
 - https://github.com/openocd-org
+- https://github.com/util-linux
 - https://github.com/GreptimeTeam
 - https://github.com/jqlang
 - https://github.com/hyprwm

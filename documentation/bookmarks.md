@@ -23,7 +23,6 @@
 - https://crates.io/crates
 - https://go.dev/doc/
 - https://pkg.go.dev/std
-- https://www.typescriptlang.org/docs/
 - https://developer.mozilla.org/en-US/docs/Web
 - https://toml.io/en/
 - https://yaml.org/
@@ -41,6 +40,7 @@
 - https://docs.voidlinux.org/
 - https://www.gentoo.org/support/documentation/
 - https://wiki.debian.org/
+- https://openwrt.org/docs/start
 - https://publications.opengroup.org/
 - https://git-scm.com/doc
 - https://git-lfs.com/
