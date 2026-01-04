@@ -1,10 +1,10 @@
-module write_stars
+module stars
   implicit none
 
   !> Write GitHub Stars Data to a Markdown File
-  integer function write_stars() result()
+  function write_stars() result()
   
-  end function
+  end function write_stars
 
-end module write_stars
+end module stars
 

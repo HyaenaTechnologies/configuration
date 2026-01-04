@@ -1,11 +1,10 @@
-module write_repositories
+module repositories
   implicit none
 
   !> Write GitHub Repository Data to a Markdown File
-  integer function write_repositories() result()
+  function write_repositories() result()
   
-  end function
+  end function write_repositories
 
-
-end module write_repositories
+end module repositories
 

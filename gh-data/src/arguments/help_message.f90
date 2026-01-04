@@ -2,9 +2,25 @@ module help_message
   implicit none
 
   !> Print Help Message
-  integer function print_help() result()
-  
-  end function
+  function print_help() result(value)
+    integer :: value
+
+    print "(A)", "\t\x1b[32;1;3;4mGitHub Data Tool\x1b[0m\n\n"//
+                &"\x1b[32;1;3mCommands:\tDescription:\x1b[0m\n\n"//           
+                &"\x1b[32;3mhelp\x1b[0m\t\tPrint Commands and Flags\n"//        
+                &"\x1b[32;3mversion\x1b[0m\t\tPrint Version Number\n"//     
+                &"\x1b[32;1;3mFlags:\t\tDescription:\x1b[0m\n\n"//
+                &"\x1b[32;3m--following\x1b[0m\t\tWrite Following Data\n"//
+                &"\x1b[32;3m--f\x1b[0m\t\tWrite Following Data\n"//
+                &"\x1b[32;3m--h\x1b[0m\t\tPrint Commands and Flags\n"//
+                &"\x1b[32;3m--repositories\x1b[0m\t\tWrite Repository Data\n"//
+                &"\x1b[32;3m--r\x1b[0m\t\tWrite Repository Data\n"//
+                &"\x1b[32;3m--starred\x1b[0m\t\tWrite Starred Data\n"//
+                &"\x1b[32;3m--s\x1b[0m\t\tWrite Starred Data\n"//
+                &"\x1b[32;3m--v\x1b[0m\t\tPrint Version Number\n"
+    
+    value = 0
+  end function print_help
 
 end module help_message
 
