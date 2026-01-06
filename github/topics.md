@@ -4,6 +4,7 @@
 - https://github.com/topics/aarch32
 - https://github.com/topics/ada
 - https://github.com/topics/algorithms
+- https://github.com/topics/allocator
 - https://github.com/topics/arduino
 - https://github.com/topics/arm64
 - https://github.com/topics/arm32
@@ -43,6 +44,7 @@
 - https://github.com/topics/dhcp
 - https://github.com/topics/dns
 - https://github.com/topics/docker
+- https://github.com/topics/dynamic-array
 - https://github.com/topics/e-mail
 - https://github.com/topics/emulator
 - https://github.com/topics/espressif
