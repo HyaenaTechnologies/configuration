@@ -31,7 +31,6 @@
 [SQLite Database]: https://sqlite.org/
 [SeaweedFS Database]: https://seaweedfs.com/
 [STME]: https://www.st.com/
-[TigerBeetle Database]: https://tigerbeetle.com/
 [Turso Database]: https://turso.tech/
 [Victoria Database]: https://victoriametrics.com/
 [Yandex Database]: https://ydb.tech/
@@ -69,6 +68,4 @@ Development Environment Configuration
 - **_Relational:_** [Postgres][Postgres Database], [SQLite][SQLite Database], [Turso][Turso Database], [YDB][Yandex Database]
 
 - **_Time Series:_** [Greptime][Greptime Database], [Influx][Influx Database], [Prometheus][Prometheus Database], [Victoria Metrics][Victoria Database]
-
-- **_Transactional:_** [TigerBeetle][TigerBeetle Database]
 

@@ -1,9 +1,9 @@
 # Mirrors
 
 - https://codeberg.org/HyaenaTechnologiesCompany/configuration
+- https://codeberg.org/HyaenaTechnologiesCompany/file-system
 - https://codeberg.org/HyaenaTechnologiesCompany/http-client
 - https://codeberg.org/HyaenaTechnologiesCompany/http-proxy
-- https://codeberg.org/HyaenaTechnologiesCompany/key-value
 - https://codeberg.org/HyaenaTechnologiesCompany/libraries
 - https://codeberg.org/HyaenaTechnologiesCompany/secret-management
 - https://codeberg.org/HyaenaTechnologiesCompany/specification
@@ -13,9 +13,9 @@
 - https://codeberg.org/HyaenaTechnologiesCompany/virtual-machine
 - https://codeberg.org/HyaenaTechnologiesCompany/web-service
 - https://gitlab.com/HyaenaTechnologies/configuration
+- https://gitlab.com/HyaenaTechnologies/file-system
 - https://gitlab.com/HyaenaTechnologies/http-client
 - https://gitlab.com/HyaenaTechnologies/http-proxy
-- https://gitlab.com/HyaenaTechnologies/key-value
 - https://gitlab.com/HyaenaTechnologies/libraries
 - https://gitlab.com/HyaenaTechnologies/secret-management
 - https://gitlab.com/HyaenaTechnologies/specification
