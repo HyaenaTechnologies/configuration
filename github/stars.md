@@ -17,8 +17,8 @@
 - https://github.com/rust-lang/rust-analyzer
 - https://github.com/rust-lang/rustup
 - https://github.com/golang/go
-- https://github.com/go-delve/delve
 - https://github.com/carbon-language/carbon-lang
+- https://github.com/go-delve/delve
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
 - https://github.com/netwide-assembler/nasm
@@ -29,6 +29,7 @@
 - https://github.com/arm/arm-toolchain
 - https://github.com/AdaCore/aws
 - https://github.com/toml-f/toml-f
+- https://github.com/openzfs/zfs
 - https://github.com/util-linux/util-linux
 - https://github.com/zephyrproject-rtos/zephyr
 - https://github.com/coreboot/coreboot
@@ -64,7 +65,6 @@
 - https://github.com/duckdb/duckdb
 - https://github.com/ClickHouse/ClickHouse
 - https://github.com/tursodatabase/libsql
-- https://github.com/tigerbeetle/tigerbeetle
 - https://github.com/jqlang/jq
 - https://github.com/influxdata/influxdb
 - https://github.com/seaweedfs/seaweedfs

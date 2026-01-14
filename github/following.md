@@ -43,6 +43,7 @@
 - https://github.com/OpenRC
 - https://github.com/golang
 - https://github.com/libusb
+- https://github.com/openzfs
 - https://github.com/digitalocean
 - https://github.com/archlinux
 - https://github.com/MariaDB
@@ -130,7 +131,6 @@
 - https://github.com/GreptimeTeam
 - https://github.com/jqlang
 - https://github.com/hyprwm
-- https://github.com/tigerbeetle
 - https://github.com/tukaani-project
 - https://github.com/LadybirdBrowser
 - https://github.com/tursodatabase
