@@ -4,8 +4,8 @@
 - https://github.com/HyaenaTechnologies/file-system
 - https://github.com/HyaenaTechnologies/http-client
 - https://github.com/HyaenaTechnologies/http-proxy
+- https://github.com/HyaenaTechnologies/key-value
 - https://github.com/HyaenaTechnologies/libraries
-- https://github.com/HyaenaTechnologies/secret-management
 - https://github.com/HyaenaTechnologies/specification
 - https://github.com/HyaenaTechnologies/task-orchestration
 - https://github.com/HyaenaTechnologies/terminal-shell
