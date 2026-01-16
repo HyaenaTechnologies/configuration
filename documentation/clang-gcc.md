@@ -41,6 +41,7 @@ rm ./src/*.pch
 ./build/application
 
 ## Analyze
+-fanalyzer
 -Wall: All Warnings
 -Wextra: Extra Warnings
 -Wanalyzer-allocation-size

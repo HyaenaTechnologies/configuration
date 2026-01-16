@@ -58,6 +58,16 @@ fpm run
 fpm clean
 ```
 
+### GNU Make
+
+```shell
+make build
+
+make check
+
+make test
+```
+
 ### LLVM Fortran Compiler
 
 ```shell
@@ -91,6 +101,7 @@ gfortran ./src/*.f90 ./src/*/*.f90 -o ./build/gh-sync
 ./build/gh-sync --help
 
 ## Analyze
+-fanalyzer
 -Wall: All Warnings
 -Wextra: Extra Warnings
 -Wanalyzer-allocation-size
