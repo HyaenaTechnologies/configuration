@@ -3,6 +3,7 @@
 [CLIDoc]: https://github.com/HyaenaTechnologies/tools-utilities/blob/main/gh-data/documentation/gh-data.md
 [GNU Compiler Collection]: https://gcc.gnu.org/onlinedocs/
 [GCC Debugger]: https://www.sourceware.org/gdb/documentation/
+[GNU Make]: https://www.gnu.org/software/make/manual/html_node/index.html
 [LLVM IR]: https://llvm.org/docs/
 [Low Level Debugger]: https://lldb.llvm.org/
 [Low Level Linker]: https://lld.llvm.org/
@@ -31,6 +32,7 @@ Write GitHub Profile Data to Markdown Files
 - [LLD][Low Level Linker]
 - [GCC][GNU Compiler Collection]
 - [GDB][GCC Debugger]
+- [Make][GNU Make]
 - [Command Line Documentation][CLIDoc]
 - [Rust][Rust Language]
 
