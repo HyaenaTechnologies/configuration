@@ -67,6 +67,10 @@ make build
 
 make check
 
+make clean
+
+make run
+
 make test
 ```
 

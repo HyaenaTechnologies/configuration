@@ -13,7 +13,17 @@ build: ./src/*.f90
 
 # Check Package
 check: ./src/*.f90
-	gnat compile $(ANALYSIS_FLAGS) ./src/*.f90 ./src/*/*.f90 -o ./build/gh-sync
+	gfortran $(ANALYSIS_FLAGS) ./src/*.f90 ./src/*/*.f90 -o ./build/gh-sync
+
+# Clean Package
+clean:
+	cd ./build
+	rm ./*
+
+# Run Package
+run: build
+	cd ./build
+	./gh-sync
 
 # Test Package
 test: ./tests/*.f90
