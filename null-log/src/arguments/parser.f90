@@ -4,7 +4,7 @@ module parser
   !> Parse Command Line Arguments
   function parse_arguments() result(value)
     integer :: value
-
+    
     value = 0
   end function parser_arguments
 
