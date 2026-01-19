@@ -14,13 +14,14 @@
 - https://github.com/topics/assembly
 - https://github.com/topics/assembly-language
 - https://github.com/topics/astronomy
+- https://github.com/topics/asynchronous
 - https://github.com/topics/audio-encoding
 - https://github.com/topics/authentication
 - https://github.com/topics/authorization
 - https://github.com/topics/binary-search
 - https://github.com/topics/biology
 - https://github.com/topics/bios
-- https://github.com/topics/boptloader
+- https://github.com/topics/bootloader
 - https://github.com/topics/bsd
 - https://github.com/topics/build-system
 - https://github.com/topics/bgp
@@ -34,6 +35,7 @@
 - https://github.com/topics/compiler
 - https://github.com/topics/coninuous-deployment
 - https://github.com/topics/continuous-integration
+- https://github.com/topics/coroutines
 - https://github.com/topics/cpu
 - https://github.com/topics/cryptography
 - https://github.com/topics/csv
@@ -43,12 +45,10 @@
 - https://github.com/topics/development-environment
 - https://github.com/topics/dhcp
 - https://github.com/topics/dns
-- https://github.com/topics/docker
 - https://github.com/topics/dynamic-array
 - https://github.com/topics/e-mail
 - https://github.com/topics/emulator
 - https://github.com/topics/espressif
-- https://github.com/topics/event-queue
 - https://github.com/topics/file-manager
 - https://github.com/topics/file-system
 - https://github.com/topics/firewall
@@ -56,6 +56,7 @@
 - https://github.com/topics/fortran
 - https://github.com/topics/git
 - https://github.com/topics/graph
+- https://github.com/topics/green-threads
 - https://github.com/topics/glslang
 - https://github.com/topics/gpu
 - https://github.com/topics/go
@@ -91,7 +92,6 @@
 - https://github.com/topics/orchestrator
 - https://github.com/topics/package-manager
 - https://github.com/topics/parser
-- https://github.com/topics/podman
 - https://github.com/topics/programming-language
 - https://github.com/topics/physics
 - https://github.com/topics/queue
@@ -138,11 +138,13 @@
 - https://github.com/topics/typography
 - https://github.com/topics/udp
 - https://github.com/topics/unicode
+- https://github.com/topics/unix
 - https://github.com/topics/uri
 - https://github.com/topics/url
 - https://github.com/topics/utf8
 - https://github.com/topics/video-encoding
 - https://github.com/topics/virtual-machine
+- https://github.com/topics/virtual-thread
 - https://github.com/topics/vulkan
 - https://github.com/topics/webgl
 - https://github.com/topics/webgpu

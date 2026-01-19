@@ -21,8 +21,7 @@ clean:
 
 # Run Package
 run: build
-	cd ./build
-	./gh-sync
+	./build/gh-sync
 
 # Test Package
 test: ./tests/*.f90

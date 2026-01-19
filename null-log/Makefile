@@ -21,8 +21,7 @@ clean:
 
 # Run Package
 run: build
-	cd ./build
-	./null-log
+	./build/null-log
 
 # Test Package
 test: ./tests/*.f90

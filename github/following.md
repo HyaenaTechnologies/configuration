@@ -48,7 +48,6 @@
 - https://github.com/archlinux
 - https://github.com/MariaDB
 - https://github.com/coreutils
-- https://github.com/uutils
 - https://github.com/rust-lang
 - https://github.com/influxdata
 - https://github.com/FirebirdSQL
@@ -139,7 +138,6 @@
 - https://github.com/RsyncProject
 - https://github.com/jj-vcs
 - https://github.com/ghostty-org
-- https://github.com/trifectatechfoundation
 - https://github.com/arm
 - https://github.com/X11Libre
 

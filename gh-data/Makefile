@@ -21,8 +21,7 @@ clean:
 
 # Run Package
 run: build
-	cd ./build
-	./gh-data
+	./build/gh-data
 
 # Test Package
 test: ./tests/*.f90

@@ -100,8 +100,6 @@
 - https://github.com/pciutils/pciutils
 - https://github.com/SELinuxProject/selinux
 - https://github.com/raspberrypi/libcamera
-- https://github.com/uutils/coreutils
-- https://github.com/trifectatechfoundation/sudo-rs
 - https://github.com/openssh/openssh-portable
 - https://github.com/systemd/systemd
 - https://github.com/sudo-project/sudo
