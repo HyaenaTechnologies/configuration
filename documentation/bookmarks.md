@@ -57,6 +57,8 @@
 - https://www.khronos.org/opengl/
 - https://docs.helix-editor.com/
 - https://neovim.io/doc/
+- https://www.gnu.org/software/emacs/documentation.html
+- https://www.vim.org/docs.php
 - https://zed.dev/docs/
 - https://docs.codeberg.org/
 - https://docs.gitea.com/

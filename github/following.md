@@ -5,6 +5,7 @@
 - https://github.com/chromium
 - https://github.com/gentoo
 - https://github.com/yaml
+- https://github.com/emacsmirror
 - https://github.com/postgres
 - https://github.com/DragonFlyBSD
 - https://github.com/duckduckgo
@@ -68,6 +69,7 @@
 - https://github.com/STMicroelectronics
 - https://github.com/riscv
 - https://github.com/ChromeDevTools
+- https://github.com/vim
 - https://github.com/seaweedfs
 - https://github.com/brave
 - https://github.com/ImageMagick

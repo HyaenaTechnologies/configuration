@@ -10,30 +10,19 @@
 [GentooOS]: https://www.gentoo.org/
 [VoidOS]: https://docs.voidlinux.org/
 [Arduino Micro]: https://arduino.cc/
-[ClickHouse Database]: https://clickhouse.com/
-[Duck Database]: https://www.duckdb.org/
 [Espressif]: https://www.espressif.com/
+[Emacs Editor]: https://www.gnu.org/software/emacs/
 [Firecracker VM]: https://firecracker-microvm.github.io/
 [Fortran Language]: https://fortran-lang.org/
 [Git Repositories]: https://git-scm.com
-[Greptime Database]: https://greptime.com/
 [Helix Editor]: https://helix-editor.com/
-[Influx Database]: https://influxdata.com/
+[Kate Editor]: https://kate-editor.org/
 [Lima VM]: https://lima-vm.io/
-[Minio Database]: https://min.io/
 [Modula Language]: https://www.modula2.org/
 [NVIM]: https://neovim.io/
-[Postgres Database]: https://www.postgresql.org/
-[Prometheus Database]: https://prometheus.io/
 [QEMU VM]: https://qemu.org/
 [Raspberry Micro]: https://www.raspberrypi.com/
-[RustFS Database]: https://rustfs.com/en/
-[SQLite Database]: https://sqlite.org/
-[SeaweedFS Database]: https://seaweedfs.com/
 [STME]: https://www.st.com/
-[Turso Database]: https://turso.tech/
-[Victoria Database]: https://victoriametrics.com/
-[Yandex Database]: https://ydb.tech/
 [Zed Editor]: https://zed.dev/ 
 
 # Configuration
@@ -45,7 +34,7 @@ Development Environment Configuration
 
 ## Development Environment
 
-- **_Editors:_** [Helix][Helix Editor], [NeoVim][NVIM], [Zed][Zed Editor]
+- **_Editors:_** [Emacs][Emacs Editor], [Helix][Helix Editor], [NeoVim][NVIM], [Kate][Kate Editor], [Zed][Zed Editor]
 
 - **_Microcontrollers:_** [Arduino][Arduino Micro], [Espressif Systems][Espressif], [Raspberry Pi][Raspberry Micro], [ST Micro-Electronics][STME]
 
@@ -58,14 +47,4 @@ Development Environment Configuration
 - **_Virtual Machines:_** [Firecracker][Firecracker VM], [Lima][Lima VM], [QEMU][QEMU VM]
 
 - **_Version Control Systems:_** [Git][Git Repositories]
-
-## Databases
-
-- **_Columnar:_** [ClickHouse][ClickHouse Database], [Duck][Duck Database]
-
-- **_Object Storage:_** [Minio][Minio Database], [RustFS][RustFS Database], [SeaweedFS][SeaweedFS Database]
-
-- **_Relational:_** [Postgres][Postgres Database], [SQLite][SQLite Database], [Turso][Turso Database], [YDB][Yandex Database]
-
-- **_Time Series:_** [Greptime][Greptime Database], [Influx][Influx Database], [Prometheus][Prometheus Database], [Victoria Metrics][Victoria Database]
 

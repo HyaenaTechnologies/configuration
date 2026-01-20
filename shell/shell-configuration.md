@@ -41,6 +41,7 @@ export PATH=$PATH:~/Zed/bin
 - coreutils
 - curl
 - diffutils
+- emacs
 - ffmpeg
 - findutils
 - firewalld
@@ -58,6 +59,7 @@ export PATH=$PATH:~/Zed/bin
 - imagemagick
 - iptables
 - jq
+- kate
 - krita
 - kdenlive
 - kwave
