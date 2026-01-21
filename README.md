@@ -1,5 +1,6 @@
 [Ada Language]: https://ada-lang.io/docs/arm
 [C Language]: https://www.c-language.org/
+[C++ Language]: https://isocpp.org/
 [DragonflyOS]:https://www.dragonflybsd.org/
 [FreeOS]:https://freebsd.org/
 [IllumOS]: https://illumos.org/
@@ -38,7 +39,7 @@ Development Environment Configuration
 
 - **_Microcontrollers:_** [Arduino][Arduino Micro], [Espressif Systems][Espressif], [Raspberry Pi][Raspberry Micro], [ST Micro-Electronics][STME]
 
-- **_Programming Languages:_** [Ada][Ada Language], [C][C Language], [Fortran][Fortran Language], [Modula-2][Modula Language]
+- **_Programming Languages:_** [Ada][Ada Language], [C][C Language], [C++][C++ Language], [Fortran][Fortran Language], [Modula-2][Modula Language]
 
 - **_Linux Distrobutions:_** [Arch][ArchOS], [Debian][DebianOS], [Gentoo][GentooOS], [Void][VoidOS]
 
