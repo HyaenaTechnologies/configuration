@@ -17,13 +17,15 @@
 - https://github.com/rust-lang/rust-analyzer
 - https://github.com/rust-lang/rustup
 - https://github.com/golang/go
-- https://github.com/carbon-language/carbon-lang
 - https://github.com/go-delve/delve
+- https://github.com/carbon-language/carbon-lang
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
+- https://github.com/julelang/jule
 - https://github.com/netwide-assembler/nasm
 - https://github.com/shader-slang/slang
 - https://github.com/shader-slang/slang-rhi
+- https://github.com/oceanbase/oceanbase
 - https://github.com/intel/llvm
 - https://github.com/ARM-software/arm-trusted-firmware
 - https://github.com/arm/arm-toolchain

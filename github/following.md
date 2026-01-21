@@ -68,7 +68,6 @@
 - https://github.com/xfce-mirror
 - https://github.com/STMicroelectronics
 - https://github.com/riscv
-- https://github.com/ChromeDevTools
 - https://github.com/vim
 - https://github.com/seaweedfs
 - https://github.com/brave
@@ -128,6 +127,7 @@
 - https://github.com/lima-vm
 - https://github.com/ydb-platform
 - https://github.com/openocd-org
+- https://github.com/julelang
 - https://github.com/util-linux
 - https://github.com/GreptimeTeam
 - https://github.com/jqlang
