@@ -2,8 +2,8 @@ module help_message
   implicit none
 
   !> Print Help Message
-  function print_help() result(value)
-    integer :: value
+  function print_help() result(status)
+    integer :: status
     
     print "(A)", "\t\x1b[32;1;3;4mGitHub Synchronize\x1b[0m\n\n"//
                 &"\x1b[32;1;3mCommands:\tDescription:\x1b[0m\n\n"//
@@ -13,7 +13,7 @@ module help_message
                 &"\x1b[32;1;3mFlags:\t\tDescription:\x1b[0m\n\n"//
                 &"\x1b[32;3m--h\x1b[0m\t\tPrint Commands and Flags\n"//
                 &"\x1b[32;3m--v\x1b[0m\t\tPrint Version Number\n"
-    value = 0
+    status = 0
   end function print_help
 
 end module help_message

@@ -2,8 +2,8 @@ module version_message
   implicit none
 
   !> Print Version Message
-  function print_version() result(value)
-    integer :: value
+  function print_version() result(status)
+    integer :: status
     character(len=5) :: version_number
 
     version_number = "1.0.0"
@@ -12,7 +12,7 @@ module version_message
     print "(A)", ""
     print "(A)", "\x1b[32;1;3mVersion Number:\x1b[0m\t", version_number
 
-    value = 0
+    status = 0
   end function print_version
 
 end module version_message
