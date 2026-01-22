@@ -33,7 +33,7 @@ structure: MyDataStructure = {
 	string utf32: str32 = "string",
 	string utf64: str64 = "string",
 	string utf128: str128 = "string",
-	array<integer 8bit>: my_array = [];,
+	array(5)<integer 8bit>: my_array = [];,
 	array(5, 2)<integer 8bit>: 2d_array = [];,
 	map<integer 8bit, string>: hash_map = [()];,
 	structure: MyStruct = {};,
@@ -71,8 +71,8 @@ unsigned integer 8bit: my_integer = 1;
 string utf8: my_string = "string";
 
 // One Dimensional Array
-// Syntax - type<type>: name = [values];
-array<unsigned integer 8bit>: my_array = [
+// Syntax - type(dimension)<type>: name = [values];
+array(5)<unsigned integer 8bit>: my_array = [
 	1,
 	2,
 	3,
@@ -130,7 +130,7 @@ structure: MyDataStructure = {
 	string utf32: str32,
 	string utf64: str64,
 	string utf128: str128,
-	array<integer 8bit>: my_array,
+	array(5)<integer 8bit>: my_array,
 	array(5, 2)<integer 8bit>: 2d_array,
 	map<integer 8bit, string>: hash_map,
 	structure: MyStruct,
