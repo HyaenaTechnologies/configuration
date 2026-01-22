@@ -27,11 +27,17 @@ structure: MyDataStructure = {
 	character 32bit: char32 = 'c',
 	character 64bit: char64 = d,
 	character 128bit: char128 = 'e',
-	string: str = "string",
+	string ascii: str = "string",
+	string utf8: str8 = "string",
+	string utf16: str16 = "string",
+	string utf32: str32 = "string",
+	string utf64: str64 = "string",
+	string utf128: str128 = "string",
 	array<integer 8bit>: my_array = [];,
 	array(5, 2)<integer 8bit>: 2d_array = [];,
 	map<integer 8bit, string>: hash_map = [()];,
-	structure: MyStruct = {};
+	structure: MyStruct = {};,
+	enumerator: MyEnum = {};
 };
 
 // Enumerator for Constants
@@ -43,6 +49,21 @@ enumerator: MyEnumerator = {
 	FOURTH_VALUE = 3,
 	FIFTH_VALUE = 4
 };
+
+// Boolean Declaration
+boolean: my_boolean = true;
+
+// Character Declaration
+character 8bit: my_character = 's';
+
+// Float Declaration
+float 8bit: my_float = 1.0;
+
+// Integer Declaration
+unsigned integer 8bit: my_integer = 1;
+
+// String Declaration
+string utf8: my_string = "string";
 
 // One Dimensional Array
 // Syntax - type<type>: name = [values];
@@ -98,10 +119,16 @@ structure: MyDataStructure = {
 	character 32bit: char32,
 	character 64bit: char64,
 	character 128bit: char128,
-	string: str,
+	string ascii: str,
+	string utf8: str8,
+	string utf16: str16,
+	string utf32: str32,
+	string utf64: str64,
+	string utf128: str128,
 	array<integer 8bit>: my_array,
 	array(5, 2)<integer 8bit>: 2d_array,
 	map<integer 8bit, string>: hash_map,
-	structure: MyStruct
+	structure: MyStruct,
+	enumerator: MyEnum
 };
 
