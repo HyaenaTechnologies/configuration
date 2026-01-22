@@ -28,7 +28,7 @@ structure: MyDataStructure = {
 	character 128bit: char128 = 'e',
 	string: str = "string",
 	array<integer 8bit>: my_array = [];,
-	array(2)<integer 8bit>: 2d_array = [];,
+	array(5, 2)<integer 8bit>: 2d_array = [];,
 	map<integer 8bit, string>: hash_map = [()];,
 	structure: MyStruct = {};
 };
@@ -49,16 +49,12 @@ array<unsigned integer 8bit>: my_array = [
 
 // Two Dimensional Array
 // Syntax - type(dimension)<type>: name = [values];
-array(2)<unsigned integer 8bit>: my_array = [
-	1, 9
-	2, 8
-	3, 7
-	4, 6
-	5, 5
-	6, 4
-	7, 3
-	8, 2
-	9, 1
+array(5, 2)<unsigned integer 8bit>: my_array = [
+	1, 5
+	2, 4
+	3, 3
+	4, 2
+	5, 1
 ];
 
 // Hash Map for Key Value Data
