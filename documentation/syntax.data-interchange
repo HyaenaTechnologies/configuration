@@ -33,6 +33,16 @@ structure: MyDataStructure = {
 	structure: MyStruct = {};
 };
 
+// Enumerator for Constants
+// Syntax - type: Name = {values};
+enumerator: MyEnumerator = {
+	FIRST_VALUE = 0,
+	SECOND_VALUE = 1,
+	THIRD_VALUE = 2,
+	FOURTH_VALUE = 3,
+	FIFTH_VALUE = 4
+};
+
 // One Dimensional Array
 // Syntax - type<type>: name = [values];
 array<unsigned integer 8bit>: my_array = [
@@ -48,7 +58,7 @@ array<unsigned integer 8bit>: my_array = [
 ];
 
 // Two Dimensional Array
-// Syntax - type(dimension)<type>: name = [values];
+// Syntax - type(dimension)<type>: name = [value, value];
 array(5, 2)<unsigned integer 8bit>: my_array = [
 	1, 5
 	2, 4
