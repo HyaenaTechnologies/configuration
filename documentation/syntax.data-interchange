@@ -74,3 +74,34 @@ map<unsigned integer 8bit, string>: my_map = [
 	(5, "string")
 ];
 
+// Data Structure Schema Declaration
+// Syntax - type: Name = {values};
+structure: MyDataStructure = {
+	unsigned integer 8bit: int8,
+	unsigned integer 16bit: int16,
+	unsigned integer 32bit: int32,
+	unsigned integer 64bit: int64,
+	unsigned integer 128bit: int128,
+	signed integer 8bit: int8,
+	signed integer 16bit: int16,
+	signed integer 32bit: int32,
+	signed integer 64bit: int64,
+	signed integer 128bit: int128,
+	float 8bit: float8,
+	float 16bit: float16,
+	float 32bit: float32,
+	float 64bit: float64,
+	float 128bit: float128,
+	boolean: bool,
+	character 8bit: char8,
+	character 16bit: char16,
+	character 32bit: char32,
+	character 64bit: char64,
+	character 128bit: char128,
+	string: str,
+	array<integer 8bit>: my_array,
+	array(5, 2)<integer 8bit>: 2d_array,
+	map<integer 8bit, string>: hash_map,
+	structure: MyStruct
+};
+
