@@ -51,18 +51,23 @@ enumerator: MyEnumerator = {
 };
 
 // Boolean Declaration
+// Syntax - type: name = value;
 boolean: my_boolean = true;
 
 // Character Declaration
+// Syntax - type: name = value;
 character 8bit: my_character = 's';
 
 // Float Declaration
+// Syntax - type: name = value;
 float 8bit: my_float = 1.0;
 
 // Integer Declaration
+// Syntax - type: name = value;
 unsigned integer 8bit: my_integer = 1;
 
 // String Declaration
+// Syntax - type: name = value;
 string utf8: my_string = "string";
 
 // One Dimensional Array
@@ -76,7 +81,7 @@ array<unsigned integer 8bit>: my_array = [
 ];
 
 // Two Dimensional Array
-// Syntax - type(dimension)<type>: name = [value, value];
+// Syntax - type(dimension)<type>: name = [values];
 array(5, 2)<unsigned integer 8bit>: my_array = [
 	1, 5
 	2, 4
