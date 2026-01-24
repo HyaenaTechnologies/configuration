@@ -4,11 +4,11 @@
 
 ```shell
 ## Compile
-clang ./src/*.h
+clang ./src/*.h ./src/*/*.h
 
-clang ./src/*.c -include-pch ./src/*.pch -o ./build/application
+clang ./src/*.c ./src/*/*.c -include-pch ./src/*.pch ./src/*/*.pch -o ./build/application
 
-rm ./src/*.pch
+rm ./src/*.pch ./src/*/*.pch
 
 ./build/application
 
@@ -32,11 +32,11 @@ rm ./src/*.pch
 
 ```shell
 ## Compile
-gcc ./src/*.h
+gcc ./src/*.h ./src/*/*.h
 
-gcc ./src/*.c -include ./src/*.pch -o ./build/application
+gcc ./src/*.c ./src/*/*.c -include ./src/*.pch ./src/*/*.pch -o ./build/application
 
-rm ./src/*.pch
+rm ./src/*.pch ./src/*/*.pch
 
 ./build/application
 

@@ -1,13 +1,12 @@
-[Fortran Language]: https://fortran-lang.org/
+[C Language]: https://www.c-language.org/
 [Clang Compiler]: https://clang.llvm.org/docs/index.html
-[CLIDoc]: https://github.com/HyaenaTechnologies/tools-utilities/blob/main/null-log/documentation/null-log.md
+[CLIDoc]: https://github.com/HyaenaTechnologies/configuration/blob/main/null-log/documentation/null-log.md
 [GNU Compiler Collection]: https://gcc.gnu.org/onlinedocs/
 [GCC Debugger]: https://www.sourceware.org/gdb/documentation/
 [GNU Make]: https://www.gnu.org/software/make/manual/html_node/index.html
 [LLVM IR]: https://llvm.org/docs/
 [Low Level Debugger]: https://lldb.llvm.org/
 [Low Level Linker]: https://lld.llvm.org/
-[Rust Language]: https://rust-lang.org
 
 # Null Log
 
@@ -24,7 +23,7 @@ Clean Log File Contents - Retain Log Files
 
 ## Build
 
-- [Fortran][Fortran Language]
+- [C][C Language]
 - [LLVM][LLVM IR]
 - [Clang][Clang Compiler]
 - [LLDB][Low Level Debugger]
@@ -33,33 +32,6 @@ Clean Log File Contents - Retain Log Files
 - [GDB][GCC Debugger]
 - [Make][GNU Make]
 - [Command Line Documentation][CLIDoc]
-- [Rust][Rust Language]
-
-### Cargo Package Manager
-
-```shell
-git clone
-
-cargo check
-
-cargo build --release --target x86_64-unknown-linux-gnu
-
-mv ./target/x86_64-unknown-linux-gnu/release/null-log ./binary
-
-./binary/null-log --h
-```
-
-### Fortran Package Manager
-
-```shell
-fpm build
-
-fpm test
-
-fpm run
-
-fpm clean
-```
 
 ### GNU Make
 
@@ -70,18 +42,20 @@ make check
 
 make clean
 
-make run
-
-make test
+make format
 ```
 
-### LLVM Fortran Compiler
+## LLVM Clang
 
 ```shell
 ## Compile
-flang ./src/*.f90 ./src/*/*.f90 -o ./build/null-log
+clang ./src/*/*.h
 
-./build/null-log --help
+clang ./src/*.c ./src/*/*.c -include-pch ./src/*/*.pch -o ./build/null-log
+
+rm ./src/*/*.pch
+
+./build/null-log
 
 ## Analyze
 --analyze: Run the static analyzer
@@ -99,13 +73,17 @@ flang ./src/*.f90 ./src/*/*.f90 -o ./build/null-log
 -fsanitize=realtime: RealtimeSanitizer, a real-time safety checker.
 ```
 
-### GNU Fortran Compiler
+## GNU Compiler Collection
 
 ```shell
 ## Compile
-gfortran ./src/*.f90 ./src/*/*.f90 -o ./build/null-log
+gcc ./src/*/*.h
 
-./build/null-log --help
+gcc ./src/*.c ./src/*/*.c -include ./src/*/*.pch -o ./build/null-log
+
+rm ./src/*/*.pch
+
+./build/null-log
 
 ## Analyze
 -fanalyzer

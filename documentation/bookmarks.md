@@ -1,12 +1,5 @@
 # Boomarks
 
-- https://fortran-lang.org/learn/
-- https://stdlib.fortran-lang.org/
-- https://fpm.fortran-lang.org/
-- https://ada-lang.io/docs/arm
-- https://alire.ada.dev/docs/
-- https://learn.adacore.com/
-- https://www.modula2.org/reference/index.php
 - https://www.c-language.org/
 - https://sourceware.org/glibc/manual/latest/html_node/index.html
 - https://llvm.org/docs/
@@ -24,6 +17,7 @@
 - https://go.dev/doc/
 - https://pkg.go.dev/std
 - https://developer.mozilla.org/en-US/docs/Web
+- https://www.w3.org/WAI/ARIA/apg/
 - https://toml.io/en/
 - https://yaml.org/
 - https://json.org/json-en.html
