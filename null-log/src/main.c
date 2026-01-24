@@ -1,10 +1,9 @@
-#include <stdio.h>
+#include "./arguments/parser.h"
 
 // Main Entry Point
-int main() {
+int main(int argc, char *argv[]) {
 
-    printf("Null Log");
+  parse_arguments(argc, argv);
 
-    return 0;
+  return 0;
 }
-

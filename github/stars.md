@@ -43,7 +43,6 @@
 - https://github.com/ovh/cds
 - https://github.com/harness/harness
 - https://github.com/juspay/hyperswitch
-- https://github.com/hatchet-dev/hatchet
 - https://github.com/koderover/zadig
 - https://github.com/openzfs/zfs
 - https://github.com/util-linux/util-linux
@@ -54,7 +53,6 @@
 - https://github.com/KhronosGroup/ANARI-SDK
 - https://github.com/KhronosGroup/OpenXR-SDK
 - https://github.com/KhronosGroup/SPIRV-LLVM-Translator
-- https://github.com/KhronosGroup/MoltenVK
 - https://github.com/KhronosGroup/KTX-Software
 - https://github.com/KhronosGroup/OpenGL-Registry
 - https://github.com/MariaDB/server

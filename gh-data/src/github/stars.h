@@ -2,4 +2,3 @@
 #define STARS_H
 
 #endif
-

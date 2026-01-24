@@ -1,5 +1,9 @@
 #ifndef VERSION_MESSAGE_H
 #define VERSION_MESSAGE_H
 
-#endif
+#include <stdint.h>
 
+// Print Version Message
+int8_t print_version(void);
+
+#endif
