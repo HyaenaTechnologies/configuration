@@ -1,6 +1,6 @@
-# Clang and GCC Compiler Documentation
+# LLVM Clang and GCC Compiler Documentation
 
-## Clang
+## LLVM Clang
 
 ```shell
 ## Compile
