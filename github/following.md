@@ -107,7 +107,6 @@
 - https://github.com/harness
 - https://github.com/void-linux
 - https://github.com/netwide-assembler
-- https://github.com/lfortran
 - https://github.com/VictoriaMetrics
 - https://github.com/actions
 - https://github.com/firecracker-microvm
@@ -128,7 +127,6 @@
 - https://github.com/tinkerbell
 - https://github.com/carbon-language
 - https://github.com/helix-editor
-- https://github.com/toml-f
 - https://github.com/advanced-security
 - https://github.com/rustdesk
 - https://github.com/getlago
