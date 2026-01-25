@@ -3,10 +3,10 @@
 - https://github.com/github
 - https://github.com/git
 - https://github.com/chromium
+- https://github.com/mongodb
 - https://github.com/gentoo
 - https://github.com/yaml
 - https://github.com/emacsmirror
-- https://github.com/postgres
 - https://github.com/DragonFlyBSD
 - https://github.com/duckduckgo
 - https://github.com/arduino
@@ -47,12 +47,10 @@
 - https://github.com/openzfs
 - https://github.com/digitalocean
 - https://github.com/archlinux
-- https://github.com/MariaDB
 - https://github.com/coreutils
 - https://github.com/rust-lang
 - https://github.com/ni
 - https://github.com/influxdata
-- https://github.com/FirebirdSQL
 - https://github.com/webmproject
 - https://github.com/neovim
 - https://github.com/coreboot
@@ -71,6 +69,7 @@
 - https://github.com/xfce-mirror
 - https://github.com/STMicroelectronics
 - https://github.com/riscv
+- https://github.com/surrealdb
 - https://github.com/juspay
 - https://github.com/vim
 - https://github.com/seaweedfs
@@ -107,10 +106,11 @@
 - https://github.com/harness
 - https://github.com/void-linux
 - https://github.com/netwide-assembler
+- https://github.com/tikv
+- https://github.com/etcd-io
 - https://github.com/VictoriaMetrics
 - https://github.com/actions
 - https://github.com/firecracker-microvm
-- https://github.com/sqlite
 - https://github.com/starship
 - https://github.com/nushell
 - https://github.com/blender
@@ -118,7 +118,6 @@
 - https://github.com/c3lang
 - https://github.com/oxidecomputer
 - https://github.com/sudo-project
-- https://github.com/ClickHouse
 - https://github.com/temporalio
 - https://github.com/rivet-dev
 - https://github.com/FrameworkComputer
@@ -132,11 +131,8 @@
 - https://github.com/getlago
 - https://github.com/inngest
 - https://github.com/zed-industries
-- https://github.com/duckdb
-- https://github.com/oceanbase
 - https://github.com/woodpecker-ci
 - https://github.com/lima-vm
-- https://github.com/ydb-platform
 - https://github.com/openocd-org
 - https://github.com/julelang
 - https://github.com/util-linux
@@ -145,6 +141,7 @@
 - https://github.com/metalbear-co
 - https://github.com/GreptimeTeam
 - https://github.com/jqlang
+- https://github.com/dragonflydb
 - https://github.com/opencost
 - https://github.com/hyprwm
 - https://github.com/tukaani-project
@@ -152,7 +149,6 @@
 - https://github.com/dagu-org
 - https://github.com/openmeterio
 - https://github.com/LadybirdBrowser
-- https://github.com/tursodatabase
 - https://github.com/biomejs
 - https://github.com/rustfs
 - https://github.com/RsyncProject
