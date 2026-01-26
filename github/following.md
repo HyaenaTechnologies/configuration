@@ -80,6 +80,7 @@
 - https://github.com/unicode-org
 - https://github.com/KDE
 - https://github.com/pciutils
+- https://github.com/scylladb
 - https://github.com/NetworkManager
 - https://github.com/curl
 - https://github.com/llvm
@@ -107,6 +108,7 @@
 - https://github.com/harness
 - https://github.com/void-linux
 - https://github.com/netwide-assembler
+- https://github.com/tikv
 - https://github.com/etcd-io
 - https://github.com/VictoriaMetrics
 - https://github.com/actions
