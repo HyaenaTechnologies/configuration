@@ -70,7 +70,6 @@ export PATH=$PATH:~/Zed/bin
 - make
 - man-pages
 - man-db
-- mariadb
 - mesa
 - ModemManager
 - nano
@@ -83,6 +82,7 @@ export PATH=$PATH:~/Zed/bin
 - openssl
 - postgresql
 - qemu
+- redis
 - rsync
 - sed
 - sh

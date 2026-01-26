@@ -24,6 +24,7 @@
 - https://github.com/raspberrypi
 - https://github.com/libarchive
 - https://github.com/jackaudio
+- https://github.com/redis
 - https://github.com/KhronosGroup
 - https://github.com/ovh
 - https://github.com/GNOME
@@ -106,7 +107,6 @@
 - https://github.com/harness
 - https://github.com/void-linux
 - https://github.com/netwide-assembler
-- https://github.com/tikv
 - https://github.com/etcd-io
 - https://github.com/VictoriaMetrics
 - https://github.com/actions
