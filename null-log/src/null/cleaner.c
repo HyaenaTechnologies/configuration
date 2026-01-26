@@ -10,11 +10,11 @@
 
 // Clean Logs by Copying the contents of /dev/null to the Log Files
 int8_t clean_logs(char log_path[]) {
+  char character_buffer[256];
   DIR *directory = opendir(log_path);
   struct dirent *directory_entry = readdir(directory);
   char *error_message = strerror(errno);
-  char character_buffer[256];
-  int index; 
+  int index = 0; 
 
   if (directory == NULL) {
     printf(stderr, "Error Opening Directory: %s\n", error_message);
@@ -25,8 +25,9 @@ int8_t clean_logs(char log_path[]) {
     while (directory_entry != NULL) {
       printf(character_buffer, "cp /dev/null %s", directory_entry);
       system(character_buffer);
-      for(index = 0; index < 256; index = index + 1) {
-        character_buffer[index] = '\0';
+      while (character_buffer[index] != '\0') {
+       character_buffer[index] = '\0';
+       index = index + 1; 
       }
     }
   }

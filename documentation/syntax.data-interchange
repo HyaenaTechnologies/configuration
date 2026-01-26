@@ -80,11 +80,11 @@ array(5)<unsigned integer 8bit>: my_array = [
 // Two Dimensional Array
 // Syntax - type(dimension)<type>: name = [values];
 array(5, 2)<unsigned integer 8bit>: my_array = [
-	1, 5
-	2, 4
-	3, 3
-	4, 2
-	5, 1
+	1 | 5
+	2 | 4
+	3 | 3
+	4 | 2
+	5 | 1
 ];
 
 // Hash Map for Key Value Data
