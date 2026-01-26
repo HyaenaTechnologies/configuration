@@ -22,6 +22,10 @@ Write GitHub Profile Data to Markdown Files
 - GitHub Repositories
 - Git Stars
 
+## Platforms
+
+- Unix
+
 ## Build
 
 - [C][C Language]

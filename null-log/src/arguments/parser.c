@@ -1,9 +1,11 @@
 #include "./parser.h"
-#include "help_message.h"
-#include "version_message.h"
+#include "./help_message.h"
+#include "./version_message.h"
+#include "../null/cleaner.h"
 
 #include <stdint.h>
 #include <stdio.h>
+#include <stdlib.h>
 #include <string.h>
 
 // Parse Command Line Arguments
@@ -18,6 +20,7 @@ int8_t parse_arguments(int length, char *arguments[]) {
     printf("");
     print_help();
     printf("\x1b[31;1;3;4mError(1) - Exiting Null Log\x1b[0m");
+    exit(1);
   } else if (strcmp(arguments[1], "help")) {
     print_help();
   } else if (strcmp(arguments[1], "--h")) {
@@ -27,7 +30,7 @@ int8_t parse_arguments(int length, char *arguments[]) {
   } else if (strcmp(arguments[1], "--v")) {
     print_version();
   } else {
-    
+    clean_logs(arguments[1]);
   }
   
   return 0;

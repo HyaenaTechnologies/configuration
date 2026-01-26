@@ -30,6 +30,7 @@
 - https://www.openbsd.org/
 - https://illumos.org/docs/
 - https://docs.kernel.org/
+- https://www.gnu.org/software/gnulib/manual/html_node/index.html
 - https://wiki.archlinux.org/title/Main_page
 - https://www.gentoo.org/support/documentation/
 - https://wiki.debian.org/
@@ -57,7 +58,6 @@
 - https://docs.codeberg.org/
 - https://docs.gitea.com/
 - https://docs.gitlab.com/
-- https://man.sr.ht/
 - https://docs.github.com/en
 - https://openstax.org/subjects
 - https://docs.arduino.cc/language-reference/

@@ -4,6 +4,7 @@
 
 #include <stdint.h>
 #include <stdio.h>
+#include <stdlib.h>
 #include <string.h>
 
 // Parse Command Line Arguments
@@ -18,6 +19,7 @@ int8_t parse_arguments(int length, char *arguments[]) {
     printf("");
     print_help();
     printf("\x1b[31;1;3;4mError(1) - Exiting GitHub Data Tool\x1b[0m");
+    exit(1);
   } else if (strcmp(arguments[1], "--following")) {
     
   } else if (strcmp(arguments[1], "--f")) {
@@ -49,6 +51,7 @@ int8_t parse_arguments(int length, char *arguments[]) {
     printf("");
     print_help();
     printf("\x1b[31;1;3;4mError(1) - Exiting GitHub Data Tool\x1b[0m");
+    exit(1);
   }
   
   return 0;

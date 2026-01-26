@@ -16,6 +16,10 @@ Clean Log File Contents - Retain Log Files
 
 - Unix /dev/null
 
+## Platforms
+
+- Unix
+
 ## Features
 
 - Clean Logs
