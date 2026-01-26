@@ -15,6 +15,8 @@ int8_t parse_arguments(int length, char *arguments[]) {
     for (index = 0; index < length; index = index + 1) {
       printf("%s\n", arguments[index]);
     }
+    printf("");
+    print_help();
     printf("\x1b[31;1;3;4mError(1) - Exiting Null Log\x1b[0m");
   } else if (strcmp(arguments[1], "help")) {
     print_help();

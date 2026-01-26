@@ -30,5 +30,5 @@ headers: ./src/*/*.h
 
 # Run Package
 run: build
-	./build/null-log
+	./build/null-log --help
 

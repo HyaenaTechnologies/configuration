@@ -16,6 +16,7 @@ int8_t parse_arguments(int length, char *arguments[]) {
       printf("%s\n", arguments[index]);
     }
     printf("");
+    print_help();
     printf("\x1b[31;1;3;4mError(1) - Exiting GitHub Data Tool\x1b[0m");
   } else if (strcmp(arguments[1], "--following")) {
     
@@ -46,6 +47,7 @@ int8_t parse_arguments(int length, char *arguments[]) {
       printf("%s\n", arguments[index]);
     }
     printf("");
+    print_help();
     printf("\x1b[31;1;3;4mError(1) - Exiting GitHub Data Tool\x1b[0m");
   }
   

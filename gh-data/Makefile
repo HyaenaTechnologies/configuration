@@ -30,5 +30,5 @@ headers: ./src/*/*.h
 
 # Run Package
 run: build
-	./build/gh-data
+	./build/gh-data --help
 
