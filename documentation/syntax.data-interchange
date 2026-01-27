@@ -3,7 +3,8 @@
 
 // This is a Comment
 
-// Data Structure for Table Record Data
+// Data Structure Declaration
+// Initialized with Default Values
 // Syntax - type: Name = {values};
 structure: MyDataStructure = {
 	unsigned integer 8bit: int8 = 1,
@@ -49,26 +50,38 @@ enumerator: MyEnumerator = {
 
 // Boolean Declaration
 // Syntax - type: name = value;
+// OR
+// Syntax - type: name = null;
 boolean: my_boolean = true;
 
 // Character Declaration
 // Syntax - type: name = value;
+// OR
+// Syntax - type: name = null;
 character 8bit: my_character = 's';
 
 // Float Declaration
 // Syntax - type: name = value;
+// OR
+// Syntax - type: name = null;
 float 8bit: my_float = 1.0;
 
 // Integer Declaration
 // Syntax - type: name = value;
+// OR
+// Syntax - type: name = null;
 unsigned integer 8bit: my_integer = 1;
 
 // String Declaration
 // Syntax - type: name = value;
+// OR
+// Syntax - type: name = null;
 string utf8: my_string = "string";
 
 // One Dimensional Array
 // Syntax - type(dimension)<type>: name = [values];
+// OR
+// Syntax - type(dimension)<type>: name = [null];
 array(5)<unsigned integer 8bit>: my_array = [
 	1,
 	2,
@@ -79,6 +92,8 @@ array(5)<unsigned integer 8bit>: my_array = [
 
 // Two Dimensional Array
 // Syntax - type(dimension)<type>: name = [values];
+// OR
+// Syntax - type(dimension)<type>: name = [null];
 array(5, 2)<unsigned integer 8bit>: my_array = [
 	1 | 5
 	2 | 4
@@ -89,6 +104,8 @@ array(5, 2)<unsigned integer 8bit>: my_array = [
 
 // Hash Map for Key Value Data
 // Syntax - type<type, type>: name = [(key, value)];
+// OR
+// Syntax - type<type, type>: name = [(null, null)];
 map<unsigned integer 8bit, string>: my_map = [
 	(1, "string"),
 	(2, "string"),
@@ -97,7 +114,8 @@ map<unsigned integer 8bit, string>: my_map = [
 	(5, "string")
 ];
 
-// Data Structure Schema Declaration
+// Data Structure Declaration
+// Initialized without Default Values
 // Syntax - type: Name = {values};
 structure: MyDataStructure = {
 	unsigned integer 8bit: int8,
