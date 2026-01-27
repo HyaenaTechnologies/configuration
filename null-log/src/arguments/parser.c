@@ -1,7 +1,7 @@
 #include "./parser.h"
+#include "../null/cleaner.h"
 #include "./help_message.h"
 #include "./version_message.h"
-#include "../null/cleaner.h"
 
 #include <stdint.h>
 #include <stdio.h>
@@ -11,7 +11,7 @@
 // Parse Command Line Arguments
 int8_t parse_arguments(int length, char *arguments[]) {
   int8_t index;
-  
+
   if (length < 1 || length > 1) {
     printf("\x1b[31;1;3;4mCommand or Flag Required but not Both:\x1b[0m\n");
     for (index = 0; index < length; index = index + 1) {
@@ -32,7 +32,6 @@ int8_t parse_arguments(int length, char *arguments[]) {
   } else {
     clean_logs(arguments[1]);
   }
-  
+
   return 0;
 }
-
