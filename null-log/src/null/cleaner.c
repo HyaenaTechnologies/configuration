@@ -9,13 +9,14 @@
 #include <sys/stat.h>
 #include <unistd.h>
 
+// Check if a Document is a Regular File
 int is_file(struct dirent *directory_entry) {
   struct stat status_buffer;
   int file_status = stat(directory_entry->d_name, &status_buffer);
-  while (file_status != 0) {
-    continue;
+  if (file_status != 0) {
+    return S_ISREG(status_buffer.st_mode);
   }
-  return S_ISREG(status_buffer.st_mode);
+  return file_status;
 }
 
 // Clean Logs by Copying the contents of /dev/null to the Log Files
