@@ -1,3 +1,6 @@
+# Data Interchange File Format
+
+```shell
 // Data Interchange File Format
 // File Extension: .data, .data-interchange
 
@@ -148,4 +151,5 @@ structure: MyDataStructure = {
 	structure: MyStruct,
 	enumerator: MyEnum
 };
+```
 
