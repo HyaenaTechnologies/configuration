@@ -1,0 +1,18 @@
+// Message Schema
+variable<bool>: compressed = true;
+variable<ustr8>: compression_encoding = "tgz";
+variable<ustr8>: date = "January, 01, 2000";
+variable<bool>: encrypted = true;
+variable<ustr8>: encryption_encoding = "sha256";
+variable<ustr8>: file_encoding = "utf8";
+variable<ustr8>: file_extension = ".data";
+variable<uint8>: file_length = 256;
+variable<ustr8>: time = "03:30:00";
+
+// Message Body
+structure: User = {
+	ustr8: name = "John";
+	uint8: id = 10;
+	bool: logged_in = true;
+}
+
