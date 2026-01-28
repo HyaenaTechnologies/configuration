@@ -50,33 +50,33 @@ enumerator: MyEnumerator = {
 };
 
 // Boolean Declaration
-// Syntax - type: name = value;
+// Syntax - variable<type>: name = value;
 // OR
-// Syntax - type: name = null;
+// Syntax - variable<type>: name = null;
 variable<boolean>: my_boolean = true;
 
 // Character Declaration
-// Syntax - type: name = value;
+// Syntax - variable<type>: name = value;
 // OR
-// Syntax - type: name = null;
-variable<character 8bit>: my_character = 's';
+// Syntax - variable<type>: name = null;
+variable<character utf8>: my_character = 's';
 
 // Float Declaration
-// Syntax - type: name = value;
+// Syntax - variable<type>: name = value;
 // OR
-// Syntax - type: name = null;
+// Syntax - variable<type>: name = null;
 variable<float 8bit>: my_float = 1.0;
 
 // Integer Declaration
-// Syntax - type: name = value;
+// Syntax - variable<type>: name = value;
 // OR
-// Syntax - type: name = null;
+// Syntax - variable<type>: name = null;
 variable<unsigned integer 8bit>: my_integer = 1;
 
 // String Declaration
-// Syntax - type: name = value;
+// Syntax - variable<type>: name = value;
 // OR
-// Syntax - type: name = null;
+// Syntax - variable<type>: name = null;
 variable<string utf8>: my_string = "string";
 
 // One Dimensional Array Declaration
