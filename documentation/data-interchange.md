@@ -36,7 +36,7 @@ structure: DataStructure = {
 	ustr32: string_utf32 = "string",
 	array(5)<uint8>: array = [];,
 	array(5:2)<uint8>: two_dimensional_array = [];,
-	map(5)<uint8:u8str>: hash_map = [()];,
+	map(5)<uint8:ustr8>: hash_map = [()];,
 	structure: Struct = {};,
 	enumerator: Enum = {};
 };
@@ -154,7 +154,7 @@ structure: DataStructure = {
 	ustr32: string_utf32,
 	array(5)<uint8>: array,
 	array(5:2)<uint8>: 2d_array,
-	map(5)<uint8:u8str>: hash_map,
+	map(5)<uint8:ustr8>: hash_map,
 	structure: Struct,
 	enumerator: Enum
 };
