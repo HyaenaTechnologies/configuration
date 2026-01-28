@@ -24,13 +24,13 @@ structure: DataStructure = {
 	f128: float_128bit = 5.0,
 	bool: boolean = true,
 	achar: character_ascii = 'a',
-	u8char: character_utf8 = 'b',
-	u16char: character_utf16 = 'c',
-	u32char: character_utf32 = 'd',
+	uchar8: character_utf8 = 'b',
+	uchar16: character_utf16 = 'c',
+	uchar32: character_utf32 = 'd',
 	astr: string_ascii = "string",
-	u8str: string_utf8 = "string",
-	u16str: string_utf16 = "string",
-	u32str: string_utf32 = "string",
+	ustr8: string_utf8 = "string",
+	ustr16: string_utf16 = "string",
+	ustr32: string_utf32 = "string",
 	array(5)<uint8>: array = [];,
 	array(5:2)<uint8>: two_dimensional_array = [];,
 	map<uint8:u8str>: hash_map = [()];,
@@ -59,7 +59,7 @@ variable<bool>: boolean = true;
 // Syntax - variable<type>: name = value;
 // OR
 // Syntax - variable<type>: name = null;
-variable<u8char>: character_utf8 = 's';
+variable<uchar8>: character_utf8 = 's';
 
 // Float Declaration
 // Syntax - variable<type>: name = value;
@@ -77,7 +77,7 @@ variable<uint8>: unsigned_integer_8bit = 1;
 // Syntax - variable<type>: name = value;
 // OR
 // Syntax - variable<type>: name = null;
-variable<u8str>: string_utf8 = "string";
+variable<ustr8>: string_utf8 = "string";
 
 // One Dimensional Array Declaration
 // Syntax - type(dimension)<type>: name = [values];
@@ -111,7 +111,7 @@ array(5:2)<uint8>: two_dimensional_array = [
 // Syntax - type<type, type>: name = [(key:value)];
 // OR
 // Syntax - type<type, type>: name = [(null:null)];
-map<uint8:u8str>: hash_map = [
+map<uint8:ustr8>: hash_map = [
 	(1:"string"),
 	(2:"string"),
 	(3:"string"),
@@ -140,13 +140,13 @@ structure: DataStructure = {
 	f128: float_128bit,
 	bool: boolean,
 	achar: character_ascii,
-	u8char: character_utf8,
-	u16char: character_utf16,
-	u32char: character_utf32,
+	uchar8: character_utf8,
+	uchar16: character_utf16,
+	uchar32: character_utf32,
 	astr: string_ascii,
-	u8str: string_utf8,
-	u16str: string_utf16,
-	u32str: string_utf32,
+	ustr8: string_utf8,
+	ustr16: string_utf16,
+	ustr32: string_utf32,
 	array(5)<uint8>: array,
 	array(5:2)<uint8>: 2d_array,
 	map<uint8:u8str>: hash_map,
