@@ -41,7 +41,7 @@ structure: MyDataStructure = {
 	enumerator: MyEnum = {};
 };
 
-// Enumerator for Constants
+// Enumerator Declaration
 // Syntax - type: Name = {values};
 enumerator: MyEnumerator = {
 	FIRST_VALUE = 0,
@@ -81,7 +81,7 @@ unsigned integer 8bit: my_integer = 1;
 // Syntax - type: name = null;
 string utf8: my_string = "string";
 
-// One Dimensional Array
+// One Dimensional Array Declaration
 // Syntax - type(dimension)<type>: name = [values];
 // OR
 // Syntax - type(dimension)<type>: name = [null];
@@ -93,7 +93,7 @@ array(5)<unsigned integer 8bit>: my_array = [
 	5
 ];
 
-// Two Dimensional Array
+// Two Dimensional Array Declaration
 // Syntax - type(dimension)<type>: name = [values];
 // OR
 // Syntax - type(dimension)<type>: name = [null];
@@ -105,7 +105,7 @@ array(5, 2)<unsigned integer 8bit>: my_array = [
 	5 | 1
 ];
 
-// Hash Map for Key Value Data
+// Hash Map Declaration
 // Syntax - type<type, type>: name = [(key, value)];
 // OR
 // Syntax - type<type, type>: name = [(null, null)];
