@@ -108,9 +108,11 @@ array(5:2)<uint8>: two_dimensional_array = [
 ];
 
 // Hash Map Declaration
-// Syntax - type(dimension)<type, type>: name = [(key:value)];
+// Syntax - type(dimension)<type:type>: name = [(key:value)];
 // OR
-// Syntax - type(dimension)<type, type>: name = [(null:null)];
+// Syntax - type(?)<type:type>: name = [(key:value)];
+// OR
+// Syntax - type(dimension)<type:type>: name = [(null:null)];
 map(5)<uint8:ustr8>: hash_map = [
 	(1:"string"),
 	(2:"string"),
