@@ -36,7 +36,7 @@ structure: DataStructure = {
 	ustr32: string_utf32 = "string",
 	array(5)<uint8>: array = [];,
 	array(5:2)<uint8>: two_dimensional_array = [];,
-	map<uint8:u8str>: hash_map = [()];,
+	map(5)<uint8:u8str>: hash_map = [()];,
 	structure: Struct = {};,
 	enumerator: Enum = {};
 };
@@ -111,10 +111,10 @@ array(5:2)<uint8>: two_dimensional_array = [
 ];
 
 // Hash Map Declaration
-// Syntax - type<type, type>: name = [(key:value)];
+// Syntax - type(dimension)<type, type>: name = [(key:value)];
 // OR
-// Syntax - type<type, type>: name = [(null:null)];
-map<uint8:ustr8>: hash_map = [
+// Syntax - type(dimension)<type, type>: name = [(null:null)];
+map(5)<uint8:ustr8>: hash_map = [
 	(1:"string"),
 	(2:"string"),
 	(3:"string"),
@@ -152,7 +152,7 @@ structure: DataStructure = {
 	ustr32: string_utf32,
 	array(5)<uint8>: array,
 	array(5:2)<uint8>: 2d_array,
-	map<uint8:u8str>: hash_map,
+	map(5)<uint8:u8str>: hash_map,
 	structure: Struct,
 	enumerator: Enum
 };
