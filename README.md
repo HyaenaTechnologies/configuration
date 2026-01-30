@@ -38,7 +38,7 @@ Development Environment Configuration
 
 - **_Programming Languages:_** [C][C Language], [C++][C++ Language]
 
-- **_Linux Distrobutions:_** [Arch][ArchOS], [Debian][DebianOS], [Gentoo][GentooOS], [Void][VoidOS]
+- **_Linux Distributions:_** [Arch][ArchOS], [Debian][DebianOS], [Gentoo][GentooOS], [Void][VoidOS]
 
 - **_Unix Operating Systems:_** [DragonflyBSD][DragonflyOS], [FreeBSD][FreeOS], [Illum Solaris][IllumOS], [NetBSD][NetOS], [OpenBSD][OpenOS]
 
