@@ -10,7 +10,7 @@
 
 // Data Structure Declaration
 // Declared with Default Values
-// Syntax - type: Name = {values};
+// Syntax - type: Name = {values}
 structure: DataStructure = {
 	uint8: unsigned_integer_8bit = 1,
 	uint16: unsigned_integer_16bit = 2,
@@ -34,22 +34,22 @@ structure: DataStructure = {
 	ustr8: string_utf8 = "string",
 	ustr16: string_utf16 = "string",
 	ustr32: string_utf32 = "string",
-	array(5)<uint8>: array = [];,
-	array(5:2)<uint8>: two_dimensional_array = [];,
-	map(5)<uint8:ustr8>: hash_map = [()];,
-	Struct: data_structure = {};,
-	Enum: enumerator_type = {};
+	array(5)<uint8>: array = [],
+	array(5:2)<uint8>: two_dimensional_array = [],
+	map(5)<uint8:ustr8>: hash_map = [],
+	Struct: data_structure = {},
+	Enum: enumerator_type = {}
 };
 
 // Enumerator Declaration
-// Syntax - type: Name = {values};
+// Syntax - type: Name = {values}
 enumerator: Enumerator = {
 	FIRST_VALUE, // value = 0
 	SECOND_VALUE, // value = 1
 	THIRD_VALUE, // value = 2
 	FOURTH_VALUE, // value = 3
 	FIFTH_VALUE // value = 4
-};
+}
 
 // Boolean Declaration
 // Syntax - type: name = value;
@@ -82,50 +82,50 @@ uint8: unsigned_integer_8bit = 1;
 ustr8: string_utf8 = "string";
 
 // One Dimensional Array Declaration
-// Syntax - type(dimension)<type>: name = [values];
+// Syntax - type(dimension)<type>: name = [values]
 // OR
-// Syntax - type(?)<type>: name = [values];
+// Syntax - type(?)<type>: name = [values]
 // OR
-// Syntax - type(dimension)<type>: name = [null];
+// Syntax - type(dimension)<type>: name = [null]
 array(5)<uint8>: array = [
 	1,
 	2,
 	3,
 	4,
 	5
-];
+]
 
 // Two Dimensional Array Declaration
-// Syntax - type(dimension:dimension)<type>: name = [values];
+// Syntax - type(dimension:dimension)<type>: name = [values]
 // OR
-// Syntax - type(?:?)<type>: name = [values];
+// Syntax - type(?:?)<type>: name = [values]
 // OR
-// Syntax - type(dimension:dimension)<type>: name = [null];
+// Syntax - type(dimension:dimension)<type>: name = [null]
 array(5:2)<uint8>: two_dimensional_array = [
 	1, 5
 	2, 4
 	3, 3
 	4, 2
 	5, 1
-];
+]
 
 // Hash Map Declaration
-// Syntax - type(dimension)<type:type>: name = [(key:value)];
+// Syntax - type(dimension)<type:type>: name = [(key:value)]
 // OR
-// Syntax - type(?)<type:type>: name = [(key:value)];
+// Syntax - type(?)<type:type>: name = [(key:value)]
 // OR
-// Syntax - type(dimension)<type:type>: name = [(null:null)];
+// Syntax - type(dimension)<type:type>: name = [(null:null)]
 map(5)<uint8:ustr8>: hash_map = [
 	(1:"string"),
 	(2:"string"),
 	(3:"string"),
 	(4:"string"),
 	(5:"string")
-];
+]
 
 // Data Structure Declaration
 // Declared without Default Values
-// Syntax - type: Name = {values};
+// Syntax - type: Name = {values}
 structure: DataStructure = {
 	uint8: unsigned_integer_8bit,
 	uint16: unsigned_integer_16bit,
@@ -154,6 +154,6 @@ structure: DataStructure = {
 	map(5)<uint8:ustr8>: hash_map,
 	Struct: data_structure,
 	Enum: enumerator_type
-};
+}
 ```
 
