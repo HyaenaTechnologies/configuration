@@ -23,11 +23,11 @@ structure: DataStructure = {
 	f64: float_64bit = 4.0,
 	f128: float_128bit = 5.0,
 	bool: boolean = true,
-	achar: character_ascii = 'a',
+	achar8: character_ascii_8bit = 'a',
 	uchar8: character_utf8 = 'b',
 	uchar16: character_utf16 = 'c',
 	uchar32: character_utf32 = 'd',
-	astr: string_ascii = "string",
+	astr8: string_ascii_8bit = "string",
 	ustr8: string_utf8 = "string",
 	ustr16: string_utf16 = "string",
 	ustr32: string_utf32 = "string",
@@ -100,11 +100,11 @@ array(5)<uint8>: array = [
 // OR
 // Syntax - type(dimension:dimension)<type>: name = [null];
 array(5:2)<uint8>: two_dimensional_array = [
-	1 | 5
-	2 | 4
-	3 | 3
-	4 | 2
-	5 | 1
+	1, 5
+	2, 4
+	3, 3
+	4, 2
+	5, 1
 ];
 
 // Hash Map Declaration
@@ -141,11 +141,11 @@ structure: DataStructure = {
 	f64: float_64bit,
 	f128: float_128bit,
 	bool: boolean,
-	achar: character_ascii,
+	achar8: character_ascii_8bit,
 	uchar8: character_utf8,
 	uchar16: character_utf16,
 	uchar32: character_utf32,
-	astr: string_ascii,
+	astr8: string_ascii_8bit,
 	ustr8: string_utf8,
 	ustr16: string_utf16,
 	ustr32: string_utf32,
