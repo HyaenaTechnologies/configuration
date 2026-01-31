@@ -149,7 +149,7 @@ structure: DataStructure = {
 	array(5)<uint8>: array,
 	array(5:2)<uint8>: 2d_array,
 	map(5)<uint8:ustr8>: hash_map,
-	Struct: data_structure = {};,
-	Enum: enumerator_type = {};
+	Struct: data_structure,
+	Enum: enumerator_type;
 };
 
