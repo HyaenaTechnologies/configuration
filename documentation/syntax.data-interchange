@@ -1,10 +1,12 @@
 // Data Interchange File Format
 // File Extension: .data, .data-interchange
+// Schema Definition Header File: .data-interchange
+// Data Interchange Source File: .data
 
 // This is a Comment
 
 // Data Structure Declaration
-// Initialized with Default Values
+// Declared with Default Values
 // Syntax - type: Name = {values};
 structure: DataStructure = {
 	uint8: unsigned_integer_8bit = 1,
@@ -32,19 +34,18 @@ structure: DataStructure = {
 	array(5)<uint8>: array = [];,
 	array(5:2)<uint8>: two_dimensional_array = [];,
 	map(5)<uint8:ustr8>: hash_map = [()];,
-	structure: Struct = {};,
-	enumerator: Enum = {};
+	Struct: data_structure = {};,
+	Enum: enumerator_type = {};
 };
 
 // Enumerator Declaration
-// Initialized with Default Values
 // Syntax - type: Name = {values};
 enumerator: Enumerator = {
-	FIRST_VALUE = 0,
-	SECOND_VALUE = 1,
-	THIRD_VALUE = 2,
-	FOURTH_VALUE = 3,
-	FIFTH_VALUE = 4
+	FIRST_VALUE, // value = 0
+	SECOND_VALUE, // value = 1
+	THIRD_VALUE, // value = 2
+	FOURTH_VALUE, // value = 3
+	FIFTH_VALUE // value = 4
 };
 
 // Boolean Declaration
@@ -148,18 +149,7 @@ structure: DataStructure = {
 	array(5)<uint8>: array,
 	array(5:2)<uint8>: 2d_array,
 	map(5)<uint8:ustr8>: hash_map,
-	structure: Struct,
-	enumerator: Enum
-};
-
-// Enumerator Declaration
-// Declared without Default Values
-// Syntax - type: Name = {values};
-enumerator: Enumerator = {
-	FIRST_VALUE,
-	SECOND_VALUE,
-	THIRD_VALUE,
-	FOURTH_VALUE,
-	FIFTH_VALUE
+	Struct: data_structure = {};,
+	Enum: enumerator_type = {};
 };
 
