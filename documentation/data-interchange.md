@@ -53,34 +53,34 @@ enumerator: Enumerator = {
 };
 
 // Boolean Declaration
-// Syntax - variable<type>: name = value;
+// Syntax - type: name = value;
 // OR
-// Syntax - variable<type>: name = null;
-variable<bool>: boolean = true;
+// Syntax - type: name = null;
+bool: boolean = true;
 
 // Character Declaration
-// Syntax - variable<type>: name = value;
+// Syntax - type: name = value;
 // OR
-// Syntax - variable<type>: name = null;
-variable<uchar8>: character_utf8 = 's';
+// Syntax - type: name = null;
+uchar8: character_utf8 = 's';
 
 // Float Declaration
-// Syntax - variable<type>: name = value;
+// Syntax - type: name = value;
 // OR
-// Syntax - variable<type>: name = null;
-variable<f8>: float_8bit = 1.0;
+// Syntax - type: name = null;
+f8: float_8bit = 1.0;
 
 // Integer Declaration
-// Syntax - variable<type>: name = value;
+// Syntax - type: name = value;
 // OR
-// Syntax - variable<type>: name = null;
-variable<uint8>: unsigned_integer_8bit = 1;
+// Syntax - type: name = null;
+uint8: unsigned_integer_8bit = 1;
 
 // String Declaration
-// Syntax - variable<type>: name = value;
+// Syntax - type: name = value;
 // OR
-// Syntax - variable<type>: name = null;
-variable<ustr8>: string_utf8 = "string";
+// Syntax - type: name = null;
+ustr8: string_utf8 = "string";
 
 // One Dimensional Array Declaration
 // Syntax - type(dimension)<type>: name = [values];
