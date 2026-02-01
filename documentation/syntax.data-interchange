@@ -9,31 +9,31 @@
 // Declared with Default Values
 // Syntax - type: Name = {values}
 structure: DataStructure = {
-	uint8: unsigned_integer_8bit = 1,
-	uint16: unsigned_integer_16bit = 2,
-	uint32: unsigned_integer_32bit = 3,
-	uint64: unsigned_integer_64bit = 4,
-	uint128: unsigned_integer_128bit = 5,
-	int8: signed_integer_8bit = -1,
-	int16: signed_integer_16bit = -2,
-	int32: signed_integer_32bit = -3,
-	int64: signed_integer_64bit = -4,
-	int128: signed_integer_128bit = -5,
-	float32: float_32bit = 3.0,
-	float64: float_64bit = 4.0,
-	float128: float_128bit = 5.0,
-	bool: boolean = true,
-	char8: character_8bit = 'b',
-	char16: character_16bit = 'c',
-	char32: character_32bit = 'd',
-	str8: string_8bit = "string",
-	str16: string_16bit = "string",
-	str32: string_32bit = "string",
-	array(5)<uint8>: array = [],
-	array(5:2)<uint8>: two_dimensional_array = [],
-	map(5)<uint8:str8>: hash_map = [],
-	Struct: data_structure = {},
-	Enum: enumerator_type = {}
+	uint8: unsigned_integer_8bit = 1;
+	uint16: unsigned_integer_16bit = 2;
+	uint32: unsigned_integer_32bit = 3;
+	uint64: unsigned_integer_64bit = 4;
+	uint128: unsigned_integer_128bit = 5;
+	int8: signed_integer_8bit = -1;
+	int16: signed_integer_16bit = -2;
+	int32: signed_integer_32bit = -3;
+	int64: signed_integer_64bit = -4;
+	int128: signed_integer_128bit = -5;
+	float32: float_32bit = 3.0;
+	float64: float_64bit = 4.0;
+	float128: float_128bit = 5.0;
+	bool: boolean = true;
+	char8: character_8bit = 'b';
+	char16: character_16bit = 'c';
+	char32: character_32bit = 'd';
+	str8: string_8bit = "string";
+	str16: string_16bit = "string";
+	str32: string_32bit = "string";
+	array(5)<uint8>: array = [];
+	array(5:2)<uint8>: two_dimensional_array = [];
+	map(5)<uint8:str8>: hash_map = [];
+	Struct: data_structure = {};
+	Enum: enumerator_type = {};
 }
 
 // Enumerator Declaration
@@ -122,30 +122,30 @@ map(5)<uint8:str8>: hash_map = [
 // Declared without Default Values
 // Syntax - type: Name = {values}
 structure: DataStructure = {
-	uint8: unsigned_integer_8bit,
-	uint16: unsigned_integer_16bit,
-	uint32: unsigned_integer_32bit,
-	uint64: unsigned_integer_64bit,
-	uint128: unsigned_integer_128bit,
-	int8: signed_integer_8bit,
-	int16: signed_integer_16bit,
-	int32: signed_integer_32bit,
-	int64: signed_integer_64bit,
-	int128: signed_integer_128bit,
-	float32: float_32bit,
-	float64: float_64bit,
-	float128: float_128bit,
-	bool: boolean,
-	char8: character_8bit,
-	char16: character_16bit,
-	char32: character_32bit,
-	str8: string_8bit,
-	str16: string_16bit,
-	str32: string_32bit,
-	array(5)<uint8>: array,
-	array(5:2)<uint8>: 2d_array,
-	map(5)<uint8:str8>: hash_map,
-	Struct: data_structure,
-	Enum: enumerator_type
+	uint8: unsigned_integer_8bit;
+	uint16: unsigned_integer_16bit;
+	uint32: unsigned_integer_32bit;
+	uint64: unsigned_integer_64bit;
+	uint128: unsigned_integer_128bit;
+	int8: signed_integer_8bit;
+	int16: signed_integer_16bit;
+	int32: signed_integer_32bit;
+	int64: signed_integer_64bit;
+	int128: signed_integer_128bit;
+	float32: float_32bit;
+	float64: float_64bit;
+	float128: float_128bit;
+	bool: boolean;
+	char8: character_8bit;
+	char16: character_16bit;
+	char32: character_32bit;
+	str8: string_8bit;
+	str16: string_16bit;
+	str32: string_32bit;
+	array(5)<uint8>: array;
+	array(5:2)<uint8>: 2d_array;
+	map(5)<uint8:str8>: hash_map;
+	Struct: data_structure;
+	Enum: enumerator_type;
 }
 
