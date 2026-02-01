@@ -19,28 +19,26 @@ structure: DataStructure = {
 	int32: signed_integer_32bit = -3,
 	int64: signed_integer_64bit = -4,
 	int128: signed_integer_128bit = -5,
-	f32: float_32bit = 3.0,
-	f64: float_64bit = 4.0,
-	f128: float_128bit = 5.0,
+	float32: float_32bit = 3.0,
+	float64: float_64bit = 4.0,
+	float128: float_128bit = 5.0,
 	bool: boolean = true,
-	achar8: character_ascii_8bit = 'a',
-	uchar8: character_utf8 = 'b',
-	uchar16: character_utf16 = 'c',
-	uchar32: character_utf32 = 'd',
-	astr8: string_ascii_8bit = "string",
-	ustr8: string_utf8 = "string",
-	ustr16: string_utf16 = "string",
-	ustr32: string_utf32 = "string",
+	char8: character_8bit = 'b',
+	char16: character_16bit = 'c',
+	char32: character_32bit = 'd',
+	str8: string_8bit = "string",
+	str16: string_16bit = "string",
+	str32: string_32bit = "string",
 	array(5)<uint8>: array = [],
 	array(5:2)<uint8>: two_dimensional_array = [],
-	map(5)<uint8:ustr8>: hash_map = [],
+	map(5)<uint8:str8>: hash_map = [],
 	Struct: data_structure = {},
 	Enum: enumerator_type = {}
 }
 
 // Enumerator Declaration
 // Syntax - type: Name = {values}
-enumerator: Enumerator = {
+enumerator: EnumeratorType = {
 	FIRST_VALUE, // value = 0
 	SECOND_VALUE, // value = 1
 	THIRD_VALUE, // value = 2
@@ -58,13 +56,13 @@ bool: boolean = true;
 // Syntax - type: name = value;
 // OR
 // Syntax - type: name = null;
-uchar8: character_utf8 = 's';
+char8: character_8bit = 's';
 
 // Float Declaration
 // Syntax - type: name = value;
 // OR
 // Syntax - type: name = null;
-f32: float_32bit = 1.0;
+float32: float_32bit = 1.0;
 
 // Integer Declaration
 // Syntax - type: name = value;
@@ -76,7 +74,7 @@ uint8: unsigned_integer_8bit = 1;
 // Syntax - type: name = value;
 // OR
 // Syntax - type: name = null;
-ustr8: string_utf8 = "string";
+str8: string_8bit = "string";
 
 // One Dimensional Array Declaration
 // Syntax - type(dimension)<type>: name = [values]
@@ -112,7 +110,7 @@ array(5:2)<uint8>: two_dimensional_array = [
 // Syntax - type(?)<type:type>: name = [(key:value)]
 // OR
 // Syntax - type(dimension)<type:type>: name = [(null:null)]
-map(5)<uint8:ustr8>: hash_map = [
+map(5)<uint8:str8>: hash_map = [
 	(1:"string"),
 	(2:"string"),
 	(3:"string"),
@@ -134,21 +132,19 @@ structure: DataStructure = {
 	int32: signed_integer_32bit,
 	int64: signed_integer_64bit,
 	int128: signed_integer_128bit,
-	f32: float_32bit,
-	f64: float_64bit,
-	f128: float_128bit,
+	float32: float_32bit,
+	float64: float_64bit,
+	float128: float_128bit,
 	bool: boolean,
-	achar8: character_ascii_8bit,
-	uchar8: character_utf8,
-	uchar16: character_utf16,
-	uchar32: character_utf32,
-	astr8: string_ascii_8bit,
-	ustr8: string_utf8,
-	ustr16: string_utf16,
-	ustr32: string_utf32,
+	char8: character_8bit,
+	char16: character_16bit,
+	char32: character_32bit,
+	str8: string_8bit,
+	str16: string_16bit,
+	str32: string_32bit,
 	array(5)<uint8>: array,
 	array(5:2)<uint8>: 2d_array,
-	map(5)<uint8:ustr8>: hash_map,
+	map(5)<uint8:str8>: hash_map,
 	Struct: data_structure,
 	Enum: enumerator_type
 }
