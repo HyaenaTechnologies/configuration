@@ -94,17 +94,17 @@ array(5)<uint8>: array = [
 ]
 
 // Two Dimensional Array Declaration
-// Syntax - type(dimension:dimension)<type>: name = [values]
+// Syntax - type(dimension:dimension)<type>: name = [(value:value)]
 // OR
-// Syntax - type(?:?)<type>: name = [values]
+// Syntax - type(?:?)<type>: name = [(value:value)]
 // OR
-// Syntax - type(dimension:dimension)<type>: name = [null]
+// Syntax - type(dimension:dimension)<type>: name = [(null:null)]
 array(5:2)<uint8>: two_dimensional_array = [
-	1, 5
-	2, 4
-	3, 3
-	4, 2
-	5, 1
+	(1:5),
+	(2:4),
+	(3:3),
+	(4:2),
+	(5:1)
 ]
 
 // Hash Map Declaration
