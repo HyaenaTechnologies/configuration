@@ -72,47 +72,47 @@ DataStructure: data_structure = {
 	str16: string_16bit = "string";
 	str32: string_32bit = "string";
 	array(5)<uint8>: one_dimensional_array = [];
-	array(5:2)<uint8>: two_dimensional_array = [];
-	map(5)<uint8:str8>: hash_map = [];
+	array(5:2)<uint8>: two_dimensional_array = [()];
+	map(5)<uint8:str8>: hash_map = [()];
 	DataStructure: data_structure = {};
 	EnumratorType: enumerator_type = FIRST_VALUE;
 }
 
-// Enumerator Intialization
+// Enumerator Initialization
 // Syntax - type: name = value;
 EnumeratorType: enumerator_type = FIRST_VALUE;
 
-// Boolean Intialization
+// Boolean Initialization
 // Syntax - type: name = value;
 // OR
 // Syntax - type: name = null;
 bool: boolean_type = true;
 
-// Character Intialization
+// Character Initialization
 // Syntax - type: name = value;
 // OR
 // Syntax - type: name = null;
 char8: character_8bit = 's';
 
-// Float Intialization
+// Float Initialization
 // Syntax - type: name = value;
 // OR
 // Syntax - type: name = null;
 float32: float_32bit = 1.0;
 
-// Integer Intialization
+// Integer Initialization
 // Syntax - type: name = value;
 // OR
 // Syntax - type: name = null;
 uint8: unsigned_integer_8bit = 1;
 
-// String Intialization
+// String Initialization
 // Syntax - type: name = value;
 // OR
 // Syntax - type: name = null;
 str8: string_8bit = "string";
 
-// One Dimensional Array Intialization
+// One Dimensional Array Initialization
 // Syntax - type(dimension)<type>: name = [values]
 // OR
 // Syntax - type(?)<type>: name = [values]
@@ -126,7 +126,7 @@ array(5)<uint8>: one_dimensional_array = [
 	5
 ]
 
-// Two Dimensional Array Intialization
+// Two Dimensional Array Initialization
 // Syntax - type(dimension:dimension)<type>: name = [(value:value)]
 // OR
 // Syntax - type(?:?)<type>: name = [(value:value)]
@@ -140,7 +140,7 @@ array(5:2)<uint8>: two_dimensional_array = [
 	(5:1)
 ]
 
-// Hash Map Intialization
+// Hash Map Initialization
 // Syntax - type(dimension)<type:type>: name = [(key:value)]
 // OR
 // Syntax - type(?)<type:type>: name = [(key:value)]
