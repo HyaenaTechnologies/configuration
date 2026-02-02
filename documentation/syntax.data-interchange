@@ -6,120 +6,6 @@
 // This is a Comment
 
 // Data Structure Declaration
-// Declared with Default Values
-// Syntax - type: Name = {values}
-structure: DataStructure = {
-	uint8: unsigned_integer_8bit = 1;
-	uint16: unsigned_integer_16bit = 2;
-	uint32: unsigned_integer_32bit = 3;
-	uint64: unsigned_integer_64bit = 4;
-	uint128: unsigned_integer_128bit = 5;
-	int8: signed_integer_8bit = -1;
-	int16: signed_integer_16bit = -2;
-	int32: signed_integer_32bit = -3;
-	int64: signed_integer_64bit = -4;
-	int128: signed_integer_128bit = -5;
-	float32: float_32bit = 3.0;
-	float64: float_64bit = 4.0;
-	float128: float_128bit = 5.0;
-	bool: boolean = true;
-	char8: character_8bit = 'b';
-	char16: character_16bit = 'c';
-	char32: character_32bit = 'd';
-	str8: string_8bit = "string";
-	str16: string_16bit = "string";
-	str32: string_32bit = "string";
-	array(5)<uint8>: array = [];
-	array(5:2)<uint8>: two_dimensional_array = [];
-	map(5)<uint8:str8>: hash_map = [];
-	Struct: data_structure = {};
-	Enum: enumerator_type = {};
-}
-
-// Enumerator Declaration
-// Syntax - type: Name = {values}
-enumerator: EnumeratorType = {
-	FIRST_VALUE, // value = 0
-	SECOND_VALUE, // value = 1
-	THIRD_VALUE, // value = 2
-	FOURTH_VALUE, // value = 3
-	FIFTH_VALUE // value = 4
-}
-
-// Boolean Declaration
-// Syntax - type: name = value;
-// OR
-// Syntax - type: name = null;
-bool: boolean = true;
-
-// Character Declaration
-// Syntax - type: name = value;
-// OR
-// Syntax - type: name = null;
-char8: character_8bit = 's';
-
-// Float Declaration
-// Syntax - type: name = value;
-// OR
-// Syntax - type: name = null;
-float32: float_32bit = 1.0;
-
-// Integer Declaration
-// Syntax - type: name = value;
-// OR
-// Syntax - type: name = null;
-uint8: unsigned_integer_8bit = 1;
-
-// String Declaration
-// Syntax - type: name = value;
-// OR
-// Syntax - type: name = null;
-str8: string_8bit = "string";
-
-// One Dimensional Array Declaration
-// Syntax - type(dimension)<type>: name = [values]
-// OR
-// Syntax - type(?)<type>: name = [values]
-// OR
-// Syntax - type(dimension)<type>: name = [null]
-array(5)<uint8>: array = [
-	1,
-	2,
-	3,
-	4,
-	5
-]
-
-// Two Dimensional Array Declaration
-// Syntax - type(dimension:dimension)<type>: name = [(value:value)]
-// OR
-// Syntax - type(?:?)<type>: name = [(value:value)]
-// OR
-// Syntax - type(dimension:dimension)<type>: name = [(null:null)]
-array(5:2)<uint8>: two_dimensional_array = [
-	(1:5),
-	(2:4),
-	(3:3),
-	(4:2),
-	(5:1)
-]
-
-// Hash Map Declaration
-// Syntax - type(dimension)<type:type>: name = [(key:value)]
-// OR
-// Syntax - type(?)<type:type>: name = [(key:value)]
-// OR
-// Syntax - type(dimension)<type:type>: name = [(null:null)]
-map(5)<uint8:str8>: hash_map = [
-	(1:"string"),
-	(2:"string"),
-	(3:"string"),
-	(4:"string"),
-	(5:"string")
-]
-
-// Data Structure Declaration
-// Declared without Default Values
 // Syntax - type: Name = {values}
 structure: DataStructure = {
 	uint8: unsigned_integer_8bit;
@@ -135,17 +21,133 @@ structure: DataStructure = {
 	float32: float_32bit;
 	float64: float_64bit;
 	float128: float_128bit;
-	bool: boolean;
+	bool: boolean_type;
 	char8: character_8bit;
 	char16: character_16bit;
 	char32: character_32bit;
 	str8: string_8bit;
 	str16: string_16bit;
 	str32: string_32bit;
-	array(5)<uint8>: array;
-	array(5:2)<uint8>: 2d_array;
+	array(5)<uint8>: one_dimensional_array;
+	array(5:2)<uint8>: two_dimensional_array;
 	map(5)<uint8:str8>: hash_map;
-	Struct: data_structure;
-	Enum: enumerator_type;
+	DataStructure: data_structure;
+	EnumatorType: enumerator_type;
 }
+
+// Enumerator Declaration
+// Syntax - type: Name = {values}
+enumerator: EnumeratorType = {
+	FIRST_VALUE, // value = 0
+	SECOND_VALUE, // value = 1
+	THIRD_VALUE, // value = 2
+	FOURTH_VALUE, // value = 3
+	FIFTH_VALUE // value = 4
+}
+
+// Data Structure Initialization
+// Syntax - type: name = {values}
+DataStructure: data_structure = {
+	uint8: unsigned_integer_8bit = 1;
+	uint16: unsigned_integer_16bit = 2;
+	uint32: unsigned_integer_32bit = 3;
+	uint64: unsigned_integer_64bit = 4;
+	uint128: unsigned_integer_128bit = 5;
+	int8: signed_integer_8bit = -1;
+	int16: signed_integer_16bit = -2;
+	int32: signed_integer_32bit = -3;
+	int64: signed_integer_64bit = -4;
+	int128: signed_integer_128bit = -5;
+	float32: float_32bit = 1.0;
+	float64: float_64bit = 2.0;
+	float128: float_128bit = 3.0;
+	bool: boolean_type = true;
+	char8: character_8bit = 'b';
+	char16: character_16bit = 'c';
+	char32: character_32bit = 'd';
+	str8: string_8bit = "string";
+	str16: string_16bit = "string";
+	str32: string_32bit = "string";
+	array(5)<uint8>: one_dimensional_array = [];
+	array(5:2)<uint8>: two_dimensional_array = [];
+	map(5)<uint8:str8>: hash_map = [];
+	DataStructure: data_structure = {};
+	EnumratorType: enumerator_type = FIRST_VALUE;
+}
+
+// Enumerator Intialization
+// Syntax - type: name = value;
+EnumeratorType: enumerator_type = FIRST_VALUE;
+
+// Boolean Intialization
+// Syntax - type: name = value;
+// OR
+// Syntax - type: name = null;
+bool: boolean_type = true;
+
+// Character Intialization
+// Syntax - type: name = value;
+// OR
+// Syntax - type: name = null;
+char8: character_8bit = 's';
+
+// Float Intialization
+// Syntax - type: name = value;
+// OR
+// Syntax - type: name = null;
+float32: float_32bit = 1.0;
+
+// Integer Intialization
+// Syntax - type: name = value;
+// OR
+// Syntax - type: name = null;
+uint8: unsigned_integer_8bit = 1;
+
+// String Intialization
+// Syntax - type: name = value;
+// OR
+// Syntax - type: name = null;
+str8: string_8bit = "string";
+
+// One Dimensional Array Intialization
+// Syntax - type(dimension)<type>: name = [values]
+// OR
+// Syntax - type(?)<type>: name = [values]
+// OR
+// Syntax - type(dimension)<type>: name = [null]
+array(5)<uint8>: one_dimensional_array = [
+	1,
+	2,
+	3,
+	4,
+	5
+]
+
+// Two Dimensional Array Intialization
+// Syntax - type(dimension:dimension)<type>: name = [(value:value)]
+// OR
+// Syntax - type(?:?)<type>: name = [(value:value)]
+// OR
+// Syntax - type(dimension:dimension)<type>: name = [(null:null)]
+array(5:2)<uint8>: two_dimensional_array = [
+	(1:5),
+	(2:4),
+	(3:3),
+	(4:2),
+	(5:1)
+]
+
+// Hash Map Intialization
+// Syntax - type(dimension)<type:type>: name = [(key:value)]
+// OR
+// Syntax - type(?)<type:type>: name = [(key:value)]
+// OR
+// Syntax - type(dimension)<type:type>: name = [(null:null)]
+map(5)<uint8:str8>: hash_map = [
+	(1:"string"),
+	(2:"string"),
+	(3:"string"),
+	(4:"string"),
+	(5:"string")
+]
 
