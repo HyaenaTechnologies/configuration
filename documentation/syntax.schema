@@ -9,24 +9,24 @@
 // May be Declared with Initialized Fields
 // Syntax - type Name = {values}
 struct DataStructure = {
-	uint8 unsigned_integer_8bit;
+	option<uint8|null> unsigned_integer_8bit;
 	uint16 unsigned_integer_16bit;
 	uint32 unsigned_integer_32bit;
 	uint64 unsigned_integer_64bit;
 	optional<uint128> unsigned_integer_128bit;
-	int8 signed_integer_8bit;
+	option<int8|null> signed_integer_8bit;
 	int16 signed_integer_16bit;
 	int32 signed_integer_32bit;
 	int64 signed_integer_64bit;
 	optional<int128> signed_integer_128bit;
-	float32 float_32bit;
+	option<float32|null> float_32bit;
 	float64 float_64bit;
 	optional<float128> float_128bit;
 	bool boolean_type;
-	char8 character_8bit;
+	option<char8|null> character_8bit;
 	char16 character_16bit;
 	optional<char32> character_32bit;
-	str8 string_8bit;
+	option<str8|null> string_8bit;
 	str16 string_16bit;
 	optional<str32> string_32bit;
 	array(5)<uint8> one_dimensional_array;
@@ -128,17 +128,17 @@ array(5)<uint8> one_dimensional_array = [
 ]
 
 // Two Dimensional Array Initialization
-// Syntax - type(dimension:dimension)<type> name = [(value|value)]
+// Syntax - type(dimension:dimension)<type> name = [(value:value)]
 // OR
-// Unknown Size Syntax - type(?:?)<type> name = [(value|value)]
+// Unknown Size Syntax - type(?:?)<type> name = [(value:value)]
 // OR
-// Null Syntax - type(dimension:dimension)<type> name = [(null|null)]
+// Null Syntax - type(dimension:dimension)<type> name = [(null:null)]
 array(5:2)<uint8> two_dimensional_array = [
-	(1|5),
-	(2|4),
-	(3|3),
-	(4|2),
-	(5|1)
+	(1:5),
+	(2:4),
+	(3:3),
+	(4:2),
+	(5:1)
 ]
 
 // Hash Map Initialization
