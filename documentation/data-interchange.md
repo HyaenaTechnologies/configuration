@@ -1,44 +1,46 @@
-# Data Interchange File Format
+# Data Interchange Format
 
 ```shell
-// Data Interchange File Format
-// File Extension: .data, .data-interchange
-// Schema Definition Header File: .data-interchange
+// Data Interchange Format
+// File Extension: .data, .schema
+// Schema Definition Header File: .schema
 // Data Interchange Source File: .data
 
 // This is a Comment
 
 // Data Structure Declaration
+// May be Declared with Initialized Fields
 // Syntax - type: Name = {values}
 structure: DataStructure = {
 	uint8: unsigned_integer_8bit;
 	uint16: unsigned_integer_16bit;
 	uint32: unsigned_integer_32bit;
 	uint64: unsigned_integer_64bit;
-	uint128: unsigned_integer_128bit;
+	optional<uint128>: unsigned_integer_128bit;
 	int8: signed_integer_8bit;
 	int16: signed_integer_16bit;
 	int32: signed_integer_32bit;
 	int64: signed_integer_64bit;
-	int128: signed_integer_128bit;
+	optional<int128>: signed_integer_128bit;
 	float32: float_32bit;
 	float64: float_64bit;
-	float128: float_128bit;
+	optional<float128>: float_128bit;
 	bool: boolean_type;
 	char8: character_8bit;
 	char16: character_16bit;
-	char32: character_32bit;
+	optional<char32>: character_32bit;
 	str8: string_8bit;
 	str16: string_16bit;
-	str32: string_32bit;
+	optional<str32>: string_32bit;
 	array(5)<uint8>: one_dimensional_array;
 	array(5:2)<uint8>: two_dimensional_array;
-	map(5)<uint8:str8>: hash_map;
+	map(5)<uint8|str8>: hash_map;
 	DataStructure: data_structure;
 	EnumatorType: enumerator_type;
 }
 
 // Enumerator Declaration
+// May be Declared with Initialized Fields
 // Syntax - type: Name = {values}
 enumerator: EnumeratorType = {
 	FIRST_VALUE, // value = 0
@@ -73,51 +75,53 @@ DataStructure: data_structure = {
 	str32: string_32bit = "string";
 	array(5)<uint8>: one_dimensional_array = [];
 	array(5:2)<uint8>: two_dimensional_array = [()];
-	map(5)<uint8:str8>: hash_map = [()];
+	map(5)<uint8|str8>: hash_map = [()];
 	DataStructure: data_structure = {};
 	EnumratorType: enumerator_type = FIRST_VALUE;
 }
 
 // Enumerator Initialization
 // Syntax - type: name = value;
+// OR
+// Null Syntax - type: name = null;
 EnumeratorType: enumerator_type = FIRST_VALUE;
 
 // Boolean Initialization
 // Syntax - type: name = value;
 // OR
-// Syntax - type: name = null;
+// Null Syntax - type: name = null;
 bool: boolean_type = true;
 
 // Character Initialization
 // Syntax - type: name = value;
 // OR
-// Syntax - type: name = null;
+// Null Syntax - type: name = null;
 char8: character_8bit = 's';
 
 // Float Initialization
 // Syntax - type: name = value;
 // OR
-// Syntax - type: name = null;
+// Null Syntax - type: name = null;
 float32: float_32bit = 1.0;
 
 // Integer Initialization
 // Syntax - type: name = value;
 // OR
-// Syntax - type: name = null;
+// Null Syntax - type: name = null;
 uint8: unsigned_integer_8bit = 1;
 
 // String Initialization
 // Syntax - type: name = value;
 // OR
-// Syntax - type: name = null;
+// Null Syntax - type: name = null;
 str8: string_8bit = "string";
 
 // One Dimensional Array Initialization
 // Syntax - type(dimension)<type>: name = [values]
 // OR
-// Syntax - type(?)<type>: name = [values]
+// Unknown Size Syntax - type(?)<type>: name = [values]
 // OR
-// Syntax - type(dimension)<type>: name = [null]
+// Null Syntax - type(dimension)<type>: name = [null]
 array(5)<uint8>: one_dimensional_array = [
 	1,
 	2,
@@ -127,31 +131,31 @@ array(5)<uint8>: one_dimensional_array = [
 ]
 
 // Two Dimensional Array Initialization
-// Syntax - type(dimension:dimension)<type>: name = [(value:value)]
+// Syntax - type(dimension:dimension)<type>: name = [(value|value)]
 // OR
-// Syntax - type(?:?)<type>: name = [(value:value)]
+// Unknown Size Syntax - type(?:?)<type>: name = [(value|value)]
 // OR
-// Syntax - type(dimension:dimension)<type>: name = [(null:null)]
+// Null Syntax - type(dimension:dimension)<type>: name = [(null|null)]
 array(5:2)<uint8>: two_dimensional_array = [
-	(1:5),
-	(2:4),
-	(3:3),
-	(4:2),
-	(5:1)
+	(1|5),
+	(2|4),
+	(3|3),
+	(4|2),
+	(5|1)
 ]
 
 // Hash Map Initialization
-// Syntax - type(dimension)<type:type>: name = [(key:value)]
+// Syntax - type(dimension)<type|type>: name = [(key|value)]
 // OR
-// Syntax - type(?)<type:type>: name = [(key:value)]
+// Unknown Size Syntax - type(?)<type|type>: name = [(key|value)]
 // OR
-// Syntax - type(dimension)<type:type>: name = [(null:null)]
-map(5)<uint8:str8>: hash_map = [
-	(1:"string"),
-	(2:"string"),
-	(3:"string"),
-	(4:"string"),
-	(5:"string")
+// Null Syntax - type(dimension)<type|type>: name = [(null|null)]
+map(5)<uint8|str8>: hash_map = [
+	(1|"string"),
+	(2|"string"),
+	(3|"string"),
+	(4|"string"),
+	(5|"string")
 ]
 ```
 
