@@ -31,7 +31,7 @@ struct DataStructure = {
 	optional<str32> string_32bit;
 	array(5)<uint8> one_dimensional_array;
 	array(5:2)<uint8> two_dimensional_array;
-	map(5)<uint8|str8> hash_map;
+	map<uint8|str8> hash_map;
 	DataStructure data_structure;
 	EnumatorType enumerator_type;
 }
@@ -72,7 +72,7 @@ DataStructure data_structure = {
 	str32 string_32bit = "string";
 	array(5)<uint8> one_dimensional_array = [];
 	array(5:2)<uint8> two_dimensional_array = [()];
-	map(5)<uint8|str8> hash_map = [()];
+	map<uint8|str8> hash_map = [()];
 	DataStructure data_structure = {};
 	EnumratorType enumerator_type = FIRST_VALUE;
 }
@@ -114,11 +114,11 @@ uint8 unsigned_integer_8bit = 1;
 str8 string_8bit = "string";
 
 // One Dimensional Array Initialization
-// Syntax - type(dimension)<type> name = [values]
+// Syntax - type(length)<type> name = [values]
 // OR
 // Unknown Size Syntax - type(?)<type> name = [values]
 // OR
-// Null Syntax - type(dimension)<type> name = [null]
+// Null Syntax - type(length)<type> name = [null]
 array(5)<uint8> one_dimensional_array = [
 	1,
 	2,
@@ -128,26 +128,25 @@ array(5)<uint8> one_dimensional_array = [
 ]
 
 // Two Dimensional Array Initialization
-// Syntax - type(dimension:dimension)<type> name = [(value:value)]
+// Syntax - type(length:width)<type> name = [values]
 // OR
-// Unknown Size Syntax - type(?:?)<type> name = [(value:value)]
+// Unknown Size Syntax - type(?:?)<type> name = [values]
 // OR
-// Null Syntax - type(dimension:dimension)<type> name = [(null:null)]
-array(5:2)<uint8> two_dimensional_array = [
-	(1:5),
-	(2:4),
-	(3:3),
-	(4:2),
-	(5:1)
+// Null Syntax - type(length:width)<type> name = [null]
+array(3:2)<uint8> two_dimensional_array = [
+	1,
+	2,
+	3,
+	4,
+	5,
+	6
 ]
 
 // Hash Map Initialization
-// Syntax - type(dimension)<type|type> name = [(key|value)]
+// Syntax - type<type|type> name = [(key|value)]
 // OR
-// Unknown Size Syntax - type(?)<type|type> name = [(key|value)]
-// OR
-// Null Syntax - type(dimension)<type|type> name = [(null|null)]
-map(5)<uint8|str8> hash_map = [
+// Null Syntax - type<type|type> name = [(null|null)]
+map<uint8|str8> hash_map = [
 	(1|"string"),
 	(2|"string"),
 	(3|"string"),
