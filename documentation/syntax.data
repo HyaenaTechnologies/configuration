@@ -4,12 +4,10 @@
 // Data Interchange Source File: .data
 // .data Files May be Dynamically Typed
 // .data Files May be Statically Typed
-// .data Files Must be Included
-// .data Files Cannot be Excluded
+// .data Files are Required
 // .schema Files Must be Statically Typed
 // .schema Files Cannot be Dynamically Typed
-// .schema Files May be Included
-// .schema Files May be Excluded
+// .schema Files are Optional
 
 // This is a Comment
 
@@ -24,17 +22,6 @@ DataStructure = {
 	array = [];
 	hash_map = [()];
 	DataStructure = {};
-	EnumeratorType = {};
-}
-
-// Enumerator Initialization
-// Syntax - Name = {values}
-EnumeratorType = {
-	FIRST_VALUE = 0,
-	SECOND_VALUE = 1,
-	THIRD_VALUE = 2,
-	FOURTH_VALUE = 3,
-	FIFTH_VALUE = 4
 }
 
 // Boolean Initialization
