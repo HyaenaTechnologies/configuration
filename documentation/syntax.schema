@@ -16,7 +16,7 @@
 // Data Structure Declaration
 // May be Declared with Initialized Fields
 // Syntax - type Name = {values}
-// Optional Field Syntax - optional<type> name = value;
+// Optional Field Syntax - optional<type> name;
 struct DataStructure = {
 	option<uint8|null> unsigned_integer_8bit;
 	uint16 unsigned_integer_16bit;
@@ -49,11 +49,11 @@ struct DataStructure = {
 // May be Declared with Initialized Fields
 // Syntax - type Name = {values}
 enum EnumeratorType = {
-	FIRST_VALUE, // value = 0
-	SECOND_VALUE, // value = 1
-	THIRD_VALUE, // value = 2
-	FOURTH_VALUE, // value = 3
-	FIFTH_VALUE // value = 4
+	FIRST_VALUE, // value = 0;
+	SECOND_VALUE, // value = 1;
+	THIRD_VALUE, // value = 2;
+	FOURTH_VALUE, // value = 3;
+	FIFTH_VALUE // value = 4;
 }
 
 // Data Structure Initialization
