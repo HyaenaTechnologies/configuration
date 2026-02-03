@@ -1,4 +1,5 @@
 [C Language]: https://www.c-language.org/
+[C++ Language]: https://isocpp.org/
 [Clang Compiler]: https://clang.llvm.org/docs/index.html
 [CLIDoc]: https://github.com/HyaenaTechnologies/configuration/blob/main/gh-data/documentation/gh-data.md
 [GNU Compiler Collection]: https://gcc.gnu.org/onlinedocs/
@@ -29,6 +30,7 @@ Write GitHub Profile Data to Markdown Files
 ## Build
 
 - [C][C Language]
+- [C++][C++ Language]
 - [LLVM][LLVM IR]
 - [Clang][Clang Compiler]
 - [LLDB][Low Level Debugger]
@@ -54,9 +56,9 @@ make format
 
 ```shell
 ## Compile
-clang ./src/*/*.h
+clang++ ./src/*/*.hh
 
-clang ./src/*.c ./src/*/*.c -include-pch ./src/*/*.pch -o ./build/gh-data
+clang++ ./src/*.cc ./src/*/*.cc -include-pch ./src/*/*.pch -o ./build/gh-data
 
 rm ./src/*/*.pch
 
@@ -82,9 +84,9 @@ rm ./src/*/*.pch
 
 ```shell
 ## Compile
-gcc ./src/*/*.h
+g++ ./src/*/*.hh
 
-gcc ./src/*.c ./src/*/*.c -include ./src/*/*.pch -o ./build/gh-data
+g++ ./src/*.cc ./src/*/*.cc -include ./src/*/*.pch -o ./build/gh-data
 
 rm ./src/*/*.pch
 

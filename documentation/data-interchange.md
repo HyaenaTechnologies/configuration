@@ -1,5 +1,97 @@
 # Data Interchange Format
 
+## Dynamically Typed Syntax
+
+```shell
+// Data Interchange Format
+// File Extension: .data
+// Data Interchange Source File: .data
+
+// This is a Comment
+
+// Data Structure Initialization
+// Syntax - Name = {values}
+DataStructure = {
+	integer = 1;	
+	float = 1.0;
+	boolean_type = true;
+	character = 'd';
+	string = "string";
+	array = [];
+	hash_map = [()];
+	DataStructure = {};
+	EnumeratorType = {};
+}
+
+// Enumerator Initialization
+// Syntax - Name = {values}
+EnumeratorType = {
+	FIRST_VALUE = 0,
+	SECOND_VALUE = 1,
+	THIRD_VALUE = 2,
+	FOURTH_VALUE = 3,
+	FIFTH_VALUE = 4
+}
+
+// Boolean Initialization
+// Syntax - name = value;
+// OR
+// Null Syntax - name = null;
+boolean_type = true;
+
+// Character Initialization
+// Syntax - name = value;
+// OR
+// Null Syntax - name = null;
+character = 's';
+
+// Float Initialization
+// Syntax - name = value;
+// OR
+// Null Syntax - name = null;
+float = 1.0;
+
+// Integer Initialization
+// Syntax - name = value;
+// OR
+// Null Syntax - name = null;
+integer = 1;
+
+// String Initialization
+// Syntax - name = value;
+// OR
+// Null Syntax - name = null;
+string = "string";
+
+// Array Initialization
+// Syntax - name = [values]
+// OR
+// Unknown Size Syntax - name = [values]
+// OR
+// Null Syntax - name = [null]
+array = [
+	1,
+	2,
+	3,
+	4,
+	5
+]
+
+// Hash Map Initialization
+// Syntax - name = [(key|value)]
+// OR
+// Null Syntax - name = [(null|null)]
+hash_map = [
+	(1|"string"),
+	(2|"string"),
+	(3|"string"),
+	(4|"string"),
+	(5|"string")
+]
+```
+
+## Statically Typed Syntax
+
 ```shell
 // Data Interchange Format
 // File Extension: .data, .schema
@@ -74,7 +166,7 @@ DataStructure data_structure = {
 	str16 string_16bit = "string";
 	str32 string_32bit = "string";
 	array(5)<uint8> one_dimensional_array = [];
-	array(5:2)<uint8> two_dimensional_array = [()];
+	array(5:2)<uint8> two_dimensional_array = [];
 	map<uint8|str8> hash_map = [()];
 	DataStructure data_structure = {};
 	EnumratorType enumerator_type = FIRST_VALUE;

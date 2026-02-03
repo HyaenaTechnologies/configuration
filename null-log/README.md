@@ -1,4 +1,5 @@
 [C Language]: https://www.c-language.org/
+[C++ Language]: https://isocpp.org/
 [Clang Compiler]: https://clang.llvm.org/docs/index.html
 [CLIDoc]: https://github.com/HyaenaTechnologies/configuration/blob/main/null-log/documentation/null-log.md
 [GNU Compiler Collection]: https://gcc.gnu.org/onlinedocs/
@@ -28,6 +29,7 @@ Clean Log File Contents - Retain Log Files
 ## Build
 
 - [C][C Language]
+- [C++][C++ Language]
 - [LLVM][LLVM IR]
 - [Clang][Clang Compiler]
 - [LLDB][Low Level Debugger]
@@ -53,9 +55,9 @@ make format
 
 ```shell
 ## Compile
-clang ./src/*/*.h
+clang++ ./src/*/*.hh
 
-clang ./src/*.c ./src/*/*.c -include-pch ./src/*/*.pch -o ./build/null-log
+clang++ ./src/*.cc ./src/*/*.cc -include-pch ./src/*/*.pch -o ./build/null-log
 
 rm ./src/*/*.pch
 
@@ -81,9 +83,9 @@ rm ./src/*/*.pch
 
 ```shell
 ## Compile
-gcc ./src/*/*.h
+g++ ./src/*/*.hh
 
-gcc ./src/*.c ./src/*/*.c -include ./src/*/*.pch -o ./build/null-log
+g++ ./src/*.cc ./src/*/*.cc -include ./src/*/*.pch -o ./build/null-log
 
 rm ./src/*/*.pch
 

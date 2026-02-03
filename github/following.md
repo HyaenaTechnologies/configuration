@@ -50,6 +50,7 @@
 - https://github.com/archlinux
 - https://github.com/coreutils
 - https://github.com/rust-lang
+- https://github.com/arangodb
 - https://github.com/ni
 - https://github.com/influxdata
 - https://github.com/webmproject
@@ -153,6 +154,7 @@
 - https://github.com/LadybirdBrowser
 - https://github.com/biomejs
 - https://github.com/rustfs
+- https://github.com/valkey-io
 - https://github.com/RsyncProject
 - https://github.com/jj-vcs
 - https://github.com/flexprice

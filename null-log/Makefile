@@ -8,12 +8,12 @@ ANALYSIS_FLAGS = --analyze -Wall -Wextra
 all: build
 
 # Compile Package
-build: ./src/*.c ./src/*/*.c headers
-	clang $(CFLAGS) ./src/*.c ./src/*/*.c -include-pch ./src/*/*.pch -o ./build/null-log
+build: ./src/*.cc ./src/*/*.cc headers
+	clang++ $(CFLAGS) ./src/*.cc ./src/*/*.cc -include-pch ./src/*/*.pch -o ./build/null-log
 
 # Check Package
-check: ./src/*.c ./src/*/*.c headers
-	clang $(ANALYSIS_FLAGS) ./src/*.c ./src/*/*.c -include-pch ./src/*/*.pch -o ./build/null-log
+check: ./src/*.cc ./src/*/*.cc headers
+	clang++ $(ANALYSIS_FLAGS) ./src/*.cc ./src/*/*.cc -include-pch ./src/*/*.pch -o ./build/null-log
 
 # Clean Package
 clean:
@@ -21,12 +21,12 @@ clean:
 	rm ./src/*/*.pch
 
 # Format Package
-format: ./src/*.c ./src/*/*.c ./src/*/*.h 
-	clang-format -i ./src/*.c ./src/*/*.c ./src/*/*.h
+format: ./src/*.cc ./src/*/*.cc ./src/*/*.hh 
+	clang-format -i ./src/*.cc ./src/*/*.cc ./src/*/*.hh
 
 # Compile Headers
-headers: ./src/*/*.h
-	clang ./src/*/*.h
+headers: ./src/*/*.hh
+	clang++ ./src/*/*.hh
 
 # Run Package
 run: build

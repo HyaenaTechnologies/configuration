@@ -21,8 +21,10 @@
 - https://github.com/shader-slang/slang
 - https://github.com/shader-slang/slang-rhi
 - https://github.com/intel/llvm
-- https://github.com/arm/arm-toolchain
 - https://github.com/ARM-software/arm-trusted-firmware
+- https://github.com/arm/arm-toolchain
+- https://github.com/valkey-io/valkey
+- https://github.com/arangodb/arangodb
 - https://github.com/tikv/tikv
 - https://github.com/scylladb/scylladb
 - https://github.com/redis/redis
