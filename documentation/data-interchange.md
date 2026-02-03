@@ -4,8 +4,17 @@
 
 ```shell
 // Data Interchange Format
-// File Extension: .data
+// File Extension: .data, .schema
+// Schema Definition Header File: .schema
 // Data Interchange Source File: .data
+// .data Files May be Dynamically Typed
+// .data Files May be Statically Typed
+// .data Files Must be Included
+// .data Files Cannot be Excluded
+// .schema Files Must be Statically Typed
+// .schema Files Cannot be Dynamically Typed
+// .schema Files May be Included
+// .schema Files May be Excluded
 
 // This is a Comment
 
@@ -97,6 +106,14 @@ hash_map = [
 // File Extension: .data, .schema
 // Schema Definition Header File: .schema
 // Data Interchange Source File: .data
+// .data Files May be Dynamically Typed
+// .data Files May be Statically Typed
+// .data Files Must be Included
+// .data Files Cannot be Excluded
+// .schema Files Must be Statically Typed
+// .schema Files Cannot be Dynamically Typed
+// .schema Files May be Included
+// .schema Files May be Excluded
 
 // This is a Comment
 
