@@ -75,8 +75,6 @@ string = "string";
 // Array Initialization
 // Syntax - name = [values]
 // OR
-// Unknown Size Syntax - name = [values]
-// OR
 // Null Syntax - name = [null]
 array = [
 	1,
