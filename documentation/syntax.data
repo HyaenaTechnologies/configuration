@@ -12,7 +12,7 @@
 // This is a Comment
 
 // Data Structure Initialization
-// Syntax - Name = {values}
+// Syntax - Name = {fields}
 DataStructure = {
 	integer = 1;
 	float = 1.0;

@@ -17,7 +17,7 @@
 // This is a Comment
 
 // Data Structure Initialization
-// Syntax - Name = {values}
+// Syntax - Name = {fields}
 DataStructure = {
 	integer = 1;	
 	float = 1.0;
@@ -104,7 +104,7 @@ hash_map = [
 
 // Data Structure Declaration
 // May be Declared with Initialized Fields
-// Syntax - type Name = {values}
+// Syntax - type Name = {fields}
 // Optional Field Syntax - optional<type> name;
 struct DataStructure = {
 	option<uint8|null> unsigned_integer_8bit;
@@ -136,7 +136,7 @@ struct DataStructure = {
 
 // Enumerator Declaration
 // May be Declared with Initialized Fields
-// Syntax - type Name = {values}
+// Syntax - type Name = {fields}
 enum EnumeratorType = {
 	FIRST_VALUE, // value = 0;
 	SECOND_VALUE, // value = 1;
@@ -146,26 +146,26 @@ enum EnumeratorType = {
 }
 
 // Data Structure Initialization
-// Syntax - type name = {values}
+// Syntax - type name = {fields}
 DataStructure data_structure = {
-	uint8 unsigned_integer_8bit = 1;
+	uint8 unsigned_integer_8bit = null;
 	uint16 unsigned_integer_16bit = 2;
 	uint32 unsigned_integer_32bit = 3;
 	uint64 unsigned_integer_64bit = 4;
 	uint128 unsigned_integer_128bit = 5;
-	int8 signed_integer_8bit = -1;
+	int8 signed_integer_8bit = null;
 	int16 signed_integer_16bit = -2;
 	int32 signed_integer_32bit = -3;
 	int64 signed_integer_64bit = -4;
 	int128 signed_integer_128bit = -5;
-	float32 float_32bit = 1.0;
+	float32 float_32bit = null;
 	float64 float_64bit = 2.0;
 	float128 float_128bit = 3.0;
 	bool boolean_type = true;
-	char8 character_8bit = 'b';
+	char8 character_8bit = null;
 	char16 character_16bit = 'c';
 	char32 character_32bit = 'd';
-	str8 string_8bit = "string";
+	str8 string_8bit = null;
 	str16 string_16bit = "string";
 	str32 string_32bit = "string";
 	array(5)<uint8> one_dimensional_array = [];
