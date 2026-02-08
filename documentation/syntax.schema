@@ -51,11 +51,11 @@ struct DataStructure = {
 // May be Declared with Initialized Fields
 // Syntax - type Name = {fields}
 enum EnumeratorType = {
-	FIRST_VALUE, // value = 0;
-	SECOND_VALUE, // value = 1;
-	THIRD_VALUE, // value = 2;
-	FOURTH_VALUE, // value = 3;
-	FIFTH_VALUE // value = 4;
+	FIRST_VALUE, // value = 0,
+	SECOND_VALUE, // value = 1,
+	THIRD_VALUE, // value = 2,
+	FOURTH_VALUE, // value = 3,
+	FIFTH_VALUE // value = 4
 }
 
 // Data Structure Initialization
