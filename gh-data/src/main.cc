@@ -1,4 +1,4 @@
-#include "./arguments/parser.h"
+#include "./arguments/parser.hh"
 
 // Main Entry Point
 int main(int argc, char *argv[]) {

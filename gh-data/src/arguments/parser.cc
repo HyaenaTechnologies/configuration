@@ -1,14 +1,15 @@
-#include "./parser.h"
-#include "help_message.h"
-#include "version_message.h"
+#include "./parser.hh"
+#include "help_message.hh"
+#include "version_message.hh"
 
+#include <stddef.h>
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
 // Parse Command Line Arguments
-int8_t parse_arguments(int length, char *arguments[]) {
+uint8_t parse_arguments(size_t length, char *arguments[]) {
   int8_t index;
 
   if (length < 2 || length > 2) {

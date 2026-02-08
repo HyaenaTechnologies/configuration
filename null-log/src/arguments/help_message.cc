@@ -1,10 +1,10 @@
-#include "./help_message.h"
+#include "./help_message.hh"
 
 #include <stdint.h>
 #include <stdio.h>
 
 // Print Help Message
-int8_t print_help(void) {
+uint8_t print_help(void) {
   printf("\t\x1b[32;1;3;4mNull Log\x1b[0m\n"
          "\x1b[32;1;3mCommands:\tDescription:\x1b[0m\n"
          "\x1b[32;3mlog/directory\x1b[0m\t\tInput Log Directory"

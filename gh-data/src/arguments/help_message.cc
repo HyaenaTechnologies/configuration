@@ -1,10 +1,10 @@
-#include "./help_message.h"
-#include <stdio.h>
+#include "./help_message.hh"
 
 #include <stdint.h>
+#include <stdio.h>
 
 // Print Help Message
-int8_t print_help(void) {
+uint8_t print_help(void) {
   printf("\t\x1b[32;1;3;4mGitHub Data Tool\x1b[0m\n"
          "\x1b[32;1;3mCommands:\tDescription:\x1b[0m\n"
          "\x1b[32;3mhelp\x1b[0m\t\tPrint Commands and Flags"

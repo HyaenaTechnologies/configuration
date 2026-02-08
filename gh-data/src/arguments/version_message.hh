@@ -4,6 +4,6 @@
 #include <stdint.h>
 
 // Print Version Message
-int8_t print_version(void);
+uint8_t print_version(void);
 
 #endif

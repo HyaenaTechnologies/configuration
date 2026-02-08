@@ -4,6 +4,6 @@
 #include <stdint.h>
 
 // Print Help Message
-int8_t print_help(void);
+uint8_t print_help(void);
 
 #endif

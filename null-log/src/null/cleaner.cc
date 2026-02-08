@@ -1,4 +1,4 @@
-#include "./cleaner.h"
+#include "./cleaner.hh"
 
 #include <dirent.h>
 #include <errno.h>
@@ -20,14 +20,14 @@ int is_file(struct dirent *directory_entry) {
 }
 
 // Clean Logs by Copying the contents of /dev/null to the Log Files
-int8_t clean_logs(char log_path[]) {
+uint8_t clean_logs(char log_path[]) {
   DIR *directory = opendir(log_path);
   struct dirent *directory_entry = readdir(directory);
   char *error_message = strerror(errno);
   struct stat status_buffer;
 
   if (directory == NULL) {
-    printf(stderr, "Error Opening Directory: %s\n", error_message);
+    fprintf(stderr, "Error Opening Directory: %s\n", error_message);
     printf("Error Value: %d\n", errno);
     printf("\x1b[31;1;3;4mError(1) - Exiting Null Log\x1b[0m");
     exit(1);
@@ -38,7 +38,7 @@ int8_t clean_logs(char log_path[]) {
         printf(character_buffer, "cp /dev/null %s", directory_entry);
         system(character_buffer);
       } else {
-        printf(stderr, "Directory Entry is not a File: Skipping...");
+        fprintf(stderr, "Directory Entry is not a File: Skipping...");
       }
     }
   }
