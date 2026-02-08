@@ -18,7 +18,9 @@
 // Syntax - type Name = {fields}
 // Optional Field Syntax - optional<type> name;
 struct DataStructure = {
-	option<uint8|null> unsigned_integer_8bit;
+	option<byte|null> byte_type;
+	usize unsigned_integer_size;
+	uint8 unsigned_integer_8bit;
 	uint16 unsigned_integer_16bit;
 	uint32 unsigned_integer_32bit;
 	uint64 unsigned_integer_64bit;
@@ -59,7 +61,9 @@ enum EnumeratorType = {
 // Data Structure Initialization
 // Syntax - type name = {fields}
 DataStructure data_structure = {
-	uint8 unsigned_integer_8bit = null;
+	byte byte_type = null;
+	usize unsigned_integer_size = 0;
+	uint8 unsigned_integer_8bit = 1;
 	uint16 unsigned_integer_16bit = 2;
 	uint32 unsigned_integer_32bit = 3;
 	uint64 unsigned_integer_64bit = 4;
@@ -74,8 +78,8 @@ DataStructure data_structure = {
 	float128 float_128bit = 3.0;
 	bool boolean_type = true;
 	char8 character_8bit = null;
-	char16 character_16bit = 'c';
-	char32 character_32bit = 'd';
+	char16 character_16bit = 'b';
+	char32 character_32bit = 'c';
 	str8 string_8bit = null;
 	str16 string_16bit = "string";
 	str32 string_32bit = "string";
