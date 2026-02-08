@@ -34,15 +34,11 @@ struct DataStructure = {
 	float64 float_64bit;
 	optional<float128> float_128bit;
 	bool boolean_type;
-	option<char8|null> character_8bit;
-	char16 character_16bit;
-	optional<char32> character_32bit;
-	option<str8|null> string_8bit;
-	str16 string_16bit;
-	optional<str32> string_32bit;
+	char character;
+	str string;
 	array(5)<uint8> one_dimensional_array;
 	array(5:2)<uint8> two_dimensional_array;
-	map<uint8|str8> hash_map;
+	map<uint8|str> hash_map;
 	DataStructure data_structure;
 	EnumatorType enumerator_type;
 }
@@ -77,15 +73,11 @@ DataStructure data_structure = {
 	float64 float_64bit = 2.0;
 	float128 float_128bit = 3.0;
 	bool boolean_type = true;
-	char8 character_8bit = null;
-	char16 character_16bit = 'b';
-	char32 character_32bit = 'c';
-	str8 string_8bit = null;
-	str16 string_16bit = "string";
-	str32 string_32bit = "string";
+	char character = 'a';
+	str string = "string";
 	array(5)<uint8> one_dimensional_array = [];
 	array(5:2)<uint8> two_dimensional_array = [];
-	map<uint8|str8> hash_map = [()];
+	map<uint8|str> hash_map = [()];
 	DataStructure data_structure = {};
 	EnumratorType enumerator_type = FIRST_VALUE;
 }
@@ -106,7 +98,7 @@ bool boolean_type = true;
 // Syntax - type name = value;
 // OR
 // Null Syntax - type name = null;
-char8 character_8bit = 's';
+char character = 'a';
 
 // Float Initialization
 // Syntax - type name = value;
@@ -124,7 +116,7 @@ uint8 unsigned_integer_8bit = 1;
 // Syntax - type name = value;
 // OR
 // Null Syntax - type name = null;
-str8 string_8bit = "string";
+str string = "string";
 
 // One Dimensional Array Initialization
 // Syntax - type(length)<type> name = [values]
@@ -159,7 +151,7 @@ array(3:2)<uint8> two_dimensional_array = [
 // Syntax - type<type|type> name = [(key|value)]
 // OR
 // Null Syntax - type<type|type> name = [(null|null)]
-map<uint8|str8> hash_map = [
+map<uint8|str> hash_map = [
 	(1|"string"),
 	(2|"string"),
 	(3|"string"),

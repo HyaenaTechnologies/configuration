@@ -34,7 +34,7 @@ boolean_type = true;
 // Syntax - name = value;
 // OR
 // Null Syntax - name = null;
-character = 's';
+character = 'a';
 
 // Float Initialization
 // Syntax - name = value;
