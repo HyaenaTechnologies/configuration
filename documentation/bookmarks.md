@@ -16,11 +16,6 @@
 - https://pkg.go.dev/std
 - https://rust-lang.org/learn
 - https://crates.io/crates
-- https://commonmark.org/
-- https://json.org/json-en.html
-- https://www.jwt.io/
-- https://toml.io/en/
-- https://yaml.org/
 - https://developer.mozilla.org/en-US/docs/Web
 - https://www.w3.org/WAI/ARIA/apg/
 - https://astexplorer.net/
@@ -59,6 +54,7 @@
 - https://docs.gitea.com/
 - https://docs.gitlab.com/
 - https://docs.github.com/en
+- https://man.sr.ht/
 - https://openstax.org/subjects
 - https://docs.arduino.cc/language-reference/
 - https://espressif.com/
