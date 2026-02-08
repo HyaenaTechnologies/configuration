@@ -108,7 +108,7 @@ hash_map = [
 // Optional Field Syntax - optional<type> name;
 struct DataStructure = {
 	option<byte|null> byte_type;
-	usize unsigned_integer_size;
+	usize unsigned_integer_size; // Platform Dependant
 	uint8 unsigned_integer_8bit;
 	uint16 unsigned_integer_16bit;
 	uint32 unsigned_integer_32bit;
@@ -151,7 +151,7 @@ enum EnumeratorType = {
 // Syntax - type name = {fields}
 DataStructure data_structure = {
 	byte byte_type = null;
-	usize unsigned_integer_size = 0;
+	usize unsigned_integer_size = 0; // Platform Dependant
 	uint8 unsigned_integer_8bit = 1;
 	uint16 unsigned_integer_16bit = 2;
 	uint32 unsigned_integer_32bit = 3;
