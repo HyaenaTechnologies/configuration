@@ -40,18 +40,6 @@ struct DataStructure = {
 	array(5:2)<uint8> two_dimensional_array;
 	map<uint8|str> hash_map;
 	DataStructure data_structure;
-	EnumatorType enumerator_type;
-}
-
-// Enumerator Declaration
-// May be Declared with Initialized Fields
-// Syntax - type Name = {fields}
-enum EnumeratorType = {
-	FIRST_VALUE, // value = 0,
-	SECOND_VALUE, // value = 1,
-	THIRD_VALUE, // value = 2,
-	FOURTH_VALUE, // value = 3,
-	FIFTH_VALUE // value = 4
 }
 
 // Data Structure Initialization
@@ -79,14 +67,7 @@ DataStructure data_structure = {
 	array(5:2)<uint8> two_dimensional_array = [];
 	map<uint8|str> hash_map = [()];
 	DataStructure data_structure = {};
-	EnumratorType enumerator_type = FIRST_VALUE;
 }
-
-// Enumerator Initialization
-// Syntax - type name = value;
-// OR
-// Null Syntax - type name = null;
-EnumeratorType enumerator_type = FIRST_VALUE;
 
 // Boolean Initialization
 // Syntax - type name = value;
