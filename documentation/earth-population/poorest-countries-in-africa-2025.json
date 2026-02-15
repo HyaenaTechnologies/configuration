@@ -1,0 +1,434 @@
+[
+  {
+    "flagCode": "BI",
+    "country": "Burundi",
+    "imfGDP": 213.69006254343296,
+    "unGDP": 280.2515635858235,
+    "PPP": 840,
+    "GNIAtlasMethod": 240
+  },
+  {
+    "flagCode": "MG",
+    "country": "Madagascar",
+    "imfGDP": 502.8908972624287,
+    "unGDP": 456.7709303710672,
+    "PPP": 1720,
+    "GNIAtlasMethod": 510
+  },
+  {
+    "flagCode": "MW",
+    "country": "Malawi",
+    "imfGDP": 505.98439870184234,
+    "unGDP": 565.2972393894518,
+    "PPP": 1700,
+    "GNIAtlasMethod": 640
+  },
+  {
+    "flagCode": "CF",
+    "country": "Central African Republic",
+    "imfGDP": 509.67844912647286,
+    "unGDP": 434.52536421150387,
+    "PPP": 1020,
+    "GNIAtlasMethod": 480
+  },
+  {
+    "flagCode": "SL",
+    "country": "Sierra Leone",
+    "imfGDP": 516.7923499312341,
+    "unGDP": 394.72255008339204,
+    "PPP": 1900,
+    "GNIAtlasMethod": 510
+  },
+  {
+    "flagCode": "SD",
+    "country": "Sudan",
+    "imfGDP": 520.0137044371019,
+    "unGDP": 710.9544521031859,
+    "PPP": 4150,
+    "GNIAtlasMethod": 760
+  },
+  {
+    "flagCode": "SS",
+    "country": "South Sudan",
+    "imfGDP": 534.6711735363613,
+    "unGDP": 378.7124245208716,
+    "PPP": null,
+    "GNIAtlasMethod": null
+  },
+  {
+    "flagCode": "MZ",
+    "country": "Mozambique",
+    "imfGDP": 644.7910147424906,
+    "unGDP": 516.5849510407867,
+    "PPP": 1410,
+    "GNIAtlasMethod": 500
+  },
+  {
+    "flagCode": "SO",
+    "country": "Somalia",
+    "imfGDP": 651.4472365388432,
+    "unGDP": 530.1530931532916,
+    "PPP": 1360,
+    "GNIAtlasMethod": 470
+  },
+  {
+    "flagCode": "CD",
+    "country": "DR Congo",
+    "imfGDP": 653.7241208167895,
+    "unGDP": 554.3799631310267,
+    "PPP": 1280,
+    "GNIAtlasMethod": 590
+  },
+  {
+    "flagCode": "NE",
+    "country": "Niger",
+    "imfGDP": 673.9786086296198,
+    "unGDP": 552.1459427318772,
+    "PPP": 1510,
+    "GNIAtlasMethod": 610
+  },
+  {
+    "flagCode": "LR",
+    "country": "Liberia",
+    "imfGDP": 829.4932483716352,
+    "unGDP": 569.7226240183138,
+    "PPP": 1620,
+    "GNIAtlasMethod": 680
+  },
+  {
+    "flagCode": "ML",
+    "country": "Mali",
+    "imfGDP": 859.6441100369858,
+    "unGDP": 747.146689524898,
+    "PPP": 2420,
+    "GNIAtlasMethod": 850
+  },
+  {
+    "flagCode": "TD",
+    "country": "Chad",
+    "imfGDP": 890.1764927131886,
+    "unGDP": 799.816222855973,
+    "PPP": 1640,
+    "GNIAtlasMethod": 690
+  },
+  {
+    "flagCode": "BF",
+    "country": "Burkina Faso",
+    "imfGDP": 909.7555099565518,
+    "unGDP": 796.5490600051506,
+    "PPP": 2400,
+    "GNIAtlasMethod": 840
+  },
+  {
+    "flagCode": "RW",
+    "country": "Rwanda",
+    "imfGDP": 940.4020783428167,
+    "unGDP": 913.7364183591525,
+    "PPP": 2730,
+    "GNIAtlasMethod": 930
+  },
+  {
+    "flagCode": "GM",
+    "country": "Gambia",
+    "imfGDP": 954.6116530656357,
+    "unGDP": 790.7401960958014,
+    "PPP": 2470,
+    "GNIAtlasMethod": 810
+  },
+  {
+    "flagCode": "GW",
+    "country": "Guinea-Bissau",
+    "imfGDP": 956.2039901845726,
+    "unGDP": 699.9093139869839,
+    "PPP": 2220,
+    "GNIAtlasMethod": 820
+  },
+  {
+    "flagCode": "TG",
+    "country": "Togo",
+    "imfGDP": 1011.3551150478162,
+    "unGDP": 831.8673553043169,
+    "PPP": 2610,
+    "GNIAtlasMethod": 990
+  },
+  {
+    "flagCode": "LS",
+    "country": "Lesotho",
+    "imfGDP": 1013.4048711135182,
+    "unGDP": 967.863006279302,
+    "PPP": 3160,
+    "GNIAtlasMethod": 1260
+  },
+  {
+    "flagCode": "NG",
+    "country": "Nigeria",
+    "imfGDP": 1064.0345559260381,
+    "unGDP": 2000.0126300899262,
+    "PPP": 5650,
+    "GNIAtlasMethod": 2140
+  },
+  {
+    "flagCode": "UG",
+    "country": "Uganda",
+    "imfGDP": 1095.8472236007076,
+    "unGDP": 938.8653086801764,
+    "PPP": 2650,
+    "GNIAtlasMethod": 930
+  },
+  {
+    "flagCode": "TZ",
+    "country": "Tanzania",
+    "imfGDP": 1128.4142664563071,
+    "unGDP": null,
+    "PPP": 3040,
+    "GNIAtlasMethod": 1200
+  },
+  {
+    "flagCode": "ZM",
+    "country": "Zambia",
+    "imfGDP": 1363.1530672313006,
+    "unGDP": 1329.5990216255436,
+    "PPP": 3680,
+    "GNIAtlasMethod": 1170
+  },
+  {
+    "flagCode": "BJ",
+    "country": "Benin",
+    "imfGDP": 1442.5731546795369,
+    "unGDP": 1174.3089540652738,
+    "PPP": 4020,
+    "GNIAtlasMethod": 1400
+  },
+  {
+    "flagCode": "ET",
+    "country": "Ethiopia",
+    "imfGDP": 1514.1874335656075,
+    "unGDP": 878.2036140309436,
+    "PPP": 2800,
+    "GNIAtlasMethod": 1020
+  },
+  {
+    "flagCode": "KM",
+    "country": "Comoros",
+    "imfGDP": 1610.698116434671,
+    "unGDP": 1412.011367768141,
+    "PPP": 3850,
+    "GNIAtlasMethod": 1610
+  },
+  {
+    "flagCode": "GN",
+    "country": "Guinea",
+    "imfGDP": 1685.2652701709303,
+    "unGDP": 1380.5770975582295,
+    "PPP": 2840,
+    "GNIAtlasMethod": 1180
+  },
+  {
+    "flagCode": "CM",
+    "country": "Cameroon",
+    "imfGDP": 1780.6642056540816,
+    "unGDP": 1484.024056788479,
+    "PPP": 5080,
+    "GNIAtlasMethod": 1660
+  },
+  {
+    "flagCode": "KE",
+    "country": "Kenya",
+    "imfGDP": 1807.6913049146135,
+    "unGDP": 1971.4074653456742,
+    "PPP": 5680,
+    "GNIAtlasMethod": 2170
+  },
+  {
+    "flagCode": "SN",
+    "country": "Senegal",
+    "imfGDP": 1872.4910204944013,
+    "unGDP": 1467.1402915698288,
+    "PPP": 4100,
+    "GNIAtlasMethod": 1640
+  },
+  {
+    "flagCode": "MR",
+    "country": "Mauritania",
+    "imfGDP": 1999.6011333832546,
+    "unGDP": 2069.064130978766,
+    "PPP": 6330,
+    "GNIAtlasMethod": 2160
+  },
+  {
+    "flagCode": "ZW",
+    "country": "Zimbabwe",
+    "imfGDP": 2029.6977133822595,
+    "unGDP": 1558.5459093376123,
+    "PPP": 2460,
+    "GNIAtlasMethod": 1500
+  },
+  {
+    "flagCode": "GH",
+    "country": "Ghana",
+    "imfGDP": 2145.8862717921074,
+    "unGDP": 2103.737989921373,
+    "PPP": 6380,
+    "GNIAtlasMethod": 2350
+  },
+  {
+    "flagCode": "AO",
+    "country": "Angola",
+    "imfGDP": 2359.707991803279,
+    "unGDP": 2902.279713114754,
+    "PPP": 6450,
+    "GNIAtlasMethod": 1900
+  },
+  {
+    "flagCode": "CG",
+    "country": "Republic of the Congo",
+    "imfGDP": 2390.4917001313916,
+    "unGDP": 2366.4032668973728,
+    "PPP": 3520,
+    "GNIAtlasMethod": 2060
+  },
+  {
+    "flagCode": "CI",
+    "country": "Ivory Coast",
+    "imfGDP": 2656.8943643672715,
+    "unGDP": 2140.4918759457682,
+    "PPP": 6330,
+    "GNIAtlasMethod": 2620
+  },
+  {
+    "flagCode": "EG",
+    "country": "Egypt",
+    "imfGDP": 2936.6034165216365,
+    "unGDP": 3457.9777976783876,
+    "PPP": 14590,
+    "GNIAtlasMethod": 4100
+  },
+  {
+    "flagCode": "ST",
+    "country": "Sao Tome and Principe",
+    "imfGDP": 3125.8584664563336,
+    "unGDP": 2275.7623182132243,
+    "PPP": 4770,
+    "GNIAtlasMethod": 2410
+  },
+  {
+    "flagCode": "DJ",
+    "country": "Djibouti",
+    "imfGDP": 3685.5617863657862,
+    "unGDP": 3381.0806702249847,
+    "PPP": 5780,
+    "GNIAtlasMethod": 3180
+  },
+  {
+    "flagCode": "MA",
+    "country": "Morocco",
+    "imfGDP": 3964.97080466709,
+    "unGDP": 3406.4604431861944,
+    "PPP": 9390,
+    "GNIAtlasMethod": 3710
+  },
+  {
+    "flagCode": "SZ",
+    "country": "Eswatini",
+    "imfGDP": 4048.0189783229976,
+    "unGDP": 3444.422331372346,
+    "PPP": 9920,
+    "GNIAtlasMethod": 3800
+  },
+  {
+    "flagCode": "NA",
+    "country": "Namibia",
+    "imfGDP": 4127.301297844686,
+    "unGDP": 4076.3445658007904,
+    "PPP": 10890,
+    "GNIAtlasMethod": 4880
+  },
+  {
+    "flagCode": "TN",
+    "country": "Tunisia",
+    "imfGDP": 4430.299791069432,
+    "unGDP": 3739.792365126411,
+    "PPP": 12160,
+    "GNIAtlasMethod": 3840
+  },
+  {
+    "flagCode": "CV",
+    "country": "Cape Verde",
+    "imfGDP": 5154.306823483007,
+    "unGDP": 4389.732347731764,
+    "PPP": 8970,
+    "GNIAtlasMethod": 4140
+  },
+  {
+    "flagCode": "GQ",
+    "country": "Equatorial Guinea",
+    "imfGDP": 5524.058129517187,
+    "unGDP": 6070.582894404234,
+    "PPP": 12850,
+    "GNIAtlasMethod": 5320
+  },
+  {
+    "flagCode": "DZ",
+    "country": "Algeria",
+    "imfGDP": 5624.081643839081,
+    "unGDP": 4045.784468528712,
+    "PPP": 12930,
+    "GNIAtlasMethod": 3900
+  },
+  {
+    "flagCode": "ZA",
+    "country": "South Africa",
+    "imfGDP": 5764.456587378933,
+    "unGDP": 6259.272587428356,
+    "PPP": 15570,
+    "GNIAtlasMethod": 6780
+  },
+  {
+    "flagCode": "LY",
+    "country": "Libya",
+    "imfGDP": 6465.188990904409,
+    "unGDP": 5434.976724729707,
+    "PPP": 23590,
+    "GNIAtlasMethod": 7260
+  },
+  {
+    "flagCode": "GA",
+    "country": "Gabon",
+    "imfGDP": 8103.33458021773,
+    "unGDP": 7763.70640885725,
+    "PPP": 14880,
+    "GNIAtlasMethod": 7540
+  },
+  {
+    "flagCode": "BW",
+    "country": "Botswana",
+    "imfGDP": 8359.483552682934,
+    "unGDP": 7943.538944311742,
+    "PPP": 17590,
+    "GNIAtlasMethod": 7350
+  },
+  {
+    "flagCode": "MU",
+    "country": "Mauritius",
+    "imfGDP": 12898.571293405243,
+    "unGDP": 10169.915160690069,
+    "PPP": 27480,
+    "GNIAtlasMethod": 10760
+  },
+  {
+    "flagCode": "SC",
+    "country": "Seychelles",
+    "imfGDP": 16591.479074251198,
+    "unGDP": 15023.761287553001,
+    "PPP": 33480,
+    "GNIAtlasMethod": 14340
+  },
+  {
+    "flagCode": "ER",
+    "country": "Eritrea",
+    "imfGDP": null,
+    "unGDP": 660.7429997227613,
+    "PPP": null,
+    "GNIAtlasMethod": null
+  }
+]

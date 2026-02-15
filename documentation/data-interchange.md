@@ -1,0 +1,223 @@
+# Data Interchange Format
+
+## Dynamically Typed Syntax
+
+```shell
+// Data Interchange Format
+// File Extension: .data, .schema
+// Schema Definition Header File: .schema
+// Data Interchange Source File: .data
+// .data Files May be Dynamically Typed
+// .data Files May be Statically Typed
+// .data Files are Required
+// .schema Files Must be Statically Typed
+// .schema Files Cannot be Dynamically Typed
+// .schema Files are Optional
+
+// This is a Comment
+
+// Data Structure Initialization
+// Syntax - Name = {fields}
+DataStructure = {
+	byte_type = null // Encoding Dependent: ASCII, Binary, UTF-8, UTF-16, UTF-32
+	integer_type = 1;
+	float_type = 1.0;
+	boolean_type = true;
+	character_type = 'a'; // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
+	string_type = "string"; // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
+	array_type = [];
+	map_type = [()];
+	DataStructure = {};
+}
+
+// Boolean Initialization
+// Syntax - name = value;
+// OR
+// Null Syntax - name = null;
+boolean_type = true;
+
+// Character Initialization
+// Syntax - name = value;
+// OR
+// Null Syntax - name = null;
+// Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
+character_type = 'a';
+
+// Float Initialization
+// Syntax - name = value;
+// OR
+// Null Syntax - name = null;
+float_type = 1.0;
+
+// Integer Initialization
+// Syntax - name = value;
+// OR
+// Null Syntax - name = null;
+integer_type = 1;
+
+// String Initialization
+// Syntax - name = value;
+// OR
+// Null Syntax - name = null;
+// Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
+string_type = "string";
+
+// Array Initialization
+// Syntax - name = [values]
+// OR
+// Null Syntax - name = [null]
+// Array Index Syntax - name[index]
+array_type = [
+	1,
+	2,
+	3,
+	4,
+	5
+]
+
+// Hash Map Initialization
+// Syntax - name = [(key:value)]
+// OR
+// Null Syntax - name = [(null:null)]
+// Hash Map Index Syntax - name[key]
+map_type = [
+	(1:"string"),
+	(2:"string"),
+	(3:"string"),
+	(4:"string"),
+	(5:"string")
+]
+```
+
+## Statically Typed Syntax
+
+```shell
+// Data Interchange Format
+// File Extension: .data, .schema
+// Schema Definition Header File: .schema
+// Data Interchange Source File: .data
+// .data Files May be Dynamically Typed
+// .data Files May be Statically Typed
+// .data Files are Required
+// .schema Files Must be Statically Typed
+// .schema Files Cannot be Dynamically Typed
+// .schema Files are Optional
+
+// This is a Comment
+
+// Data Structure Declaration
+// May be Declared with Initialized Fields
+// Syntax - type Name = {fields}
+struct DataStructure = {
+	byte byte_type; // Encoding Dependent: ASCII, Binary, UTF-8, UTF-16, UTF-32
+	usize unsigned_integer_size; // Platform Dependent: x86, x86_64, AARCH32, AARCH64, RISCV32, RISCV64
+	uint8 unsigned_integer_8bit;
+	uint16 unsigned_integer_16bit;
+	uint32 unsigned_integer_32bit;
+	uint64 unsigned_integer_64bit;
+	uint128 unsigned_integer_128bit;
+	isize signed_integer_size; // Platform Dependent: x86, x86_64, AARCH32, AARCH64, RISCV32, RISCV64
+	int8 signed_integer_8bit;
+	int16 signed_integer_16bit;
+	int32 signed_integer_32bit;
+	int64 signed_integer_64bit;
+	int128 signed_integer_128bit;
+	float32 float_32bit;
+	float64 float_64bit;
+	float128 float_128bit;
+	bool boolean_type;
+	char character_type; // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
+	str string_type; // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
+	array(5)<uint8> array_type;	
+	map<uint8|str> map_type;
+	DataStructure structure_type;
+}
+
+// Data Structure Initialization
+// Syntax - type name = {fields}
+DataStructure structure_type = {
+	byte byte_type = null; // Encoding Dependent: ASCII, Binary, UTF-8, UTF-16, UTF-32
+	usize unsigned_integer_size = 0; // Platform Dependent: x86, x86_64, AARCH32, AARCH64, RISCV32, RISCV64
+	uint8 unsigned_integer_8bit = 1;
+	uint16 unsigned_integer_16bit = 2;
+	uint32 unsigned_integer_32bit = 3;
+	uint64 unsigned_integer_64bit = 4;
+	uint128 unsigned_integer_128bit = 5;
+	isize signed_integer_size = null; // Platform Dependent: x86, x86_64, AARCH32, AARCH64, RISCV32, RISCV64
+	int8 signed_integer_8bit = -1;
+	int16 signed_integer_16bit = -2;
+	int32 signed_integer_32bit = -3;
+	int64 signed_integer_64bit = -4;
+	int128 signed_integer_128bit = -5;
+	float32 float_32bit = null;
+	float64 float_64bit = 2.0;
+	float128 float_128bit = 3.0;
+	bool boolean_type = true;
+	char character_type = 'a'; // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
+	str string_type = "string"; // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
+	array(5)<uint8> array_type = [];
+	map<uint8|str> map_type = [()];
+	DataStructure structure_type = {};
+}
+
+// Boolean Initialization
+// Syntax - type name = value;
+// OR
+// Null Syntax - type name = null;
+bool boolean_type = true;
+
+// Character Initialization
+// Syntax - type name = value;
+// OR
+// Null Syntax - type name = null;
+// Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
+char character_type = 'a';
+
+// Float Initialization
+// Syntax - type name = value;
+// OR
+// Null Syntax - type name = null;
+float32 float_32bit = 1.0;
+
+// Integer Initialization
+// Syntax - type name = value;
+// OR
+// Null Syntax - type name = null;
+uint8 unsigned_integer_8bit = 1;
+
+// String Initialization
+// Syntax - type name = value;
+// OR
+// Null Syntax - type name = null;
+// Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
+str string_type = "string";
+
+// Array Initialization
+// Syntax - type(length)<type> name = [values]
+// OR
+// Unknown Size Syntax - type(?)<type> name = [values]
+// OR
+// Null Syntax - type(length)<type> name = [null]
+// Array Index Syntax - name[index]
+array(5)<uint8> array_type = [
+	1,
+	2,
+	3,
+	4,
+	5
+]
+
+// Hash Map Initialization
+// Syntax - type<type|type> name = [(key:value)]
+// OR
+// Null Syntax - type<type|type> name = [(null:null)]
+// Hash Map Index Syntax - name[key]
+map<uint8|str> map_type = [
+	(1:"string"),
+	(2:"string"),
+	(3:"string"),
+	(4:"string"),
+	(5:"string")
+]
+```
+

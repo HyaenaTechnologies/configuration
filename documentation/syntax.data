@@ -1,0 +1,85 @@
+// Data Interchange Format
+// File Extension: .data, .schema
+// Schema Definition Header File: .schema
+// Data Interchange Source File: .data
+// .data Files May be Dynamically Typed
+// .data Files May be Statically Typed
+// .data Files are Required
+// .schema Files Must be Statically Typed
+// .schema Files Cannot be Dynamically Typed
+// .schema Files are Optional
+
+// This is a Comment
+
+// Data Structure Initialization
+// Syntax - Name = {fields}
+DataStructure = {
+	byte_type = null // Encoding Dependent: ASCII, Binary, UTF-8, UTF-16, UTF-32
+	integer_type = 1;
+	float_type = 1.0;
+	boolean_type = true;
+	character_type = 'a'; // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
+	string_type = "string"; // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
+	array_type = [];
+	map_type = [()];
+	DataStructure = {};
+}
+
+// Boolean Initialization
+// Syntax - name = value;
+// OR
+// Null Syntax - name = null;
+boolean_type = true;
+
+// Character Initialization
+// Syntax - name = value;
+// OR
+// Null Syntax - name = null;
+// Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
+character_type = 'a';
+
+// Float Initialization
+// Syntax - name = value;
+// OR
+// Null Syntax - name = null;
+float_type = 1.0;
+
+// Integer Initialization
+// Syntax - name = value;
+// OR
+// Null Syntax - name = null;
+integer_type = 1;
+
+// String Initialization
+// Syntax - name = value;
+// OR
+// Null Syntax - name = null;
+// Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
+string_type = "string";
+
+// Array Initialization
+// Syntax - name = [values]
+// OR
+// Null Syntax - name = [null]
+// Array Index Syntax - name[index]
+array_type = [
+	1,
+	2,
+	3,
+	4,
+	5
+]
+
+// Hash Map Initialization
+// Syntax - name = [(key:value)]
+// OR
+// Null Syntax - name = [(null:null)]
+// Hash Map Index Syntax - name[key]
+map_type = [
+	(1:"string"),
+	(2:"string"),
+	(3:"string"),
+	(4:"string"),
+	(5:"string")
+]
+

@@ -1,0 +1,2082 @@
+[
+  {
+    "flagCode": "BI",
+    "country": "Burundi",
+    "GDP_USD": 199.6,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 950.9,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 230,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AF",
+    "country": "Afghanistan",
+    "GDP_USD": 352.6,
+    "GDP_DataYear": 2022,
+    "PPP_IntDollars": 2092.9,
+    "PPP_DataYear": 2022,
+    "GNIAtlasMethod_USDollars": 360,
+    "GNIAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "SY",
+    "country": "Syria",
+    "GDP_USD": 421.1,
+    "GDP_DataYear": 2021,
+    "PPP_IntDollars": 2914.5,
+    "PPP_DataYear": 2021,
+    "GNIAtlasMethod_USDollars": 560,
+    "GNIAtlasMethod_DataYear": 2021
+  },
+  {
+    "flagCode": "SL",
+    "country": "Sierra Leone",
+    "GDP_USD": 433.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 1846.7,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 560,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CF",
+    "country": "Central African Republic",
+    "GDP_USD": 445,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 1130,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 470,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MG",
+    "country": "Madagascar",
+    "GDP_USD": 528.7,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 1875.1,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 530,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "YE",
+    "country": "Yemen",
+    "GDP_USD": 533.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": null,
+    "PPP_DataYear": null,
+    "GNIAtlasMethod_USDollars": 820,
+    "GNIAtlasMethod_DataYear": 2018
+  },
+  {
+    "flagCode": "MZ",
+    "country": "Mozambique",
+    "GDP_USD": 608.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 1657.1,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 530,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "NE",
+    "country": "Niger",
+    "GDP_USD": 618.3,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 1817.3,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 600,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SO",
+    "country": "Somalia",
+    "GDP_USD": 643.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 1611.3,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 610,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CD",
+    "country": "DR Congo",
+    "GDP_USD": 649.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 1670.8,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 660,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MW",
+    "country": "Malawi",
+    "GDP_USD": 672.9,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 1867.7,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 640,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TD",
+    "country": "Chad",
+    "GDP_USD": 719.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 1969.3,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 710,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "LR",
+    "country": "Liberia",
+    "GDP_USD": 799.5,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 1819,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 730,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GM",
+    "country": "Gambia",
+    "GDP_USD": 843.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 3162.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 830,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BF",
+    "country": "Burkina Faso",
+    "GDP_USD": 874.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 2726.9,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 850,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "LS",
+    "country": "Lesotho",
+    "GDP_USD": 878,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 2793.9,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 1160,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "ML",
+    "country": "Mali",
+    "GDP_USD": 897.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 2726,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 860,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GW",
+    "country": "Guinea-Bissau",
+    "GDP_USD": 914.3,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 2630.3,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 900,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "RW",
+    "country": "Rwanda",
+    "GDP_USD": 1000.2,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 3361.1,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 980,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TG",
+    "country": "Togo",
+    "GDP_USD": 1013,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 3155.3,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 1030,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "UG",
+    "country": "Uganda",
+    "GDP_USD": 1014.2,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 3098.1,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 980,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MM",
+    "country": "Myanmar",
+    "GDP_USD": 1187.6,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 5905.2,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 1210,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TJ",
+    "country": "Tajikistan",
+    "GDP_USD": 1189,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 5082.2,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 1440,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TZ",
+    "country": "Tanzania",
+    "GDP_USD": 1211.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 3972.6,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 1210,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "ET",
+    "country": "Ethiopia",
+    "GDP_USD": 1293.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 3109.3,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 1130,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "NP",
+    "country": "Nepal",
+    "GDP_USD": 1324,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 5181.8,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 1370,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "ZM",
+    "country": "Zambia",
+    "GDP_USD": 1369.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 4125.6,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 1320,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "PK",
+    "country": "Pakistan",
+    "GDP_USD": 1407,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 6212,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 1500,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BJ",
+    "country": "Benin",
+    "GDP_USD": 1434.7,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 4248.3,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 1440,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "KM",
+    "country": "Comoros",
+    "GDP_USD": 1587.2,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 3854.8,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 1600,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "ZW",
+    "country": "Zimbabwe",
+    "GDP_USD": 1592.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 3899.9,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 1740,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "NG",
+    "country": "Nigeria",
+    "GDP_USD": 1621.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 6318.2,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 1930,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TL",
+    "country": "Timor-Leste",
+    "GDP_USD": 1648.6,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 5108.7,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 2140,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GN",
+    "country": "Guinea",
+    "GDP_USD": 1663.9,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 4429.3,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 1360,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CM",
+    "country": "Cameroon",
+    "GDP_USD": 1673.6,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 5380.2,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 1650,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "HT",
+    "country": "Haiti",
+    "GDP_USD": 1693.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 3255.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 1740,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SN",
+    "country": "Senegal",
+    "GDP_USD": 1746,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 4833,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 1660,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "KH",
+    "country": "Cambodia",
+    "GDP_USD": 1875.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 5624.1,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 1810,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "KE",
+    "country": "Kenya",
+    "GDP_USD": 1949.9,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 6323.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 2110,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "KG",
+    "country": "Kyrgyzstan",
+    "GDP_USD": 1969.9,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 7102.8,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 1700,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "LA",
+    "country": "Laos",
+    "GDP_USD": 2075.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 9326.3,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 2120,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "KI",
+    "country": "Kiribati",
+    "GDP_USD": 2089.9,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 3521.7,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 3730,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MR",
+    "country": "Mauritania",
+    "GDP_USD": 2149.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 6934.4,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 2150,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SB",
+    "country": "Solomon Islands",
+    "GDP_USD": 2203.2,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 3034.9,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 2270,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GH",
+    "country": "Ghana",
+    "GDP_USD": 2238.2,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 7466.4,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 2340,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SD",
+    "country": "Sudan",
+    "GDP_USD": 2272.5,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 3137.2,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 990,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AO",
+    "country": "Angola",
+    "GDP_USD": 2309.5,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 8040.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 2130,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "IN",
+    "country": "India",
+    "GDP_USD": 2484.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 10175.8,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 2540,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "UZ",
+    "country": "Uzbekistan",
+    "GDP_USD": 2496.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 9724.7,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 2360,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CG",
+    "country": "Republic of the Congo",
+    "GDP_USD": 2508.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 6932.9,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 2470,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BD",
+    "country": "Bangladesh",
+    "GDP_USD": 2529.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 9065.7,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 2860,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "NI",
+    "country": "Nicaragua",
+    "GDP_USD": 2530.3,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 8043.7,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 2270,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "ST",
+    "country": "Sao Tome and Principe",
+    "GDP_USD": 2601.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 6063.6,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 2480,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CI",
+    "country": "Ivory Coast",
+    "GDP_USD": 2728.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 7790.9,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 2670,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "PG",
+    "country": "Papua New Guinea",
+    "GDP_USD": 2994.5,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 4607.4,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 2840,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "HN",
+    "country": "Honduras",
+    "GDP_USD": 3247.2,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 7210.7,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 2900,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "LB",
+    "country": "Lebanon",
+    "GDP_USD": 3350.3,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 12852.7,
+    "PPP_DataYear": 2022,
+    "GNIAtlasMethod_USDollars": 3740,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "VU",
+    "country": "Vanuatu",
+    "GDP_USD": 3367.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 3315.1,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 3660,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "PS",
+    "country": "Palestine",
+    "GDP_USD": 3367.6,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 5888.4,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 4220,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "EG",
+    "country": "Egypt",
+    "GDP_USD": 3512.6,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 18816.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 3900,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "DJ",
+    "country": "Djibouti",
+    "GDP_USD": 3606.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 7204,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 3450,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MA",
+    "country": "Morocco",
+    "GDP_USD": 3672.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 9743.3,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 3700,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BO",
+    "country": "Bolivia",
+    "GDP_USD": 3701,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 10727,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 3600,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BT",
+    "country": "Bhutan",
+    "GDP_USD": 3704,
+    "GDP_DataYear": 2022,
+    "PPP_IntDollars": 15021.7,
+    "PPP_DataYear": 2022,
+    "GNIAtlasMethod_USDollars": 3590,
+    "GNIAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "PH",
+    "country": "Philippines",
+    "GDP_USD": 3725.6,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 10755.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 4230,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SZ",
+    "country": "Eswatini",
+    "GDP_USD": 3797.3,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 11740.8,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 3860,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "LK",
+    "country": "Sri Lanka",
+    "GDP_USD": 3828,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 14455.3,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 3540,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TN",
+    "country": "Tunisia",
+    "GDP_USD": 3895.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 13681.6,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 3770,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "FM",
+    "country": "Micronesia",
+    "GDP_USD": 3992.2,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 4216.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 4150,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "WS",
+    "country": "Samoa",
+    "GDP_USD": 4139,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 6680.6,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 4020,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CV",
+    "country": "Cape Verde",
+    "GDP_USD": 4321.6,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 9086.2,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 4280,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "VN",
+    "country": "Vietnam",
+    "GDP_USD": 4346.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 15194.3,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 4180,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "JO",
+    "country": "Jordan",
+    "GDP_USD": 4482.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 10451.9,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 4460,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "IR",
+    "country": "Iran",
+    "GDP_USD": 4502.5,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 17921.7,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 4680,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TO",
+    "country": "Tonga",
+    "GDP_USD": 4681.7,
+    "GDP_DataYear": 2022,
+    "PPP_IntDollars": 7016.4,
+    "PPP_DataYear": 2022,
+    "GNIAtlasMethod_USDollars": 5000,
+    "GNIAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "NA",
+    "country": "Namibia",
+    "GDP_USD": 4742.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 12756.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 4870,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "ID",
+    "country": "Indonesia",
+    "GDP_USD": 4940.5,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 15612.8,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 4870,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "UA",
+    "country": "Ukraine",
+    "GDP_USD": 5181.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 18007.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 5070,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "DZ",
+    "country": "Algeria",
+    "GDP_USD": 5260.2,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 17027,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 4960,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SV",
+    "country": "El Salvador",
+    "GDP_USD": 5344.2,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 12542.3,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 4920,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TV",
+    "country": "Tuvalu",
+    "GDP_USD": 5465.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 5763.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 7550,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "IQ",
+    "country": "Iraq",
+    "GDP_USD": 5512.5,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 13968.6,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 5600,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MN",
+    "country": "Mongolia",
+    "GDP_USD": 5764.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 18108,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 4950,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GT",
+    "country": "Guatemala",
+    "GDP_USD": 5797.5,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 14066.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 5580,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "FJ",
+    "country": "Fiji",
+    "GDP_USD": 5868.2,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 15046.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 5580,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SR",
+    "country": "Suriname",
+    "GDP_USD": 6069,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 21047.2,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 5360,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "ZA",
+    "country": "South Africa",
+    "GDP_USD": 6253.2,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 15847.4,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 6750,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "PY",
+    "country": "Paraguay",
+    "GDP_USD": 6260.5,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 17465.9,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 6200,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "EC",
+    "country": "Ecuador",
+    "GDP_USD": 6533.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 15870.3,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 6510,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MD",
+    "country": "Moldova",
+    "GDP_USD": 6650.6,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 17384.4,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 6110,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MH",
+    "country": "Marshall Islands",
+    "GDP_USD": 6762.5,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 7491.4,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 7570,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "JM",
+    "country": "Jamaica",
+    "GDP_USD": 6874.2,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 11475,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 6150,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CO",
+    "country": "Colombia",
+    "GDP_USD": 6979.7,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 21548,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 6870,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GQ",
+    "country": "Equatorial Guinea",
+    "GDP_USD": 7066.6,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 18723.6,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 5240,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AZ",
+    "country": "Azerbaijan",
+    "GDP_USD": 7155.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 23685.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 6680,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TH",
+    "country": "Thailand",
+    "GDP_USD": 7171.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 23422.9,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 7180,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BW",
+    "country": "Botswana",
+    "GDP_USD": 7249.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 19383.2,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 7620,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "LY",
+    "country": "Libya",
+    "GDP_USD": 7330,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 19641.1,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 7570,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "PE",
+    "country": "Peru",
+    "GDP_USD": 7789.9,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 16717.4,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 6990,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BY",
+    "country": "Belarus",
+    "GDP_USD": 7829.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 30751.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 7780,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BZ",
+    "country": "Belize",
+    "GDP_USD": 7987.6,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 14195.3,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 7190,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GE",
+    "country": "Georgia",
+    "GDP_USD": 8120.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 24681.3,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 6680,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AL",
+    "country": "Albania",
+    "GDP_USD": 8367.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 21395.3,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 7570,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GA",
+    "country": "Gabon",
+    "GDP_USD": 8420.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 21947,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 7960,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BA",
+    "country": "Bosnia and Herzegovina",
+    "GDP_USD": 8426.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 22845.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 8160,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AM",
+    "country": "Armenia",
+    "GDP_USD": 8715.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 23054.6,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 7330,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "DM",
+    "country": "Dominica",
+    "GDP_USD": 8953.9,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 17598.6,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 8920,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TM",
+    "country": "Turkmenistan",
+    "GDP_USD": 9190.7,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 17100.1,
+    "PPP_DataYear": 2019,
+    "GNIAtlasMethod_USDollars": 7130,
+    "GNIAtlasMethod_DataYear": 2019
+  },
+  {
+    "flagCode": "CU",
+    "country": "Cuba",
+    "GDP_USD": 9499.6,
+    "GDP_DataYear": 2020,
+    "PPP_IntDollars": null,
+    "PPP_DataYear": null,
+    "GNIAtlasMethod_USDollars": 8920,
+    "GNIAtlasMethod_DataYear": 2019
+  },
+  {
+    "flagCode": "BR",
+    "country": "Brazil",
+    "GDP_USD": 10043.6,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 20584.4,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 9070,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "VC",
+    "country": "Saint Vincent and the Grenadines",
+    "GDP_USD": 10279.5,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 19875.7,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 10070,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GD",
+    "country": "Grenada",
+    "GDP_USD": 10463.3,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 17654.1,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 9800,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "DO",
+    "country": "Dominican Republic",
+    "GDP_USD": 10716,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 25610.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 9700,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "RS",
+    "country": "Serbia",
+    "GDP_USD": 11361,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 27401.8,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 10030,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MU",
+    "country": "Mauritius",
+    "GDP_USD": 11416.9,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 29498.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 11530,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MY",
+    "country": "Malaysia",
+    "GDP_USD": 11648.7,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 37247.7,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 11970,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "ME",
+    "country": "Montenegro",
+    "GDP_USD": 12016.9,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 31216.4,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 11500,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "NR",
+    "country": "Nauru",
+    "GDP_USD": 12060.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 12670.7,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 22090,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CN",
+    "country": "China",
+    "GDP_USD": 12614.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 24557.6,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 13400,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MV",
+    "country": "Maldives",
+    "GDP_USD": 12667.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 24808.7,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 11030,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TR",
+    "country": "Turkey",
+    "GDP_USD": 12985.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 44151,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 11650,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "KZ",
+    "country": "Kazakhstan",
+    "GDP_USD": 13136.6,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 39332.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 10940,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AR",
+    "country": "Argentina",
+    "GDP_USD": 13730.5,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 29362.7,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 12520,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "RU",
+    "country": "Russia",
+    "GDP_USD": 13817,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 44103.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 14250,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MX",
+    "country": "Mexico",
+    "GDP_USD": 13926.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 25601.6,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 12100,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "LC",
+    "country": "Saint Lucia",
+    "GDP_USD": 13980.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 25128.7,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 12400,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "PW",
+    "country": "Palau",
+    "GDP_USD": 14565.3,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 17490.8,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 14250,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BG",
+    "country": "Bulgaria",
+    "GDP_USD": 15797.6,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 38689.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 14460,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CR",
+    "country": "Costa Rica",
+    "GDP_USD": 16595.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 27952.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 13850,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CL",
+    "country": "Chile",
+    "GDP_USD": 17093.2,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 33284.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 15820,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MP",
+    "country": "Northern Mariana Islands",
+    "GDP_USD": 17302.9,
+    "GDP_DataYear": 2020,
+    "PPP_IntDollars": null,
+    "PPP_DataYear": null,
+    "GNIAtlasMethod_USDollars": null,
+    "GNIAtlasMethod_DataYear": null
+  },
+  {
+    "flagCode": "SC",
+    "country": "Seychelles",
+    "GDP_USD": 17879.2,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 32693.6,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 16940,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TT",
+    "country": "Trinidad and Tobago",
+    "GDP_USD": 18333,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 31572.1,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 17940,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "RO",
+    "country": "Romania",
+    "GDP_USD": 18419.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 47903.3,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 16670,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "PA",
+    "country": "Panama",
+    "GDP_USD": 18661.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 39695.1,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 18010,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "PF",
+    "country": "French Polynesia",
+    "GDP_USD": 18984.9,
+    "GDP_DataYear": 2022,
+    "PPP_IntDollars": null,
+    "PPP_DataYear": null,
+    "GNIAtlasMethod_USDollars": null,
+    "GNIAtlasMethod_DataYear": null
+  },
+  {
+    "flagCode": "AS",
+    "country": "American Samoa",
+    "GDP_USD": 19673.4,
+    "GDP_DataYear": 2022,
+    "PPP_IntDollars": null,
+    "PPP_DataYear": null,
+    "GNIAtlasMethod_USDollars": null,
+    "GNIAtlasMethod_DataYear": null
+  },
+  {
+    "flagCode": "MF",
+    "country": "Saint Martin",
+    "GDP_USD": 20320.7,
+    "GDP_DataYear": 2021,
+    "PPP_IntDollars": null,
+    "PPP_DataYear": null,
+    "GNIAtlasMethod_USDollars": null,
+    "GNIAtlasMethod_DataYear": null
+  },
+  {
+    "flagCode": "CW",
+    "country": "Curacao",
+    "GDP_USD": 20492.8,
+    "GDP_DataYear": 2022,
+    "PPP_IntDollars": 29523.5,
+    "PPP_DataYear": 2022,
+    "GNIAtlasMethod_USDollars": 20590,
+    "GNIAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "GY",
+    "country": "Guyana",
+    "GDP_USD": 20626.2,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 55262.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 20360,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "HR",
+    "country": "Croatia",
+    "GDP_USD": 21459.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 45909.6,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 20670,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AG",
+    "country": "Antigua and Barbuda",
+    "GDP_USD": 21560.2,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 31802.4,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 19990,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "PL",
+    "country": "Poland",
+    "GDP_USD": 22112.9,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 49464,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 19730,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "HU",
+    "country": "Hungary",
+    "GDP_USD": 22147.2,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 45942.2,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 19820,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "KN",
+    "country": "Saint Kitts and Nevis",
+    "GDP_USD": 22553.3,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 33402.8,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 21380,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "UY",
+    "country": "Uruguay",
+    "GDP_USD": 22564.5,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 34061.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 19530,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BB",
+    "country": "Barbados",
+    "GDP_USD": 22672.6,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 19357.2,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 21280,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GR",
+    "country": "Greece",
+    "GDP_USD": 22990,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 41186.8,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 22580,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "LV",
+    "country": "Latvia",
+    "GDP_USD": 23184.3,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 42501,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 21970,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "OM",
+    "country": "Oman",
+    "GDP_USD": 23295.3,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 44421.2,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 21540,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SK",
+    "country": "Slovakia",
+    "GDP_USD": 24470.2,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 44650.2,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 22790,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "LT",
+    "country": "Lithuania",
+    "GDP_USD": 27102.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 51877,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 24820,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "PT",
+    "country": "Portugal",
+    "GDP_USD": 27275.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 48758.9,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 26270,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SA",
+    "country": "Saudi Arabia",
+    "GDP_USD": 28895,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 54991.7,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 28690,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BH",
+    "country": "Bahrain",
+    "GDP_USD": 29084.3,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 63847.8,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 28280,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "EE",
+    "country": "Estonia",
+    "GDP_USD": 29823.7,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 48992.1,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 27240,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CZ",
+    "country": "Czech Republic",
+    "GDP_USD": 30427.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 53816.8,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 27110,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "TC",
+    "country": "Turks and Caicos Islands",
+    "GDP_USD": 30438.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 24819.6,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 26570,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SI",
+    "country": "Slovenia",
+    "GDP_USD": 32163.5,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 54947.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 30620,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "ES",
+    "country": "Spain",
+    "GDP_USD": 32677,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 25779.2,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 32180,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "KR",
+    "country": "South Korea",
+    "GDP_USD": 33121.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 54033.2,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 35490,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AW",
+    "country": "Aruba",
+    "GDP_USD": 33300.8,
+    "GDP_DataYear": 2022,
+    "PPP_IntDollars": 45236,
+    "PPP_DataYear": 2022,
+    "GNIAtlasMethod_USDollars": 33410,
+    "GNIAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "BN",
+    "country": "Brunei",
+    "GDP_USD": 33430.9,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 86445.7,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 34970,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "JP",
+    "country": "Japan",
+    "GDP_USD": 33834.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 50206.6,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 39030,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CY",
+    "country": "Cyprus",
+    "GDP_USD": 34701.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 57100.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 30990,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BS",
+    "country": "Bahamas",
+    "GDP_USD": 34749.6,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 35554.8,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 31990,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "NC",
+    "country": "New Caledonia",
+    "GDP_USD": 35745.8,
+    "GDP_DataYear": 2022,
+    "PPP_IntDollars": null,
+    "PPP_DataYear": null,
+    "GNIAtlasMethod_USDollars": 37370,
+    "GNIAtlasMethod_DataYear": 2021
+  },
+  {
+    "flagCode": "PR",
+    "country": "Puerto Rico",
+    "GDP_USD": 36779.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 47699.6,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 25240,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "KW",
+    "country": "Kuwait",
+    "GDP_USD": 37533.2,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 56386.3,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 46140,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MT",
+    "country": "Malta",
+    "GDP_USD": 37882.3,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 62445.7,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 34240,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "IT",
+    "country": "Italy",
+    "GDP_USD": 38373.2,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 58754.9,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 38200,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SX",
+    "country": "Sint Maarten",
+    "GDP_USD": 39432.6,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 51527.1,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 36960,
+    "GNIAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "GU",
+    "country": "Guam",
+    "GDP_USD": 40227.3,
+    "GDP_DataYear": 2022,
+    "PPP_IntDollars": null,
+    "PPP_DataYear": null,
+    "GNIAtlasMethod_USDollars": null,
+    "GNIAtlasMethod_DataYear": null
+  },
+  {
+    "flagCode": "VI",
+    "country": "United States Virgin Islands",
+    "GDP_USD": 41976,
+    "GDP_DataYear": 2021,
+    "PPP_IntDollars": 46238.1,
+    "PPP_DataYear": 2021,
+    "GNIAtlasMethod_USDollars": null,
+    "GNIAtlasMethod_DataYear": null
+  },
+  {
+    "flagCode": "FR",
+    "country": "France",
+    "GDP_USD": 44460.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 61156.8,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 45070,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AD",
+    "country": "Andorra",
+    "GDP_USD": 46544.7,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 71587.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 50080,
+    "GNIAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "NZ",
+    "country": "New Zealand",
+    "GDP_USD": 48527.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 54109.8,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 48610,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GB",
+    "country": "United Kingdom",
+    "GDP_USD": 48866.6,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 58906.2,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 47800,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "HK",
+    "country": "Hong Kong",
+    "GDP_USD": 50696.6,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 71841.6,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 55200,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "IL",
+    "country": "Israel",
+    "GDP_USD": 52261.7,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 53434,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 55020,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "DE",
+    "country": "Germany",
+    "GDP_USD": 52745.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 69338.3,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 53970,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AE",
+    "country": "United Arab Emirates",
+    "GDP_USD": 52976.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 83902.7,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 53290,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "CA",
+    "country": "Canada",
+    "GDP_USD": 53371.7,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 61582.3,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 53930,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BE",
+    "country": "Belgium",
+    "GDP_USD": 53475.3,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 70456,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 54530,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "FI",
+    "country": "Finland",
+    "GDP_USD": 53755.9,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 65060.7,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 53390,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SM",
+    "country": "San Marino",
+    "GDP_USD": 54982.5,
+    "GDP_DataYear": 2021,
+    "PPP_IntDollars": 65717.9,
+    "PPP_DataYear": 2021,
+    "GNIAtlasMethod_USDollars": 47120,
+    "GNIAtlasMethod_DataYear": 2021
+  },
+  {
+    "flagCode": "SE",
+    "country": "Sweden",
+    "GDP_USD": 56305.3,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 70206.6,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 61650,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AT",
+    "country": "Austria",
+    "GDP_USD": 56506,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 73751.4,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 55070,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "GL",
+    "country": "Greenland",
+    "GDP_USD": 57116.3,
+    "GDP_DataYear": 2021,
+    "PPP_IntDollars": 68086.5,
+    "PPP_DataYear": 2021,
+    "GNIAtlasMethod_USDollars": null,
+    "GNIAtlasMethod_DataYear": null
+  },
+  {
+    "flagCode": "NL",
+    "country": "Netherlands",
+    "GDP_USD": 62536.7,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 78215.1,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 60670,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "AU",
+    "country": "Australia",
+    "GDP_USD": 64711.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 69114.7,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 63140,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "MO",
+    "country": "Macau",
+    "GDP_USD": 66835.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 113183.2,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 43940,
+    "GNIAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "FO",
+    "country": "Faroe Islands",
+    "GDP_USD": 66979.3,
+    "GDP_DataYear": 2022,
+    "PPP_IntDollars": 76566.5,
+    "PPP_DataYear": 2022,
+    "GNIAtlasMethod_USDollars": 74420,
+    "GNIAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "DK",
+    "country": "Denmark",
+    "GDP_USD": 67967.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 76687.9,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 73360,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "IS",
+    "country": "Iceland",
+    "GDP_USD": 78811.1,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 77567.2,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 79840,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "US",
+    "country": "United States",
+    "GDP_USD": 81695.2,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 81695.2,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 80300,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "SG",
+    "country": "Singapore",
+    "GDP_USD": 84734.3,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 141500.2,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 70590,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "QA",
+    "country": "Qatar",
+    "GDP_USD": 87480.4,
+    "GDP_DataYear": 2022,
+    "PPP_IntDollars": 121124.7,
+    "PPP_DataYear": 2022,
+    "GNIAtlasMethod_USDollars": 70070,
+    "GNIAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "NO",
+    "country": "Norway",
+    "GDP_USD": 87961.8,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 104459.8,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 102460,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "IM",
+    "country": "Isle of Man",
+    "GDP_USD": 94124.3,
+    "GDP_DataYear": 2021,
+    "PPP_IntDollars": null,
+    "PPP_DataYear": null,
+    "GNIAtlasMethod_USDollars": 76300,
+    "GNIAtlasMethod_DataYear": 2021
+  },
+  {
+    "flagCode": "KY",
+    "country": "Cayman Islands",
+    "GDP_USD": 96073.8,
+    "GDP_DataYear": 2022,
+    "PPP_IntDollars": 85167.7,
+    "PPP_DataYear": 2022,
+    "GNIAtlasMethod_USDollars": 68790,
+    "GNIAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "CH",
+    "country": "Switzerland",
+    "GDP_USD": 99994.9,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 92980.4,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 95160,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "IE",
+    "country": "Ireland",
+    "GDP_USD": 103684.9,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 127623.4,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 80390,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "BM",
+    "country": "Bermuda",
+    "GDP_USD": 123091.1,
+    "GDP_DataYear": 2022,
+    "PPP_IntDollars": 106866.3,
+    "PPP_DataYear": 2022,
+    "GNIAtlasMethod_USDollars": 134640,
+    "GNIAtlasMethod_DataYear": 2022
+  },
+  {
+    "flagCode": "LU",
+    "country": "Luxembourg",
+    "GDP_USD": 128259.4,
+    "GDP_DataYear": 2023,
+    "PPP_IntDollars": 143341.5,
+    "PPP_DataYear": 2023,
+    "GNIAtlasMethod_USDollars": 88370,
+    "GNIAtlasMethod_DataYear": 2023
+  },
+  {
+    "flagCode": "LI",
+    "country": "Liechtenstein",
+    "GDP_USD": 187267.1,
+    "GDP_DataYear": 2022,
+    "PPP_IntDollars": null,
+    "PPP_DataYear": null,
+    "GNIAtlasMethod_USDollars": null,
+    "GNIAtlasMethod_DataYear": null
+  },
+  {
+    "flagCode": "MC",
+    "country": "Monaco",
+    "GDP_USD": 240862.2,
+    "GDP_DataYear": 2022,
+    "PPP_IntDollars": null,
+    "PPP_DataYear": null,
+    "GNIAtlasMethod_USDollars": null,
+    "GNIAtlasMethod_DataYear": null
+  }
+]
