@@ -13,7 +13,7 @@ uint8_t write_repositories() {
 
   printf("Enter Github API User Command: ");
   fgets(command_buffer, sizeof(command_buffer), stdin);
-  
+
   command_buffer[strcspn(command_buffer, "\n")] = '\0';
 
   if (markdown_file == NULL) {
@@ -22,7 +22,7 @@ uint8_t write_repositories() {
   }
 
   fprintf(markdown_file, "# Repositories\n\n");
-  
+
   FILE *github_cli = popen(command_buffer, "r");
 
   if (github_cli == NULL) {

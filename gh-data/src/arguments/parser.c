@@ -15,12 +15,11 @@
 uint8_t parse_arguments(int length, char *arguments[]) {
   int index;
 
-  if (length == 1 || length > 3) {
+  if (length == 1 || length > 2) {
     printf("\x1b[31;1;3;4mFlag and User Required:\x1b[0m\n\n");
     for (index = 0; index < length; index = index + 1) {
-      printf("%s\n", arguments[index]);
+      printf("%s\n\n", arguments[index]);
     }
-    printf("");
     print_help();
     exit(EXIT_FAILURE);
   } else if (strcmp(arguments[1], "--following") == 0) {
@@ -46,9 +45,8 @@ uint8_t parse_arguments(int length, char *arguments[]) {
   } else {
     printf("\x1b[31;1;3;4mUknown Command or Flag:\x1b[0m\n\n");
     for (index = 0; index < length; index = index + 1) {
-      printf("%s\n", arguments[index]);
+      printf("%s\n\n", arguments[index]);
     }
-    printf("");
     print_help();
     exit(EXIT_FAILURE);
   }

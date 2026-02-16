@@ -1,8 +1,8 @@
 # Stars
 
 - https://github.com/llvm/llvm-project
-- https://github.com/fortran-lang/stdlib
 - https://github.com/gcc-mirror/gcc
+- https://github.com/fortran-lang/stdlib
 - https://github.com/fortran-lang/fpm
 - https://github.com/AdaCore/gnat-llvm
 - https://github.com/AdaCore/ada_language_server
@@ -10,7 +10,6 @@
 - https://github.com/rust-lang/rust
 - https://github.com/rust-lang/cargo
 - https://github.com/rust-lang/rust-analyzer
-- https://github.com/rust-lang/rustup
 - https://github.com/golang/go
 - https://github.com/go-delve/delve
 - https://github.com/carbon-language/carbon-lang
@@ -21,8 +20,9 @@
 - https://github.com/shader-slang/slang
 - https://github.com/shader-slang/slang-rhi
 - https://github.com/intel/llvm
-- https://github.com/ARM-software/arm-trusted-firmware
 - https://github.com/arm/arm-toolchain
+- https://github.com/ARM-software/arm-trusted-firmware
+- https://github.com/lvgl/lvgl
 - https://github.com/valkey-io/valkey
 - https://github.com/arangodb/arangodb
 - https://github.com/tikv/tikv
@@ -136,4 +136,3 @@
 - https://github.com/KhronosGroup/Vulkan-Loader
 - https://github.com/git/git
 - https://github.com/torvalds/linux
-

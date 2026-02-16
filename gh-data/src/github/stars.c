@@ -13,7 +13,7 @@ uint8_t write_starred() {
 
   printf("Enter Github API User Command: ");
   fgets(command_buffer, sizeof(command_buffer), stdin);
-  
+
   command_buffer[strcspn(command_buffer, "\n")] = '\0';
 
   if (markdown_file == NULL) {
@@ -22,8 +22,8 @@ uint8_t write_starred() {
   }
 
   fprintf(markdown_file, "# Stars\n\n");
-  
-  FILE *github_cli = popen(command_buffer, "r");  
+
+  FILE *github_cli = popen(command_buffer, "r");
 
   if (github_cli == NULL) {
     perror("Failed to Open File");

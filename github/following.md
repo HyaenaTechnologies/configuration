@@ -88,6 +88,7 @@
 - https://github.com/intel
 - https://github.com/go-delve
 - https://github.com/zephyrproject-rtos
+- https://github.com/lvgl
 - https://github.com/github-linguist
 - https://github.com/git-lfs
 - https://github.com/hetznercloud
@@ -144,7 +145,6 @@
 - https://github.com/opencost
 - https://github.com/hyprwm
 - https://github.com/tukaani-project
-- https://github.com/hatchet-dev
 - https://github.com/dagu-org
 - https://github.com/openmeterio
 - https://github.com/LadybirdBrowser
@@ -158,4 +158,3 @@
 - https://github.com/arm
 - https://github.com/cadence-workflow
 - https://github.com/X11Libre
-
