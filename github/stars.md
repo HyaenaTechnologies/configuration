@@ -11,8 +11,8 @@
 - https://github.com/rust-lang/cargo
 - https://github.com/rust-lang/rust-analyzer
 - https://github.com/golang/go
-- https://github.com/go-delve/delve
 - https://github.com/carbon-language/carbon-lang
+- https://github.com/go-delve/delve
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
 - https://github.com/julelang/jule
@@ -20,8 +20,13 @@
 - https://github.com/shader-slang/slang
 - https://github.com/shader-slang/slang-rhi
 - https://github.com/intel/llvm
-- https://github.com/arm/arm-toolchain
 - https://github.com/ARM-software/arm-trusted-firmware
+- https://github.com/arm/arm-toolchain
+- https://github.com/KiCad/kicad-source-mirror
+- https://github.com/LibrePCB/LibrePCB
+- https://github.com/LibreCAD/LibreCAD
+- https://github.com/openscad/openscad
+- https://github.com/FreeCAD/FreeCAD
 - https://github.com/lvgl/lvgl
 - https://github.com/valkey-io/valkey
 - https://github.com/arangodb/arangodb
@@ -85,7 +90,6 @@
 - https://github.com/illumos/illumos-gate
 - https://github.com/jqlang/jq
 - https://github.com/seaweedfs/seaweedfs
-- https://github.com/minio/minio
 - https://github.com/libuv/libuv
 - https://github.com/go-task/task
 - https://github.com/zed-industries/zed

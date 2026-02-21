@@ -12,7 +12,8 @@
 - https://github.com/arduino
 - https://github.com/w3c
 - https://github.com/illumos
-- https://github.com/minio
+- https://github.com/openscad
+- https://github.com/LibreCAD
 - https://github.com/FFmpeg
 - https://github.com/freebsd
 - https://github.com/openbsd
@@ -33,12 +34,14 @@
 - https://github.com/systemd
 - https://github.com/qemu
 - https://github.com/whatwg
+- https://github.com/FreeCAD
 - https://github.com/openssh
 - https://github.com/system76
 - https://github.com/openwrt
 - https://github.com/servo
 - https://github.com/hostinger
 - https://github.com/openssl
+- https://github.com/KiCad
 - https://github.com/openstax
 - https://github.com/libuv
 - https://github.com/OpenRC
@@ -76,6 +79,7 @@
 - https://github.com/brave
 - https://github.com/ImageMagick
 - https://github.com/go-gitea
+- https://github.com/LibrePCB
 - https://github.com/unicode-org
 - https://github.com/KDE
 - https://github.com/pciutils
