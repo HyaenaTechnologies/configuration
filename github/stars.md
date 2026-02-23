@@ -5,14 +5,14 @@
 - https://github.com/fortran-lang/stdlib
 - https://github.com/fortran-lang/fpm
 - https://github.com/AdaCore/gnat-llvm
-- https://github.com/AdaCore/ada_language_server
 - https://github.com/alire-project/alire
+- https://github.com/AdaCore/ada_language_server
 - https://github.com/rust-lang/rust
 - https://github.com/rust-lang/cargo
 - https://github.com/rust-lang/rust-analyzer
 - https://github.com/golang/go
-- https://github.com/carbon-language/carbon-lang
 - https://github.com/go-delve/delve
+- https://github.com/carbon-language/carbon-lang
 - https://github.com/c3lang/c3c
 - https://github.com/odin-lang/Odin
 - https://github.com/julelang/jule
@@ -20,8 +20,9 @@
 - https://github.com/shader-slang/slang
 - https://github.com/shader-slang/slang-rhi
 - https://github.com/intel/llvm
-- https://github.com/ARM-software/arm-trusted-firmware
 - https://github.com/arm/arm-toolchain
+- https://github.com/ARM-software/arm-trusted-firmware
+- https://github.com/versity/scoutfs
 - https://github.com/KiCad/kicad-source-mirror
 - https://github.com/LibrePCB/LibrePCB
 - https://github.com/LibreCAD/LibreCAD
@@ -30,7 +31,6 @@
 - https://github.com/lvgl/lvgl
 - https://github.com/valkey-io/valkey
 - https://github.com/arangodb/arangodb
-- https://github.com/tikv/tikv
 - https://github.com/scylladb/scylladb
 - https://github.com/redis/redis
 - https://github.com/mongodb/mongo
@@ -84,8 +84,6 @@
 - https://github.com/jackaudio/jack2
 - https://github.com/PipeWire/pipewire
 - https://github.com/RsyncProject/rsync
-- https://github.com/biomejs/biome
-- https://github.com/swc-project/swc
 - https://github.com/rustfs/rustfs
 - https://github.com/illumos/illumos-gate
 - https://github.com/jqlang/jq

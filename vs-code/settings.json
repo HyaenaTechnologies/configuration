@@ -57,6 +57,7 @@
 	"security.workspace.trust.startupPrompt": "always",
 	"telemetry.feedback.enabled": false,
 	"telemetry.telemetryLevel": "off",
+	"typescript.experimental.useTsgo": true,
 	"workbench.commandPalette.showAskInChat": false,
 	"workbench.secondarySideBar.defaultVisibility": "hidden",
 	"workbench.settings.showAISearchToggle": false

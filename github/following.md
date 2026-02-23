@@ -54,6 +54,7 @@
 - https://github.com/rust-lang
 - https://github.com/arangodb
 - https://github.com/ni
+- https://github.com/versity
 - https://github.com/webmproject
 - https://github.com/neovim
 - https://github.com/coreboot
@@ -101,7 +102,6 @@
 - https://github.com/linux-pam
 - https://github.com/gpuweb
 - https://github.com/go-task
-- https://github.com/swc-project
 - https://github.com/dependabot
 - https://github.com/shader-slang
 - https://github.com/linux-mobile-broadband
@@ -112,7 +112,6 @@
 - https://github.com/harness
 - https://github.com/void-linux
 - https://github.com/netwide-assembler
-- https://github.com/tikv
 - https://github.com/etcd-io
 - https://github.com/actions
 - https://github.com/firecracker-microvm
@@ -152,7 +151,6 @@
 - https://github.com/dagu-org
 - https://github.com/openmeterio
 - https://github.com/LadybirdBrowser
-- https://github.com/biomejs
 - https://github.com/rustfs
 - https://github.com/valkey-io
 - https://github.com/RsyncProject
