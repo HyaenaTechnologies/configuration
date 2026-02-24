@@ -130,6 +130,7 @@
 - https://github.com/tinkerbell
 - https://github.com/carbon-language
 - https://github.com/helix-editor
+- https://github.com/typst
 - https://github.com/advanced-security
 - https://github.com/rustdesk
 - https://github.com/getlago
@@ -151,6 +152,7 @@
 - https://github.com/dagu-org
 - https://github.com/openmeterio
 - https://github.com/LadybirdBrowser
+- https://github.com/junobuild
 - https://github.com/rustfs
 - https://github.com/valkey-io
 - https://github.com/RsyncProject
