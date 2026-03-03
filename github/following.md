@@ -2,7 +2,6 @@
 
 - https://github.com/github
 - https://github.com/git
-- https://github.com/chromium
 - https://github.com/mongodb
 - https://github.com/gentoo
 - https://github.com/yaml
@@ -10,7 +9,6 @@
 - https://github.com/DragonFlyBSD
 - https://github.com/duckduckgo
 - https://github.com/arduino
-- https://github.com/w3c
 - https://github.com/illumos
 - https://github.com/openscad
 - https://github.com/LibreCAD
@@ -33,12 +31,10 @@
 - https://github.com/Debian
 - https://github.com/systemd
 - https://github.com/qemu
-- https://github.com/whatwg
 - https://github.com/FreeCAD
 - https://github.com/openssh
 - https://github.com/system76
 - https://github.com/openwrt
-- https://github.com/servo
 - https://github.com/hostinger
 - https://github.com/openssl
 - https://github.com/KiCad
@@ -59,7 +55,6 @@
 - https://github.com/neovim
 - https://github.com/coreboot
 - https://github.com/gogs
-- https://github.com/mdn
 - https://github.com/AdaCore
 - https://github.com/SELinuxProject
 - https://github.com/i3
@@ -151,7 +146,6 @@
 - https://github.com/tukaani-project
 - https://github.com/dagu-org
 - https://github.com/openmeterio
-- https://github.com/LadybirdBrowser
 - https://github.com/junobuild
 - https://github.com/rustfs
 - https://github.com/valkey-io
