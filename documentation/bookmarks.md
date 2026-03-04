@@ -35,12 +35,12 @@
 - https://systemd.io/
 - https://openssh.com/
 - https://docs.openssl.org/master/
-- https://networkmanager.dev/docs/
 - https://wayland.freedesktop.org/docs/html/
 - https://x.org/wiki/Documentation/
 - https://ti.com/design-development/overview.html
 - https://riscv.org/specifications/ratified/
 - https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
+- https://www.amd.com/en/developer/browse-by-resource-type/documentation.html
 - https://developer.arm.com/documentation/
 - https://bluetooth.com/specifications/specs/
 - https://usb.org/documents

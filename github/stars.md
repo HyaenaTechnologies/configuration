@@ -8,8 +8,8 @@
 - https://github.com/AdaCore/ada_language_server
 - https://github.com/alire-project/alire
 - https://github.com/rust-lang/rust
-- https://github.com/rust-lang/rust-analyzer
 - https://github.com/rust-lang/cargo
+- https://github.com/rust-lang/rust-analyzer
 - https://github.com/golang/go
 - https://github.com/carbon-language/carbon-lang
 - https://github.com/go-delve/delve
@@ -17,11 +17,11 @@
 - https://github.com/odin-lang/Odin
 - https://github.com/julelang/jule
 - https://github.com/netwide-assembler/nasm
-- https://github.com/shader-slang/slang-rhi
 - https://github.com/shader-slang/slang
-- https://github.com/intel/llvm
+- https://github.com/shader-slang/slang-rhi
 - https://github.com/ARM-software/arm-trusted-firmware
-- https://github.com/arm/arm-toolchain
+- https://github.com/intel/hal-intel
+- https://github.com/intel/media-driver
 - https://github.com/typst/typst
 - https://github.com/KiCad/kicad-source-mirror
 - https://github.com/LibrePCB/LibrePCB
