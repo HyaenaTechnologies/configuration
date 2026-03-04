@@ -23,7 +23,6 @@
 - https://github.com/ARM-software/arm-trusted-firmware
 - https://github.com/arm/arm-toolchain
 - https://github.com/typst/typst
-- https://github.com/versity/scoutfs
 - https://github.com/KiCad/kicad-source-mirror
 - https://github.com/LibrePCB/LibrePCB
 - https://github.com/LibreCAD/LibreCAD
@@ -39,7 +38,6 @@
 - https://github.com/etcd-io/etcd
 - https://github.com/dragonflydb/dragonfly
 - https://github.com/rivet-dev/rivet
-- https://github.com/windmill-labs/windmill
 - https://github.com/flexprice/flexprice
 - https://github.com/getlago/lago
 - https://github.com/inngest/inngest
