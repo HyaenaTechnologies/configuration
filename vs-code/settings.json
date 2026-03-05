@@ -48,7 +48,7 @@
 	"git.supportCancellation": true,
 	"git.timeline.showUncommitted": true,
 	"git.verboseCommit": true,
-	"go.toolsGopath": "/usr/bin/go/pkg/tool",
+	"go.toolsGopath": "~/golang/pkg/tool",
 	"inlineChat.holdToSpeech": false,
 	"mermaid-chat.enabled": false,
 	"notebook.experimental.generate": false,
