@@ -34,7 +34,7 @@ struct DataStructure = {
 	bool boolean_type;
 	char character_type; // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
 	str string_type; // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
-	array(5)<uint8> array_type;	
+	array[5]<uint8> array_type;	
 	map<uint8|str> map_type;
 	DataStructure structure_type;
 }
@@ -61,7 +61,7 @@ DataStructure structure_type = {
 	bool boolean_type = true;
 	char character_type = 'a'; // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
 	str string_type = "string"; // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
-	array(5)<uint8> array_type = [];
+	array[5]<uint8> array_type = [];
 	map<uint8|str> map_type = [()];
 	DataStructure structure_type = {};
 }
@@ -99,13 +99,13 @@ uint8 unsigned_integer_8bit = 1;
 str string_type = "string";
 
 // Array Initialization
-// Syntax - type(length)<type> name = [values]
+// Syntax - type[length]<type> name = [values]
 // OR
-// Unknown Size Syntax - type(?)<type> name = [values]
+// Unknown Size Syntax - type[]<type> name = [values]
 // OR
-// Null Syntax - type(length)<type> name = [null]
+// Null Syntax - type[length]<type> name = [null]
 // Array Index Syntax - name[index]
-array(5)<uint8> array_type = [
+array[5]<uint8> array_type = [
 	1,
 	2,
 	3,
