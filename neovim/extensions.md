@@ -1,15 +1,14 @@
-# NeoVim Extentions
+# NeoVim Extensions
 
 # Dependencies
 
 - https://github.com/tree-sitter/tree-sitter
 
-## Extentions
+## Extensions
 
 - https://github.com/AstroNvim/AstroNvim
 - https://github.com/folke/lazy.nvim
 - https://github.com/LazyVim/LazyVim
-- https://github.com/LunarVim/LunarVim
 - https://github.com/mason-org/mason.nvim
 - https://github.com/mason-org/mason-lspconfig.nvim
 - https://github.com/neovim/nvim-lspconfig
