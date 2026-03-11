@@ -4,9 +4,10 @@
 
 ```shell
 // Data Interchange Format
-// File Extension: .data, .schema
-// Schema Definition Header File: .schema
+// File Extension: .data, .binary, .schema
 // Data Interchange Source File: .data
+// Binary Format Source File: .binary
+// Schema Definition Header File: .schema
 // .data Files May be Dynamically Typed
 // .data Files May be Statically Typed
 // .data Files are Required
@@ -16,10 +17,25 @@
 
 // This is a Comment
 
+// Data Structure Declaration
+// May be Declared with Initialized Fields
+// Syntax - type Name = {fields}
+struct DataStructure = {
+	byte_type; // Encoding Dependent: ASCII, Binary, UTF-8, UTF-16, UTF-32
+	integer_type;
+	float_type;
+	boolean_type;
+	character_type; // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
+	string_type; // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
+	array_type;
+	map_type;
+	DataStructure structure_type;
+};
+
 // Data Structure Initialization
-// Syntax - Name = {fields}
-DataStructure = {
-	byte_type = null // Encoding Dependent: ASCII, Binary, UTF-8, UTF-16, UTF-32
+// Syntax - type name = {fields}
+DataStructure structure_type = {
+	byte_type = null; // Encoding Dependent: ASCII, Binary, UTF-8, UTF-16, UTF-32
 	integer_type = 1;
 	float_type = 1.0;
 	boolean_type = true;
@@ -27,75 +43,76 @@ DataStructure = {
 	string_type = "string"; // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
 	array_type = [];
 	map_type = [()];
-	DataStructure = {};
-}
+	DataStructure structure_type = {};
+};
 
 // Boolean Initialization
-// Syntax - name = value;
+// Syntax - var name = value;
 // OR
-// Null Syntax - name = null;
-boolean_type = true;
+// Null Syntax - var name = null;
+var boolean_type = true;
 
 // Character Initialization
-// Syntax - name = value;
+// Syntax - var name = value;
 // OR
-// Null Syntax - name = null;
+// Null Syntax - var name = null;
 // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
-character_type = 'a';
+var character_type = 'a';
 
 // Float Initialization
-// Syntax - name = value;
+// Syntax - var name = value;
 // OR
-// Null Syntax - name = null;
-float_type = 1.0;
+// Null Syntax - var name = null;
+var float_type = 1.0;
 
 // Integer Initialization
-// Syntax - name = value;
+// Syntax - var name = value;
 // OR
-// Null Syntax - name = null;
-integer_type = 1;
+// Null Syntax - var name = null;
+var integer_type = 1;
 
 // String Initialization
-// Syntax - name = value;
+// Syntax - var name = value;
 // OR
-// Null Syntax - name = null;
+// Null Syntax - var name = null;
 // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
-string_type = "string";
+var string_type = "string";
 
 // Array Initialization
-// Syntax - name = [values]
+// Syntax - var name = [values]
 // OR
-// Null Syntax - name = [null]
+// Null Syntax - var name = [null]
 // Array Index Syntax - name[index]
-array_type = [
+var array_type = [
 	1,
 	2,
 	3,
 	4,
 	5
-]
+];
 
 // Hash Map Initialization
-// Syntax - name = [(key:value)]
+// Syntax - var name = [(key:value)]
 // OR
-// Null Syntax - name = [(null:null)]
+// Null Syntax - var name = [(null:null)]
 // Hash Map Index Syntax - name[key]
-map_type = [
+var map_type = [
 	(1:"string"),
 	(2:"string"),
 	(3:"string"),
 	(4:"string"),
 	(5:"string")
-]
+];
 ```
 
 ## Statically Typed Syntax
 
 ```shell
 // Data Interchange Format
-// File Extension: .data, .schema
-// Schema Definition Header File: .schema
+// File Extension: .data, .binary, .schema
 // Data Interchange Source File: .data
+// Binary Format Source File: .binary
+// Schema Definition Header File: .schema
 // .data Files May be Dynamically Typed
 // .data Files May be Statically Typed
 // .data Files are Required
@@ -128,10 +145,11 @@ struct DataStructure = {
 	bool boolean_type;
 	char character_type; // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
 	str string_type; // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
-	array[5]<uint8> array_type;	
-	map<uint8|str> map_type;
+	[5]uint8 array_type;
+	list<uint8> list_type;
+	map<uint8, str> map_type;
 	DataStructure structure_type;
-}
+};
 
 // Data Structure Initialization
 // Syntax - type name = {fields}
@@ -155,69 +173,85 @@ DataStructure structure_type = {
 	bool boolean_type = true;
 	char character_type = 'a'; // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
 	str string_type = "string"; // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
-	array[5]<uint8> array_type = [];
-	map<uint8|str> map_type = [()];
+	[5]uint8 array_type = [];
+	list<uint8> list_type;
+	map<uint8, str> map_type = [()];
 	DataStructure structure_type = {};
-}
+};
 
 // Boolean Initialization
-// Syntax - type name = value;
+// Syntax - var type name = value;
 // OR
-// Null Syntax - type name = null;
-bool boolean_type = true;
+// Null Syntax - var type name = null;
+var bool boolean_type = true;
 
 // Character Initialization
-// Syntax - type name = value;
+// Syntax - var type name = value;
 // OR
-// Null Syntax - type name = null;
+// Null Syntax - var type name = null;
 // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
-char character_type = 'a';
+var char character_type = 'a';
 
 // Float Initialization
-// Syntax - type name = value;
+// Syntax - var type name = value;
 // OR
-// Null Syntax - type name = null;
-float32 float_32bit = 1.0;
+// Null Syntax - var type name = null;
+var float32 float_32bit = 1.0;
 
 // Integer Initialization
-// Syntax - type name = value;
+// Syntax - var type name = value;
 // OR
-// Null Syntax - type name = null;
-uint8 unsigned_integer_8bit = 1;
+// Null Syntax - var type name = null;
+var uint8 unsigned_integer_8bit = 1;
 
 // String Initialization
-// Syntax - type name = value;
+// Syntax - var type name = value;
 // OR
-// Null Syntax - type name = null;
+// Null Syntax - var type name = null;
 // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
-str string_type = "string";
+var str string_type = "string";
 
 // Array Initialization
-// Syntax - type[length]<type> name = [values]
+// Syntax - var [length]type name = [values]
 // OR
-// Unknown Size Syntax - type[]<type> name = [values]
+// Multi-Dimensional Syntax - var [rows][columns]type name = [values]
 // OR
-// Null Syntax - type[length]<type> name = [null]
+// Unknown Size Syntax - var []type name = [values]
+// OR
+// Null Syntax - var [length]type name = [null]
 // Array Index Syntax - name[index]
-array[5]<uint8> array_type = [
+var [5]uint8 array_type = [
 	1,
 	2,
 	3,
 	4,
 	5
-]
+];
+
+// List Initialization
+// Syntax - var type<type> name = [values]
+// OR
+// Null Syntax - var type<type> name = [null]
+// List Index Syntax - name[index]
+var list<uint8> list_type = [
+	1,
+	2,
+	3,
+	4,
+	5
+];
 
 // Hash Map Initialization
-// Syntax - type<type|type> name = [(key:value)]
+// Syntax - var type<type, type> name = [(key:value)]
 // OR
-// Null Syntax - type<type|type> name = [(null:null)]
+// Null Syntax - var type<type, type> name = [(null:null)]
 // Hash Map Index Syntax - name[key]
-map<uint8|str> map_type = [
+var map<uint8, str> map_type = [
 	(1:"string"),
 	(2:"string"),
 	(3:"string"),
 	(4:"string"),
 	(5:"string")
-]
+];
 ```
 
