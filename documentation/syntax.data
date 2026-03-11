@@ -28,8 +28,8 @@ struct DataStructure = {
 };
 
 // Data Structure Initialization
-// Syntax - type name = {fields}
-DataStructure structure_type = {
+// Syntax - var type name = {fields}
+var DataStructure structure_type = {
 	byte_type = null; // Encoding Dependent: ASCII, Binary, UTF-8, UTF-16, UTF-32
 	integer_type = 1;
 	float_type = 1.0;

@@ -42,8 +42,8 @@ struct DataStructure = {
 };
 
 // Data Structure Initialization
-// Syntax - type name = {fields}
-DataStructure structure_type = {
+// Syntax - var type name = {fields}
+var DataStructure structure_type = {
 	byte byte_type = null; // Encoding Dependent: ASCII, Binary, UTF-8, UTF-16, UTF-32
 	usize unsigned_integer_size = 0; // Platform Dependent: x86, x86_64, AARCH32, AARCH64, RISCV32, RISCV64
 	uint8 unsigned_integer_8bit = 1;
