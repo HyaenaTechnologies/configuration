@@ -1,22 +1,20 @@
 # Data Interchange Format
 
+- File Extension: .data, .binary, .schema
+- Data Interchange Source File: .data
+- Binary Format Source File: .binary
+- Schema Definition Header File: .schema
+- .data Files May be Dynamically Typed
+- .data Files May be Statically Typed
+- .data Files are Required
+- .schema Files Must be Statically Typed
+- .schema Files Cannot be Dynamically Typed
+- .schema Files are Optional
+- // This is a Comment
+
 ## Dynamically Typed Syntax
 
 ```shell
-// Data Interchange Format
-// File Extension: .data, .binary, .schema
-// Data Interchange Source File: .data
-// Binary Format Source File: .binary
-// Schema Definition Header File: .schema
-// .data Files May be Dynamically Typed
-// .data Files May be Statically Typed
-// .data Files are Required
-// .schema Files Must be Statically Typed
-// .schema Files Cannot be Dynamically Typed
-// .schema Files are Optional
-
-// This is a Comment
-
 // Data Structure Declaration
 // May be Declared with Initialized Fields
 // Syntax - type Name = {fields}
@@ -108,20 +106,6 @@ var map_type = [
 ## Statically Typed Syntax
 
 ```shell
-// Data Interchange Format
-// File Extension: .data, .binary, .schema
-// Data Interchange Source File: .data
-// Binary Format Source File: .binary
-// Schema Definition Header File: .schema
-// .data Files May be Dynamically Typed
-// .data Files May be Statically Typed
-// .data Files are Required
-// .schema Files Must be Statically Typed
-// .schema Files Cannot be Dynamically Typed
-// .schema Files are Optional
-
-// This is a Comment
-
 // Data Structure Declaration
 // May be Declared with Initialized Fields
 // Syntax - type Name = {fields}
