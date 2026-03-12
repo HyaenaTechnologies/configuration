@@ -34,9 +34,10 @@
 - https://git-lfs.com/
 - https://systemd.io/
 - https://openssh.com/
-- https://docs.openssl.org/master/
 - https://wayland.freedesktop.org/docs/html/
 - https://x.org/wiki/Documentation/
+- https://vulkan.org/learn
+- https://wikis.khronos.org/opengl/Main_Page
 - https://ti.com/design-development/overview.html
 - https://riscv.org/specifications/ratified/
 - https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
@@ -46,10 +47,7 @@
 - https://usb.org/documents
 - https://ecma-international.org/publications-and-standards/standards/
 - https://datatracker.ietf.org/
-- https://w3.org/TR/
-- https://www.w3.org/WAI/ARIA/apg/
 - https://home.unicode.org/
-- https://developer.mozilla.org/en-US/docs/Web
 - https://docs.helix-editor.com/
 - https://neovim.io/doc/
 - https://www.gnu.org/software/emacs/documentation.html
