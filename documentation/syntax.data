@@ -14,8 +14,8 @@
 
 // Data Structure Declaration
 // May be Declared with Initialized Fields
-// Syntax - type Name = {fields}
-struct DataStructure = {
+// Syntax - typedef Name type = {fields}
+typedef DataStructure struct = {
 	byte_type; // Encoding Dependent: ASCII, Binary, UTF-8, UTF-16, UTF-32
 	integer_type;
 	float_type;
@@ -24,12 +24,12 @@ struct DataStructure = {
 	string_type; // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
 	array_type;
 	map_type;
-	DataStructure structure_type;
+	structure_type DataStructure;
 };
 
 // Data Structure Initialization
-// Syntax - var type name = {fields}
-var DataStructure structure_type = {
+// Syntax - var name type = {fields}
+var structure_type DataStructure = {
 	byte_type = null; // Encoding Dependent: ASCII, Binary, UTF-8, UTF-16, UTF-32
 	integer_type = 1;
 	float_type = 1.0;
@@ -38,7 +38,7 @@ var DataStructure structure_type = {
 	string_type = "string"; // Encoding Dependent: ASCII, UTF-8, UTF-16, UTF-32
 	array_type = [];
 	map_type = [()];
-	DataStructure structure_type = {};
+	structure_type DataStructure = {};
 };
 
 // Boolean Initialization
