@@ -49,6 +49,7 @@ export PATH=$PATH:/usr/local/share
 - kdenlive
 - kwave
 - kalgebra
+- konsole
 - webp
 - lld
 - lldb

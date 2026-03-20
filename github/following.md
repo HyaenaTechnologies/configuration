@@ -86,6 +86,7 @@
 - https://github.com/tree-sitter
 - https://github.com/nih-at
 - https://github.com/intel
+- https://github.com/ostreedev
 - https://github.com/go-delve
 - https://github.com/zephyrproject-rtos
 - https://github.com/lvgl
@@ -122,7 +123,6 @@
 - https://github.com/FrameworkComputer
 - https://github.com/cli
 - https://github.com/koderover
-- https://github.com/tinkerbell
 - https://github.com/carbon-language
 - https://github.com/helix-editor
 - https://github.com/typst
