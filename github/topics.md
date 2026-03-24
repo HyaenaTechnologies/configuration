@@ -43,7 +43,9 @@
 - https://github.com/topics/dhcp
 - https://github.com/topics/dns
 - https://github.com/topics/e-mail
+- https://github.com/topics/embedded-system
 - https://github.com/topics/emulator
+- https://github.com/topics/encryption
 - https://github.com/topics/espressif
 - https://github.com/topics/file-manager
 - https://github.com/topics/file-system
@@ -74,8 +76,6 @@
 - https://github.com/topics/markdown
 - https://github.com/topics/mathematics
 - https://github.com/topics/modula-2
-- https://github.com/topics/nat
-- https://github.com/topics/nas
 - https://github.com/topics/opengl
 - https://github.com/topics/operating-system
 - https://github.com/topics/orchestrator
@@ -92,8 +92,6 @@
 - https://github.com/topics/robotics
 - https://github.com/topics/rtos
 - https://github.com/topics/search-engine
-- https://github.com/topics/security
-- https://github.com/topics/scanner
 - https://github.com/topics/scheduler
 - https://github.com/topics/secret-managemer
 - https://github.com/topics/serialization
