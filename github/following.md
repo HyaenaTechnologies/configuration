@@ -11,9 +11,11 @@
 - https://github.com/arduino
 - https://github.com/illumos
 - https://github.com/openscad
+- https://github.com/paypal
 - https://github.com/LibreCAD
 - https://github.com/FFmpeg
 - https://github.com/freebsd
+- https://github.com/stripe
 - https://github.com/openbsd
 - https://github.com/NetBSD
 - https://github.com/torvalds
@@ -31,11 +33,13 @@
 - https://github.com/Debian
 - https://github.com/systemd
 - https://github.com/qemu
+- https://github.com/aws
 - https://github.com/FreeCAD
 - https://github.com/openssh
 - https://github.com/system76
 - https://github.com/openwrt
 - https://github.com/hostinger
+- https://github.com/ValveSoftware
 - https://github.com/openssl
 - https://github.com/KiCad
 - https://github.com/openstax
@@ -54,6 +58,7 @@
 - https://github.com/webmproject
 - https://github.com/neovim
 - https://github.com/coreboot
+- https://github.com/Patreon
 - https://github.com/gogs
 - https://github.com/AdaCore
 - https://github.com/SELinuxProject
@@ -81,6 +86,7 @@
 - https://github.com/pciutils
 - https://github.com/scylladb
 - https://github.com/NetworkManager
+- https://github.com/itchio
 - https://github.com/curl
 - https://github.com/llvm
 - https://github.com/tree-sitter
