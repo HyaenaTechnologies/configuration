@@ -8,7 +8,7 @@
 	"chat.agent.enabled": false,
 	"chat.agent.thinking.generateTitles": false,
 	"chat.agent.thinking.terminalTools": false,
-	"chat.agentsControl.enabled": false,
+	"chat.agentsControl.enabled": "hidden",
 	"chat.checkpoints.enabled": false,
 	"chat.contextUsage.enabled": false,
 	"chat.customAgentInSubagent.enabled": false,
@@ -67,4 +67,3 @@
 	"workbench.secondarySideBar.defaultVisibility": "hidden",
 	"workbench.settings.showAISearchToggle": false
 }
-
