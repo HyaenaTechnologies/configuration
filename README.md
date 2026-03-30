@@ -14,6 +14,7 @@
 [Emacs Editor]: https://www.gnu.org/software/emacs/
 [Firecracker VM]: https://firecracker-microvm.github.io/
 [Git Repositories]: https://git-scm.com
+[Go Language]: https://go.dev/
 [Helix Editor]: https://helix-editor.com/
 [Kate Editor]: https://kate-editor.org/
 [Lima VM]: https://lima-vm.io/
@@ -36,7 +37,7 @@ Development Environment Configuration
 
 - **_Microcontrollers:_** [Arduino][Arduino Micro], [Espressif Systems][Espressif], [Raspberry Pi][Raspberry Micro], [ST Micro-Electronics][STME]
 
-- **_Programming Languages:_** [C][C Language], [C++][C++ Language]
+- **_Programming Languages:_** [C][C Language], [C++][C++ Language], [Go][Go Language]
 
 - **_Linux Distributions:_** [Arch][ArchOS], [Debian][DebianOS], [Gentoo][GentooOS], [Void][VoidOS]
 
