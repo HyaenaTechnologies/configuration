@@ -1,18 +1,4 @@
-# Shell Configuration
-
-## Path Environment Variables
-
-```shell
-# User specific environment
-export PATH=$PATH:/usr/bin
-export PATH=$PATH:/usr/include
-export PATH=$PATH:/usr/lib
-export PATH=$PATH:/usr/share
-export PATH=$PATH:/usr/local/bin
-export PATH=$PATH:/usr/local/include
-export PATH=$PATH:/usr/local/lib
-export PATH=$PATH:/usr/local/share
-```
+# Packages
 
 ## Tools - Utilities
 
@@ -33,6 +19,7 @@ export PATH=$PATH:/usr/local/share
 - flang
 - gcc
 - gdb
+- gcobol
 - gfortran
 - git
 - git-lfs
