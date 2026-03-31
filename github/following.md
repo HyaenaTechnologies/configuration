@@ -43,7 +43,6 @@
 - https://github.com/openssl
 - https://github.com/KiCad
 - https://github.com/openstax
-- https://github.com/aseprite
 - https://github.com/glfw
 - https://github.com/libuv
 - https://github.com/OpenRC
@@ -139,6 +138,7 @@
 - https://github.com/rustdesk
 - https://github.com/getlago
 - https://github.com/libsdl-org
+- https://github.com/BrowserWorks
 - https://github.com/inngest
 - https://github.com/zed-industries
 - https://github.com/woodpecker-ci
