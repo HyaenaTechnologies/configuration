@@ -2,14 +2,14 @@
 
 - https://github.com/llvm/llvm-project
 - https://github.com/gcc-mirror/gcc
-- https://github.com/fortran-lang/stdlib
 - https://github.com/fortran-lang/fpm
+- https://github.com/fortran-lang/stdlib
 - https://github.com/AdaCore/gnat-llvm
 - https://github.com/AdaCore/ada_language_server
 - https://github.com/alire-project/alire
 - https://github.com/rust-lang/rust
-- https://github.com/rust-lang/rust-analyzer
 - https://github.com/rust-lang/cargo
+- https://github.com/rust-lang/rust-analyzer
 - https://github.com/golang/go
 - https://github.com/go-delve/delve
 - https://github.com/carbon-language/carbon-lang
@@ -22,6 +22,10 @@
 - https://github.com/ARM-software/arm-trusted-firmware
 - https://github.com/intel/hal-intel
 - https://github.com/intel/media-driver
+- https://github.com/libsdl-org/SDL
+- https://github.com/glfw/glfw
+- https://github.com/SFML/SFML
+- https://github.com/AOMediaCodec/libavif
 - https://github.com/ostreedev/ostree
 - https://github.com/typst/typst
 - https://github.com/KiCad/kicad-source-mirror

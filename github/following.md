@@ -21,6 +21,7 @@
 - https://github.com/torvalds
 - https://github.com/arduino-libraries
 - https://github.com/gitlabhq
+- https://github.com/antiwork
 - https://github.com/gnuradio
 - https://github.com/raspberrypi
 - https://github.com/libarchive
@@ -33,7 +34,6 @@
 - https://github.com/Debian
 - https://github.com/systemd
 - https://github.com/qemu
-- https://github.com/aws
 - https://github.com/FreeCAD
 - https://github.com/openssh
 - https://github.com/system76
@@ -43,8 +43,11 @@
 - https://github.com/openssl
 - https://github.com/KiCad
 - https://github.com/openstax
+- https://github.com/aseprite
+- https://github.com/glfw
 - https://github.com/libuv
 - https://github.com/OpenRC
+- https://github.com/SFML
 - https://github.com/golang
 - https://github.com/libusb
 - https://github.com/openzfs
@@ -54,7 +57,6 @@
 - https://github.com/rust-lang
 - https://github.com/arangodb
 - https://github.com/ni
-- https://github.com/versity
 - https://github.com/webmproject
 - https://github.com/neovim
 - https://github.com/coreboot
@@ -87,6 +89,7 @@
 - https://github.com/scylladb
 - https://github.com/NetworkManager
 - https://github.com/itchio
+- https://github.com/AOMediaCodec
 - https://github.com/curl
 - https://github.com/llvm
 - https://github.com/tree-sitter
@@ -135,6 +138,7 @@
 - https://github.com/advanced-security
 - https://github.com/rustdesk
 - https://github.com/getlago
+- https://github.com/libsdl-org
 - https://github.com/inngest
 - https://github.com/zed-industries
 - https://github.com/woodpecker-ci
