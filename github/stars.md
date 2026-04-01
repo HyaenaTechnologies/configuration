@@ -2,6 +2,7 @@
 
 - https://github.com/llvm/llvm-project
 - https://github.com/gcc-mirror/gcc
+- https://github.com/Kitware/CMake
 - https://github.com/fortran-lang/fpm
 - https://github.com/fortran-lang/stdlib
 - https://github.com/AdaCore/gnat-llvm
@@ -20,7 +21,6 @@
 - https://github.com/shader-slang/slang
 - https://github.com/shader-slang/slang-rhi
 - https://github.com/ARM-software/arm-trusted-firmware
-- https://github.com/intel/hal-intel
 - https://github.com/intel/media-driver
 - https://github.com/libsdl-org/SDL
 - https://github.com/glfw/glfw

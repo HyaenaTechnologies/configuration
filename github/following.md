@@ -5,7 +5,7 @@
 - https://github.com/mongodb
 - https://github.com/gentoo
 - https://github.com/yaml
-- https://github.com/emacsmirror
+- https://github.com/Kitware
 - https://github.com/DragonFlyBSD
 - https://github.com/duckduckgo
 - https://github.com/arduino
