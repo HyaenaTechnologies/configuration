@@ -53,6 +53,7 @@
 - https://github.com/digitalocean
 - https://github.com/archlinux
 - https://github.com/coreutils
+- https://github.com/scaleway
 - https://github.com/rust-lang
 - https://github.com/arangodb
 - https://github.com/ni
@@ -77,6 +78,7 @@
 - https://github.com/surrealdb
 - https://github.com/juspay
 - https://github.com/vim
+- https://github.com/UpCloudLtd
 - https://github.com/seaweedfs
 - https://github.com/brave
 - https://github.com/ImageMagick
@@ -126,6 +128,7 @@
 - https://github.com/c3lang
 - https://github.com/oxidecomputer
 - https://github.com/sudo-project
+- https://github.com/FreeRTOS
 - https://github.com/temporalio
 - https://github.com/rivet-dev
 - https://github.com/FrameworkComputer
@@ -133,7 +136,6 @@
 - https://github.com/koderover
 - https://github.com/carbon-language
 - https://github.com/helix-editor
-- https://github.com/typst
 - https://github.com/advanced-security
 - https://github.com/rustdesk
 - https://github.com/getlago
