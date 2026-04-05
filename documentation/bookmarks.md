@@ -12,7 +12,6 @@
 - https://gcc.gnu.org/onlinedocs/
 - https://www.sourceware.org/gdb/documentation/
 - https://www.gnu.org/software/make/manual/html_node/index.html
-- https://cppreference.com/
 - https://shader-slang.org/docs/
 - https://go.dev/doc/
 - https://pkg.go.dev/std
@@ -30,6 +29,7 @@
 - https://docs.voidlinux.org/
 - https://openwrt.org/docs/start
 - https://docs.zephyrproject.org/latest/
+- https://freertos.org/Documentation/00-Overview
 - https://git-scm.com/doc
 - https://git-lfs.com/
 - https://systemd.io/
