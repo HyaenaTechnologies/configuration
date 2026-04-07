@@ -35,6 +35,7 @@
 - https://github.com/systemd
 - https://github.com/qemu
 - https://github.com/FreeCAD
+- https://github.com/lua
 - https://github.com/openssh
 - https://github.com/system76
 - https://github.com/openwrt
@@ -97,9 +98,11 @@
 - https://github.com/nih-at
 - https://github.com/intel
 - https://github.com/ostreedev
+- https://github.com/ring-lang
 - https://github.com/go-delve
 - https://github.com/zephyrproject-rtos
 - https://github.com/lvgl
+- https://github.com/typesense
 - https://github.com/github-linguist
 - https://github.com/git-lfs
 - https://github.com/hetznercloud
@@ -109,6 +112,7 @@
 - https://github.com/gpuweb
 - https://github.com/go-task
 - https://github.com/dependabot
+- https://github.com/manticoresoftware
 - https://github.com/shader-slang
 - https://github.com/linux-mobile-broadband
 - https://github.com/envoyproxy
@@ -119,6 +123,7 @@
 - https://github.com/void-linux
 - https://github.com/netwide-assembler
 - https://github.com/etcd-io
+- https://github.com/meilisearch
 - https://github.com/actions
 - https://github.com/firecracker-microvm
 - https://github.com/starship
@@ -150,13 +155,14 @@
 - https://github.com/util-linux
 - https://github.com/restatedev
 - https://github.com/windmill-labs
+- https://github.com/quickwit-oss
 - https://github.com/metalbear-co
 - https://github.com/jqlang
 - https://github.com/dragonflydb
 - https://github.com/opencost
 - https://github.com/hyprwm
 - https://github.com/tukaani-project
-- https://github.com/dagu-org
+- https://github.com/dagucloud
 - https://github.com/openmeterio
 - https://github.com/junobuild
 - https://github.com/rustfs
