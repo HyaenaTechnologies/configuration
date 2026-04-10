@@ -21,14 +21,15 @@
 - https://github.com/torvalds
 - https://github.com/arduino-libraries
 - https://github.com/gitlabhq
-- https://github.com/antiwork
 - https://github.com/gnuradio
 - https://github.com/raspberrypi
 - https://github.com/libarchive
 - https://github.com/jackaudio
 - https://github.com/redis
 - https://github.com/KhronosGroup
+- https://github.com/dart-lang
 - https://github.com/ovh
+- https://github.com/NVIDIA
 - https://github.com/GNOME
 - https://github.com/fish-shell
 - https://github.com/Debian
@@ -145,7 +146,6 @@
 - https://github.com/rustdesk
 - https://github.com/getlago
 - https://github.com/libsdl-org
-- https://github.com/BrowserWorks
 - https://github.com/inngest
 - https://github.com/zed-industries
 - https://github.com/woodpecker-ci
