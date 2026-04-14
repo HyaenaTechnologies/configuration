@@ -160,7 +160,6 @@
 - https://github.com/jqlang
 - https://github.com/dragonflydb
 - https://github.com/opencost
-- https://github.com/hyprwm
 - https://github.com/tukaani-project
 - https://github.com/dagucloud
 - https://github.com/openmeterio
@@ -170,7 +169,6 @@
 - https://github.com/RsyncProject
 - https://github.com/jj-vcs
 - https://github.com/flexprice
-- https://github.com/ghostty-org
 - https://github.com/arm
 - https://github.com/cadence-workflow
 - https://github.com/X11Libre

@@ -28,10 +28,13 @@
 - gnat
 - gnupg
 - gnuzip
+- gnome-console
+- gnome-terminal
 - imagemagick
 - iptables
 - jq
 - kate
+- kcalc
 - krita
 - kdenlive
 - kwave
