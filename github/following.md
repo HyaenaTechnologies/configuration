@@ -66,7 +66,6 @@
 - https://github.com/gogs
 - https://github.com/AdaCore
 - https://github.com/SELinuxProject
-- https://github.com/i3
 - https://github.com/toml-lang
 - https://github.com/gcc-mirror
 - https://github.com/vultr
@@ -156,7 +155,6 @@
 - https://github.com/restatedev
 - https://github.com/windmill-labs
 - https://github.com/quickwit-oss
-- https://github.com/metalbear-co
 - https://github.com/jqlang
 - https://github.com/dragonflydb
 - https://github.com/opencost

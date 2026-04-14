@@ -14,10 +14,10 @@
 - https://github.com/AdaCore/gnat-llvm
 - https://github.com/AdaCore/ada_language_server
 - https://github.com/alire-project/alire
-- https://github.com/fortran-lang/stdlib
 - https://github.com/fortran-lang/fpm
-- https://github.com/ring-lang/ring
+- https://github.com/fortran-lang/stdlib
 - https://github.com/lua/lua
+- https://github.com/ring-lang/ring
 - https://github.com/shader-slang/slang
 - https://github.com/shader-slang/slang-rhi
 - https://github.com/carbon-language/carbon-lang
@@ -56,7 +56,6 @@
 - https://github.com/flexprice/flexprice
 - https://github.com/getlago/lago
 - https://github.com/inngest/inngest
-- https://github.com/metalbear-co/mirrord
 - https://github.com/vim/vim
 - https://github.com/restatedev/restate
 - https://github.com/rustdesk/rustdesk
@@ -88,7 +87,6 @@
 - https://github.com/blender/blender
 - https://github.com/cli/cli
 - https://github.com/OpenRC/openrc
-- https://github.com/i3/i3
 - https://github.com/X11Libre/xserver
 - https://github.com/gnuradio/gnuradio
 - https://github.com/jackaudio/jack2
