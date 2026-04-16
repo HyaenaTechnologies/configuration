@@ -4,6 +4,7 @@
 # GitHub Data
 
 Write GitHub Profile Data to Markdown Files
+
 - [Build Documentation][BuildDoc]
 - [Command Line Documentation][CLIDoc]
 

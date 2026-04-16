@@ -10,7 +10,7 @@ project(
 )
 
 # C Compiler
-set(CMAKE_C_COMPILER "/usr/bin/clang")
+set(CMAKE_C_COMPILER "clang")
 
 # C Compiler Flags
 set(CMAKE_C_FLAGS "-Wall -Wextra")
