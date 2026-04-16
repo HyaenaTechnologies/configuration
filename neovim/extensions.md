@@ -6,7 +6,6 @@
 
 ## Extensions
 
-- https://github.com/AstroNvim/AstroNvim
 - https://github.com/folke/lazy.nvim
 - https://github.com/LazyVim/LazyVim
 - https://github.com/mason-org/mason.nvim

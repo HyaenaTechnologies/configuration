@@ -58,8 +58,8 @@
 - openocd
 - openssh
 - openssl
+- postgresql
 - qemu
-- redis
 - rsync
 - sed
 - sh

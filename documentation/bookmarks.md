@@ -15,10 +15,10 @@
 - https://cmake.org/cmake/help/latest/
 - https://go.dev/doc/
 - https://pkg.go.dev/std
-- https://rust-lang.org/learn
-- https://crates.io/crates
 - https://dart.dev/docs
 - https://pub.dev/
+- https://rust-lang.org/learn
+- https://crates.io/crates
 - https://shader-slang.org/docs/
 - https://wikis.khronos.org/opengl/Main_Page
 - https://vulkan.org/learn
