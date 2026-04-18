@@ -63,6 +63,7 @@
 - https://github.com/topics/http-server
 - https://github.com/topics/image-encoding
 - https://github.com/topics/imap
+- https://github.com/topics/init
 - https://github.com/topics/initramfs
 - https://github.com/topics/integrated-circuit
 - https://github.com/topics/interpreter
@@ -85,10 +86,11 @@
 - https://github.com/topics/physics
 - https://github.com/topics/ram
 - https://github.com/topics/raspberry-pi
-- https://github.com/topics/riscv64
-- https://github.com/topics/riscv32
+- https://github.com/topics/rdp
 - https://github.com/topics/regular-expression
 - https://github.com/topics/renderer
+- https://github.com/topics/riscv64
+- https://github.com/topics/riscv32
 - https://github.com/topics/robotics
 - https://github.com/topics/rtos
 - https://github.com/topics/search-engine
@@ -115,6 +117,7 @@
 - https://github.com/topics/toml
 - https://github.com/topics/typography
 - https://github.com/topics/udp
+- https://github.com/topics/uefi
 - https://github.com/topics/unicode
 - https://github.com/topics/unix
 - https://github.com/topics/uri
@@ -122,6 +125,7 @@
 - https://github.com/topics/video-encoding
 - https://github.com/topics/virtual-machine
 - https://github.com/topics/virtual-threads
+- https://github.com/topics/vnc
 - https://github.com/topics/vulkan
 - https://github.com/topics/window-compositor
 - https://github.com/topics/window-manager

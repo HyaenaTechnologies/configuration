@@ -2,19 +2,19 @@
 
 - https://github.com/llvm/llvm-project
 - https://github.com/gcc-mirror/gcc
-- https://github.com/Kitware/CMake
 - https://github.com/netwide-assembler/nasm
+- https://github.com/Kitware/CMake
 - https://github.com/golang/go
-- https://github.com/go-delve/delve
 - https://github.com/dart-lang/sdk
+- https://github.com/go-delve/delve
 - https://github.com/dart-lang/pub
-- https://github.com/rust-lang/rust
 - https://github.com/rust-lang/cargo
+- https://github.com/rust-lang/rust
 - https://github.com/rust-lang/rust-analyzer
 - https://github.com/AdaCore/gnat-llvm
 - https://github.com/AdaCore/ada_language_server
-- https://github.com/alire-project/alire
 - https://github.com/fortran-lang/stdlib
+- https://github.com/alire-project/alire
 - https://github.com/fortran-lang/fpm
 - https://github.com/lua/lua
 - https://github.com/ring-lang/ring
@@ -25,9 +25,11 @@
 - https://github.com/odin-lang/Odin
 - https://github.com/julelang/jule
 - https://github.com/ARM-software/arm-trusted-firmware
-- https://github.com/NVIDIA/nvapi
 - https://github.com/intel/media-driver
+- https://github.com/NVIDIA/nvapi
 - https://github.com/NVIDIA/open-gpu-kernel-modules
+- https://github.com/KDE/ghostwriter
+- https://github.com/tianocore/edk2
 - https://github.com/GNOME/gnome-terminal
 - https://github.com/KDE/kwave
 - https://github.com/GNOME/gdm

@@ -8,6 +8,7 @@
 - https://github.com/Kitware
 - https://github.com/DragonFlyBSD
 - https://github.com/duckduckgo
+- https://github.com/tianocore
 - https://github.com/arduino
 - https://github.com/illumos
 - https://github.com/openscad
@@ -109,7 +110,6 @@
 - https://github.com/superfly
 - https://github.com/TexasInstruments
 - https://github.com/linux-pam
-- https://github.com/gpuweb
 - https://github.com/go-task
 - https://github.com/dependabot
 - https://github.com/manticoresoftware
