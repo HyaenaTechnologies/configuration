@@ -1,4 +1,4 @@
-[BuildDoc]: https://github.com/HyaenaTechnologies/configuration/blob/main/gh-data/documentation/compile-source.md
+[BuildDoc]: https://github.com/HyaenaTechnologies/configuration/blob/main/gh-data/documentation/build.md
 [CLIDoc]: https://github.com/HyaenaTechnologies/configuration/blob/main/gh-data/documentation/gh-data.md
 
 # GitHub Data
