@@ -40,7 +40,6 @@
 - https://github.com/lua
 - https://github.com/openssh
 - https://github.com/system76
-- https://github.com/openwrt
 - https://github.com/hostinger
 - https://github.com/ValveSoftware
 - https://github.com/openssl
@@ -72,6 +71,7 @@
 - https://github.com/vultr
 - https://github.com/commonmark
 - https://github.com/MicrochipTech
+- https://github.com/embox
 - https://github.com/letsencrypt
 - https://github.com/espressif
 - https://github.com/xfce-mirror

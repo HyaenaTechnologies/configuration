@@ -1,5 +1,7 @@
 # Stars
 
+- https://github.com/FreeRTOS/FreeRTOS-Kernel
+- https://github.com/embox/embox
 - https://github.com/llvm/llvm-project
 - https://github.com/gcc-mirror/gcc
 - https://github.com/netwide-assembler/nasm
@@ -28,7 +30,6 @@
 - https://github.com/intel/media-driver
 - https://github.com/NVIDIA/nvapi
 - https://github.com/NVIDIA/open-gpu-kernel-modules
-- https://github.com/KDE/ghostwriter
 - https://github.com/tianocore/edk2
 - https://github.com/GNOME/gnome-terminal
 - https://github.com/KDE/kwave
@@ -40,7 +41,6 @@
 - https://github.com/KDE/kdenlive
 - https://github.com/KDE/krita
 - https://github.com/KDE/kwin
-- https://github.com/FreeRTOS/FreeRTOS
 - https://github.com/quickwit-oss/quickwit
 - https://github.com/manticoresoftware/manticoresearch
 - https://github.com/typesense/typesense
