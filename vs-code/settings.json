@@ -12,7 +12,6 @@
 	"chat.checkpoints.enabled": false,
 	"chat.contextUsage.enabled": false,
 	"chat.customAgentInSubagent.enabled": false,
-	"chat.customizationsMenu.enabled": false,
 	"chat.detectParticipant.enabled": false,
 	"chat.disableAIFeatures": true,
 	"chat.exitAfterDelegation": false,

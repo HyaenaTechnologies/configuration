@@ -6,6 +6,7 @@
 #include "./help_message.h"
 #include "./version_message.h"
 
+#include <stddef.h>
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -13,7 +14,7 @@
 
 // Parse Command Line Arguments
 uint8_t parse_arguments(int length, char *arguments[]) {
-  int index;
+  size_t index;
 
   if (length == 1 || length > 2) {
     printf("\x1b[31;1;3;4mFlag and User Required:\x1b[0m\n\n");
