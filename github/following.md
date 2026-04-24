@@ -31,6 +31,7 @@
 - https://github.com/dart-lang
 - https://github.com/ovh
 - https://github.com/NVIDIA
+- https://github.com/RT-Thread
 - https://github.com/GNOME
 - https://github.com/fish-shell
 - https://github.com/Debian
@@ -41,6 +42,7 @@
 - https://github.com/openssh
 - https://github.com/system76
 - https://github.com/hostinger
+- https://github.com/RIOT-OS
 - https://github.com/ValveSoftware
 - https://github.com/openssl
 - https://github.com/KiCad
@@ -118,8 +120,10 @@
 - https://github.com/envoyproxy
 - https://github.com/alire-project
 - https://github.com/PipeWire
+- https://github.com/tock
 - https://github.com/odin-lang
 - https://github.com/harness
+- https://github.com/signalwire
 - https://github.com/void-linux
 - https://github.com/netwide-assembler
 - https://github.com/etcd-io
