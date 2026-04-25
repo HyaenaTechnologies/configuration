@@ -1,0 +1,20 @@
+# Linux Package Manager Guide
+
+# Pacman Commands
+
+- **_Update All Packages:_** pacman -Syu
+- **_Clean Package Cache:_** pacman -Scc
+- **_Remove Unused Packages:_** pacman -Rcs $(pacman -Qdtq)
+
+# APT Commands
+
+- **_Update Package Sources:_** apt update
+- **_Upgrade Packages:_** apt upgrade
+- **_Full System Upgrade:_** apt full-upgrade
+- **_Remove Unused Packages:_** apt autoremove
+
+# DNF Commands
+
+- **_Upgrade Packages:_** dnf upgrade
+- **_Remove Unused Packages:_** dnf autoremove
+
