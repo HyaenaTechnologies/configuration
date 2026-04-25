@@ -9,12 +9,12 @@
 - https://github.com/dart-lang/sdk
 - https://github.com/dart-lang/pub
 - https://github.com/rust-lang/rust
-- https://github.com/rust-lang/cargo
 - https://github.com/rust-lang/rust-analyzer
+- https://github.com/rust-lang/cargo
 - https://github.com/AdaCore/gnat-llvm
 - https://github.com/AdaCore/ada_language_server
-- https://github.com/alire-project/alire
 - https://github.com/fortran-lang/stdlib
+- https://github.com/alire-project/alire
 - https://github.com/fortran-lang/fpm
 - https://github.com/lua/lua
 - https://github.com/ring-lang/ring
@@ -28,6 +28,8 @@
 - https://github.com/intel/media-driver
 - https://github.com/NVIDIA/nvapi
 - https://github.com/NVIDIA/open-gpu-kernel-modules
+- https://github.com/FDOS/kernel
+- https://github.com/9fans/plan9port
 - https://github.com/signalwire/freeswitch
 - https://github.com/tock/tock
 - https://github.com/RIOT-OS/RIOT

@@ -68,6 +68,7 @@
 - https://github.com/gogs
 - https://github.com/AdaCore
 - https://github.com/SELinuxProject
+- https://github.com/FDOS
 - https://github.com/toml-lang
 - https://github.com/gcc-mirror
 - https://github.com/vultr
@@ -76,6 +77,7 @@
 - https://github.com/embox
 - https://github.com/letsencrypt
 - https://github.com/espressif
+- https://github.com/9fans
 - https://github.com/xfce-mirror
 - https://github.com/STMicroelectronics
 - https://github.com/riscv

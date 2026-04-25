@@ -42,11 +42,13 @@
 - https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
 - https://www.amd.com/en/developer/browse-by-resource-type/documentation.html
 - https://developer.arm.com/documentation/
-- https://bluetooth.com/specifications/specs/
 - https://usb.org/documents
+- https://vesa.org/standards-specifications/
+- https://uefi.org/specifications
 - https://ecma-international.org/publications-and-standards/standards/
 - https://home.unicode.org/
 - https://datatracker.ietf.org/
+- https://bluetooth.com/specifications/specs/
 - https://docs.helix-editor.com/
 - https://neovim.io/doc/
 - https://www.gnu.org/software/emacs/documentation.html
