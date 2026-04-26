@@ -1,6 +1,5 @@
 # Following
 
-- https://github.com/github
 - https://github.com/git
 - https://github.com/mongodb
 - https://github.com/gentoo
@@ -13,6 +12,7 @@
 - https://github.com/arduino
 - https://github.com/illumos
 - https://github.com/openscad
+- https://github.com/Gnucash
 - https://github.com/LibreCAD
 - https://github.com/FFmpeg
 - https://github.com/freebsd
@@ -69,6 +69,7 @@
 - https://github.com/FDOS
 - https://github.com/toml-lang
 - https://github.com/gcc-mirror
+- https://github.com/emacs-mirror
 - https://github.com/commonmark
 - https://github.com/MicrochipTech
 - https://github.com/embox
@@ -87,6 +88,7 @@
 - https://github.com/go-gitea
 - https://github.com/LibrePCB
 - https://github.com/unicode-org
+- https://github.com/gpg
 - https://github.com/KDE
 - https://github.com/pciutils
 - https://github.com/scylladb
@@ -104,12 +106,10 @@
 - https://github.com/zephyrproject-rtos
 - https://github.com/lvgl
 - https://github.com/typesense
-- https://github.com/github-linguist
 - https://github.com/git-lfs
 - https://github.com/TexasInstruments
 - https://github.com/linux-pam
 - https://github.com/go-task
-- https://github.com/dependabot
 - https://github.com/manticoresoftware
 - https://github.com/shader-slang
 - https://github.com/linux-mobile-broadband
@@ -125,7 +125,6 @@
 - https://github.com/etcd-io
 - https://github.com/meilisearch
 - https://github.com/VictoriaMetrics
-- https://github.com/actions
 - https://github.com/firecracker-microvm
 - https://github.com/sqlite
 - https://github.com/starship
@@ -143,7 +142,6 @@
 - https://github.com/cli
 - https://github.com/carbon-language
 - https://github.com/helix-editor
-- https://github.com/advanced-security
 - https://github.com/rustdesk
 - https://github.com/getlago
 - https://github.com/libsdl-org
