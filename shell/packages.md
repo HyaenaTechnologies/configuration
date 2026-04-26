@@ -5,6 +5,7 @@
 - automake
 - autoconf
 - bash
+- binutils
 - bzip2
 - clang
 - clangd
@@ -14,12 +15,12 @@
 - diffutils
 - emacs
 - ffmpeg
+- fileutils
 - findutils
 - firewalld
 - flang
 - gcc
 - gdb
-- gcobol
 - gfortran
 - ghostwriter
 - git
@@ -32,6 +33,7 @@
 - gnome-console
 - gnome-terminal
 - imagemagick
+- inetutils
 - iptables
 - jq
 - kate
@@ -64,7 +66,9 @@
 - rsync
 - sed
 - sh
+- shellutils
 - sqlite
+- textutils
 - ufw
 - unzip
 - vim
