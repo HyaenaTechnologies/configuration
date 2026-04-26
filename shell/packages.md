@@ -21,6 +21,7 @@
 - gdb
 - gcobol
 - gfortran
+- ghostwriter
 - git
 - git-lfs
 - glslang
@@ -64,7 +65,6 @@
 - sed
 - sh
 - sqlite
-- tree
 - ufw
 - unzip
 - vim

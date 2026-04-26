@@ -6,6 +6,7 @@
 - https://github.com/gentoo
 - https://github.com/yaml
 - https://github.com/Kitware
+- https://github.com/postgres
 - https://github.com/DragonFlyBSD
 - https://github.com/duckduckgo
 - https://github.com/tianocore
@@ -15,7 +16,6 @@
 - https://github.com/LibreCAD
 - https://github.com/FFmpeg
 - https://github.com/freebsd
-- https://github.com/stripe
 - https://github.com/openbsd
 - https://github.com/NetBSD
 - https://github.com/torvalds
@@ -58,6 +58,7 @@
 - https://github.com/arangodb
 - https://github.com/ni
 - https://github.com/influxdata
+- https://github.com/FirebirdSQL
 - https://github.com/webmproject
 - https://github.com/neovim
 - https://github.com/coreboot
@@ -126,13 +127,16 @@
 - https://github.com/VictoriaMetrics
 - https://github.com/actions
 - https://github.com/firecracker-microvm
+- https://github.com/sqlite
 - https://github.com/starship
 - https://github.com/nushell
 - https://github.com/blender
 - https://github.com/fortran-lang
 - https://github.com/c3lang
+- https://github.com/oxidecomputer
 - https://github.com/sudo-project
 - https://github.com/FreeRTOS
+- https://github.com/ClickHouse
 - https://github.com/temporalio
 - https://github.com/rivet-dev
 - https://github.com/FrameworkComputer
@@ -145,7 +149,9 @@
 - https://github.com/libsdl-org
 - https://github.com/inngest
 - https://github.com/zed-industries
+- https://github.com/duckdb
 - https://github.com/lima-vm
+- https://github.com/ydb-platform
 - https://github.com/openocd-org
 - https://github.com/julelang
 - https://github.com/util-linux
@@ -158,11 +164,11 @@
 - https://github.com/tukaani-project
 - https://github.com/dagucloud
 - https://github.com/openmeterio
+- https://github.com/tursodatabase
 - https://github.com/rustfs
 - https://github.com/valkey-io
 - https://github.com/RsyncProject
 - https://github.com/jj-vcs
 - https://github.com/flexprice
 - https://github.com/arm
-- https://github.com/cadence-workflow
 - https://github.com/X11Libre
