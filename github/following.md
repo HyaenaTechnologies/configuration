@@ -15,6 +15,7 @@
 - https://github.com/Gnucash
 - https://github.com/LibreCAD
 - https://github.com/FFmpeg
+- https://github.com/JuliaLang
 - https://github.com/freebsd
 - https://github.com/openbsd
 - https://github.com/NetBSD
@@ -62,6 +63,7 @@
 - https://github.com/webmproject
 - https://github.com/neovim
 - https://github.com/coreboot
+- https://github.com/crystal-lang
 - https://github.com/Patreon
 - https://github.com/gogs
 - https://github.com/AdaCore

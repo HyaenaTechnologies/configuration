@@ -10,12 +10,14 @@
 - https://github.com/dart-lang/pub
 - https://github.com/rust-lang/rust
 - https://github.com/rust-lang/cargo
-- https://github.com/rust-lang/rust-analyzer
 - https://github.com/AdaCore/gnat-llvm
-- https://github.com/alire-project/alire
+- https://github.com/rust-lang/rust-analyzer
 - https://github.com/AdaCore/ada_language_server
 - https://github.com/fortran-lang/stdlib
+- https://github.com/alire-project/alire
 - https://github.com/fortran-lang/fpm
+- https://github.com/crystal-lang/crystal
+- https://github.com/JuliaLang/julia
 - https://github.com/ring-lang/ring
 - https://github.com/lua/lua
 - https://github.com/shader-slang/slang
