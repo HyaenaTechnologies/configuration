@@ -1,5 +1,4 @@
 [C Language]: https://www.c-language.org/
-[C++ Language]: https://isocpp.org/
 [Dart Language]: https://dart.dev/
 [DragonflyOS]:https://www.dragonflybsd.org/
 [FreeOS]:https://freebsd.org/
@@ -38,7 +37,7 @@ Development Environment Configuration
 
 - **_Microcontrollers:_** [Arduino][Arduino Micro], [Espressif Systems][Espressif], [Raspberry Pi][Raspberry Micro], [ST Micro-Electronics][STME]
 
-- **_Programming Languages:_** [C][C Language], [C++][C++ Language], [Dart][Dart Language], [Go][Go Language]
+- **_Programming Languages:_** [C][C Language], [Dart][Dart Language], [Go][Go Language]
 
 - **_Linux Distributions:_** [Arch][ArchOS], [Debian][DebianOS], [Gentoo][GentooOS], [Void][VoidOS]
 

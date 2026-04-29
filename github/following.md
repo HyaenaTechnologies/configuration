@@ -7,7 +7,6 @@
 - https://github.com/Kitware
 - https://github.com/postgres
 - https://github.com/DragonFlyBSD
-- https://github.com/duckduckgo
 - https://github.com/tianocore
 - https://github.com/arduino
 - https://github.com/illumos
@@ -15,7 +14,6 @@
 - https://github.com/Gnucash
 - https://github.com/LibreCAD
 - https://github.com/FFmpeg
-- https://github.com/JuliaLang
 - https://github.com/freebsd
 - https://github.com/openbsd
 - https://github.com/NetBSD
@@ -64,7 +62,6 @@
 - https://github.com/neovim
 - https://github.com/coreboot
 - https://github.com/crystal-lang
-- https://github.com/Patreon
 - https://github.com/gogs
 - https://github.com/AdaCore
 - https://github.com/SELinuxProject
@@ -85,7 +82,6 @@
 - https://github.com/juspay
 - https://github.com/vim
 - https://github.com/seaweedfs
-- https://github.com/brave
 - https://github.com/ImageMagick
 - https://github.com/go-gitea
 - https://github.com/LibrePCB
