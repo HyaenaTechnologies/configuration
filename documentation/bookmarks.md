@@ -13,6 +13,11 @@
 - https://www.sourceware.org/gdb/documentation/
 - https://www.gnu.org/software/make/manual/html_node/index.html
 - https://cmake.org/cmake/help/latest/
+- https://ada-lang.io/docs/arm/
+- https://learn.adacore.com/
+- https://wiki.freepascal.org/
+- https://www.modula2.org/reference/index.php
+- https://fortran-lang.org/learn/
 - https://go.dev/doc/
 - https://pkg.go.dev/std
 - https://rust-lang.org/learn
@@ -29,7 +34,6 @@
 - https://docs.zephyrproject.org/latest/
 - https://freertos.org/Documentation/00-Overview
 - https://git-scm.com/doc
-- https://git-lfs.com/
 - https://systemd.io/
 - https://openssh.com/
 - https://wayland.freedesktop.org/docs/html/
