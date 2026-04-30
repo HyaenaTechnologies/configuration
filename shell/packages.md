@@ -19,6 +19,7 @@
 - findutils
 - firewalld
 - flang
+- fpc
 - gcc
 - gdb
 - gfortran

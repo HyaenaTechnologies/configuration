@@ -6,15 +6,13 @@
 - https://github.com/netwide-assembler/nasm
 - https://github.com/golang/go
 - https://github.com/go-delve/delve
-- https://github.com/dart-lang/sdk
-- https://github.com/dart-lang/pub
 - https://github.com/rust-lang/rust
 - https://github.com/rust-lang/cargo
-- https://github.com/rust-lang/rust-analyzer
 - https://github.com/AdaCore/gnat-llvm
-- https://github.com/alire-project/alire
+- https://github.com/rust-lang/rust-analyzer
 - https://github.com/AdaCore/ada_language_server
-- https://github.com/fortran-lang/stdlib
+- https://github.com/alire-project/alire
+- https://github.com/fpc/FPCSource
 - https://github.com/fortran-lang/fpm
 - https://github.com/odin-lang/Odin
 - https://github.com/julelang/jule
@@ -22,6 +20,8 @@
 - https://github.com/c3lang/c3c
 - https://github.com/chapel-lang/chapel
 - https://github.com/crystal-lang/crystal
+- https://github.com/dart-lang/sdk
+- https://github.com/dart-lang/pub
 - https://github.com/nushell/nushell
 - https://github.com/fish-shell/fish-shell
 - https://github.com/ruby/ruby
@@ -35,8 +35,6 @@
 - https://github.com/Gnucash/gnucash
 - https://github.com/emacs-mirror/emacs
 - https://github.com/gpg/gnupg
-- https://github.com/tursodatabase/libsql
-- https://github.com/tursodatabase/turso
 - https://github.com/KDE/ghostwriter
 - https://github.com/KDE/krita
 - https://github.com/KDE/kwave

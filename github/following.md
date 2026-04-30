@@ -20,6 +20,7 @@
 - https://github.com/NetBSD
 - https://github.com/torvalds
 - https://github.com/arduino-libraries
+- https://github.com/fpc
 - https://github.com/gitlabhq
 - https://github.com/gnuradio
 - https://github.com/raspberrypi
@@ -162,7 +163,6 @@
 - https://github.com/tukaani-project
 - https://github.com/dagucloud
 - https://github.com/openmeterio
-- https://github.com/tursodatabase
 - https://github.com/rustfs
 - https://github.com/valkey-io
 - https://github.com/RsyncProject
