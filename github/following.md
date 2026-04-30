@@ -6,6 +6,7 @@
 - https://github.com/yaml
 - https://github.com/Kitware
 - https://github.com/postgres
+- https://github.com/ruby
 - https://github.com/DragonFlyBSD
 - https://github.com/tianocore
 - https://github.com/arduino
@@ -24,6 +25,7 @@
 - https://github.com/raspberrypi
 - https://github.com/libarchive
 - https://github.com/jackaudio
+- https://github.com/python
 - https://github.com/redis
 - https://github.com/KhronosGroup
 - https://github.com/dart-lang
@@ -63,6 +65,7 @@
 - https://github.com/coreboot
 - https://github.com/crystal-lang
 - https://github.com/gogs
+- https://github.com/chapel-lang
 - https://github.com/AdaCore
 - https://github.com/SELinuxProject
 - https://github.com/FDOS
@@ -99,7 +102,6 @@
 - https://github.com/nih-at
 - https://github.com/intel
 - https://github.com/ostreedev
-- https://github.com/ring-lang
 - https://github.com/go-delve
 - https://github.com/zephyrproject-rtos
 - https://github.com/lvgl

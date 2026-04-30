@@ -15,8 +15,6 @@
 - https://cmake.org/cmake/help/latest/
 - https://go.dev/doc/
 - https://pkg.go.dev/std
-- https://dart.dev/docs
-- https://pub.dev/
 - https://rust-lang.org/learn
 - https://crates.io/crates
 - https://shader-slang.org/docs/
