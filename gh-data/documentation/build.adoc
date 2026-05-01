@@ -1,25 +1,25 @@
-:C Language: https://www.c-language.org/
-:Clang Compiler: https://clang.llvm.org/docs/index.html
-:GNU Compiler Collection: https://gcc.gnu.org/onlinedocs/
-:GCC Debugger: https://www.sourceware.org/gdb/documentation/
-:GNU Make: https://www.gnu.org/software/make/manual/html_node/index.html
-:KitWare Make: https://cmake.org/
-:LLVM IR: https://llvm.org/docs/
-:Low Level Debugger: https://lldb.llvm.org/
-:Low Level Linker: https://lld.llvm.org/
+:CLanguage: https://www.c-language.org/
+:ClangCompiler: https://clang.llvm.org/docs/index.html
+:GNUCompilerCollection: https://gcc.gnu.org/onlinedocs/
+:GCCDebugger: https://www.sourceware.org/gdb/documentation/
+:GNUMake: https://www.gnu.org/software/make/manual/html_node/index.html
+:KitWareMake: https://cmake.org/
+:LLVMIR: https://llvm.org/docs/
+:LowLevelDebugger: https://lldb.llvm.org/
+:LowLevelLinker: https://lld.llvm.org/
 :GitHub: https://github.com/cli/cli
 
 = Build
 
-* {C Language}[C]
-* {LLVM IR}[LLVM]
-* {Clang Compiler}[Clang]
-* {Low Level Debugger}[LLDB]
-* {Low Level Linker}[LLD]
-* {GNU Compiler Collection}[GCC]
-* {GCC Debugger}[GDB]
-* {GNU Make}[Make]
-* {KitWare Make}[CMake]
+* {CLanguage}[C]
+* {LLVMIR}[LLVM]
+* {ClangCompiler}[Clang]
+* {LowLevelDebugger}[LLDB]
+* {LowLevelLinker}[LLD]
+* {GNUCompilerCollection}[GCC]
+* {GCCDebugger}[GDB]
+* {GNUMake}[Make]
+* {KitWareMake}[CMake]
 
 == Platforms
 
