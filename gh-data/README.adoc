@@ -1,5 +1,5 @@
-BuildDoc: https://github.com/HyaenaTechnologies/configuration/blob/main/gh-data/documentation/build.adoc
-CLIDoc: https://github.com/HyaenaTechnologies/configuration/blob/main/gh-data/documentation/gh-data.adoc
+:BuildDoc: https://github.com/HyaenaTechnologies/configuration/blob/main/gh-data/documentation/build.adoc
+:CLIDoc: https://github.com/HyaenaTechnologies/configuration/blob/main/gh-data/documentation/gh-data.adoc
 
 = GitHub Data
 

@@ -7,6 +7,7 @@
 :LLVM IR: https://llvm.org/docs/
 :Low Level Debugger: https://lldb.llvm.org/
 :Low Level Linker: https://lld.llvm.org/
+:GitHub: https://github.com/cli/cli
 
 = Build
 
@@ -26,7 +27,7 @@
 
 == Dependencies
 
-* https://github.com/cli/cli
+* {GitHub}[GitHub CLI]
 
 == CMake
 
@@ -98,6 +99,6 @@ rm ./src/*/*.pch
 
 [,shell]
 ----
-sudo install ./gh-data /usr/local/bin/
+sudo ln -s $PWD/gh-data /usr/local/bin/
 ----
 

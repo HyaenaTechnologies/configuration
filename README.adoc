@@ -21,7 +21,7 @@
 :QEMU VM: https://qemu.org/
 :Raspberry Micro: https://www.raspberrypi.com/
 :STME: https://www.st.com/
-:Zed Editor: https://zed.dev/ 
+:Zed Editor: https://zed.dev/
 :GitHub Organization: https://github.com/HyaenaTechnologies
 :GitHub Profile: https://github.com/JohnMatthiasWabwire
 
