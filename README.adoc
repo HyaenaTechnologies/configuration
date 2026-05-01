@@ -1,0 +1,50 @@
+:C Language: https://www.c-language.org/
+:DragonflyOS: https://www.dragonflybsd.org/
+:FreeOS: https://freebsd.org/
+:IllumOS: https://illumos.org/
+:NetOS: https://netbsd.org/
+:OpenOS: https://www.openbsd.org/
+:ArchOS: https://archlinux.org/
+:DebianOS: https://debian.org/
+:GentooOS: https://www.gentoo.org/
+:VoidOS: https://docs.voidlinux.org/
+:Arduino Micro: https://arduino.cc/
+:Espressif: https://www.espressif.com/
+:Emacs Editor: https://www.gnu.org/software/emacs/
+:Firecracker VM: https://firecracker-microvm.github.io/
+:Git Repositories: https://git-scm.com
+:Go Language: https://go.dev/
+:Helix Editor: https://helix-editor.com/
+:Kate Editor: https://kate-editor.org/
+:Lima VM: https://lima-vm.io/
+:NVIM: https://neovim.io/
+:QEMU VM: https://qemu.org/
+:Raspberry Micro: https://www.raspberrypi.com/
+:STME: https://www.st.com/
+:Zed Editor: https://zed.dev/ 
+:GitHub Organization: https://github.com/HyaenaTechnologies
+:GitHub Profile: https://github.com/JohnMatthiasWabwire
+
+= Configuration
+
+Development Environment Configuration
+
+* {GitHub Organization}[Organization]
+* {GitHub Profile}[Profile]
+
+== Development Environment
+
+* *_Editors:_* {Emacs Editor}[Emacs], {Helix Editor}[Helix], {NVIM}[NeoVim], {Kate Editor}[Kate], {Zed Editor}[Zed]
+
+* *_Microcontrollers:_* {Arduino Micro}[Arduino], {Espressif}[Espressif Systems], {Raspberry Micro}[Raspberry Pi], {STME}[ST Micro-Electronics]
+
+* *_Programming Languages:_* {C Language}[C], {Go Language}[Go]
+
+* *_Linux Distributions:_* {ArchOS}[Arch], {DebianOS}[Debian], {GentooOS}[Gentoo], {VoidOS}[Void]
+
+* *_Unix Operating Systems:_* {DragonflyOS}[DragonflyBSD], {FreeOS}[FreeBSD], {IllumOS}[Illum Solaris], {NetOS}[NetBSD], {OpenOS}[OpenBSD]
+
+* *_Virtual Machines:_* {Firecracker VM}[Firecracker], {Lima VM}[Lima], {QEMU VM}[QEMU]
+
+* *_Version Control Systems:_* {Git Repositories}[Git]
+

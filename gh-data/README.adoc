@@ -1,0 +1,16 @@
+BuildDoc: https://github.com/HyaenaTechnologies/configuration/blob/main/gh-data/documentation/build.adoc
+CLIDoc: https://github.com/HyaenaTechnologies/configuration/blob/main/gh-data/documentation/gh-data.adoc
+
+= GitHub Data
+
+Write GitHub Profile Data to Markdown Files
+
+* {BuildDoc}[Build Documentation]
+* {CLIDoc}[Command Line Documentation]
+
+== Features
+
+* GitHub Following
+* GitHub Repositories
+* Git Stars
+

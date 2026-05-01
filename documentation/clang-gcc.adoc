@@ -1,9 +1,10 @@
-# LLVM Clang and GCC Compiler Documentation
+= LLVM Clang and GCC Compiler Documentation
 
-## LLVM Clang
+== LLVM Clang
 
-```shell
-## Compile
+[,shell]
+----
+# Compile
 clang ./src/*.h ./src/*/*.h
 
 clang ./src/*.c ./src/*/*.c -include-pch ./src/*.pch ./src/*/*.pch -o ./build/application
@@ -12,7 +13,7 @@ rm ./src/*.pch ./src/*/*.pch
 
 ./build/application
 
-## Analyze
+# Analyze
 --analyze: Run the static analyzer
 -Wall: All Warnings
 -Wextra: Extra Warnings
@@ -26,12 +27,13 @@ rm ./src/*.pch ./src/*/*.pch
 -fsanitize=kcfi: kernel indirect call forward-edge control flow integrity.
 -fsanitize=safe-stack: safe stack protection against stack-based memory corruption errors.
 -fsanitize=realtime: RealtimeSanitizer, a real-time safety checker.
-```
+----
 
-## GNU Compiler Collection 
+== GNU Compiler Collection 
 
-```shell
-## Compile
+[,shell]
+----
+# Compile
 gcc ./src/*.h ./src/*/*.h
 
 gcc ./src/*.c ./src/*/*.c -include ./src/*.pch ./src/*/*.pch -o ./build/application
@@ -40,7 +42,7 @@ rm ./src/*.pch ./src/*/*.pch
 
 ./build/application
 
-## Analyze
+# Analyze
 -fanalyzer
 -Wall: All Warnings
 -Wextra: Extra Warnings
@@ -93,5 +95,5 @@ rm ./src/*.pch ./src/*/*.pch
 -Wanalyzer-va-list-use-after-va-end
 -Wanalyzer-write-to-const
 -Wanalyzer-write-to-string-literal
-```
+----
 

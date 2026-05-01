@@ -43,6 +43,7 @@
 - https://github.com/system76
 - https://github.com/RIOT-OS
 - https://github.com/ValveSoftware
+- https://github.com/asciidoctor
 - https://github.com/openssl
 - https://github.com/KiCad
 - https://github.com/prometheus
@@ -81,6 +82,7 @@
 - https://github.com/9fans
 - https://github.com/xfce-mirror
 - https://github.com/STMicroelectronics
+- https://github.com/docutils
 - https://github.com/riscv
 - https://github.com/surrealdb
 - https://github.com/juspay

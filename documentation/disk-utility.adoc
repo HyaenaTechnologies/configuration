@@ -1,11 +1,12 @@
-# Disk Utility Commands for Unix
+= Disk Utility Commands for Unix
 
 
-## Disk Drive Tool
+== Disk Drive Tool
 
-```shell
+[,shell]
+----
 fdisk -l || parted -l
 
 dd if=~/Downloads/linux.iso of=/dev/sdb bs=8M status=progress
-```
+----
 
