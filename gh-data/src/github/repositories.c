@@ -1,27 +1,35 @@
 #include "./repositories.h"
 
+#include <stddef.h>
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
-// Write GitHub Repository Data to a Markdown File
-uint8_t write_repositories() {
+// Write GitHub Repository Data to a ASCII Doc File
+uint8_t write_following() {
   char command_buffer[256];
-  char output_buffer[256];
-  FILE *markdown_file = fopen("./repositories.md", "w");
+  char output_buffer[512];
+  size_t command_length = strnlen(command_buffer, sizeof(command_buffer));
 
   printf("Enter Github API User Command: ");
-  fgets(command_buffer, sizeof(command_buffer), stdin);
 
-  command_buffer[strcspn(command_buffer, "\n")] = '\0';
-
-  if (markdown_file == NULL) {
-    perror("Failed to Open File");
+  if (fgets(command_buffer, sizeof(command_buffer), stdin) == NULL) {
+    perror("Error Reading Input");
+    exit(EXIT_FAILURE);
+  } else if (command_length > 256) {
+    perror("Command Too Long");
     exit(EXIT_FAILURE);
   }
 
-  fprintf(markdown_file, "# Repositories\n\n");
+  FILE *adoc_file = fopen("./repositories.adoc", "w");
+
+  if (adoc_file == NULL) {
+    perror("Failed to Open File");
+    exit(EXIT_FAILURE);
+  } else {
+    fprintf(adoc_file, "= Repositories\n\n");
+  }
 
   FILE *github_cli = popen(command_buffer, "r");
 
@@ -30,17 +38,20 @@ uint8_t write_repositories() {
     exit(EXIT_FAILURE);
   } else {
     while (fgets(output_buffer, sizeof(output_buffer), github_cli) != NULL) {
+      // Print Output Line by Line
       printf("%s", output_buffer);
-      fprintf(markdown_file, "- %s", output_buffer);
+      // Write Output to the ASCII Doc File, Line by Line
+      fprintf(adoc_file, "* %s", output_buffer);
+      fprintf(adoc_file, "");
     }
 
     if (feof(github_cli)) {
-      printf("End of file Reached");
+      printf("\n\nEnd of file Reached");
     }
   }
 
   pclose(github_cli);
-  fclose(markdown_file);
+  fclose(adoc_file);
 
   return 0;
 }
