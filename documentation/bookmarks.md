@@ -23,6 +23,8 @@
 - https://rust-lang.org/learn
 - https://crates.io/crates
 - https://shader-slang.org/docs/
+- https://docs.asciidoctor.org/asciidoc/latest/
+- https://commonmark.org/
 - https://wikis.khronos.org/opengl/Main_Page
 - https://vulkan.org/learn
 - https://www.dragonflybsd.org/docs/
