@@ -21,13 +21,15 @@
 - https://github.com/chapel-lang/chapel
 - https://github.com/crystal-lang/crystal
 - https://github.com/dart-lang/sdk
-- https://github.com/dart-lang/pub
 - https://github.com/nushell/nushell
+- https://github.com/dart-lang/pub
 - https://github.com/fish-shell/fish-shell
-- https://github.com/python/cpython
 - https://github.com/ruby/ruby
+- https://github.com/python/cpython
 - https://github.com/lua/lua
 - https://github.com/shader-slang/slang
+- https://github.com/MidnightCommander/mc
+- https://github.com/htop-dev/htop
 - https://github.com/fltk/fltk
 - https://github.com/wxWidgets/wxWidgets
 - https://github.com/ARM-software/arm-trusted-firmware

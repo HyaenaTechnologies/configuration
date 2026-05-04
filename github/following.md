@@ -23,6 +23,7 @@
 - https://github.com/arduino-libraries
 - https://github.com/fpc
 - https://github.com/gitlabhq
+- https://github.com/MidnightCommander
 - https://github.com/gnuradio
 - https://github.com/raspberrypi
 - https://github.com/libarchive
@@ -147,6 +148,7 @@
 - https://github.com/cli
 - https://github.com/carbon-language
 - https://github.com/helix-editor
+- https://github.com/htop-dev
 - https://github.com/rustdesk
 - https://github.com/getlago
 - https://github.com/libsdl-org
