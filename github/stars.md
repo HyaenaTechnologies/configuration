@@ -24,10 +24,12 @@
 - https://github.com/dart-lang/pub
 - https://github.com/nushell/nushell
 - https://github.com/fish-shell/fish-shell
-- https://github.com/ruby/ruby
 - https://github.com/python/cpython
+- https://github.com/ruby/ruby
 - https://github.com/lua/lua
 - https://github.com/shader-slang/slang
+- https://github.com/fltk/fltk
+- https://github.com/wxWidgets/wxWidgets
 - https://github.com/ARM-software/arm-trusted-firmware
 - https://github.com/intel/media-driver
 - https://github.com/NVIDIA/nvapi

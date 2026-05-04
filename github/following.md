@@ -15,6 +15,7 @@
 - https://github.com/Gnucash
 - https://github.com/LibreCAD
 - https://github.com/FFmpeg
+- https://github.com/wxWidgets
 - https://github.com/freebsd
 - https://github.com/openbsd
 - https://github.com/NetBSD
@@ -62,6 +63,7 @@
 - https://github.com/ni
 - https://github.com/influxdata
 - https://github.com/FirebirdSQL
+- https://github.com/fltk
 - https://github.com/webmproject
 - https://github.com/neovim
 - https://github.com/coreboot
