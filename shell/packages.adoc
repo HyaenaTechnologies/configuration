@@ -18,6 +18,7 @@
 * firewalld
 * flang
 * fpc
+* galgol68
 * gcc
 * gdb
 * gfortran
@@ -59,6 +60,7 @@
 * NetworkManager
 * ninja
 * nftables
+* okular
 * openocd
 * openssh
 * openssl

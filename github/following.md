@@ -133,7 +133,6 @@
 - https://github.com/PipeWire
 - https://github.com/tock
 - https://github.com/odin-lang
-- https://github.com/harness
 - https://github.com/signalwire
 - https://github.com/void-linux
 - https://github.com/netwide-assembler
@@ -175,6 +174,7 @@
 - https://github.com/restatedev
 - https://github.com/quickwit-oss
 - https://github.com/GreptimeTeam
+- https://github.com/QB64-Phoenix-Edition
 - https://github.com/jqlang
 - https://github.com/dragonflydb
 - https://github.com/opencost
