@@ -2,7 +2,6 @@
 :AlgolLanguage: https://algol68-lang.org/
 :BasicLanguage: https://www.freebasic.net/
 :CLanguage: https://www.c-language.org/
-:ForthLanguage: https://forth-standard.org/
 :FortranLanguage: https://fortran-lang.org/learn/
 :ModulaLanguage: https://www.modula2.org/reference/index.php
 :PascalLanguage: https://wiki.freepascal.org/
@@ -54,7 +53,6 @@ Development Environment Configuration
 	** {BasicLanguage}[FreeBasic]
 	** {AdaLanguage}[Ada]
 	** {AlgolLanguage}[Algol 68]
-	** {ForthLanguage}[Forth]
 	** {GoLanguage}[Go]
 	** {RustLanguage}[Rust]
 
