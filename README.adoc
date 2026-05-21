@@ -48,11 +48,11 @@ Development Environment Configuration
 * *_Programming Languages:_*
 	** {CLanguage}[C]
 	** {FortranLanguage}[Fortran]
-	** {AlgolLanguage}[Algol 68]
 	** {PascalLanguage}[Pascal]
 	** {ModulaLanguage}[Modula-2]
 	** {BasicLanguage}[FreeBasic]
 	** {AdaLanguage}[Ada]
+	** {AlgolLanguage}[Algol 68]
 	** {GoLanguage}[Go]
 	** {RustLanguage}[Rust]
 
