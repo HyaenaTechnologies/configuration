@@ -152,10 +152,10 @@
 - https://github.com/FreeRTOS
 - https://github.com/ClickHouse
 - https://github.com/temporalio
+- https://github.com/flipperdevices
 - https://github.com/rivet-dev
 - https://github.com/FrameworkComputer
 - https://github.com/cli
-- https://github.com/r-devel
 - https://github.com/carbon-language
 - https://github.com/baresip
 - https://github.com/helix-editor

@@ -44,11 +44,11 @@
 * kalgebra
 * konsole
 * webp
+* lazarus
 * lld
 * lldb
 * llvm
 * lua
-* m4
 * make
 * man-pages
 * man-db
