@@ -18,9 +18,10 @@
 * firewalld
 * flang
 * fpc
-* galgol68
+* freebasic
 * gcc
 * gdb
+* galgol68
 * gfortran
 * git
 * git-lfs
