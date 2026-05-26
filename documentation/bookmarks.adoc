@@ -23,6 +23,7 @@
 * https://www.sourceware.org/gdb/documentation/
 * https://www.gnu.org/software/make/manual/html_node/index.html
 * https://cmake.org/cmake/help/latest/
+* https://www.gnu.org/software/software.html
 * https://go.dev/doc/
 * https://pkg.go.dev/std
 * https://rust-lang.org/learn
@@ -42,6 +43,7 @@
 * https://git-scm.com/doc
 * https://systemd.io/
 * https://openssh.com/
+* https://openssl.org/
 * https://wayland.freedesktop.org/docs/html/
 * https://x.org/wiki/Documentation/
 * https://openstax.org/subjects

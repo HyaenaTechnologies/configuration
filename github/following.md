@@ -3,6 +3,7 @@
 - https://github.com/git
 - https://github.com/memcached
 - https://github.com/mongodb
+- https://github.com/apache
 - https://github.com/gentoo
 - https://github.com/tcltk
 - https://github.com/yaml
@@ -20,6 +21,7 @@
 - https://github.com/FFmpeg
 - https://github.com/wxWidgets
 - https://github.com/freebsd
+- https://github.com/json-c
 - https://github.com/openbsd
 - https://github.com/NetBSD
 - https://github.com/torvalds
@@ -65,11 +67,13 @@
 - https://github.com/openzfs
 - https://github.com/archlinux
 - https://github.com/coreutils
+- https://github.com/cesanta
 - https://github.com/kamailio
 - https://github.com/rust-lang
 - https://github.com/arangodb
 - https://github.com/ni
 - https://github.com/influxdata
+- https://github.com/wolfSSL
 - https://github.com/FirebirdSQL
 - https://github.com/pjsip
 - https://github.com/fltk
@@ -136,6 +140,7 @@
 - https://github.com/signalwire
 - https://github.com/void-linux
 - https://github.com/netwide-assembler
+- https://github.com/haproxy
 - https://github.com/lfortran
 - https://github.com/etcd-io
 - https://github.com/meilisearch
@@ -179,6 +184,7 @@
 - https://github.com/dragonflydb
 - https://github.com/opencost
 - https://github.com/tukaani-project
+- https://github.com/libressl
 - https://github.com/dagucloud
 - https://github.com/openmeterio
 - https://github.com/rustfs
