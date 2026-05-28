@@ -139,6 +139,7 @@
 - https://github.com/odin-lang
 - https://github.com/signalwire
 - https://github.com/void-linux
+- https://github.com/code-saturne
 - https://github.com/netwide-assembler
 - https://github.com/haproxy
 - https://github.com/lfortran
@@ -171,6 +172,7 @@
 - https://github.com/inngest
 - https://github.com/zed-industries
 - https://github.com/duckdb
+- https://github.com/WelSimLLC
 - https://github.com/lima-vm
 - https://github.com/ydb-platform
 - https://github.com/openocd-org
@@ -179,6 +181,7 @@
 - https://github.com/restatedev
 - https://github.com/quickwit-oss
 - https://github.com/open-feature
+- https://github.com/OpenRadioss
 - https://github.com/GreptimeTeam
 - https://github.com/QB64-Phoenix-Edition
 - https://github.com/jqlang
@@ -189,6 +192,7 @@
 - https://github.com/libressl
 - https://github.com/dagucloud
 - https://github.com/openmeterio
+- https://github.com/SalomePlatform
 - https://github.com/rustfs
 - https://github.com/valkey-io
 - https://github.com/RsyncProject
