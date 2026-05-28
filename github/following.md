@@ -178,10 +178,12 @@
 - https://github.com/util-linux
 - https://github.com/restatedev
 - https://github.com/quickwit-oss
+- https://github.com/open-feature
 - https://github.com/GreptimeTeam
 - https://github.com/QB64-Phoenix-Edition
 - https://github.com/jqlang
 - https://github.com/dragonflydb
+- https://github.com/flipt-io
 - https://github.com/opencost
 - https://github.com/tukaani-project
 - https://github.com/libressl

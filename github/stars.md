@@ -1,12 +1,12 @@
 # Stars
 
-- https://github.com/llvm/llvm-project
 - https://github.com/gcc-mirror/gcc
+- https://github.com/llvm/llvm-project
 - https://github.com/Kitware/CMake
 - https://github.com/netwide-assembler/nasm
 - https://github.com/fortran-lang/fpm
-- https://github.com/lfortran/lfortran
 - https://github.com/fpc/FPCSource
+- https://github.com/lfortran/lfortran
 - https://github.com/fpc/Lazarus
 - https://github.com/freebasic/fbc
 - https://github.com/QB64-Phoenix-Edition/QB64pe
@@ -17,11 +17,11 @@
 - https://github.com/golang/go
 - https://github.com/go-delve/delve
 - https://github.com/chapel-lang/chapel
-- https://github.com/odin-lang/Odin
 - https://github.com/julelang/jule
+- https://github.com/odin-lang/Odin
 - https://github.com/crystal-lang/crystal
-- https://github.com/carbon-language/carbon-lang
 - https://github.com/c3lang/c3c
+- https://github.com/carbon-language/carbon-lang
 - https://github.com/rust-lang/rust
 - https://github.com/rust-lang/cargo
 - https://github.com/rust-lang/rust-analyzer
@@ -35,6 +35,8 @@
 - https://github.com/nushell/nushell
 - https://github.com/Perl/perl5
 - https://github.com/shader-slang/slang
+- https://github.com/open-feature/flagd
+- https://github.com/flipt-io/flipt
 - https://github.com/SFML/SFML
 - https://github.com/wxWidgets/wxWidgets
 - https://github.com/apache/httpd
