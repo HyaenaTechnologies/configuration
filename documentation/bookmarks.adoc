@@ -26,8 +26,6 @@
 * https://www.gnu.org/software/software.html
 * https://go.dev/doc/
 * https://pkg.go.dev/std
-* https://rust-lang.org/learn
-* https://crates.io/crates
 * https://asciidoc.org/
 * https://docutils.sourceforge.io/rst.html
 * https://wikis.khronos.org/opengl/Main_Page
