@@ -2,6 +2,7 @@
 :AlgolLanguage: https://algol68-lang.org/
 :BasicLanguage: https://www.freebasic.net/
 :CLanguage: https://www.c-language.org/
+:CPlusPlusLanguage: https://isocpp.org/
 :FortranLanguage: https://fortran-lang.org/learn/
 :ModulaLanguage: https://www.modula2.org/reference/index.php
 :PascalLanguage: https://wiki.freepascal.org/
@@ -52,6 +53,7 @@ Development Environment Configuration
 	** {BasicLanguage}[FreeBasic]
 	** {AdaLanguage}[Ada]
 	** {AlgolLanguage}[Algol 68]
+	** {CPlusPlusLanguage}[C++]
 	** {GoLanguage}[Go]
 
 * *_Linux Distributions:_* {ArchOS}[Arch], {DebianOS}[Debian], {GentooOS}[Gentoo], {VoidOS}[Void]
