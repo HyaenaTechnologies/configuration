@@ -89,6 +89,7 @@
 * https://github.com/SELinuxProject
 * https://github.com/FDOS
 * https://github.com/toml-lang
+* https://github.com/xiph
 * https://github.com/gcc-mirror
 * https://github.com/emacs-mirror
 * https://github.com/commonmark
@@ -105,6 +106,7 @@
 * https://github.com/juspay
 * https://github.com/vim
 * https://github.com/seaweedfs
+* https://github.com/ossrs
 * https://github.com/ImageMagick
 * https://github.com/go-gitea
 * https://github.com/LibrePCB
