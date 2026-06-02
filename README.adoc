@@ -46,13 +46,13 @@ Development Environment Configuration
 * *_Microcontrollers:_* {ArduinoMicro}[Arduino], {Espressif}[Espressif Systems], {RaspberryMicro}[Raspberry Pi], {STME}[ST Micro-Electronics]
 
 * *_Programming Languages:_*
-	** {CLanguage}[C]
 	** {FortranLanguage}[Fortran]
 	** {PascalLanguage}[Pascal]
 	** {ModulaLanguage}[Modula-2]
 	** {BasicLanguage}[FreeBasic]
 	** {AdaLanguage}[Ada]
 	** {AlgolLanguage}[Algol 68]
+	** {CLanguage}[C]
 	** {CPlusPlusLanguage}[C++]
 	** {GoLanguage}[Go]
 
