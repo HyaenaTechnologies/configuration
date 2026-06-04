@@ -28,7 +28,7 @@
 :QEMUVM: https://qemu.org/
 :RaspberryMicro: https://www.raspberrypi.com/
 :STME: https://www.st.com/
-:ZedEditor: https://zed.dev/
+:GeanyEditor: https://www.geany.org/manual/current/index.html
 :GitHubOrganization: https://github.com/HyaenaTechnologies
 :GitHubProfile: https://github.com/JohnMatthiasWabwire
 
@@ -41,7 +41,7 @@ Development Environment Configuration
 
 == Development Environment
 
-* *_Editors:_* {EmacsEditor}[Emacs], {HelixEditor}[Helix], {NVIM}[NeoVim], {KateEditor}[Kate], {ZedEditor}[Zed]
+* *_Editors:_* {EmacsEditor}[Emacs], {HelixEditor}[Helix], {NVIM}[NeoVim], {KateEditor}[Kate], {GeanyEditor}[Geany]
 
 * *_Microcontrollers:_* {ArduinoMicro}[Arduino], {Espressif}[Espressif Systems], {RaspberryMicro}[Raspberry Pi], {STME}[ST Micro-Electronics]
 

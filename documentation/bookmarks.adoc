@@ -59,9 +59,9 @@
 * https://bluetooth.com/specifications/specs/
 * https://docs.helix-editor.com/
 * https://neovim.io/doc/
-* https://www.gnu.org/software/emacs/documentation.html
+* https://www.geany.org/manual/current/index.html
 * https://www.vim.org/docs.php
-* https://zed.dev/docs/
+* https://www.gnu.org/software/emacs/documentation.html
 * https://astexplorer.net/
 * https://docs.codeberg.org/
 * https://docs.gitea.com/

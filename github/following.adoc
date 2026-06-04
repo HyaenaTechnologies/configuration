@@ -29,6 +29,7 @@
 * https://github.com/arduino-libraries
 * https://github.com/fpc
 * https://github.com/gitlabhq
+* https://github.com/geany
 * https://github.com/MidnightCommander
 * https://github.com/gnuradio
 * https://github.com/raspberrypi
@@ -92,7 +93,6 @@
 * https://github.com/xiph
 * https://github.com/gcc-mirror
 * https://github.com/emacs-mirror
-* https://github.com/commonmark
 * https://github.com/MicrochipTech
 * https://github.com/embox
 * https://github.com/letsencrypt

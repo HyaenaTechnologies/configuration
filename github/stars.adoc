@@ -20,8 +20,6 @@
 * https://github.com/julelang/jule
 * https://github.com/crystal-lang/crystal
 * https://github.com/chapel-lang/chapel
-* https://github.com/c3lang/c3c
-* https://github.com/carbon-language/carbon-lang
 * https://github.com/dart-lang/sdk
 * https://github.com/dart-lang/pub
 * https://github.com/ruby/ruby
@@ -31,12 +29,14 @@
 * https://github.com/fish-shell/fish-shell
 * https://github.com/nushell/nushell
 * https://github.com/Perl/perl5
-* https://github.com/rust-lang/cargo
+* https://github.com/c3lang/c3c
+* https://github.com/carbon-language/carbon-lang
 * https://github.com/rust-lang/rust
+* https://github.com/rust-lang/cargo
 * https://github.com/rust-lang/rust-analyzer
 * https://github.com/shader-slang/slang
-* https://github.com/SalomePlatform/shaper
 * https://github.com/ossrs/srs
+* https://github.com/geany/geany
 * https://github.com/xiph/flac
 * https://github.com/xiph/opus
 * https://github.com/rustfs/rustfs

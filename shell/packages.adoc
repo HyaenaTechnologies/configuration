@@ -28,6 +28,7 @@
 * glslang
 * gm2
 * gnat
+* geany
 * gnupg
 * gnuzip
 * gnome-console
