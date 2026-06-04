@@ -46,7 +46,7 @@
 * https://x.org/wiki/Documentation/
 * https://openstax.org/subjects
 * https://www.ti.com/design-development/analog-circuits.html
-* https://riscv.org/specifications/ratified/
+* https://docs.riscv.org/reference/home/index.html
 * https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
 * https://www.amd.com/en/developer/browse-by-resource-type/documentation.html
 * https://developer.arm.com/documentation/
