@@ -31,6 +31,7 @@
 * https://github.com/gitlabhq
 * https://github.com/geany
 * https://github.com/MidnightCommander
+* https://github.com/OpenChemistry
 * https://github.com/gnuradio
 * https://github.com/raspberrypi
 * https://github.com/libarchive
@@ -45,6 +46,7 @@
 * https://github.com/GNOME
 * https://github.com/fish-shell
 * https://github.com/Debian
+* https://github.com/openbabel
 * https://github.com/systemd
 * https://github.com/qemu
 * https://github.com/FreeCAD
@@ -96,6 +98,7 @@
 * https://github.com/MicrochipTech
 * https://github.com/embox
 * https://github.com/letsencrypt
+* https://github.com/OpenSpace
 * https://github.com/espressif
 * https://github.com/9fans
 * https://github.com/xfce-mirror
@@ -129,6 +132,7 @@
 * https://github.com/lvgl
 * https://github.com/typesense
 * https://github.com/git-lfs
+* https://github.com/CelestiaProject
 * https://github.com/TexasInstruments
 * https://github.com/linux-pam
 * https://github.com/go-task
