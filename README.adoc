@@ -42,7 +42,7 @@ Development Environment Configuration
 
 == Development Environment
 
-* *_Editors:_* {EmacsEditor}[Emacs], {GeanyEditor}[Geany], {HelixEditor}[Helix], {NVIM}[NeoVim], {KateEditor}[Kate], {ZedEditor}[Geany]
+* *_Editors:_* {EmacsEditor}[Emacs], {GeanyEditor}[Geany], {HelixEditor}[Helix], {NVIM}[NeoVim], {KateEditor}[Kate], {ZedEditor}[Zed]
 
 * *_Microcontrollers:_* {ArduinoMicro}[Arduino], {Espressif}[Espressif Systems], {RaspberryMicro}[Raspberry Pi], {STME}[ST Micro-Electronics]
 
