@@ -18,6 +18,7 @@
 * https://github.com/openscad
 * https://github.com/Gnucash
 * https://github.com/LibreCAD
+* https://github.com/schrodinger
 * https://github.com/FFmpeg
 * https://github.com/wxWidgets
 * https://github.com/freebsd
@@ -37,6 +38,7 @@
 * https://github.com/libarchive
 * https://github.com/videolan
 * https://github.com/jackaudio
+* https://github.com/gem5
 * https://github.com/python
 * https://github.com/redis
 * https://github.com/KhronosGroup
@@ -72,6 +74,7 @@
 * https://github.com/archlinux
 * https://github.com/coreutils
 * https://github.com/cesanta
+* https://github.com/lammps
 * https://github.com/kamailio
 * https://github.com/rust-lang
 * https://github.com/arangodb
@@ -157,6 +160,7 @@
 * https://github.com/sqlite
 * https://github.com/starship
 * https://github.com/nushell
+* https://github.com/openmm
 * https://github.com/blender
 * https://github.com/fortran-lang
 * https://github.com/c3lang

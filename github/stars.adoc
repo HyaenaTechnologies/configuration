@@ -1,7 +1,7 @@
 = Stars
 
-* https://github.com/gcc-mirror/gcc
 * https://github.com/llvm/llvm-project
+* https://github.com/gcc-mirror/gcc
 * https://github.com/Kitware/CMake
 * https://github.com/netwide-assembler/nasm
 * https://github.com/fortran-lang/fpm
@@ -15,12 +15,12 @@
 * https://github.com/alire-project/alire
 * https://github.com/AdaCore/gnatstudio
 * https://github.com/golang/go
-* https://github.com/odin-lang/Odin
 * https://github.com/go-delve/delve
+* https://github.com/odin-lang/Odin
 * https://github.com/julelang/jule
 * https://github.com/crystal-lang/crystal
-* https://github.com/dart-lang/sdk
 * https://github.com/chapel-lang/chapel
+* https://github.com/dart-lang/sdk
 * https://github.com/dart-lang/pub
 * https://github.com/python/cpython
 * https://github.com/ruby/ruby
@@ -28,13 +28,19 @@
 * https://github.com/tcltk/tcl
 * https://github.com/nushell/nushell
 * https://github.com/fish-shell/fish-shell
-* https://github.com/Perl/perl5
 * https://github.com/c3lang/c3c
+* https://github.com/Perl/perl5
 * https://github.com/carbon-language/carbon-lang
 * https://github.com/rust-lang/rust
 * https://github.com/rust-lang/cargo
 * https://github.com/rust-lang/rust-analyzer
 * https://github.com/shader-slang/slang
+* https://github.com/openmm/openmm
+* https://github.com/Kitware/VTK
+* https://github.com/gem5/gem5
+* https://github.com/schrodinger/pymol-open-source
+* https://github.com/Kitware/ParaView
+* https://github.com/lammps/lammps
 * https://github.com/OpenChemistry/avogadroapp
 * https://github.com/openbabel/openbabel
 * https://github.com/CelestiaProject/Celestia

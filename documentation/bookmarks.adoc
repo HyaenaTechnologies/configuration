@@ -5,7 +5,6 @@
 * https://wiki.freepascal.org/
 * https://www.modula2.org/reference/index.php
 * https://www.freebasic.net/wiki/DocToc
-* https://qb64phoenix.com/qb64wiki/index.php/Main_Page
 * https://ada-lang.io/docs/arm/
 * https://learn.adacore.com/
 * https://alire.ada.dev/
@@ -62,6 +61,7 @@
 * https://www.geany.org/manual/current/index.html
 * https://www.vim.org/docs.php
 * https://www.gnu.org/software/emacs/documentation.html
+* https://zed.dev/docs/
 * https://astexplorer.net/
 * https://docs.codeberg.org/
 * https://docs.gitea.com/
