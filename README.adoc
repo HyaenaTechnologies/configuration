@@ -31,7 +31,7 @@
 :GeanyEditor: https://www.geany.org/manual/current/index.html
 :ZedEditor: https://zed.dev
 :GitHubOrganization: https://github.com/HyaenaTechnologies
-:GitHubProfile: https://github.com/JohnMatthiasWabwire
+:GitHubProfile: https://github.com/StructPoltergeist
 
 = Configuration
 
