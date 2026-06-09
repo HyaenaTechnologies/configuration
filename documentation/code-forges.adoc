@@ -1,0 +1,8 @@
+= Source Code Forges
+
+* https://docs.codeberg.org/
+* https://docs.gitea.com/
+* https://docs.gitlab.com/
+* https://docs.github.com/en
+* https://man.sr.ht/
+
