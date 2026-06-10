@@ -41,6 +41,7 @@
 * https://github.com/gem5
 * https://github.com/python
 * https://github.com/redis
+* https://github.com/OpenVPN
 * https://github.com/KhronosGroup
 * https://github.com/dart-lang
 * https://github.com/NVIDIA
@@ -73,6 +74,7 @@
 * https://github.com/openzfs
 * https://github.com/archlinux
 * https://github.com/coreutils
+* https://github.com/opencv
 * https://github.com/cesanta
 * https://github.com/lammps
 * https://github.com/kamailio
@@ -139,6 +141,7 @@
 * https://github.com/TexasInstruments
 * https://github.com/linux-pam
 * https://github.com/go-task
+* https://github.com/libvips
 * https://github.com/manticoresoftware
 * https://github.com/shader-slang
 * https://github.com/linux-mobile-broadband
@@ -153,6 +156,7 @@
 * https://github.com/netwide-assembler
 * https://github.com/haproxy
 * https://github.com/lfortran
+* https://github.com/AcademySoftwareFoundation
 * https://github.com/etcd-io
 * https://github.com/meilisearch
 * https://github.com/VictoriaMetrics
