@@ -1,0 +1,12 @@
+= Programming Languages
+
+* https://freepascal.org/
+* https://www.modula2.org/
+* https://www.freebasic.net/
+* https://fortran-lang.org/
+* https://www.c-language.org/
+* https://ada-lang.io/
+* https://algol68-lang.org/
+* https://isocpp.org/
+* https://go.dev/
+
