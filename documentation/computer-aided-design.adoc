@@ -1,0 +1,9 @@
+= Computer-Aided Design
+
+* https://www.kicad.org/
+* https://librepcb.org/
+* https://librecad.org/
+* http://openscad.org/
+* https://freecad.org/
+* https://www.blender.org/
+

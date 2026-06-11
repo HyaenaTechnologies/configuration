@@ -9,4 +9,5 @@
 * https://zephyrproject.org/
 * https://freertos.org/
 * https://www.gnu.org/software/software.html
+* https://www.freedesktop.org/wiki/Software/
 

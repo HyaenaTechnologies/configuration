@@ -33,9 +33,9 @@
 * https://docs.zephyrproject.org/latest/
 * https://freertos.org/Documentation/00-Overview
 * https://www.gnu.org/software/software.html
+* https://www.freedesktop.org/wiki/Software/
 * https://wiki.qemu.org/Documentation
 * https://lima-vm.io/docs/
-* https://www.freedesktop.org/wiki/Software/
 * https://git-scm.com/doc
 * https://wikis.khronos.org/opengl/Main_Page
 * https://vulkan.org/learn
