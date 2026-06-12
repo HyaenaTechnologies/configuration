@@ -26,8 +26,6 @@
 * https://pkg.go.dev/std
 * https://doc.rust-lang.org/std/index.html
 * https://crates.io/
-* https://dart.dev/docs
-* https://pub.dev/packages
 * https://www.dragonflybsd.org/docs/
 * https://docs.freebsd.org/en/
 * https://netbsd.org/docs/
