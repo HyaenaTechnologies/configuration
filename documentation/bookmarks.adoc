@@ -1,11 +1,11 @@
 = Boomarks
 
-* https://wiki.freepascal.org/
-* https://www.modula2.org/reference/index.php
-* https://www.freebasic.net/wiki/DocToc
 * https://fortran-lang.org/learn/
 * https://fpm.fortran-lang.org/
 * https://www.c-language.org/
+* https://wiki.freepascal.org/
+* https://www.modula2.org/reference/index.php
+* https://www.freebasic.net/wiki/DocToc
 * https://ada-lang.io/docs/arm/
 * https://learn.adacore.com/
 * https://alire.ada.dev/
@@ -24,6 +24,10 @@
 * https://cmake.org/cmake/help/latest/
 * https://go.dev/doc/
 * https://pkg.go.dev/std
+* https://doc.rust-lang.org/std/index.html
+* https://crates.io/
+* https://dart.dev/docs
+* https://pub.dev/packages
 * https://www.dragonflybsd.org/docs/
 * https://docs.freebsd.org/en/
 * https://netbsd.org/docs/
@@ -36,11 +40,9 @@
 * https://www.freedesktop.org/wiki/Software/
 * https://wiki.qemu.org/Documentation
 * https://lima-vm.io/docs/
-* https://git-scm.com/doc
 * https://wikis.khronos.org/opengl/Main_Page
 * https://vulkan.org/learn
-* https://systemd.io/
-* https://www.openssh.org/
+* https://git-scm.com/doc
 * https://openstax.org/subjects
 * https://www.ti.com/design-development/analog-circuits.html
 * https://docs.riscv.org/reference/home/index.html
