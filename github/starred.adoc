@@ -57,7 +57,6 @@
 * https://github.com/xiph/flac
 * https://github.com/xiph/opus
 * https://github.com/rustfs/rustfs
-* https://github.com/KDE/okular
 * https://github.com/ceph/ceph
 * https://github.com/OpenRadioss/OpenRadioss
 * https://github.com/code-saturne/code_saturne
@@ -69,7 +68,6 @@
 * https://github.com/cesanta/mongoose
 * https://github.com/wolfSSL/wolfssl
 * https://github.com/libressl/portable
-* https://github.com/json-c/json-c
 * https://github.com/flipperdevices/flipperzero-firmware
 * https://github.com/memcached/memcached
 * https://github.com/videolan/dav1d
@@ -89,9 +87,6 @@
 * https://github.com/Gnucash/gnucash
 * https://github.com/emacs-mirror/emacs
 * https://github.com/gpg/gnupg
-* https://github.com/KDE/krita
-* https://github.com/KDE/kwave
-* https://github.com/KDE/kdenlive
 * https://github.com/FirebirdSQL/firebird
 * https://github.com/sqlite/sqlite
 * https://github.com/ydb-platform/ydb
@@ -116,7 +111,6 @@
 * https://github.com/xfce-mirror/xfwm4
 * https://github.com/xfce-mirror/xfce4-terminal
 * https://github.com/KDE/konsole
-* https://github.com/KDE/kate
 * https://github.com/KDE/kwin
 * https://github.com/quickwit-oss/quickwit
 * https://github.com/manticoresoftware/manticoresearch

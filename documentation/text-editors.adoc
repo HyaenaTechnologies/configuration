@@ -4,6 +4,7 @@
 * https://helix-editor.com/
 * https://neovim.io/
 * https://www.geany.org/
+* https://kate-editor.org/
 * https://www.vim.org/
 * https://www.gnu.org/software/emacs/
 * https://zed.dev/
