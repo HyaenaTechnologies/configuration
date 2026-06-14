@@ -1,5 +1,3 @@
-= Following
-
 * https://github.com/git
 * https://github.com/memcached
 * https://github.com/mongodb
@@ -21,7 +19,6 @@
 * https://github.com/FFmpeg
 * https://github.com/wxWidgets
 * https://github.com/freebsd
-* https://github.com/json-c
 * https://github.com/openbsd
 * https://github.com/NetBSD
 * https://github.com/ceph
@@ -207,6 +204,7 @@
 * https://github.com/dagucloud
 * https://github.com/openmeterio
 * https://github.com/SalomePlatform
+* https://github.com/polkit-org
 * https://github.com/rustfs
 * https://github.com/valkey-io
 * https://github.com/RsyncProject
